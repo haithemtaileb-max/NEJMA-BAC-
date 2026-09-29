@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "title": "Nejma Med — QCM, examens blancs et anatomie 3D",
+    "description": "Plateforme d'entraînement pour les étudiants de L1 et L2 en Médecine, Chirurgie dentaire et Pharmacie de la Faculté de Médecine de l'UMMTO."
+  },
+  "common": {
+    "appName": "Nejma Med",
+    "faculty": "Faculté de Médecine · UMMTO",
+    "back": "Retour",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "continue": "Continuer",
+    "comingSoon": "Bientôt",
+    "questions": "{count, plural, =0 {Aucune question} one {# question} other {# questions}}",
+    "modules": "{count, plural, one {# module} other {# modules}}",
+    "minutes": "{count} min"
+  },
+  "majors": {
+    "medicine": "Médecine",
+    "dentistry": "Chirurgie dentaire",
+    "pharmacy": "Pharmacie"
+  },
+  "majorDescriptions": {
+    "medicine": "Anatomie, biochimie, physiologie… et les unités intégrées de 2e année.",
+    "dentistry": "Tronc commun biomédical et premières matières odontologiques.",
+    "pharmacy": "Chimie, botanique, biologie et sciences pharmaceutiques fondamentales."
+  },
+  "years": {
+    "1": "1re année",
+    "2": "2e année"
+  },
+  "yearsShort": {
+    "1": "L1",
+    "2": "L2"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "exam": "Examen blanc",
+    "anatomy": "Anatomie 3D",
+    "signOut": "Déconnexion",
+    "language": "Langue",
+    "menu": "Menu"
+  },
+  "demo": {
+    "banner": "Mode démo : Supabase n'est pas configuré. Contenu d'exemple, rien n'est sauvegardé durablement.",
+    "continue": "Continuer en mode démo",
+    "authNotice": "Aucun compte n'est nécessaire en mode démo."
+  },
+  "landing": {
+    "badge": "L1 · L2 — Médecine, Dentaire, Pharmacie",
+    "title": "Révisez plus intelligemment, réussissez vos EMD.",
+    "subtitle": "QCM par cours avec corrections détaillées, examens blancs chronométrés, flashcards à répétition espacée et atlas d'anatomie en 3D — pensés pour le programme de la Faculté de Médecine de Tizi Ouzou.",
+    "cta": "Commencer gratuitement",
+    "login": "J'ai déjà un compte",
+    "features": {
+      "qcm": {
+        "title": "QCM par cours",
+        "body": "Classés par module, unité et cours, avec correction immédiate et explication de chaque proposition."
+      },
+      "exam": {
+        "title": "Examens blancs",
+        "body": "Conditions réelles : chronomètre, tirage aléatoire équilibré entre modules, note sur 20 et analyse par module."
+      },
+      "flashcards": {
+        "title": "Flashcards FSRS",
+        "body": "Répétition espacée façon Anki : revoyez chaque notion juste avant de l'oublier."
+      },
+      "anatomy": {
+        "title": "Anatomie 3D",
+        "body": "Faites pivoter, zoomez et isolez chaque structure anatomique."
+      }
+    }
+  },
+  "auth": {
+    "loginTitle": "Connexion",
+    "loginSubtitle": "Retrouvez votre progression.",
+    "registerTitle": "Créer un compte",
+    "registerSubtitle": "Gratuit, en moins d'une minute.",
+    "displayName": "Nom affiché",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "passwordHint": "8 caractères minimum.",
+    "submitLogin": "Se connecter",
+    "submitRegister": "Créer mon compte",
+    "noAccount": "Pas encore de compte ?",
+    "haveAccount": "Déjà inscrit·e ?",
+    "toRegister": "S'inscrire",
+    "toLogin": "Se connecter",
+    "checkEmail": "Vérifiez votre boîte mail : un lien de confirmation vient de vous être envoyé.",
+    "errors": {
+      "invalid_input": "Vérifiez les champs du formulaire.",
+      "invalid_credentials": "E-mail ou mot de passe incorrect.",
+      "email_taken": "Un compte existe déjà avec cet e-mail.",
+      "weak_password": "Mot de passe trop faible.",
+      "email_not_confirmed": "Confirmez d'abord votre adresse e-mail.",
+      "generic": "Une erreur est survenue. Réessayez."
+    }
+  },
+  "onboarding": {
+    "step": "Étape {current} sur {total}",
+    "majorTitle": "Quelle est votre filière ?",
+    "majorSubtitle": "Votre tableau de bord, vos modules et vos examens blancs seront adaptés.",
+    "yearTitle": "En quelle année êtes-vous ?",
+    "yearSubtitle": "La plateforme couvre les deux premières années.",
+    "yearHint": {
+      "1": "Tronc commun : sciences fondamentales.",
+      "2": "Unités intégrées par appareil et modules transversaux."
+    },
+    "confirmTitle": "Tout est prêt",
+    "confirmSubtitle": "Vous pourrez changer ce choix à tout moment depuis le tableau de bord.",
+    "next": "Suivant",
+    "confirm": "Accéder à mon espace"
+  },
+  "dashboard": {
+    "greeting": "Bonjour, {name}",
+    "greetingAnonymous": "Bonjour",
+    "track": "{major} · {year}",
+    "change": "Changer",
+    "stats": {
+      "answered": "Questions répondues",
+      "accuracy": "Taux de réussite",
+      "exams": "Examens blancs",
+      "best": "Meilleure note"
+    },
+    "actions": {
+      "exam": "Lancer un examen blanc",
+      "examHint": "Chronométré, sur vos modules",
+      "anatomy": "Atlas d'anatomie 3D",
+      "anatomyHint": "Pivoter, zoomer, isoler",
+      "flashcards": "Flashcards",
+      "flashcardsHint": "Répétition espacée",
+      "summaries": "Résumés de cours",
+      "summariesHint": "PDF et fiches"
+    },
+    "modulesTitle": "Vos modules",
+    "integrated": "Unité intégrée",
+    "noQuestions": "Contenu en préparation",
+    "accuracy": "{value, number} % de réussite",
+    "notStarted": "Pas encore commencé",
+    "recentExams": "Examens récents",
+    "noExams": "Aucun examen blanc pour l'instant.",
+    "inProgress": "En cours",
+    "expired": "Hors délai"
+  },
+  "module": {
+    "coursesTitle": "Cours",
+    "practice": "S'entraîner",
+    "noCourses": "Les cours de ce module arrivent bientôt.",
+    "startExam": "Examen blanc sur ce module"
+  },
+  "qcm": {
+    "questionOf": "Question {current} sur {total}",
+    "single": "Une seule réponse",
+    "multiple": "Une ou plusieurs réponses",
+    "validate": "Valider",
+    "next": "Suivante",
+    "previous": "Précédente",
+    "finish": "Voir le bilan",
+    "correct": "Bonne réponse",
+    "partial": "Partiellement juste",
+    "incorrect": "Mauvaise réponse",
+    "expected": "Réponse attendue : {labels}",
+    "explanation": "Explication :",
+    "bookmark": "Ajouter aux favoris",
+    "unbookmark": "Retirer des favoris",
+    "report": "Signaler une erreur",
+    "elapsed": "Temps écoulé",
+    "shortcuts": "Raccourcis : touches A–E pour cocher, Entrée pour valider, ← → pour naviguer.",
+    "empty": "Aucune question publiée pour ce cours pour l'instant.",
+    "summaryTitle": "Bilan de la série",
+    "summaryScore": "{correct} / {total} bonnes réponses",
+    "retry": "Recommencer",
+    "backToModule": "Retour au module"
+  },
+  "report": {
+    "title": "Signaler cette question",
+    "reason": "Motif",
+    "reasons": {
+      "wrong_answer": "Réponse erronée",
+      "ambiguous": "Énoncé ambigu",
+      "typo": "Faute de frappe",
+      "outdated": "Contenu obsolète",
+      "other": "Autre"
+    },
+    "message": "Précisions (facultatif)",
+    "messagePlaceholder": "Ex. : la proposition C est juste d'après le cours de …",
+    "submit": "Envoyer le signalement",
+    "thanks": "Merci ! L'équipe pédagogique va vérifier cette question."
+  },
+  "exam": {
+    "setupTitle": "Examen blanc",
+    "setupSubtitle": "Reproduisez les conditions d'un EMD : questions tirées au hasard dans les modules choisis, temps limité, correction à la fin.",
+    "modules": "Modules",
+    "selectAll": "Tout sélectionner",
+    "selectNone": "Tout désélectionner",
+    "available": "{count} disponibles",
+    "questionCount": "Nombre de questions",
+    "duration": "Durée (minutes)",
+    "durationHint": "Par défaut : 1 min 30 par question.",
+    "scoring": "Barème",
+    "scoringModes": {
+      "all_or_nothing": "Tout ou rien",
+      "all_or_nothingHint": "1 point si la réponse est exacte, sinon 0.",
+      "partial": "Partiel",
+      "partialHint": "Points au prorata des bonnes propositions ; une proposition fausse annule la question."
+    },
+    "start": "Commencer l'examen",
+    "noModules": "Sélectionnez au moins un module qui contient des questions.",
+    "timeLeft": "Temps restant",
+    "flag": "Marquer pour révision",
+    "unflag": "Retirer le marquage",
+    "navigator": "Questions",
+    "legendAnswered": "Répondue",
+    "legendFlagged": "Marquée",
+    "submit": "Rendre la copie",
+    "confirmTitle": "Rendre la copie ?",
+    "confirmBody": "{unanswered, plural, =0 {Toutes les questions ont une réponse.} one {# question sans réponse.} other {# questions sans réponse.}} {flagged, plural, =0 {} one {# question marquée.} other {# questions marquées.}}",
+    "confirmSubmit": "Rendre maintenant",
+    "keepWorking": "Continuer",
+    "saving": "Enregistrement…",
+    "saved": "Enregistré",
+    "saveFailed": "Non enregistré — la réponse sera envoyée à la remise.",
+    "timeUp": "Temps écoulé : la copie a été remise automatiquement.",
+    "notFound": "Cet examen n'existe pas ou ne vous appartient pas.",
+    "results": {
+      "title": "Résultats",
+      "score20": "Note",
+      "outOf20": "/ 20",
+      "correct": "Justes",
+      "partial": "Partielles",
+      "wrong": "Fausses",
+      "blank": "Sans réponse",
+      "timeUsed": "Temps utilisé",
+      "expired": "Copie remise hors délai : les réponses envoyées après la fin du temps n'ont pas été prises en compte.",
+      "byModule": "Par module",
+      "review": "Correction détaillée",
+      "yourAnswer": "Votre réponse : {labels}",
+      "noAnswer": "Sans réponse",
+      "newExam": "Nouvel examen",
+      "dashboard": "Tableau de bord",
+      "filterAll": "Toutes ({count})",
+      "filterMistakes": "À revoir ({count})"
+    }
+  },
+  "anatomy": {
+    "title": "Atlas d'anatomie 3D",
+    "subtitle": "Cliquez sur une structure pour la sélectionner. Faites glisser pour pivoter, molette ou pincement pour zoomer.",
+    "structures": "Structures",
+    "search": "Rechercher une structure…",
+    "isolate": "Isoler",
+    "hide": "Masquer",
+    "showAll": "Tout afficher",
+    "xray": "Transparence",
+    "reset": "Recentrer",
+    "selected": "Sélection :",
+    "noSelection": "Aucune structure sélectionnée",
+    "hidden": "masquée",
+    "loading": "Chargement du modèle 3D…",
+    "loadError": "Impossible de charger le modèle 3D.",
+    "demoModel": "Modèle de démonstration simplifié. Ajoutez un modèle GLB (Z-Anatomy, BodyParts3D…) pour un atlas complet — voir public/models/README.md.",
+    "credits": "Modèle : {attribution} — {license}"
+  },
+  "errors": {
+    "NOT_AUTHENTICATED": "Votre session a expiré. Reconnectez-vous.",
+    "ONBOARDING_REQUIRED": "Choisissez d'abord votre filière et votre année.",
+    "NO_QUESTIONS_AVAILABLE": "Aucune question disponible pour cette sélection.",
+    "INVALID_MODULES": "Sélection de modules invalide.",
+    "INVALID_SELECTION": "Sélectionnez au moins une proposition.",
+    "SINGLE_CHOICE_EXPECTED": "Une seule réponse est attendue pour cette question.",
+    "QCM_NOT_FOUND": "Question introuvable.",
+    "EXAM_NOT_FOUND": "Examen introuvable.",
+    "EXAM_NOT_WRITABLE": "Le temps est écoulé pour cet examen.",
+    "EXAM_IN_PROGRESS": "Cet examen est encore en cours.",
+    "ALREADY_REPORTED": "Vous avez déjà signalé cette question.",
+    "UNKNOWN": "Une erreur est survenue. Réessayez."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "Le lien est peut-être erroné ou la page a été déplacée.",
+    "home": "Retour à l'accueil"
+  }
+}

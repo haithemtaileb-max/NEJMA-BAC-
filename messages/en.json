@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "title": "Nejma Med — MCQs, mock exams and 3D anatomy",
+    "description": "Study platform for 1st and 2nd year Medicine, Dentistry and Pharmacy students at the UMMTO Faculty of Medicine."
+  },
+  "common": {
+    "appName": "Nejma Med",
+    "faculty": "Faculty of Medicine · UMMTO",
+    "back": "Back",
+    "cancel": "Cancel",
+    "close": "Close",
+    "continue": "Continue",
+    "comingSoon": "Soon",
+    "questions": "{count, plural, =0 {No questions} one {# question} other {# questions}}",
+    "modules": "{count, plural, one {# module} other {# modules}}",
+    "minutes": "{count} min"
+  },
+  "majors": {
+    "medicine": "Medicine",
+    "dentistry": "Dentistry",
+    "pharmacy": "Pharmacy"
+  },
+  "majorDescriptions": {
+    "medicine": "Anatomy, biochemistry, physiology… and the integrated units of year 2.",
+    "dentistry": "Biomedical common core and your first dental subjects.",
+    "pharmacy": "Chemistry, botany, biology and core pharmaceutical sciences."
+  },
+  "years": {
+    "1": "1st year",
+    "2": "2nd year"
+  },
+  "yearsShort": {
+    "1": "Y1",
+    "2": "Y2"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "exam": "Mock exam",
+    "anatomy": "3D Anatomy",
+    "signOut": "Sign out",
+    "language": "Language",
+    "menu": "Menu"
+  },
+  "demo": {
+    "banner": "Demo mode: Supabase is not configured. Sample content, nothing is saved permanently.",
+    "continue": "Continue in demo mode",
+    "authNotice": "No account is needed in demo mode."
+  },
+  "landing": {
+    "badge": "Year 1 · Year 2 — Medicine, Dentistry, Pharmacy",
+    "title": "Study smarter, pass your module exams.",
+    "subtitle": "Course-based MCQs with detailed corrections, timed mock exams, spaced-repetition flashcards and a 3D anatomy atlas — built around the curriculum of the Tizi Ouzou Faculty of Medicine.",
+    "cta": "Get started for free",
+    "login": "I already have an account",
+    "features": {
+      "qcm": {
+        "title": "Course-based MCQs",
+        "body": "Organised by module, unit and course, with instant feedback and an explanation for every option."
+      },
+      "exam": {
+        "title": "Mock exams",
+        "body": "Real conditions: countdown, balanced random draw across modules, mark out of 20 and per-module analytics."
+      },
+      "flashcards": {
+        "title": "FSRS flashcards",
+        "body": "Anki-style spaced repetition: review each fact right before you would forget it."
+      },
+      "anatomy": {
+        "title": "3D anatomy",
+        "body": "Rotate, zoom and isolate every anatomical structure."
+      }
+    }
+  },
+  "auth": {
+    "loginTitle": "Sign in",
+    "loginSubtitle": "Pick up where you left off.",
+    "registerTitle": "Create an account",
+    "registerSubtitle": "Free, in under a minute.",
+    "displayName": "Display name",
+    "email": "Email address",
+    "password": "Password",
+    "passwordHint": "At least 8 characters.",
+    "submitLogin": "Sign in",
+    "submitRegister": "Create my account",
+    "noAccount": "No account yet?",
+    "haveAccount": "Already registered?",
+    "toRegister": "Sign up",
+    "toLogin": "Sign in",
+    "checkEmail": "Check your inbox: we just sent you a confirmation link.",
+    "errors": {
+      "invalid_input": "Please check the form fields.",
+      "invalid_credentials": "Wrong email or password.",
+      "email_taken": "An account already exists with this email.",
+      "weak_password": "Password is too weak.",
+      "email_not_confirmed": "Please confirm your email address first.",
+      "generic": "Something went wrong. Please try again."
+    }
+  },
+  "onboarding": {
+    "step": "Step {current} of {total}",
+    "majorTitle": "What do you study?",
+    "majorSubtitle": "Your dashboard, modules and mock exams will be tailored to it.",
+    "yearTitle": "Which year are you in?",
+    "yearSubtitle": "The platform covers the first two years.",
+    "yearHint": {
+      "1": "Common core: fundamental sciences.",
+      "2": "Organ-system integrated units and cross-cutting modules."
+    },
+    "confirmTitle": "You're all set",
+    "confirmSubtitle": "You can change this at any time from your dashboard.",
+    "next": "Next",
+    "confirm": "Go to my space"
+  },
+  "dashboard": {
+    "greeting": "Hello, {name}",
+    "greetingAnonymous": "Hello",
+    "track": "{major} · {year}",
+    "change": "Change",
+    "stats": {
+      "answered": "Questions answered",
+      "accuracy": "Success rate",
+      "exams": "Mock exams",
+      "best": "Best mark"
+    },
+    "actions": {
+      "exam": "Start a mock exam",
+      "examHint": "Timed, on your modules",
+      "anatomy": "3D anatomy atlas",
+      "anatomyHint": "Rotate, zoom, isolate",
+      "flashcards": "Flashcards",
+      "flashcardsHint": "Spaced repetition",
+      "summaries": "Course summaries",
+      "summariesHint": "PDFs and notes"
+    },
+    "modulesTitle": "Your modules",
+    "integrated": "Integrated unit",
+    "noQuestions": "Content in preparation",
+    "accuracy": "{value, number}% success",
+    "notStarted": "Not started yet",
+    "recentExams": "Recent exams",
+    "noExams": "No mock exams yet.",
+    "inProgress": "In progress",
+    "expired": "Late"
+  },
+  "module": {
+    "coursesTitle": "Courses",
+    "practice": "Practise",
+    "noCourses": "Courses for this module are coming soon.",
+    "startExam": "Mock exam on this module"
+  },
+  "qcm": {
+    "questionOf": "Question {current} of {total}",
+    "single": "Single answer",
+    "multiple": "One or more answers",
+    "validate": "Check",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "See summary",
+    "correct": "Correct",
+    "partial": "Partially correct",
+    "incorrect": "Incorrect",
+    "expected": "Expected answer: {labels}",
+    "explanation": "Explanation:",
+    "bookmark": "Bookmark",
+    "unbookmark": "Remove bookmark",
+    "report": "Report an error",
+    "elapsed": "Time elapsed",
+    "shortcuts": "Shortcuts: A–E keys to tick, Enter to check, ← → to navigate.",
+    "empty": "No published questions for this course yet.",
+    "summaryTitle": "Set summary",
+    "summaryScore": "{correct} / {total} correct",
+    "retry": "Start again",
+    "backToModule": "Back to module"
+  },
+  "report": {
+    "title": "Report this question",
+    "reason": "Reason",
+    "reasons": {
+      "wrong_answer": "Wrong answer key",
+      "ambiguous": "Ambiguous wording",
+      "typo": "Typo",
+      "outdated": "Outdated content",
+      "other": "Other"
+    },
+    "message": "Details (optional)",
+    "messagePlaceholder": "E.g. option C is correct according to the lecture on …",
+    "submit": "Send report",
+    "thanks": "Thank you! The teaching team will review this question."
+  },
+  "exam": {
+    "setupTitle": "Mock exam",
+    "setupSubtitle": "Recreate real exam conditions: random questions from the modules you pick, limited time, correction at the end.",
+    "modules": "Modules",
+    "selectAll": "Select all",
+    "selectNone": "Clear selection",
+    "available": "{count} available",
+    "questionCount": "Number of questions",
+    "duration": "Duration (minutes)",
+    "durationHint": "Default: 1 min 30 per question.",
+    "scoring": "Scoring",
+    "scoringModes": {
+      "all_or_nothing": "All or nothing",
+      "all_or_nothingHint": "1 point for an exact answer, otherwise 0.",
+      "partial": "Partial",
+      "partialHint": "Points in proportion to correct options ticked; any wrong option cancels the question."
+    },
+    "start": "Start the exam",
+    "noModules": "Select at least one module that has questions.",
+    "timeLeft": "Time left",
+    "flag": "Flag for review",
+    "unflag": "Remove flag",
+    "navigator": "Questions",
+    "legendAnswered": "Answered",
+    "legendFlagged": "Flagged",
+    "submit": "Hand in",
+    "confirmTitle": "Hand in your paper?",
+    "confirmBody": "{unanswered, plural, =0 {Every question has an answer.} one {# unanswered question.} other {# unanswered questions.}} {flagged, plural, =0 {} one {# flagged question.} other {# flagged questions.}}",
+    "confirmSubmit": "Hand in now",
+    "keepWorking": "Keep working",
+    "saving": "Saving…",
+    "saved": "Saved",
+    "saveFailed": "Not saved — the answer will be sent when you hand in.",
+    "timeUp": "Time is up: your paper was handed in automatically.",
+    "notFound": "This exam does not exist or is not yours.",
+    "results": {
+      "title": "Results",
+      "score20": "Mark",
+      "outOf20": "/ 20",
+      "correct": "Correct",
+      "partial": "Partial",
+      "wrong": "Wrong",
+      "blank": "Blank",
+      "timeUsed": "Time used",
+      "expired": "Handed in late: answers sent after the time limit were not counted.",
+      "byModule": "By module",
+      "review": "Detailed correction",
+      "yourAnswer": "Your answer: {labels}",
+      "noAnswer": "No answer",
+      "newExam": "New exam",
+      "dashboard": "Dashboard",
+      "filterAll": "All ({count})",
+      "filterMistakes": "To review ({count})"
+    }
+  },
+  "anatomy": {
+    "title": "3D anatomy atlas",
+    "subtitle": "Click a structure to select it. Drag to rotate, scroll or pinch to zoom.",
+    "structures": "Structures",
+    "search": "Search structures…",
+    "isolate": "Isolate",
+    "hide": "Hide",
+    "showAll": "Show all",
+    "xray": "X-ray",
+    "reset": "Recenter",
+    "selected": "Selected:",
+    "noSelection": "No structure selected",
+    "hidden": "hidden",
+    "loading": "Loading 3D model…",
+    "loadError": "Could not load the 3D model.",
+    "demoModel": "Simplified demo model. Add a GLB model (Z-Anatomy, BodyParts3D…) for a full atlas — see public/models/README.md.",
+    "credits": "Model: {attribution} — {license}"
+  },
+  "errors": {
+    "NOT_AUTHENTICATED": "Your session expired. Please sign in again.",
+    "ONBOARDING_REQUIRED": "Choose your programme and year first.",
+    "NO_QUESTIONS_AVAILABLE": "No questions available for this selection.",
+    "INVALID_MODULES": "Invalid module selection.",
+    "INVALID_SELECTION": "Select at least one option.",
+    "SINGLE_CHOICE_EXPECTED": "Only one answer is expected for this question.",
+    "QCM_NOT_FOUND": "Question not found.",
+    "EXAM_NOT_FOUND": "Exam not found.",
+    "EXAM_NOT_WRITABLE": "Time is up for this exam.",
+    "EXAM_IN_PROGRESS": "This exam is still in progress.",
+    "ALREADY_REPORTED": "You already reported this question.",
+    "UNKNOWN": "Something went wrong. Please try again."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The link may be wrong or the page has moved.",
+    "home": "Back to home"
+  }
+}

@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens. Components use semantic names (bg-card, text-muted-foreground,
+ * bg-primary…) so light/dark themes only swap these variables.
+ */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary-soft: var(--primary-soft);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --background: #f6f7f9;
+  --foreground: #0f172a;
+  --card: #ffffff;
+  --muted: #eef1f5;
+  --muted-foreground: #5b6474;
+  --border: #e2e6ec;
+  --primary: #0f766e;
+  --primary-foreground: #ffffff;
+  --primary-soft: #e3f4f1;
+  --success: #15803d;
+  --success-soft: #e6f6ea;
+  --danger: #c2410c;
+  --danger-soft: #fdeee6;
+  --warning: #b45309;
+  --warning-soft: #fdf3e1;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0b1016;
+    --foreground: #e7ebf0;
+    --card: #121922;
+    --muted: #1a232e;
+    --muted-foreground: #95a0af;
+    --border: #243040;
+    --primary: #2dd4bf;
+    --primary-foreground: #04201c;
+    --primary-soft: #0f2e2b;
+    --success: #4ade80;
+    --success-soft: #0f2a1a;
+    --danger: #fb923c;
+    --danger-soft: #33190c;
+    --warning: #fbbf24;
+    --warning-soft: #2e2208;
+    color-scheme: dark;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+dialog::backdrop {
+  background: rgb(15 23 42 / 0.45);
+  backdrop-filter: blur(2px);
+}
