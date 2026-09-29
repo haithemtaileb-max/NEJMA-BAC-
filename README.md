@@ -31,6 +31,7 @@ Connect Supabase, create an admin, deploy: **[docs/SETUP.md](docs/SETUP.md)**.
 - [Architecture](docs/ARCHITECTURE.md) — stack rationale, directory layout, data model (ERD), security model, flows
 - [Roadmap](docs/ROADMAP.md) — what is done, what comes next
 - [Setup](docs/SETUP.md) — step-by-step local and production setup
+- [Déploiement Firebase](docs/DEPLOY-FIREBASE.md) — mise en ligne avec Firebase App Hosting (en français)
 - [3D models](public/models/README.md) — free anatomy models and how to prepare them
 
 ## Scripts

@@ -1,0 +1,26 @@
+# Firebase App Hosting configuration — read when the app is built and deployed.
+# Guide: docs/DEPLOY-FIREBASE.md
+
+runConfig:
+  # Demo mode (no Supabase) keeps exams and progress in server memory, so a
+  # single instance keeps it consistent. Once Supabase is connected, raise
+  # maxInstances (e.g. 10); minInstances: 1 removes cold starts but is billed.
+  minInstances: 0
+  maxInstances: 1
+
+env:
+  - variable: NEXT_TELEMETRY_DISABLED
+    value: "1"
+
+  # --- Supabase (uncomment after following docs/SETUP.md, step 2a) ----------
+  # NEXT_PUBLIC_* values are inlined into the browser bundle at build time,
+  # so they must be available at BUILD and RUNTIME. Both are safe to publish.
+  # - variable: NEXT_PUBLIC_SUPABASE_URL
+  #   value: https://<project-ref>.supabase.co
+  #   availability: [BUILD, RUNTIME]
+  # - variable: NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY
+  #   value: sb_publishable_xxxxxxxxxxxxxxxx
+  #   availability: [BUILD, RUNTIME]
+  # - variable: NEXT_PUBLIC_SITE_URL
+  #   value: https://<backend-id>--<firebase-project-id>.<region>.hosted.app
+  #   availability: [BUILD, RUNTIME]

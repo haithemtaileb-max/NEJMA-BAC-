@@ -102,6 +102,8 @@ migrations and the seed. CI does the same with a Postgres service container.
 
 ## 6. Deploy (Vercel)
 
+> Prefer Firebase? See [DEPLOY-FIREBASE.md](./DEPLOY-FIREBASE.md) (Firebase App Hosting, in French).
+
 1. Import the repository in Vercel (framework preset: Next.js).
 2. Environment variables: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`,
    `NEXT_PUBLIC_SITE_URL=https://<your-domain>`.
