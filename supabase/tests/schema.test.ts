@@ -12,7 +12,7 @@ import pg from 'pg';
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 
 import { CURRICULUM, fixtureId } from '@/content/curriculum';
-import { SAMPLE_QCMS } from '@/content/sample-qcms';
+import { PUBLISHED_QCMS, SEED_QCMS } from '@/content/questions';
 import { scoreQuestion } from '@/lib/qcm/scoring';
 import type { QcmType, ScoringMode } from '@/types/domain';
 
@@ -82,7 +82,19 @@ describe.skipIf(!ADMIN_URL)('database schema', () => {
 
   it('loads the whole starter curriculum', async () => {
     const { rows } = await db.query('select (select count(*) from public.modules)::int as modules, (select count(*) from public.qcms)::int as qcms');
-    expect(rows[0]).toEqual({ modules: CURRICULUM.length, qcms: SAMPLE_QCMS.length });
+    expect(rows[0]).toEqual({ modules: CURRICULUM.length, qcms: SEED_QCMS.length });
+  });
+
+  it('hides draft questions from students and from exam papers', async () => {
+    const uid = await onboardedStudent('medicine', 1);
+    const visible = await as(uid, (q) => q("select count(*)::int as n, count(*) filter (where status <> 'published')::int as drafts from public.qcms"));
+    expect(visible.rows[0]).toEqual({ n: PUBLISHED_QCMS.length, drafts: 0 });
+
+    const drafted = await as(uid, async (q) => {
+      const id = (await q("select public.start_exam('{}', 200, 14400) as id")).rows[0].id;
+      return q("select count(*)::int as n from public.exam_session_questions e join public.qcms c on c.id = e.qcm_id where e.session_id = $1 and c.status <> 'published'", [id]);
+    });
+    expect(drafted.rows[0].n).toBe(0);
   });
 
   describe('profiles', () => {
@@ -141,7 +153,7 @@ describe.skipIf(!ADMIN_URL)('database schema', () => {
   });
 
   describe('practice mode: answer_qcm', () => {
-    const qcm = SAMPLE_QCMS.find((x) => x.id === fixtureId('qcm', 3))!; // A, B, E correct
+    const qcm = SEED_QCMS.find((x) => x.id === fixtureId('qcm', 3))!; // A, B, E correct
     const key = qcm.options.filter((o) => o.isCorrect).map((o) => o.label);
 
     it('returns the correction and logs the attempt', async () => {
@@ -169,8 +181,8 @@ describe.skipIf(!ADMIN_URL)('database schema', () => {
 
   describe('exam simulator', () => {
     const med1Modules = CURRICULUM.filter((m) => m.major === 'medicine' && m.studyYear === 1).map((m) => m.id);
-    const med1Qcms = SAMPLE_QCMS.filter((q) => med1Modules.includes(q.moduleId));
-    const keyOf = (qcmId: string) => SAMPLE_QCMS.find((q) => q.id === qcmId)!.options.filter((o) => o.isCorrect).map((o) => o.label);
+    const paperSize = 16;
+    const keyOf = (qcmId: string) => SEED_QCMS.find((q) => q.id === qcmId)!.options.filter((o) => o.isCorrect).map((o) => o.label);
 
     it('requires onboarding', async () => {
       const uid = await signUp();
@@ -219,7 +231,7 @@ describe.skipIf(!ADMIN_URL)('database schema', () => {
 
     it('autosaves, scores on submit, and is idempotent', async () => {
       const uid = await onboardedStudent('medicine', 1);
-      const sessionId = await as(uid, async (q) => (await q("select public.start_exam('{}', $1, 1800) as id", [med1Qcms.length])).rows[0].id);
+      const sessionId = await as(uid, async (q) => (await q("select public.start_exam('{}', $1, 1800) as id", [paperSize])).rows[0].id);
       const paper = await as(uid, async (q) => (await q('select public.get_exam_paper($1) as p', [sessionId])).rows[0].p);
       const [first, second, third] = paper.questions;
 
@@ -230,9 +242,9 @@ describe.skipIf(!ADMIN_URL)('database schema', () => {
 
       expect(result.status).toBe('submitted');
       expect(Number(result.score)).toBe(2);
-      expect(Number(result.score_20)).toBeCloseTo((2 * 20) / med1Qcms.length, 2);
+      expect(Number(result.score_20)).toBeCloseTo((2 * 20) / paperSize, 2);
       expect(result.questions[0].options[0]).toHaveProperty('is_correct');
-      expect(result.modules.reduce((sum: number, m: { total: number }) => sum + m.total, 0)).toBe(med1Qcms.length);
+      expect(result.modules.reduce((sum: number, m: { total: number }) => sum + m.total, 0)).toBe(paperSize);
       expect(result.modules.reduce((sum: number, m: { answered: number }) => sum + m.answered, 0)).toBe(2); // 'H' is not a valid label
 
       const again = await as(uid, async (q) => (await q("select public.submit_exam($1, '{}'::jsonb) as r", [sessionId])).rows[0].r);

@@ -10,6 +10,7 @@ Phases are ordered by value to students. Each phase is shippable on its own.
 - [x] FR/EN routing and translations (next-intl), locale switcher
 - [x] Demo mode: runs without Supabase on bundled sample content
 - [x] Starter UMMTO curriculum (6 tracks, 54 modules) + 36 sample QCMs, generated `seed.sql`
+- [x] Imported the UMMTO 1re année médecine banks (Embryologie, Anatomie S2, Histologie, Physiologie): 807 published QCMs, 260 drafts to review (`scripts/import-qcm`)
 
 ## Phase 1 — MVP: practise and simulate ✅ (this repository)
 
@@ -41,7 +42,9 @@ Database, RLS and the FSRS engine (`src/lib/srs/scheduler.ts`) already exist; th
 ## Phase 3 — Content operations & quality
 
 - [ ] **Admin area** (`role in ('moderator','admin')`): CRUD for modules/units/courses, QCM editor with preview, publish workflow
-- [ ] **Bulk importer**: CSV/Excel of past exams (énoncé, A–E, key, explanation, source, year) → validation report → draft QCMs. Many banks circulate as spreadsheets; this is the fastest way to reach volume
+- [x] **PDF importer** for the "QCM classés par cours" format → published / draft QCMs with exam source and year
+- [ ] **Bulk importer** for CSV/Excel banks (énoncé, A–E, key, explanation, source, year)
+- [ ] Review the 260 imported drafts (add missing keys and diagrams); crop the diagrams from the PDFs
 - [ ] **Report triage**: queue of `qcm_reports`, accept → edit question, notify reporter
 - [ ] Question statistics: success rate and discrimination per question (from `qcm_attempts`) to spot flawed items
 - [ ] Tags & "annales" filters (source/year) in practice mode

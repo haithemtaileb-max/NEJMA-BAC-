@@ -3,7 +3,7 @@ import 'server-only';
 import { cookies } from 'next/headers';
 
 import { CURRICULUM, type CurriculumModule } from '@/content/curriculum';
-import { SAMPLE_QCMS, type SampleQcm } from '@/content/sample-qcms';
+import { PUBLISHED_QCMS, type SampleQcm } from '@/content/questions';
 import { SUBMIT_GRACE_SECONDS } from '@/lib/qcm/exam-config';
 import { drawBalanced } from '@/lib/qcm/exam-draw';
 import { normalizeLabels, sameLabels, scoreQuestion, toScore20 } from '@/lib/qcm/scoring';
@@ -164,7 +164,7 @@ export const demoRepository: Repository = {
   async listModules(major, studyYear) {
     return CURRICULUM.map(toModule)
       .filter((m) => m.major === major && m.studyYear === studyYear)
-      .map((m) => ({ ...m, questionCount: SAMPLE_QCMS.filter((q) => q.moduleId === m.id).length }));
+      .map((m) => ({ ...m, questionCount: PUBLISHED_QCMS.filter((q) => q.moduleId === m.id).length }));
   },
 
   async getModule(moduleId) {
@@ -186,7 +186,7 @@ export const demoRepository: Repository = {
         slug: c.slug,
         title: c.title,
         sortOrder: ci,
-        questionCount: SAMPLE_QCMS.filter((q) => q.courseId === c.id).length,
+        questionCount: PUBLISHED_QCMS.filter((q) => q.courseId === c.id).length,
       })),
     }));
   },
@@ -207,11 +207,11 @@ export const demoRepository: Repository = {
   },
 
   async listCourseQuestions(courseId) {
-    return SAMPLE_QCMS.filter((q) => q.courseId === courseId).map(toQcm);
+    return PUBLISHED_QCMS.filter((q) => q.courseId === courseId).map(toQcm);
   },
 
   async answerQuestion(qcmId, selected) {
-    const q = SAMPLE_QCMS.find((x) => x.id === qcmId);
+    const q = PUBLISHED_QCMS.find((x) => x.id === qcmId);
     if (!q) throw new DataError('QCM_NOT_FOUND');
     const answer = normalizeLabels(selected);
     if (answer.length === 0 || existingLabels(q, answer).length !== answer.length) throw new DataError('INVALID_SELECTION');
@@ -253,7 +253,7 @@ export const demoRepository: Repository = {
     const selected = moduleIds.length ? own.filter((id) => moduleIds.includes(id)) : own;
     if (selected.length === 0) throw new DataError('INVALID_MODULES');
 
-    const paper = drawBalanced(SAMPLE_QCMS.filter((q) => selected.includes(q.moduleId)), questionCount);
+    const paper = drawBalanced(PUBLISHED_QCMS.filter((q) => selected.includes(q.moduleId)), questionCount);
     if (paper.length === 0) throw new DataError('NO_QUESTIONS_AVAILABLE');
 
     // Smaller pool than requested: keep the per-question pace.

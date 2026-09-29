@@ -7,7 +7,8 @@ import fr from '../../messages/fr.json';
 import { buildSeedSql } from '../../scripts/build-seed-sql';
 
 import { CURRICULUM } from './curriculum';
-import { SAMPLE_QCMS } from './sample-qcms';
+import { IMPORTED_QCMS } from './imported';
+import { PUBLISHED_QCMS, SEED_QCMS } from './questions';
 
 function keys(value: unknown, prefix = ''): string[] {
   if (typeof value !== 'object' || value === null) return [prefix];
@@ -26,7 +27,7 @@ describe('starter content', () => {
       ...CURRICULUM.map((m) => m.id),
       ...CURRICULUM.flatMap((m) => m.units.map((u) => u.id)),
       ...CURRICULUM.flatMap((m) => m.units.flatMap((u) => u.courses.map((c) => c.id))),
-      ...SAMPLE_QCMS.map((q) => q.id),
+      ...SEED_QCMS.map((q) => q.id),
     ];
     expect(new Set(ids).size).toBe(ids.length);
     const codes = CURRICULUM.map((m) => `${m.major}/${m.studyYear}/${m.code}`);
@@ -37,17 +38,40 @@ describe('starter content', () => {
     for (const major of ['medicine', 'dentistry', 'pharmacy'] as const) {
       for (const year of [1, 2] as const) {
         const modules = CURRICULUM.filter((m) => m.major === major && m.studyYear === year).map((m) => m.id);
-        expect(SAMPLE_QCMS.filter((q) => modules.includes(q.moduleId)).length, `${major} L${year}`).toBeGreaterThanOrEqual(3);
+        expect(PUBLISHED_QCMS.filter((q) => modules.includes(q.moduleId)).length, `${major} L${year}`).toBeGreaterThanOrEqual(3);
       }
     }
   });
 
-  it('only contains answerable questions', () => {
-    for (const q of SAMPLE_QCMS) {
+  it('only publishes answerable questions', () => {
+    for (const q of PUBLISHED_QCMS) {
       const correct = q.options.filter((o) => o.isCorrect).length;
       expect(q.options.length, q.id).toBeGreaterThanOrEqual(2);
       expect(correct, q.id).toBeGreaterThanOrEqual(1);
       if (q.type === 'single') expect(correct, q.id).toBe(1);
+    }
+  });
+
+  it('imports the UMMTO banks, keeping unsafe questions as explained drafts', () => {
+    const published = IMPORTED_QCMS.filter((q) => q.status === 'published');
+    expect(published.length).toBeGreaterThan(800);
+    for (const q of IMPORTED_QCMS) {
+      expect(q.stem.length, q.id).toBeGreaterThan(3);
+      if (q.status === 'draft') {
+        expect(q.explanation, q.id).toMatch(/^\[À revoir avant publication/);
+        expect(q.tags.some((t) => t.startsWith('a-revoir:')), q.id).toBe(true);
+      } else {
+        // Published imports carry no hidden notes and state their exam source.
+        expect(q.explanation, q.id).toBeNull();
+        expect(q.source, q.id).toMatch(/^UMMTO/);
+        expect(q.tags, q.id).toEqual(['import:ummto-2023-24']);
+      }
+    }
+  });
+
+  it('only publishes QCS with a single correct answer', () => {
+    for (const q of PUBLISHED_QCMS.filter((x) => x.type === 'single')) {
+      expect(q.options.filter((o) => o.isCorrect), q.id).toHaveLength(1);
     }
   });
 

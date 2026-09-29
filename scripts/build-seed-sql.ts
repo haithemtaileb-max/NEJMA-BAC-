@@ -4,7 +4,7 @@
  * `supabase/seed.sql` is up to date.
  */
 import { CURRICULUM } from '@/content/curriculum';
-import { SAMPLE_QCMS } from '@/content/sample-qcms';
+import { SEED_QCMS } from '@/content/questions';
 
 /** SQL literal: NULL, number, boolean, text (single quotes doubled) or text[]. */
 function lit(value: string | number | boolean | null | readonly string[]): string {
@@ -32,17 +32,17 @@ export function buildSeedSql(): string {
   const courses = CURRICULUM.flatMap((m) =>
     m.units.flatMap((u) => u.courses.map((c, i) => [c.id, u.id, m.id, c.slug, c.title.fr, c.title.en, i + 1])),
   );
-  const qcms = SAMPLE_QCMS.map((q) => [
-    q.id, q.courseId, q.moduleId, q.type, q.stem, q.explanation, q.difficulty, q.source, q.tags, 'published',
+  const qcms = SEED_QCMS.map((q) => [
+    q.id, q.courseId, q.moduleId, q.type, q.stem, q.explanation, q.difficulty, q.source, q.examYear, q.tags, q.status,
   ]);
-  const options = SAMPLE_QCMS.flatMap((q) =>
+  const options = SEED_QCMS.flatMap((q) =>
     q.options.map((o) => [q.id, o.label, o.body, o.isCorrect, o.explanation]),
   );
 
   return [
     '-- =============================================================================',
     '-- GENERATED FILE — do not edit by hand.',
-    '-- Source: src/content/curriculum.ts + src/content/sample-qcms.ts',
+    '-- Source: src/content/curriculum.ts + src/content/sample-qcms.ts + src/content/imported/',
     '-- Regenerate with: npm run db:seed:generate',
     '-- =============================================================================',
     '',
@@ -51,7 +51,7 @@ export function buildSeedSql(): string {
     insert('modules', ['id', 'major', 'study_year', 'code', 'title_fr', 'title_en', 'is_integrated', 'semester', 'icon', 'color', 'sort_order'], modules),
     insert('units', ['id', 'module_id', 'title_fr', 'title_en', 'sort_order'], units),
     insert('courses', ['id', 'unit_id', 'module_id', 'slug', 'title_fr', 'title_en', 'sort_order'], courses),
-    insert('qcms', ['id', 'course_id', 'module_id', 'type', 'stem', 'explanation', 'difficulty', 'source', 'tags', 'status'], qcms),
+    insert('qcms', ['id', 'course_id', 'module_id', 'type', 'stem', 'explanation', 'difficulty', 'source', 'exam_year', 'tags', 'status'], qcms),
     insert('qcm_options', ['qcm_id', 'label', 'body', 'is_correct', 'explanation'], options),
     'commit;',
     '',

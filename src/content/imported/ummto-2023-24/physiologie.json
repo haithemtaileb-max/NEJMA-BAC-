@@ -1,0 +1,6473 @@
+{
+ "module": "medicine/1/physiologie",
+ "source": "Physiologie fondamentale — QCM UMMTO classés par cours 2023-2024",
+ "courses": [
+  {
+   "slug": "transport-membranaire",
+   "title": "Transport membranaire"
+  },
+  {
+   "slug": "communication-cellulaire",
+   "title": "Communication Cellulaire"
+  },
+  {
+   "slug": "milieu-interieur",
+   "title": "Physiologie du milieu intérieur"
+  },
+  {
+   "slug": "transmission-synaptique",
+   "title": "La Transmission Synaptique"
+  },
+  {
+   "slug": "jonction-neuromusculaire",
+   "title": "La Jonction Neuromusculaire"
+  },
+  {
+   "slug": "potentiel-de-repos",
+   "title": "Potentiel de Repos"
+  },
+  {
+   "slug": "potentiel-d-action",
+   "title": "Potentiel d'Action"
+  },
+  {
+   "slug": "systeme-nerveux-autonome",
+   "title": "Système Nerveux Autonome"
+  }
+ ],
+ "questions": [
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Concernant les transports membranaires :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les molécules lipophiles traversent la membrane plasmique sans intervention de protéines."
+    },
+    {
+     "label": "B",
+     "body": "Le passage des ions par les canaux ioniques est un exemple du transport actif."
+    },
+    {
+     "label": "C",
+     "body": "Le transport médié par les protéines nécessite toujours de l'ATP."
+    },
+    {
+     "label": "D",
+     "body": "L'équilibre hydrique est facilité par les aquaporines."
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Le transport membranaire assisté :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Consiste en une diffusion simple."
+    },
+    {
+     "label": "B",
+     "body": "Est réalisé par des protéines."
+    },
+    {
+     "label": "C",
+     "body": "N'oppose jamais le gradient électrochimique du soluté."
+    },
+    {
+     "label": "D",
+     "body": "Permet la régulation de l'équilibre osmotique de la cellule."
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Concernant les canaux ioniques :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont sélectifs."
+    },
+    {
+     "label": "B",
+     "body": "Sont responsables de l'excitabilité électriques des cellules nerveuses et musculaires."
+    },
+    {
+     "label": "C",
+     "body": "Sont couplés à une source d'énergie."
+    },
+    {
+     "label": "D",
+     "body": "Fonctionnent selon un mode de transport passif."
+    }
+   ],
+   "key": "ABD",
+   "rawKey": "ABD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Le transporteur Na'/glucose de type 1 (SGLT-1) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Catalyse un antiports Na'/glucose."
+    },
+    {
+     "label": "B",
+     "body": "Est localisé au pôle apical."
+    },
+    {
+     "label": "C",
+     "body": "Permet I'absorption active du glucose."
+    },
+    {
+     "label": "D",
+     "body": "Dépendant du gradient de H\"."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant l'échangeur Na+/H+ : ā- Assure un échange électro-neutre.",
+   "options": [
+    {
+     "label": "B",
+     "body": "Permet la sortie d'un ion Na'."
+    },
+    {
+     "label": "C",
+     "body": "Permet l'entrée d'un ion H."
+    },
+    {
+     "label": "D",
+     "body": "Participe à la régulation du pH intracellulaire."
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels",
+    "key_not_in_options"
+   ]
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 4,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Concernant la membrane plasmique: cocher la ou les proposition(s) juste(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est totalement étanche (imperméable) à toute substance."
+    },
+    {
+     "label": "B",
+     "body": "Régule les échanges entre le cytosol et le milieu extracellulaire."
+    },
+    {
+     "label": "C",
+     "body": "Elle est fragile et facilement dissociable."
+    },
+    {
+     "label": "D",
+     "body": "Joue un rôle crucial dans la communication cellulaire."
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 4,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant les transports membranaires : cocher la ou les proposition(s) fausse(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La diffusion simple nécessite des canaux."
+    },
+    {
+     "label": "B",
+     "body": "La diffusion facilitée requiert de l'énergie sous forme d'ATP."
+    },
+    {
+     "label": "C",
+     "body": "Le sodium tend à rentrer dans la cellule et le potassium à en sortir."
+    },
+    {
+     "label": "D",
+     "body": "Les co-transporteurs permettent des échanges actifs secondaires."
+    }
+   ],
+   "key": "AB",
+   "rawKey": "AB",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 4,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Concernant les GLUTS : cocher la ou les proposition(s) fausse(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le GLUT-1 est le principal transporteur du glucose dans les érythrocytes."
+    },
+    {
+     "label": "B",
+     "body": "Le GLUT-3 est essentiellement transcrit dans le système nerveux et la rétine."
+    },
+    {
+     "label": "C",
+     "body": "L'expression du GLUT-2 est dépendante de I'insuline."
+    },
+    {
+     "label": "D",
+     "body": "Le GLUT-5 transporte spécifiquement le fructose."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 4,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Concernant l'échangeur Na2+/Ca2+: cocher la ou les proposition(s) juste(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Permet d'augmenter le calcium intracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "Permet la sortie d'un ion calcium en échange de 3 ions sodium."
+    },
+    {
+     "label": "C",
+     "body": "Est une pompe à activité ATP-hydrolase."
+    },
+    {
+     "label": "D",
+     "body": "Son rôle est capital dans le fonctionnement du muscle cardiaque."
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 4,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Concernant la pompe Ca2+ :cocher la ou les proposition(s) juste(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "De la membrane plasmique (PMCA), fait sortir un ion calcium dans le milieu extracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "De la membrane plasmique (PMCA), fait entrer un ion calcium dans le cytosol."
+    },
+    {
+     "label": "C",
+     "body": "Du réticulum sarcoplasmique (SERCA), fait entrer un ion calcium dans la lumière du réticulum."
+    },
+    {
+     "label": "D",
+     "body": "Déplace le calcium à l'extérieur de la cellule et le sodium vers I'intérieur de la cellule. Anciennes Questions 2010-2022"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 4,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Qu'appelle-t-on « aquaporines » :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Canaux ioniques"
+    },
+    {
+     "label": "B",
+     "body": "Canaux pour le transport des molécules d'eau"
+    },
+    {
+     "label": "C",
+     "body": "Récepteurs pour les molécules d'eau"
+    },
+    {
+     "label": "D",
+     "body": "Canaux pour le transport des ions et des molécules d'eau"
+    },
+    {
+     "label": "E",
+     "body": "Des invaginations membranaires pour le transport des molécules d'eau"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 5,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Importance des molécules de transport dans la polarisation fonctionnelle de la cellule :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Des co-transporteurs symports glucose/2Na+ sont situés au pôle apical des cellules de l'épithélium intestinal permettant l'entrée du glucose dans la cellule même si son gradient de concentration est faible."
+    },
+    {
+     "label": "B",
+     "body": "Les transporteurs GLUT des entérocytes nécessitent l'hydrolyse de l'ATP."
+    },
+    {
+     "label": "C",
+     "body": "Les ATPases Na+/K+ et les transporteurs GLUT, sont situés sur des pôles opposés de la cellule (entérocyte)."
+    },
+    {
+     "label": "D",
+     "body": "Les ATPases Na+/K+ permet le maintien de la natrémie et le maintien d'une concentration cytosolique de potassium faible."
+    },
+    {
+     "label": "E",
+     "body": "L'acidité gastrique est maintenue à un pH aux alentours de 1 (très acide) par des ATPases à protons comme dans les lysosomes."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 5,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Concernant les transports membranaires : cocher la ou les proposition(s) juste(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le transport passif avec médiateur est un phénomène saturable."
+    },
+    {
+     "label": "B",
+     "body": "Le transport du D-glucose dans les adipocytes consomme de l’énergie."
+    },
+    {
+     "label": "C",
+     "body": "Le transport actif se fait toujours contre le sens du gradient."
+    },
+    {
+     "label": "D",
+     "body": "L’insuline stimule l’expression membranaire du transporteur du D-glucose dans les adipocytes"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 5,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Concernant la pompe Na/K+ ATPase membranaire : cocher la ou les proposition(s) juste(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est localisée préférentiellement dans la membrane apicale des cellules épithéliales."
+    },
+    {
+     "label": "B",
+     "body": "Présente sur sa face externe le site de fixation pour le Na+."
+    },
+    {
+     "label": "C",
+     "body": "Présente sur sa face externe le site de fixation pour le K+."
+    },
+    {
+     "label": "D",
+     "body": "Est présente uniquement dans les cellules excitables."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 5,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Par son activité, a Na+/K+ ATPase membranaire contribue :",
+   "options": [
+    {
+     "label": "A",
+     "body": "A l’entrée de glucose dans les globules rouges."
+    },
+    {
+     "label": "B",
+     "body": "A l’entrée de glucose dans les cellules épithéliales intestinales."
+    },
+    {
+     "label": "C",
+     "body": "A la sortie du Ca²+vers le milieu extracellulaire par un contre transporteur,"
+    },
+    {
+     "label": "D",
+     "body": "A la sortie du Ca²+ du réticulum sarcoplasmique des cellules musculaires."
+    },
+    {
+     "label": "E",
+     "body": "A la sécrétion d’ions H’ par un contre transporteur dans la plupart des cellules"
+    }
+   ],
+   "key": "BCE",
+   "rawKey": "BCE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 5,
+   "n": 16,
+   "type": "multiple",
+   "stem": "Le traitement par l’ouabaïne d’un myocyte cardiaque isolé a pour conséquence(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "D’augmenter le volume de la cellule."
+    },
+    {
+     "label": "B",
+     "body": "De faire varier le potentiel de membrane vers des valeurs moins électronégatives."
+    },
+    {
+     "label": "C",
+     "body": "D’augmenter la concentration de calcium cytosolique."
+    },
+    {
+     "label": "D",
+     "body": "D’augmenter le pH intracellulaire."
+    },
+    {
+     "label": "E",
+     "body": "De favoriser la contractilité."
+    }
+   ],
+   "key": "ABCE",
+   "rawKey": "ABCE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 6,
+   "n": 17,
+   "type": "multiple",
+   "stem": "Parmi les transports passifs à travers la membrane plasmique, on distingue :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La diffusion simple."
+    },
+    {
+     "label": "B",
+     "body": "La diffusion facilitée."
+    },
+    {
+     "label": "C",
+     "body": "Les canaux ioniques tels que le canal potassium."
+    },
+    {
+     "label": "D",
+     "body": "La pompe ionique telle que la pompe sodium-potassium."
+    },
+    {
+     "label": "E",
+     "body": "Les transporteurs GLUT"
+    }
+   ],
+   "key": "ABCE",
+   "rawKey": "ABCE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 6,
+   "n": 18,
+   "type": "multiple",
+   "stem": "Au cours du transport transmembranaire du Ca2+ couplé au transport du Na+ :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce transport est actif primaire"
+    },
+    {
+     "label": "B",
+     "body": "Le Na+ se déplace passivement selon son gradient de concentration, c'est-à-dire, de l'intracellulaire vers l'extra-cellulaire."
+    },
+    {
+     "label": "C",
+     "body": "Le Na+ et le Ca2+ sont transportés dans le même sens"
+    },
+    {
+     "label": "D",
+     "body": "Le Ca2+ est transporté selon son gradient de concentration."
+    },
+    {
+     "label": "E",
+     "body": "On peut bloquer ce type de transporteur en inhibant la pompe Na+/K+ ATPase."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 6,
+   "n": 19,
+   "type": "multiple",
+   "stem": "Les transports actifs :",
+   "options": [
+    {
+     "label": "A",
+     "body": "déstabilisent les phospholipides membranaires sous forme de micelles"
+    },
+    {
+     "label": "B",
+     "body": "se produisent selon le gradient de concentration"
+    },
+    {
+     "label": "C",
+     "body": "sont regroupés sous le terme de diffusion facilitée"
+    },
+    {
+     "label": "D",
+     "body": "peuvent consommer de l'énergie sous forme d'adénosine triphosphate (ATP)"
+    },
+    {
+     "label": "E",
+     "body": "se produisent dans un seul sens"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 6,
+   "n": 20,
+   "type": "multiple",
+   "stem": "Parmi les propositions suivantes, laquelle (ou lesquelles) est (sont) vraie(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "le transport passif avec médiateur est un phénomène saturable"
+    },
+    {
+     "label": "B",
+     "body": "le transport actif du D-glucose dans les adipocytes consomme de l'énergie"
+    },
+    {
+     "label": "C",
+     "body": "le transport actif se fait toujours contre le sens du gradient"
+    },
+    {
+     "label": "D",
+     "body": "l’insuline stimule l’expression membranaire du transport du D-glucose dans les adipocytes"
+    },
+    {
+     "label": "E",
+     "body": "toutes les réponses sont fausses"
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 6,
+   "n": 21,
+   "type": "multiple",
+   "stem": "Parmi les transporteurs suivants, lequel est un transport actif secondaire ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "GLUT 2"
+    },
+    {
+     "label": "B",
+     "body": "l'ATP synthase mitochondriale"
+    },
+    {
+     "label": "C",
+     "body": "le symport sodium-glucose"
+    },
+    {
+     "label": "D",
+     "body": "la H+/K+ ATPase"
+    },
+    {
+     "label": "E",
+     "body": "la pompe à proton lysosomiale"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 6,
+   "n": 22,
+   "type": "multiple",
+   "stem": "A propos des canaux ioniques :",
+   "options": [
+    {
+     "label": "A",
+     "body": "le transport est toujours actif"
+    },
+    {
+     "label": "B",
+     "body": "ils sont sélectifs"
+    },
+    {
+     "label": "C",
+     "body": "ils ne sont pas toujours ouverts"
+    },
+    {
+     "label": "D",
+     "body": "l'activité de certains canaux ioniques peut être modulée par phosphorylation des sous-unités protéiques constituant ces canaux"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "BCD",
+   "rawKey": "BCD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 7,
+   "n": 23,
+   "type": "multiple",
+   "stem": "Transport de substances à travers la membrane neuronale : Le transport actif :",
+   "options": [
+    {
+     "label": "A",
+     "body": "s'effectue contre un gradient de concentration"
+    },
+    {
+     "label": "B",
+     "body": "permet le transport des ions Na+, K+, Ca++"
+    },
+    {
+     "label": "C",
+     "body": "permet le transport des antibiotiques"
+    },
+    {
+     "label": "D",
+     "body": "la pompe Na+/K+ n'est présente que dans la membrane neuronale"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "ABC",
+   "rawKey": "ABC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 7,
+   "n": 24,
+   "type": "multiple",
+   "stem": "Transport de substances à travers la membrane neuronale : La diffusion facilitée :",
+   "options": [
+    {
+     "label": "A",
+     "body": "met en jeu des protéines membranaires spécifiques pour chaque substance à transporter"
+    },
+    {
+     "label": "B",
+     "body": "permet le transport du glucose"
+    },
+    {
+     "label": "C",
+     "body": "permet le transport des acides aminés"
+    },
+    {
+     "label": "D",
+     "body": "permet le transport de l'oxygène"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "ABC",
+   "rawKey": "ABC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 7,
+   "n": 25,
+   "type": "multiple",
+   "stem": "Canaux ioniques :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les canaux ioniques sont de nature protéique et sont donc codés génétiquement"
+    },
+    {
+     "label": "B",
+     "body": "L’ouverture d’un canal peut être régulée par un phénomène mécanique"
+    },
+    {
+     "label": "C",
+     "body": "Les canaux constamment ouverts sont appelés canaux de fuite ou aquaporine"
+    },
+    {
+     "label": "D",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "AB",
+   "rawKey": "AB",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 7,
+   "n": 26,
+   "type": "multiple",
+   "stem": "Les canaux ioniques :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ils sont tous ligand-dépendants"
+    },
+    {
+     "label": "B",
+     "body": "Ils sont inutiles, la membrane plasmique est assez fluide pour laisser passer toutes les molécules"
+    },
+    {
+     "label": "C",
+     "body": "Les aquaporines laissent passer H2O et Cl -"
+    },
+    {
+     "label": "D",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 7,
+   "n": 27,
+   "type": "multiple",
+   "stem": "La pompe Na / K+ ATPase membranaire :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est localisée préférentiellement dans la membrane apicale des cellules épithéliales"
+    },
+    {
+     "label": "B",
+     "body": "Présente sur sa face externe le site de fixation pour le Na+"
+    },
+    {
+     "label": "C",
+     "body": "Présente sur sa face externe le site de fixation pour le K+"
+    },
+    {
+     "label": "D",
+     "body": "Est présente uniquement dans les cellules excitables"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 7,
+   "n": 28,
+   "type": "multiple",
+   "stem": "Par son activité, la pompe Na+/K+ ATPase membranaire contribue :",
+   "options": [
+    {
+     "label": "A",
+     "body": "A l’entrée de glucose dans les globules rouges"
+    },
+    {
+     "label": "B",
+     "body": "A l’entrée de glucose dans les cellules épithéliales intestinales"
+    },
+    {
+     "label": "C",
+     "body": "A la sortie du Ca2+ vers le milieu extracellulaire par un contre transporteur"
+    },
+    {
+     "label": "D",
+     "body": "A la sortie du Ca2+ du réticulum sarcoplasmique des cellules musculaires"
+    },
+    {
+     "label": "E",
+     "body": "A la sécrétion d’ions H+ par un contre transporteur dans la plupart des cellules"
+    }
+   ],
+   "key": "BCE",
+   "rawKey": "BCE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 8,
+   "n": 29,
+   "type": "multiple",
+   "stem": "Le traitement par l'ouabaïne d'un myocyte cardiaque isolé a pour conséquence(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "D'augmenter le volume de la cellule"
+    },
+    {
+     "label": "B",
+     "body": "De faire varier le potentiel de membrane vers des valeurs moins électronégatives"
+    },
+    {
+     "label": "C",
+     "body": "D'augmenter la concentration de calcium cytosolique"
+    },
+    {
+     "label": "D",
+     "body": "D'augmenter le pH intracellulaire"
+    },
+    {
+     "label": "E",
+     "body": "De favoriser la contractilité (L’ouabaïne est une substance qui inhibe spécifiquement la pompe Na+/K+)"
+    }
+   ],
+   "key": "ABCE",
+   "rawKey": "ABCE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 8,
+   "n": 30,
+   "type": "multiple",
+   "stem": "Les transports actifs :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Déstabilisent les phospholipides membranaires sous forme de micelles"
+    },
+    {
+     "label": "B",
+     "body": "Se produisent contre le gradient de concentration"
+    },
+    {
+     "label": "C",
+     "body": "Sont regroupés sous le terme de diffusion facilitée"
+    },
+    {
+     "label": "D",
+     "body": "Peuvent consommer de l’énergie sous forme d’adénosine triphosphate (ATP)"
+    },
+    {
+     "label": "E",
+     "body": "Se produisent dans les deux sens (entrée et sortie des molécules)"
+    }
+   ],
+   "key": "BDE",
+   "rawKey": "BDE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 8,
+   "n": 31,
+   "type": "multiple",
+   "stem": "Les canaux ioniques :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont formés par des lipides membranaires"
+    },
+    {
+     "label": "B",
+     "body": "Possèdent une structure en forme de pore (canal hydrophile)"
+    },
+    {
+     "label": "C",
+     "body": "Ont tous un fonctionnement indépendant du potentiel de membrane"
+    },
+    {
+     "label": "D",
+     "body": "S’ouvrent et se ferment tous sans l’intervention d’autres molécules"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 8,
+   "n": 33,
+   "type": "multiple",
+   "stem": "Concernant la diffusion :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La membrane plasmique est une barrière de diffusion face à tous les solutés"
+    },
+    {
+     "label": "B",
+     "body": "Les protéines membranaires rendent la barrière de diffusion plus perméable par rapport à certains solutés"
+    },
+    {
+     "label": "C",
+     "body": "Ces protéines sont constituées exclusivement de pompes et de canaux ioniques"
+    },
+    {
+     "label": "D",
+     "body": "Le transport des solutés nécessite obligatoirement de l’énergie"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 8,
+   "n": 34,
+   "type": "multiple",
+   "stem": "Concernant la diffusion simple :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Plus l’épaisseur de la membrane est grande, plus la diffusion est rapide"
+    },
+    {
+     "label": "B",
+     "body": "Plus la molécule est petite, plus la diffusion est lente"
+    },
+    {
+     "label": "C",
+     "body": "Plus le gradient de concentration est élevé, plus la diffusion est rapide"
+    },
+    {
+     "label": "D",
+     "body": "Plus la molécule est hydrophobe, plus la diffusion est rapide"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 9,
+   "n": 35,
+   "type": "multiple",
+   "stem": "Concernant le pH intracellulaire :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le CO2 et le H2O forment l’acide carbonique en extracellulaire, réaction catalysée par l’anhydrase carbonique"
+    },
+    {
+     "label": "B",
+     "body": "La baisse de pH cellulaire stimule la pompe à protons"
+    },
+    {
+     "label": "C",
+     "body": "La baisse de pH cellulaire stimule l’antiport Na+/H+"
+    },
+    {
+     "label": "D",
+     "body": "L’augmentation du pH cellulaire stimule l’antiport HCO3-/Cl- (échangeur d’anions)"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "BCD",
+   "rawKey": "BCD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 9,
+   "n": 36,
+   "type": "multiple",
+   "stem": "Concernant le Calcium intracellulaire :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La concentration intracellulaire en Ca2+ est plus élevée que celle en extracellulaire"
+    },
+    {
+     "label": "B",
+     "body": "Pendant la relaxation des cellules musculaires, l’antiport Ca2+/Na+ est activé"
+    },
+    {
+     "label": "C",
+     "body": "La contraction musculaire fait intervenir la pompe calcique au niveau du réticulum sarcoplasmique"
+    },
+    {
+     "label": "D",
+     "body": "La relaxation musculaire stimule la pompe calcique"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 9,
+   "n": 37,
+   "type": "multiple",
+   "stem": "Concernant la diffusion simple : cocher la ou les proposition(s) juste (s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Dépend du degré de liposolubilité."
+    },
+    {
+     "label": "B",
+     "body": "Est un phénomène saturable."
+    },
+    {
+     "label": "C",
+     "body": "S’effectue le long du gradient de concentration"
+    },
+    {
+     "label": "D",
+     "body": "Ne consomme pas de l’énergie."
+    },
+    {
+     "label": "E",
+     "body": "Est plus rapide que la diffusion facilitée."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 9,
+   "n": 38,
+   "type": "multiple",
+   "stem": "Concernant la diffusion facilitée : cocher la ou les proposition (s) juste (s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est assurée par des canaux membranaires ou des protéines transporteuses (perméases)."
+    },
+    {
+     "label": "B",
+     "body": "A lieu dans le sens du gradient électrochimique."
+    },
+    {
+     "label": "C",
+     "body": "Concerne exclusivement des molécules liposolubles."
+    },
+    {
+     "label": "D",
+     "body": "Peut nécessiter l’énergie fournie par l’hydrolyse de l’ATP."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "AB",
+   "rawKey": "AB",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 9,
+   "n": 39,
+   "type": "multiple",
+   "stem": "Concernant la pompe Na+/K+ ATPase : cocher la ou les proposition(s) juste (s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Contribue à la genèse du potentiel de repos"
+    },
+    {
+     "label": "B",
+     "body": "Permet de chasser 3 ions sodium de la cellule et faire pénétrer 2 ions potassium,"
+    },
+    {
+     "label": "C",
+     "body": "Est activée par un second messager."
+    },
+    {
+     "label": "D",
+     "body": "Contribue à la genèse et au maintien des gradients de concentration de sodium et de potassium."
+    },
+    {
+     "label": "E",
+     "body": "Est bloquée par la tétrodotoxine"
+    }
+   ],
+   "key": "ABD",
+   "rawKey": "ABD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 11,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Les transports actifs :",
+   "options": [
+    {
+     "label": "A",
+     "body": "déstabilisent les phospholipides membranaires sous forme de micelles"
+    },
+    {
+     "label": "B",
+     "body": "se produisent contre le gradient de concentration"
+    },
+    {
+     "label": "C",
+     "body": "sont regroupés sous le terme de diffusion facilitée"
+    },
+    {
+     "label": "D",
+     "body": "peuvent consommer de l'énergie sous forme d'adénosine triphosphate ATP"
+    },
+    {
+     "label": "E",
+     "body": "se produisent dans les deux sens (endocytose et exocytose)"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 11,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Parmi les transports passifs à travers la membrane plasmique, on distingue :",
+   "options": [
+    {
+     "label": "A",
+     "body": "la diffusion simple"
+    },
+    {
+     "label": "B",
+     "body": "la diffusion facilitée"
+    },
+    {
+     "label": "C",
+     "body": "les canaux Ioniques tels que le canal potassium"
+    },
+    {
+     "label": "D",
+     "body": "la pompe ionique telle que la pompe sodium-potassium"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "transport-membranaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 11,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Concernant la diffusion facilitée",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est une diffusion qui concerne beaucoup de molécules hydrophobes"
+    },
+    {
+     "label": "B",
+     "body": "Le glucose est transporté uniquement par ce moyen"
+    },
+    {
+     "label": "C",
+     "body": "Les acides aminés sont aussi transportés par ce moyen"
+    },
+    {
+     "label": "D",
+     "body": "La diffusion facilitée fait intervenir les perméases, qui sont des symports et des antiports"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 12,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Le principal neurotransmetteur inhibiteur au niveau de la moelle épinière :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La sérotonine."
+    },
+    {
+     "label": "B",
+     "body": "Le GABA."
+    },
+    {
+     "label": "C",
+     "body": "L'acétylcholine."
+    },
+    {
+     "label": "D",
+     "body": "La glycine."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 12,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Parmi ces récepteurs muscariniques, lesquels sont excitateurs ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "M1."
+    },
+    {
+     "label": "B",
+     "body": "M2."
+    },
+    {
+     "label": "C",
+     "body": "M3."
+    },
+    {
+     "label": "D",
+     "body": "M4."
+    }
+   ],
+   "key": "AC",
+   "rawKey": "AC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 12,
+   "n": 3,
+   "type": "multiple",
+   "stem": "La voie de signalisation de la protéine Kinase A fait intervenir :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'AMPc."
+    },
+    {
+     "label": "B",
+     "body": "L'IP 3."
+    },
+    {
+     "label": "C",
+     "body": "La phospholipase C."
+    },
+    {
+     "label": "D",
+     "body": "L'adénylate cyclase."
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 12,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Une de ces molécules peut être à la fois le premier et le second messager :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'insuline."
+    },
+    {
+     "label": "B",
+     "body": "L'IP3."
+    },
+    {
+     "label": "C",
+     "body": "Le Ca2+."
+    },
+    {
+     "label": "D",
+     "body": "Le DAG."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 12,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant les principes de la communication cellulaire : cocher la ou les proposition(s) fausse(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Une même cellule peut être émettrice et réceptrice du signal."
+    },
+    {
+     "label": "B",
+     "body": "Le ligand est reconnu de manière spécifique et irréversible par son récepteur."
+    },
+    {
+     "label": "C",
+     "body": "Après activation du récepteur, il y a transduction du signal."
+    },
+    {
+     "label": "D",
+     "body": "Un défaut des mécanismes de rétrocontrôle peut être à l'origine d'un développement tumoral."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 13,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Concernant les jonctions communicantes : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce sont des canaux ioniques."
+    },
+    {
+     "label": "B",
+     "body": "Peuvent constituer des synapses électriques entre neurones."
+    },
+    {
+     "label": "C",
+     "body": "Ne sont présentes que dans les tissus épithéliaux."
+    },
+    {
+     "label": "D",
+     "body": "Interviennent dans le couplage électrique et métabolique des cellules.?"
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 13,
+   "n": 7,
+   "type": "multiple",
+   "stem": "L'effecteur primaire de la protéine G peut être : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "La tyrosine kinase."
+    },
+    {
+     "label": "B",
+     "body": "La guanylate cyclase soluble."
+    },
+    {
+     "label": "C",
+     "body": "Un canal ionique."
+    },
+    {
+     "label": "D",
+     "body": "La phospholipase C"
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 13,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Concernant le récepteur muscarinique : cocher la ou les proposition(s)fausse(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est compose de 5sous-unitės disposées en cercle dars la membrane"
+    },
+    {
+     "label": "B",
+     "body": "Est liée à une protéine G"
+    },
+    {
+     "label": "C",
+     "body": "Est un récepteur canal qui permet fa sotie du potassium lorsqu'il est activé."
+    },
+    {
+     "label": "D",
+     "body": "Est un récepteur de l'acétylcholine."
+    }
+   ],
+   "key": "AC",
+   "rawKey": "AC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 13,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Au sujet des récepteurs nucléaires: cocher la ou les proposition(s) fausses(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Fixent leur ligand par l’intermédiaire des protéines HSP"
+    },
+    {
+     "label": "B",
+     "body": "Possèdent un domaine permettant la liaison à l'ADN de la cellule cible"
+    },
+    {
+     "label": "C",
+     "body": "Possèdent un domaine capable d’activer la transcription."
+    },
+    {
+     "label": "D",
+     "body": "Nécessitent généralement une étape de dimérisation pour être activés"
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 13,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Au sujet des antagonistes et des agents bloquants: cocher la ou les proposition(s) fausse(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "la lidocaïne bloque le canal sodique voltage-dépendant."
+    },
+    {
+     "label": "B",
+     "body": "Le curare bloque le canal calcique voltage-dépendant."
+    },
+    {
+     "label": "C",
+     "body": "la tétrodotoxine bloque le canal sodique ligand-dépendant."
+    },
+    {
+     "label": "D",
+     "body": "l'ouabaïne bloque la pompe Na'/Ka. Anciennes Questions 2010-2022"
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 13,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs muscariniques",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce sont des canaux ligand-dépendants"
+    },
+    {
+     "label": "B",
+     "body": "Leur ligand endogène est la muscarine"
+    },
+    {
+     "label": "C",
+     "body": "Ils sont retrouvés sur la membrane plasmique des cellules des muscles squelettiques"
+    },
+    {
+     "label": "D",
+     "body": "La fixation de leur ligand provoque l'ouverture des canaux sodiques de la membrane plasmique de la cellule cible"
+    },
+    {
+     "label": "E",
+     "body": "La fixation de leur ligand provoque une sortie de charges positives du cytosol vers le milieu extracellulaire et une hyperpolarisation de la cellule cible"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 14,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Concernant les protéines G couplées aux récepteurs à 7 domaines transmembranaires",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elles sont qualifiées d'hétérodimériques car elles sont composées de 2 sous-unités distinctes α et β"
+    },
+    {
+     "label": "B",
+     "body": "Ces trois sous unités sont dans un état dissociés (au repos)"
+    },
+    {
+     "label": "C",
+     "body": "La sous-unité β fixe les nucléotides guanyliques et possède l'activité GTPasique"
+    },
+    {
+     "label": "D",
+     "body": "La fixation du ligand sur te récepteur active l'activité ATPasique de la protéine G et provoque sa dissociation"
+    },
+    {
+     "label": "E",
+     "body": "Une fois dissociée des autres sous-unités, la sous-unité α est capable de moduler l'activité d'un effecteur primaire"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 14,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs couplés aux protéines G",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce sont des protéines à 4 domaines membranaires"
+    },
+    {
+     "label": "B",
+     "body": "Leur ligand extracellulaire est une molécule hydrophile qualifiée de second messager"
+    },
+    {
+     "label": "C",
+     "body": "Ils sont couplés à des protéines G monomériques"
+    },
+    {
+     "label": "D",
+     "body": "Les protéines G couplées à ces récepteurs activent directement des effecteurs primaires pouvant être des canaux ou des enzymes"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 14,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Concernant le récepteur nicotinique",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il est présent à la surface des cellules post-synaptiques cardiaques"
+    },
+    {
+     "label": "B",
+     "body": "C'est un canal ionique pentamérique et chacune de ses sous-unités possède 4 domaines transmembranaires"
+    },
+    {
+     "label": "C",
+     "body": "La fixation de l'acétylcholine sur ses deux sous-unités y provoque l'ouverture du canal"
+    },
+    {
+     "label": "D",
+     "body": "L'ouverture du canal provoque l'hyperpolarisation de la cellule musculaire et sa contraction"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 14,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Concernant le récepteur nicotinique",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il est localisé dans la membrane plasmique des cellules musculaires"
+    },
+    {
+     "label": "B",
+     "body": "C'est un récepteur enzyme"
+    },
+    {
+     "label": "C",
+     "body": "Son ligand naturel est la nicotine"
+    },
+    {
+     "label": "D",
+     "body": "Son agoniste est le Curare"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 14,
+   "n": 16,
+   "type": "multiple",
+   "stem": "Parmi les molécules de signalisation suivantes, laquelle est lipophile ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Insuline"
+    },
+    {
+     "label": "B",
+     "body": "Glucagon"
+    },
+    {
+     "label": "C",
+     "body": "Neurotransmetteurs"
+    },
+    {
+     "label": "D",
+     "body": "Facteurs de croissance"
+    },
+    {
+     "label": "E",
+     "body": "NO (monoxyde d'azote)"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 14,
+   "n": 17,
+   "type": "multiple",
+   "stem": "Les molécules de signalisation hydrophobes",
+   "options": [
+    {
+     "label": "A",
+     "body": "Circulent librement dans le sang"
+    },
+    {
+     "label": "B",
+     "body": "diffusent à travers la membrane plasmique et n'agissent pas par l'intermédiaire de récepteurs"
+    },
+    {
+     "label": "C",
+     "body": "induisent des réponses de plus courte durée que leurs homologues hydrophiles"
+    },
+    {
+     "label": "D",
+     "body": "régulent généralement la transcription des gènes"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 15,
+   "n": 18,
+   "type": "multiple",
+   "stem": "Concernant la communication cellulaire : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Peut se faire par contact direct grâce aux jonctions communicantes ( gap-junction)."
+    },
+    {
+     "label": "B",
+     "body": "Peut se faire par l’intermédiaire de signaux chimiques."
+    },
+    {
+     "label": "C",
+     "body": "A lieu uniquement lorsque les cellules sont proches dans l’espace."
+    },
+    {
+     "label": "D",
+     "body": "La communication paracrine repose sur les ligands uniquement hydrophiles."
+    },
+    {
+     "label": "E",
+     "body": "La communication endocrine est liée à la diffusion sur une longue distance de ."
+    }
+   ],
+   "key": "AB",
+   "rawKey": "AB",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 15,
+   "n": 19,
+   "type": "multiple",
+   "stem": "Concernant la communication cellulaire : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Un ligand peut se fixer sur plusieurs récepteurs."
+    },
+    {
+     "label": "B",
+     "body": "Un récepteur peut fixer plusieurs ligands."
+    },
+    {
+     "label": "C",
+     "body": "Les récepteurs couplés à la protéine G sont des récepteurs nucléaires."
+    },
+    {
+     "label": "D",
+     "body": "Les récepteurs à activité tyrosine kinase font partie des récepteurs à activité enzymatique."
+    },
+    {
+     "label": "E",
+     "body": "Tous les récepteurs nucléaires régulent l’expression des gènes."
+    }
+   ],
+   "key": "ABDE",
+   "rawKey": "ABDE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 15,
+   "n": 20,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs couplés aux protéines G : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont des récepteurs à 07 domaines transmembranaires."
+    },
+    {
+     "label": "B",
+     "body": "Peuvent être activés par des photons."
+    },
+    {
+     "label": "C",
+     "body": "Interagissent avec des protéines G composées de deux sous unités α et d’une sous unité β."
+    },
+    {
+     "label": "D",
+     "body": "Peuvent activer ou inhiber l’adénylate cyclase."
+    },
+    {
+     "label": "E",
+     "body": "La sous unité α de le protéine G est indissociable de sous unités β/ɣ."
+    }
+   ],
+   "key": "ABD",
+   "rawKey": "ABD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 15,
+   "n": 21,
+   "type": "multiple",
+   "stem": "Concernant la protéine G : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est une protéine transmembranaire."
+    },
+    {
+     "label": "B",
+     "body": "Est activée par de nombreux récepteurs membranaires"
+    },
+    {
+     "label": "C",
+     "body": "Est activée grâce à I ‘hydrolyse d’une molécule de GTP."
+    },
+    {
+     "label": "D",
+     "body": "La protéine Gq entraine l’activation de la phospholipase C."
+    },
+    {
+     "label": "E",
+     "body": "La protéine Gs entraine ‘activation de I’adénylate cyclase."
+    }
+   ],
+   "key": "DE",
+   "rawKey": "DE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 15,
+   "n": 22,
+   "type": "multiple",
+   "stem": "A propos des récepteurs cellulaires et de la transduction du signal",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il y a toujours intervention d'un second messager, tels que l'ATP ou le Ca++."
+    },
+    {
+     "label": "B",
+     "body": "Les hormones hydrophiles ne peuvent avoir d'action génomique, car elles ne peuvent pas passer au travers des membranes plasmique et nucléaire."
+    },
+    {
+     "label": "C",
+     "body": "Les hormones stéroïdes, liposolubles, sont capables de diffuser à travers la membrane plasmique de manière passive, et de se fixer sur des récepteurs solubles intracytoplasmiques ou intranucléaires."
+    },
+    {
+     "label": "D",
+     "body": "De manière générale les récepteurs nucléaires aux hormones stéroïdes, couplés à leur ligand, doivent se dimeriser afin d'activer des séquences HRE (Hormone Responsive Element) au niveau des enzymes"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 15,
+   "n": 23,
+   "type": "multiple",
+   "stem": "Concernant le récepteur nicotinique de l’acétylcholine : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est un récepteur couplé à la protéine G."
+    },
+    {
+     "label": "B",
+     "body": "Est un récepteur post-synaptique"
+    },
+    {
+     "label": "C",
+     "body": "fixe deux molécules d’acétylcholine."
+    },
+    {
+     "label": "D",
+     "body": "Son activation provoque une dépolarisation du cardiomyocyte."
+    },
+    {
+     "label": "E",
+     "body": "Peut-être bloqué par l’atropine."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 16,
+   "n": 24,
+   "type": "multiple",
+   "stem": "Concernant le récepteur muscarinique : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est un récepteur ionotropique."
+    },
+    {
+     "label": "B",
+     "body": "Est un récepteur à l’acétylcholine."
+    },
+    {
+     "label": "C",
+     "body": "Au niveau du cardiomyocyte, son activation est à l’origine d’une contraction musculaire"
+    },
+    {
+     "label": "D",
+     "body": "Au niveau du muscle squelettique, son activation est à ‘origine d’une contraction musculaire."
+    },
+    {
+     "label": "E",
+     "body": "Ont une action exclusivement inhibitrice."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 16,
+   "n": 25,
+   "type": "multiple",
+   "stem": "Les molécules suivantes sont des seconds messagers : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Adrénaline."
+    },
+    {
+     "label": "B",
+     "body": "Diacylglycérol."
+    },
+    {
+     "label": "C",
+     "body": "Insuline."
+    },
+    {
+     "label": "D",
+     "body": "Calcium."
+    },
+    {
+     "label": "E",
+     "body": "AMPc."
+    }
+   ],
+   "key": "BDE",
+   "rawKey": "BDE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 16,
+   "n": 26,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs des hormones stéroïdes 2 cocher la proposition juste.",
+   "options": [
+    {
+     "label": "A",
+     "body": "Agissent via une stimulation de la protéine kinase C (PKC)."
+    },
+    {
+     "label": "B",
+     "body": "Utilisent comme médiateur l’inositol triphosphate (1P3)."
+    },
+    {
+     "label": "C",
+     "body": "Déclenchent une réponse très rapide et peu durable."
+    },
+    {
+     "label": "D",
+     "body": "Interagissent directement avec I’ARN polymérase et contrôlent ainsi la transcription des gènes."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 16,
+   "n": 27,
+   "type": "multiple",
+   "stem": "A propos de la voie de la phospholipase C",
+   "options": [
+    {
+     "label": "A",
+     "body": "le récepteur est couple à une protéine Gs qui active la phospholipase"
+    },
+    {
+     "label": "B",
+     "body": "la PLC va cliver un PIP2 dans la membrane cellulaire en iP3 et en DAG, celui-ci tend à augmenter la concentration de calcium intra-cellulaire."
+    },
+    {
+     "label": "C",
+     "body": "la protéine G fonctionne en utilisant un GDP"
+    },
+    {
+     "label": "D",
+     "body": "la protéine kinase A et la protéine kinase C ont la même action, celle de phosphoryler les protéines"
+    },
+    {
+     "label": "E",
+     "body": "une molécule de calmoduline peut fixer jusqu'à quatre ions calcium"
+    }
+   ],
+   "key": "DE",
+   "rawKey": "DE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 16,
+   "n": 28,
+   "type": "multiple",
+   "stem": "Au sujet des récepteurs couplés aux protéines G",
+   "options": [
+    {
+     "label": "A",
+     "body": "ces récepteurs sont formés d'une chaine d'acides amitiés traversant 7 fois la membrane plasmique"
+    },
+    {
+     "label": "B",
+     "body": "les récepteurs peuvent être couplés à deux grandes voies d'amplification : une voie mettant en jeu l'adenylatecyclase et une autre mettant en jeu la phospholipase"
+    },
+    {
+     "label": "C",
+     "body": "la fixation d'une hormone sur son récepteur, active l'adenylatecyclase pour favoriser la production d'IP3 afin d'initier une réponse biologique."
+    },
+    {
+     "label": "D",
+     "body": "la phosphodiestérase permet d'activer la protéine kinase A."
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "AB",
+   "rawKey": "AB",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 16,
+   "n": 29,
+   "type": "multiple",
+   "stem": "Les récepteurs couplés aux protéines G",
+   "options": [
+    {
+     "label": "A",
+     "body": "ces récepteurs sont des récepteurs à 7 domaines dont la partie C-terminal est le site de liaison à l'hormone."
+    },
+    {
+     "label": "B",
+     "body": "la protéine G peut être stimulatrice ou inhibitrice."
+    },
+    {
+     "label": "C",
+     "body": "la sous unité alpha peut activer directement un canal ionique"
+    },
+    {
+     "label": "D",
+     "body": "la voie des phosphoinositides donne deux composés en intra-cellulaire qui auront chacun une action."
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 30,
+   "type": "multiple",
+   "stem": "A propos des récepteurs et de leurs ligands",
+   "options": [
+    {
+     "label": "A",
+     "body": "le GABA a un récepteur couplé aux protéines G"
+    },
+    {
+     "label": "B",
+     "body": "le glucagon à un récepteur enzyme"
+    },
+    {
+     "label": "C",
+     "body": "l'adrénaline à un récepteur canal"
+    },
+    {
+     "label": "D",
+     "body": "la testostérone à un récepteur couplé à la protéine G"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces propositions sont fausses"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 31,
+   "type": "multiple",
+   "stem": "Les molécules informatives hydrosolubles sont",
+   "options": [
+    {
+     "label": "A",
+     "body": "la vitamine D"
+    },
+    {
+     "label": "B",
+     "body": "le photon"
+    },
+    {
+     "label": "C",
+     "body": "le monoxyde d'azote"
+    },
+    {
+     "label": "D",
+     "body": "la dopamine"
+    },
+    {
+     "label": "E",
+     "body": "le GABA"
+    }
+   ],
+   "key": "BDE",
+   "rawKey": "BDE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 32,
+   "type": "multiple",
+   "stem": "parmi ces ligands suivants, un est liposoluble",
+   "options": [
+    {
+     "label": "A",
+     "body": "FSH"
+    },
+    {
+     "label": "B",
+     "body": "LH"
+    },
+    {
+     "label": "C",
+     "body": "CO"
+    },
+    {
+     "label": "D",
+     "body": "Hormone de croissance"
+    },
+    {
+     "label": "E",
+     "body": "TSH"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 33,
+   "type": "multiple",
+   "stem": "quel est l’effecteur de l’AMPc",
+   "options": [
+    {
+     "label": "A",
+     "body": "Guanylate cyclase"
+    },
+    {
+     "label": "B",
+     "body": "Adénylate cyclase"
+    },
+    {
+     "label": "C",
+     "body": "PKA"
+    },
+    {
+     "label": "D",
+     "body": "PKC"
+    },
+    {
+     "label": "E",
+     "body": "PLC"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 34,
+   "type": "multiple",
+   "stem": "quel est l’effecteur de la sous unité αs -GTP (sous unité de la protéine G)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Adénylate cyclase"
+    },
+    {
+     "label": "B",
+     "body": "PLC"
+    },
+    {
+     "label": "C",
+     "body": "Guanylate cyclase"
+    },
+    {
+     "label": "D",
+     "body": "AMPc phosphodiestérase"
+    },
+    {
+     "label": "E",
+     "body": "PKG"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 35,
+   "type": "multiple",
+   "stem": "quel est l’effecteur de la sous unité αq –GTP",
+   "options": [
+    {
+     "label": "A",
+     "body": "PLC"
+    },
+    {
+     "label": "B",
+     "body": "PKA"
+    },
+    {
+     "label": "C",
+     "body": "PKC"
+    },
+    {
+     "label": "D",
+     "body": "Adénylate cyclase"
+    },
+    {
+     "label": "E",
+     "body": "Guanylate cyclase"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 18,
+   "n": 36,
+   "type": "multiple",
+   "stem": "trouver l’intrus",
+   "options": [
+    {
+     "label": "A",
+     "body": "PIP2"
+    },
+    {
+     "label": "B",
+     "body": "IP3"
+    },
+    {
+     "label": "C",
+     "body": "Calcium"
+    },
+    {
+     "label": "D",
+     "body": "DAG"
+    },
+    {
+     "label": "E",
+     "body": "PKA"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 18,
+   "n": 37,
+   "type": "multiple",
+   "stem": "quel est le ligand intrus parmi cette liste",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le photon"
+    },
+    {
+     "label": "B",
+     "body": "L’adrénaline"
+    },
+    {
+     "label": "C",
+     "body": "L’acétylcholine"
+    },
+    {
+     "label": "D",
+     "body": "L’aldostérone"
+    },
+    {
+     "label": "E",
+     "body": "La vasopressine (ADH)"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 18,
+   "n": 38,
+   "type": "multiple",
+   "stem": "quel est le ligand intrus parmi cette liste",
+   "options": [
+    {
+     "label": "A",
+     "body": "la progestérone"
+    },
+    {
+     "label": "B",
+     "body": "la testostérone"
+    },
+    {
+     "label": "C",
+     "body": "l’ocytocine"
+    },
+    {
+     "label": "D",
+     "body": "hormones thyroïdiennes (T3 et T4)"
+    },
+    {
+     "label": "E",
+     "body": "le monoxyde d’azote"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 18,
+   "n": 39,
+   "type": "multiple",
+   "stem": "parmi ces ligands suivants, un possède un récepteur enzyme",
+   "options": [
+    {
+     "label": "A",
+     "body": "glucagon"
+    },
+    {
+     "label": "B",
+     "body": "insuline"
+    },
+    {
+     "label": "C",
+     "body": "cortisol"
+    },
+    {
+     "label": "D",
+     "body": "dopamine"
+    },
+    {
+     "label": "E",
+     "body": "Gaba"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 18,
+   "n": 40,
+   "type": "multiple",
+   "stem": "parmi ces ligands suivants, un possède un récepteur canal",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sérotonine"
+    },
+    {
+     "label": "B",
+     "body": "Noradrénaline"
+    },
+    {
+     "label": "C",
+     "body": "EGF (epidermal grawth factor)"
+    },
+    {
+     "label": "D",
+     "body": "ANP (atrial natri uretic peptide)"
+    },
+    {
+     "label": "E",
+     "body": "acetylcholine"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 18,
+   "n": 41,
+   "type": "multiple",
+   "stem": "parmi ces molécules, une n’est pas un second messager",
+   "options": [
+    {
+     "label": "A",
+     "body": "le calcium"
+    },
+    {
+     "label": "B",
+     "body": "l’IP3 (inositol triphosphate)"
+    },
+    {
+     "label": "C",
+     "body": "le DAG (diacyl glycérol)"
+    },
+    {
+     "label": "D",
+     "body": "AMPc"
+    },
+    {
+     "label": "E",
+     "body": "PKA (protéine kinase A)"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 19,
+   "n": 42,
+   "type": "multiple",
+   "stem": "parmi ces molécules suivantes, une est un agoniste de l’acétylcholine pour le récepteur canal",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscarine"
+    },
+    {
+     "label": "B",
+     "body": "Atropine"
+    },
+    {
+     "label": "C",
+     "body": "Curare"
+    },
+    {
+     "label": "D",
+     "body": "Morphine"
+    },
+    {
+     "label": "E",
+     "body": "nicotine"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 19,
+   "n": 43,
+   "type": "multiple",
+   "stem": "les récepteurs couplés aux protéines G sont à",
+   "options": [
+    {
+     "label": "A",
+     "body": "5 sous unités"
+    },
+    {
+     "label": "B",
+     "body": "12 domaines transmembranaires"
+    },
+    {
+     "label": "C",
+     "body": "7 domaines transmembranaires"
+    },
+    {
+     "label": "D",
+     "body": "2 sous unité α"
+    },
+    {
+     "label": "E",
+     "body": "4 domaines transmembranaires"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 19,
+   "n": 44,
+   "type": "multiple",
+   "stem": "trouver l’intrus",
+   "options": [
+    {
+     "label": "A",
+     "body": "GMPc"
+    },
+    {
+     "label": "B",
+     "body": "IP3"
+    },
+    {
+     "label": "C",
+     "body": "DAG"
+    },
+    {
+     "label": "D",
+     "body": "Ca++"
+    },
+    {
+     "label": "E",
+     "body": "PKA"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 20,
+   "n": 51,
+   "type": "multiple",
+   "stem": "parmi ces ligands suivants, un possède un récepteur canal",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sérotonine"
+    },
+    {
+     "label": "B",
+     "body": "Noradrénaline"
+    },
+    {
+     "label": "C",
+     "body": "EGF (epidermal grawth factor)"
+    },
+    {
+     "label": "D",
+     "body": "ANP (atrial natriuretic peptide)"
+    },
+    {
+     "label": "E",
+     "body": "Acetylcholine"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 20,
+   "n": 52,
+   "type": "multiple",
+   "stem": "Concernant les molécules informatives : cocher la ou les proposition(s) juste (s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les molécules informatives hydrosolubles circulent dans le plasma sous forme libre."
+    },
+    {
+     "label": "B",
+     "body": "Les molécules informatives liposolubles circulent dans le plasma sous forme liée à des protéines."
+    },
+    {
+     "label": "C",
+     "body": "Les molécules informatives liposolubles activent des récepteurs couplés à la protéine G."
+    },
+    {
+     "label": "D",
+     "body": "Les molécules informatives hydrosolubles peuvent activer des récepteurs enzymatiques."
+    },
+    {
+     "label": "E",
+     "body": "Les radicaux libres agissent directement sur des enzymes cytosoliques"
+    }
+   ],
+   "key": "ABDE",
+   "rawKey": "ABDE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 20,
+   "n": 53,
+   "type": "multiple",
+   "stem": "Lors de l’activation d’une protéine G : cocher la ou les proposition(s) juste (s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le GDP est phosphorylé en GTP sur la sous-unité a."
+    },
+    {
+     "label": "B",
+     "body": "Les sous-unités B et v viennent se dissocier de la sous-unité alpha"
+    },
+    {
+     "label": "C",
+     "body": "La fermeture d’un canal ionique peut-être déclenchée."
+    },
+    {
+     "label": "D",
+     "body": "L'activité de l'adénylate cyclase peut-être inhibée."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "BCD",
+   "rawKey": "BCD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 21,
+   "n": 54,
+   "type": "multiple",
+   "stem": "Concernant l’activation des récepteurs nucléaires : cocher la proposition juste",
+   "options": [
+    {
+     "label": "A",
+     "body": "Défixation des HSP/liaison du ligand sur le RN/transconformation /dimérisation/fixation à l’ADN"
+    },
+    {
+     "label": "B",
+     "body": "Fixation du ligand sur RN/défixation des HSP/transconformation/dimérisation/fixation à l’ADN."
+    },
+    {
+     "label": "C",
+     "body": "Fixation du ligand sur RN/défixation des HSP/transconformation/fixation à ‘ADN/dimérisation."
+    },
+    {
+     "label": "D",
+     "body": "Fixation à l'ADN/fixation du ligand sur RN/défixation des HSP/transconformation/dimérisation"
+    },
+    {
+     "label": "E",
+     "body": "Fixation du ligand sur RN/défixation des HSP/dimérisation /transconformation/fixation à l’ADN."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 23,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Les molécules de signalisation hydrophiles :",
+   "options": [
+    {
+     "label": "A",
+     "body": "ont une durez de vie très courte"
+    },
+    {
+     "label": "B",
+     "body": "sont reconnues par des récepteurs spécifiques intracellulaires"
+    },
+    {
+     "label": "C",
+     "body": "provoquent une réponse de courte durée"
+    },
+    {
+     "label": "D",
+     "body": "ne traversent pas la membrane plasmique"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 23,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Les molécules de signalisation hydrophobes :",
+   "options": [
+    {
+     "label": "A",
+     "body": "circulent librement dans le sang"
+    },
+    {
+     "label": "B",
+     "body": "diffusent à travers la membrane plasmique et n’agissent pas par l'intermédiaire de récepteurs"
+    },
+    {
+     "label": "C",
+     "body": "induisent des réponses de plus longue durée que leurs homologues hydrophiles"
+    },
+    {
+     "label": "D",
+     "body": "régulent généralement la transcription des gènes"
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 23,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Parmi les molécules de signalisation suivantes, laquelle (lesquelles) est (sont) lipophile (s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "l’insuline"
+    },
+    {
+     "label": "B",
+     "body": "Hormones stéroïdes"
+    },
+    {
+     "label": "C",
+     "body": "Neurotransmetteurs"
+    },
+    {
+     "label": "D",
+     "body": "Facteurs de croissance"
+    },
+    {
+     "label": "E",
+     "body": "NO (monoxyde d'azote)"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 23,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Concernant la structure des récepteurs nucléaires :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le site de fixation de l'hormone hydrophile est localisé dans le domaine E"
+    },
+    {
+     "label": "B",
+     "body": "L'extrémité N-terminale est très conservée et agit comme un facteur de régulation de la transcription"
+    },
+    {
+     "label": "C",
+     "body": "Le signal de localisation nucléaire (NL5) est localisé dans le domaine D"
+    },
+    {
+     "label": "D",
+     "body": "le domaine de fixation à l'ADN a une structure en doigts de zinc"
+    },
+    {
+     "label": "E",
+     "body": "La région ERH (élément de réponse à l'hormone) est localisée dans le domaine C"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 23,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant le mode d'action des récepteurs nucléaires aux hormones stéroïdes",
+   "options": [
+    {
+     "label": "A",
+     "body": "En absence de ligand, le récepteur a une localisation cytosolique"
+    },
+    {
+     "label": "B",
+     "body": "En absence de ligand, le récepteur est dimérique"
+    },
+    {
+     "label": "C",
+     "body": "En absence de ligand, le signal de localisation nucléaire (NLS) est masqué par des protéines associées au récepteur (PAR)"
+    },
+    {
+     "label": "D",
+     "body": "La fixation du ligand entraine un changement de conformation du récepteur, une dissociation des PAR et une translocation du récepteur vers le noyau"
+    },
+    {
+     "label": "E",
+     "body": "La fixation du ligand entraine la fixation du récepteur sur des séquences d'ADN appelées ERH (élément de réponse à l'hormone)"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 23,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Concernant le récepteur nicotinique :",
+   "options": [
+    {
+     "label": "A",
+     "body": "est localisé dans la membrane plasmique des cellules musculaires"
+    },
+    {
+     "label": "B",
+     "body": "Joue un rôle dans la contraction musculaire"
+    },
+    {
+     "label": "C",
+     "body": "C'est un récepteur enzyme"
+    },
+    {
+     "label": "D",
+     "body": "Son ligand naturel est l’acétylcholine"
+    },
+    {
+     "label": "E",
+     "body": "il est impliqué dans la communication synaptique"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 24,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant le récepteur nicotinique :",
+   "options": [
+    {
+     "label": "A",
+     "body": "il est présent à la surface des cellules post-synaptiques dans les jonctions neuro-musuclaires"
+    },
+    {
+     "label": "B",
+     "body": "c’est un canal ionique pentamérique et chacune de ses sous-unités possède à domaines transmembranaires"
+    },
+    {
+     "label": "C",
+     "body": "En absence de son ligand spécifique, le canal est fermé"
+    },
+    {
+     "label": "D",
+     "body": "La fixation de l'acétylcholine sur ses deux sous-unités y provoque l'ouverture du canal"
+    },
+    {
+     "label": "E",
+     "body": "L'ouverture du canal provoque l'hyperpolarisation de la cellule musculaire et sa contractio"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 24,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs couplés à la protéine G",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce sont des protéines à 4 domaines membranaires"
+    },
+    {
+     "label": "B",
+     "body": "leur ligand extracellulaire est une molécule hydrophile qualifiée de second messager"
+    },
+    {
+     "label": "C",
+     "body": "ils sont couplé à des protéines G monomériques"
+    },
+    {
+     "label": "D",
+     "body": "les protéines G couplés à ces récepteurs activent directement des effecteurs primaires pouvant être des canaux ou des enzymes"
+    },
+    {
+     "label": "E",
+     "body": "Leurs activation entraine une amplification du signal"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 24,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Concernant les protéines G couplées aux récepteurs à 7 domaines transmembranaires :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elles sont qualifiées d'hétérotrimériques car elles sont composées de 3 sous-unités distinctes : α, β et γ"
+    },
+    {
+     "label": "B",
+     "body": "ces trois sous unités sont dans un état dissociés (au repos)"
+    },
+    {
+     "label": "C",
+     "body": "la sous-unité β fixe les nucléotides guanyliques et possède l’activité GTPasique"
+    },
+    {
+     "label": "D",
+     "body": "la fixation du ligand sur le récepteur active l'activité GTPasique de la protéine G et provoque sa dissociation"
+    },
+    {
+     "label": "E",
+     "body": "Une fois dissociée des deux autres sous-unités, la sous-unité α est capable de moduler l'activité d'un effecteur primaire"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 24,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs couplés aux protéines G activant la voie de l'adénylate cyclase, la fixation du ligand sur le récepteur a les conséquences suivantes :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Activation de l’adénylate cyclase par le dimère de sous-unités β et γ →Synthèse d'AMPc à partir d'ATP → Activation de la PKA → Phosphorylation des substrats de la PKA"
+    },
+    {
+     "label": "B",
+     "body": "Activation de l'adénylate cyclase par la sous-unité α → Synthèse d'AMPc à partir d'ATP →Fixation de l’AMPc sur son récepteur de la membrane du REL →Augmentation de la concentration cytosolique de Ca2+ →Activation de la PKC →Phosphorylation des substrats de la PKC"
+    },
+    {
+     "label": "C",
+     "body": "Activation de l'adénylate cyclase par la sous-unité α →Synthèse d'AMPc à partir d'ATP→ Activation de la PKA →Phosphorylation des substrats de la PKA"
+    },
+    {
+     "label": "D",
+     "body": "Activation de l'adénylate cyclase par la sous-unité α →Synthèse d'AMPc à partir d'ATP →Activation de la PKC →Phosphorylation des substrats de la PKA C"
+    },
+    {
+     "label": "E",
+     "body": "Activation de l’adénylate cyclase par le dimère de sous-unités β et γ →Synthèse d'AMPc à partir d'ATP → Fixation de l’AMPc sur son récepteur de la membrane du REL → Augmentation de la concentration cytosolique de Ca2+ → Activation de la CAM kinase → Phosphorylation des substrats de la Cam kinase"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 25,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs couplés aux protéines G activant la voie de la phospholipase C (PLC), la fixation du ligand sur le récepteur a les conséquences suivantes:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Activation de la PLC → Synthèse d'IP3 et de DAG à partir de PIP2 → Activation de la PKA → Phosphorylation des substrats de la PKA"
+    },
+    {
+     "label": "B",
+     "body": "Activation de la PLC → Synthèse d'IP3 à partir de PIP2 → Activation de la PKC → Phosphorylation des substrats de la PKC"
+    },
+    {
+     "label": "C",
+     "body": "Activation de la PLC→ Synthèse d'IP3 à partir de PIP2 → Fixation de l’IP3 sur son récepteur de la membrane du REL → Augmentation de la concentration cytosolique de Ca2+ → Fixation du Ca2+ sur la calmoduline → Activation de la CAM kinase → Phosphorylation des substrats de la Cam kinase"
+    },
+    {
+     "label": "D",
+     "body": "Activation de la PLC→ Synthèse d'IP3 à partir de PIP2 → Fixation de l’IP3 sur son récepteur de la membrane du REL → Diminution de la concentration cytosolique de Ca2+ → Inhibition de la Cam Kinase"
+    },
+    {
+     "label": "E",
+     "body": "Activation de la PLC → Synthèse de DAG à partir de PIP2 → Activation de la PKC → Phosphorylation des substrats de la PKC"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 25,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs muscariniques :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce sont des canaux ligand-dépendants"
+    },
+    {
+     "label": "B",
+     "body": "Leur ligand endogène est la muscarine"
+    },
+    {
+     "label": "C",
+     "body": "Ils sont retrouvés sur la membrane plasmique des cellules des muscles cardiaques"
+    },
+    {
+     "label": "D",
+     "body": "La fixation de leur ligand provoque l'ouverture des canaux potassiques de la membrane plasmique de la cellule cible"
+    },
+    {
+     "label": "E",
+     "body": "La fixation de leur ligand provoque une sortie de charges positives du cytosol vers le milieu extracellulaire et une hyperpolarisation de la cellule cible"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "communication-cellulaire",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 25,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Concernant les récepteurs des facteurs de croissance",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce sont des récepteurs enzymes à activité tyrosine kinase"
+    },
+    {
+     "label": "B",
+     "body": "La fixation de leur ligand entraine leur dimérisation et leur activation"
+    },
+    {
+     "label": "C",
+     "body": "la fixation de leur ligand entraîne l'activation de la protéine G Ras par l'intermédiaire de Grb2 et Sos"
+    },
+    {
+     "label": "D",
+     "body": "la fixation de leur ligand induit des phosphorylations en chaîne et aboutit à l'activation d'une MAP kinase"
+    },
+    {
+     "label": "E",
+     "body": "Leur activation module la transcription de gènes cibles"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 26,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Le pourcentage de poids corporel représenté par le liquide interstitiel est de :",
+   "options": [
+    {
+     "label": "A",
+     "body": "20%."
+    },
+    {
+     "label": "B",
+     "body": "40 %."
+    },
+    {
+     "label": "C",
+     "body": "15 %"
+    },
+    {
+     "label": "D",
+     "body": "5%."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 26,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Concernant la composition ionique des compartiments liquidiens :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le sodium est majoritairement intracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "le chlore est majoritairement extracellulaire."
+    },
+    {
+     "label": "C",
+     "body": "Les HCO; sont majoritairement extracellulaires."
+    },
+    {
+     "label": "D",
+     "body": "Le K* est majoritairement extracellulaire."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 26,
+   "n": 3,
+   "type": "multiple",
+   "stem": "La concentration plasmatique de Na' étant de 145 mmol/L et la glycémie est de 12 mmol/L. L'osmolarité plasmatique",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est de 290 mOsmol/L."
+    },
+    {
+     "label": "B",
+     "body": "Est de 312 mOsmol/L."
+    },
+    {
+     "label": "C",
+     "body": "Est élevée."
+    },
+    {
+     "label": "D",
+     "body": "Est normale."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 26,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Concernant les compartiments liquidiens de l'organisme: cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "le sang circulant fart partie des liquides extracellulaires"
+    },
+    {
+     "label": "B",
+     "body": "Les liquides interstitiels ne sont constitués que par 'eau intercellulaire."
+    },
+    {
+     "label": "C",
+     "body": "te volume du liquide extracellulaire est indépendant de la natrémie."
+    },
+    {
+     "label": "D",
+     "body": "Un œdème est une augmentation du volume du liquide interstitiel,"
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 26,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant le liquide intracellulaire: cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est pauvre en protéines."
+    },
+    {
+     "label": "B",
+     "body": "Est riche en K+."
+    },
+    {
+     "label": "C",
+     "body": "Est pauvre en Cl-."
+    },
+    {
+     "label": "D",
+     "body": "Son osmolarité est supérieure à cellule du plasma."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Concernant le liquide interstitiel : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Représente 20 % du poids corporel."
+    },
+    {
+     "label": "B",
+     "body": "Est riche en protéines."
+    },
+    {
+     "label": "C",
+     "body": "Est de composition ionique identique à celle du plasma."
+    },
+    {
+     "label": "D",
+     "body": "Est synonyme de la lymphe."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant la pression oncotique : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est due, dans le plasma, aux sels de sodium."
+    },
+    {
+     "label": "B",
+     "body": "Est plus élevé dans le secteur interstitiel que vasculaire."
+    },
+    {
+     "label": "C",
+     "body": "S'oppose à la sortie d'eau hors des capillaires."
+    },
+    {
+     "label": "D",
+     "body": "Sa diminution est à l'origine d'apparition d'œdèmes."
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Concernant la loi de Starling au pôle artériel; cocher la ou les proposition(s)juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "On assiste à une sortie de liquide vers l'interstitium."
+    },
+    {
+     "label": "B",
+     "body": "On assiste à un phénomène de filtration."
+    },
+    {
+     "label": "C",
+     "body": "On assiste à une entré de liquide dans le capillaire."
+    },
+    {
+     "label": "D",
+     "body": "On assiste à un phénomène de réabsorption. Anciennes Questions 2010-2022"
+    }
+   ],
+   "key": "AB",
+   "rawKey": "AB",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Concernant le milieu intérieur : cocher la ou les proposition(s) juste(s) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il s’agit de l’association du secteur intracellulaire et du secteur extracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "Est un milieu de composition homogène."
+    },
+    {
+     "label": "C",
+     "body": "composition est maintenue stable grâce aux systèmes de contrôles homéostatiques."
+    },
+    {
+     "label": "D",
+     "body": "Le volume du compartiment transcellulaire est plus grand que le volume plasmatique."
+    },
+    {
+     "label": "E",
+     "body": "Son volume est plus important chez le nourrisson et la femme enceinte."
+    }
+   ],
+   "key": "CE",
+   "rawKey": "CE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Sachant que l’eau représente 60% du poids corporel d’un sujet de 60 kg dont l’hématocrite est égal à 40% , le volume : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Du liquide extracellulaire est égal à 12L."
+    },
+    {
+     "label": "B",
+     "body": "Du liquide intracellulaire est égal à 24L."
+    },
+    {
+     "label": "C",
+     "body": "Du sang est égal à 3l ;"
+    },
+    {
+     "label": "D",
+     "body": "Du secteur interstitiel est égal à 9L."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes ."
+    }
+   ],
+   "key": "ABD",
+   "rawKey": "ABD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Concernant la composition des compartiments liquidiens : cocher les propositions fausses :-",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les protéines sanguines représentent environ 50% des osmoles du plasma ."
+    },
+    {
+     "label": "B",
+     "body": "Le potassium est le principal cation du liquide interstitiel."
+    },
+    {
+     "label": "C",
+     "body": "Les protéines sont les principaux tampons du secteurs plasmatique."
+    },
+    {
+     "label": "D",
+     "body": "La natrémie est le principal déterminant de l’osmolarité extracellulaire."
+    },
+    {
+     "label": "E",
+     "body": "Il existe un gradient de sodium entre le milieu interstitiel et le milieu intracellulaire ."
+    }
+   ],
+   "key": "ABC",
+   "rawKey": "ABC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Concernant le liquide extracellulaire : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il est riche en chlore et pauvre en potassium."
+    },
+    {
+     "label": "B",
+     "body": "Il est riche en sodium et pauvre en phosphate."
+    },
+    {
+     "label": "C",
+     "body": "Comprend le liquide intravasculaire et le liquide interstitiel."
+    },
+    {
+     "label": "D",
+     "body": "Représente 1/3 des liquides de l’organismes."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": "ABCDE OU E",
+   "status": "draft",
+   "issues": [
+    "ambiguous_key"
+   ]
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 28,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Concernant le bilan de l’eau dans l’organisme : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les entrées d’eau sont régulées par la soif."
+    },
+    {
+     "label": "B",
+     "body": "L’eau plasmatique fait partie du compartiment interstitiel et représente 4% du poids corporel."
+    },
+    {
+     "label": "C",
+     "body": "Comprend le liquide intravasculaire et le liquide interstitiel."
+    },
+    {
+     "label": "D",
+     "body": "Représente 1/3 des liquides de l’organismes."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 28,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Concernant les échanges : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il y a des échanges permanents entre le milieu extérieur et le milieu intérieur ."
+    },
+    {
+     "label": "B",
+     "body": "Les échanges se font par diffusion au niveau des artères."
+    },
+    {
+     "label": "C",
+     "body": "La pression hydrostatique est la pression exercée par le sang à l’extérieur des vaisseaux"
+    },
+    {
+     "label": "D",
+     "body": "La pression osmotique diminue lorsqu’on s’éloigne du cœur."
+    },
+    {
+     "label": "E",
+     "body": "L’O₂, les nutriments et l’albumine passent du liquide intra vasculaire vers le liquides interstitiel."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 28,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Concernant la lymphe : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est un secteur du compartiment intracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "A une composition ionique proche de celle du plasma."
+    },
+    {
+     "label": "C",
+     "body": "Ne contient pas de protéines ."
+    },
+    {
+     "label": "D",
+     "body": "Permet la réabsorption de 50% du liquide filtré sur le versant artériolaire de réseau capillaire."
+    },
+    {
+     "label": "E",
+     "body": "Rejoint la circulation sanguine."
+    }
+   ],
+   "key": "BE",
+   "rawKey": "BE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 28,
+   "n": 16,
+   "type": "multiple",
+   "stem": "A propos de l’eau de l‘organisme : cocher la ou les proposition (s) juste (s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "L’eau représente 70 % du poids du corps soit 42 L pour un homme"
+    },
+    {
+     "label": "B",
+     "body": "Un adulte de 80 Kg possède 48L d’eau."
+    },
+    {
+     "label": "C",
+     "body": "La teneur du corps en eau augmente progressivement avec l’âge."
+    },
+    {
+     "label": "D",
+     "body": "Chez un nouveau-né, le LEC représente 40 % de l’eau corporelle totale."
+    },
+    {
+     "label": "E",
+     "body": "La composante extracellulaire et intravasculaire correspond au plasma."
+    }
+   ],
+   "key": "BDE",
+   "rawKey": "BDE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 28,
+   "n": 17,
+   "type": "multiple",
+   "stem": "Concernant le milieu intracellulaire : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Son volume est de 28 L chez un adulte de 70 Kg."
+    },
+    {
+     "label": "B",
+     "body": "Il est pauvre en protéines"
+    },
+    {
+     "label": "C",
+     "body": "Il est riche en K+"
+    },
+    {
+     "label": "D",
+     "body": "Il est pauvre en C"
+    },
+    {
+     "label": "E",
+     "body": "Son osmolarité est supérieure à celle du plasma."
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "milieu-interieur",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 28,
+   "n": 18,
+   "type": "multiple",
+   "stem": "Concernant le milieu interstitiel : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Son volume est de 3,5 L chez un adulte de 70 Kg."
+    },
+    {
+     "label": "B",
+     "body": "ll est riche en protéines."
+    },
+    {
+     "label": "C",
+     "body": "Il est riche en Na+"
+    },
+    {
+     "label": "D",
+     "body": "Il est pauvre en K+."
+    },
+    {
+     "label": "E",
+     "body": "Son osmolarité est inférieure à celle du secteur intracellulaire."
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 30,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Concernant la physiologie de la synapse",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les synapses sont toujours unidirectionnelles, ce qui permet de diriger des signaux vers des cibles spécifiques."
+    },
+    {
+     "label": "B",
+     "body": "La libération des vésicules des terminaisons présynaptiques est permise par la forte densité en canaux calciques ligand-dépendants."
+    },
+    {
+     "label": "C",
+     "body": "Un neurotransmetteur activateur peut entrainer soit une ouverture des canaux sodium soit une fermeture des canaux potassium ou des canaux chlore."
+    },
+    {
+     "label": "D",
+     "body": "L'ouverture des canaux potassiques provoque un potentiel post-synaptique inhibiteur (PPSI) par diminution de la charge de la cellule."
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 30,
+   "n": 2,
+   "type": "multiple",
+   "stem": ":Dans la synapse neuromusculaire :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'arrivée du potentiel d'action pré-synaptique provoque une libération de calcium dans la fente synaptique."
+    },
+    {
+     "label": "B",
+     "body": "Le médiateur chimique libéré se fixe au niveau de la plaque motrice sur un récepteur chimiodépendant cholinergique de type nicotinique."
+    },
+    {
+     "label": "C",
+     "body": "Après son action, l'acétylcholine est détruite au niveau des récepteurs cholinergiques nicotiniques par l'acétylcholine transférase."
+    },
+    {
+     "label": "D",
+     "body": "La nicotine, comme le curare, est un agoniste de l'acétylcholine."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 30,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Concernant la conduction saltatoire",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle est plus rapide sur les fibres A6 que sur les fibres C."
+    },
+    {
+     "label": "B",
+     "body": "Elle est proportionnelle à la racine carrée du diamètre des S axones."
+    },
+    {
+     "label": "C",
+     "body": "Elle se fait en raison e courants locaux de neud de Ranvier à neud de Ranvier."
+    },
+    {
+     "label": "D",
+     "body": "Elle peut être di-directionnelle si on provoque expérimentalement l'apparition des potentiels d'action."
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 31,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Concernant les synapses",
+   "options": [
+    {
+     "label": "A",
+     "body": "Pour la synapse électrique, la conduction des potentiels d'action est unidirectionnelle."
+    },
+    {
+     "label": "B",
+     "body": "Le délai de transmission des signaux est plus court dans une synapse chimique que dans une synapse électrique."
+    },
+    {
+     "label": "C",
+     "body": "La cellule post-synaptique d'une synapse chimique ne possède que des canaux ioniques couplés aux récepteurs synaptiques."
+    },
+    {
+     "label": "D",
+     "body": "Il existe pour certaines synapses chimiques des autorécepteurs pour le médiateur chimique qui sont situés au niveau de la terminaison pré-synaptique et qui exercent un rétrocontrôle de la libération de ce médiateur chimique."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 31,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant la synapse neuromusculaire",
+   "options": [
+    {
+     "label": "A",
+     "body": "La quantité d'acétylcholine qui est libérée par un potentiel d'action pré-synaptique est qui se fixe sur le récepteur muscarinique de la plaque motrice de la fibre striée squelettique est beaucoup plus importante que celle nécessaire pour obtenir un potentiel d'action musculaire."
+    },
+    {
+     "label": "B",
+     "body": "La synthèse de l'acétylcholine dans l'élément post-synaptique est assurée par l'enzyme acétylcholine estérase"
+    },
+    {
+     "label": "C",
+     "body": "Le curare est utilisé pour mettre en évidence le potentiel de plaque motrice parce que c'est un inhibiteur compétitif de l'acétylcholine."
+    },
+    {
+     "label": "D",
+     "body": "L'atteinte du seuil d'ouverture des canaux voltage-dépendants du sarcolemme permet la naissance et la propagation du potentiel d'action musculaire."
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 31,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Au sujet du récepteur NMDA : cocher la Ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'AMPA est un agoniste exogène."
+    },
+    {
+     "label": "B",
+     "body": "Son activation excessive peut induire la nécrose"
+    },
+    {
+     "label": "C",
+     "body": "Est un récepteur inotrope."
+    },
+    {
+     "label": "D",
+     "body": "Son ligand naturel est la sérotonine."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 31,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Au sujet du récepteur GABA-A : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est un récepteur métabotrope."
+    },
+    {
+     "label": "B",
+     "body": "Sa stimulation est associée à une entrée de chlorures dans le neurone postsynaptique."
+    },
+    {
+     "label": "C",
+     "body": "Sa stimulation est associée à l’apparition d'un potentiel post-synaptique inhibiteur (PPS)."
+    },
+    {
+     "label": "D",
+     "body": "Son activité peut être bloquée par la tétrodotoxine."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 31,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Au sujet des antagonistes et des agents bloquants : cocher la ou les proposition(s) fausse(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "la lidocaïne bloque le canal sodique voltage-dépendant."
+    },
+    {
+     "label": "B",
+     "body": "Le curare bloque le canal calcique voltage-dépendant."
+    },
+    {
+     "label": "C",
+     "body": "la tétrodotoxine bloque le canal sodique ligand-dépendant."
+    },
+    {
+     "label": "D",
+     "body": "l'ouabaïne bloque la pompe Na'/Ka."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 31,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Concernant la synapse neuro-musculaire: cocher la ou les proposition(s) juste(s) a le neurone présynaptique libère de l’acétylcholine.",
+   "options": [
+    {
+     "label": "B",
+     "body": "Le neurone présynaptique libère du glutamate."
+    },
+    {
+     "label": "C",
+     "body": "le curare peut la bloquer."
+    },
+    {
+     "label": "D",
+     "body": "L'atropine peut la bloquer."
+    }
+   ],
+   "key": "AC",
+   "rawKey": "AC",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels",
+    "key_not_in_options"
+   ]
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 32,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Concernant les synapses: cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "elles peuvent être activatrices ou inhibitrices."
+    },
+    {
+     "label": "B",
+     "body": "la jonction neuromusculaire est une synapse neuro-effectrice."
+    },
+    {
+     "label": "C",
+     "body": "au niveau des synapses électriques, le message est transmis par des courants ioniques."
+    },
+    {
+     "label": "D",
+     "body": "lors de la libération du neurotransmetteur, on observe le déclenchement d'un potentiel d'action au niveau de la membrane post synaptique."
+    }
+   ],
+   "key": "ABC",
+   "rawKey": "ABC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 32,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Concernant les synapses chimiques: cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "L’entrée de Ca2+ au niveau de l'élément post synaptique entraîne la production d'un potentiel post synaptique excitateur (PPSE)."
+    },
+    {
+     "label": "B",
+     "body": "Les vésicules contenues dans I'élément post synaptique contiennent un seul type de neuromédiateur."
+    },
+    {
+     "label": "C",
+     "body": "L’augmentation du Ca2+ intracellulaire provoque I'exocytose du neurotransmetteur."
+    },
+    {
+     "label": "D",
+     "body": "les canaux calciques situés sur la membrane pré synaptique sont voltage dépendant Anciennes Questions 2010-2022"
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 32,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Concernant les synapses : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elles sont toujours unidirectionnelles."
+    },
+    {
+     "label": "B",
+     "body": "Elles peuvent être activatrices ou inhibitrices."
+    },
+    {
+     "label": "C",
+     "body": "La jonction neuromusculaire est une synapse neuro-effectrice"
+    },
+    {
+     "label": "D",
+     "body": "Au niveau des synapses électriques, le message est transmis par des courants ioniques."
+    },
+    {
+     "label": "E",
+     "body": "Lors de la libération du neurotransmetteur, on observe le déclenchement d’un potentiel d’action au niveau de la membrane post synaptique"
+    }
+   ],
+   "key": "BCD",
+   "rawKey": "BCD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 32,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Concernant les synapses chimiques cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "L’entrée de Ca » au niveau de l’élément post-synaptique entraine la production d’un potentiel Post synaptique excitateur (PPSE)."
+    },
+    {
+     "label": "B",
+     "body": "Les vésicules contenues dans l’élément post-synaptique contiennent un seul type de Neuromédiateur."
+    },
+    {
+     "label": "C",
+     "body": "L’augmentation du Ca2* intracellulaire provoque l’exocytose du neurotransmetteur."
+    },
+    {
+     "label": "D",
+     "body": "Les canaux calciques situés sur la membrane pré synaptique sont voltage dépendant."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses."
+    }
+   ],
+   "key": "ACD",
+   "rawKey": "ACD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "transmission-synaptique",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 32,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Concernant les synapses chimiques",
+   "options": [
+    {
+     "label": "A",
+     "body": "l'entrée de Ca++ au niveau de l'élément post synaptique entraine la production d'un potentiel post synaptique excitateur (PPSE)."
+    },
+    {
+     "label": "A",
+     "body": "les vésicules contenues dans l'élément post synaptique contiennent un seul type de neuromédiateur"
+    },
+    {
+     "label": "B",
+     "body": "l'augmentation du Ca++ intracellulaire provoque l'exocytose du neurotransmetteur."
+    },
+    {
+     "label": "C",
+     "body": "les canaux calciques situés sur la membrane pré-synaptique sont voltage dépendant"
+    },
+    {
+     "label": "D",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "jonction-neuromusculaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 34,
+   "n": 1,
+   "type": "multiple",
+   "stem": "En ce qui concerne la fibre musculaire strié squelettique",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle est I'effecteur du système nerveux somatique."
+    },
+    {
+     "label": "B",
+     "body": "Elle a un potentiel d'action dont la durée est plus courte que celle du potentiel d'action de la fibre nerveuse myélinisée qui l'innerve."
+    },
+    {
+     "label": "C",
+     "body": "Elle conduit des potentiels d'action avec une vitesse inférieure à la vitesse à laquelle la fibre nerveuse myélinisée qui l'innerve, conduit les potentiels d'action nerveux."
+    },
+    {
+     "label": "D",
+     "body": "Elle possède la propriété de se laisser déformer sous l'effet d'une force et de ne pas reprendre sa forme lorsque la force est supprimée."
+    }
+   ],
+   "key": "AC",
+   "rawKey": "AC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "jonction-neuromusculaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 34,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Dans la synapse neuromusculaire :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'arrivée du potentiel d'action pré-synaptique provoque une libération de calcium dans la fente synaptique."
+    },
+    {
+     "label": "B",
+     "body": "Le médiateur chimique libéré se fixe au niveau de la plaque motrice sur un récepteur chimiodépendant cholinergique de type nicotinique."
+    },
+    {
+     "label": "C",
+     "body": "Après son action, l'acétylcholine est détruite au niveau des récepteurs cholinergiques nicotiniques par l'acétylcholine transférase."
+    },
+    {
+     "label": "D",
+     "body": "La nicotine, comme le curare, est un agoniste de l'acétylcholine."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "jonction-neuromusculaire",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 34,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Concernant la synapse neuromusculaire",
+   "options": [
+    {
+     "label": "A",
+     "body": "La quantité d'acétylcholine qui est libérée par un potentiel d'action pré-synaptique est qui se fixe sur le récepteur muscarinique de la plaque motrice de la fibre striée squelettique est beaucoup plus importante que celle nécessaire pour obtenir un potentiel d'action musculaire."
+    },
+    {
+     "label": "B",
+     "body": "La synthèse de l'acétylcholine dans l'élément post-synaptique est assurée par l'enzyme acétylcholine estérase"
+    },
+    {
+     "label": "C",
+     "body": "Le curare est utilisé pour mettre en évidence le potentiel de plaque motrice parce que c'est un inhibiteur compétitif de l'acétylcholine."
+    },
+    {
+     "label": "D",
+     "body": "L'atteinte du seuil d'ouverture des canaux voltage-dépendants du sarcolemme permet la naissance et la propagation du potentiel d'action musculaire. La Jonctions Neuromusculaire"
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "jonction-neuromusculaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Concernant la synapse neuro-musculaire: cocher la ou les proposition(s) juste(s) a le neurone présynaptique libère de l’acétylcholine.",
+   "options": [
+    {
+     "label": "B",
+     "body": "Le neurone présynaptique libère du glutamate."
+    },
+    {
+     "label": "C",
+     "body": "le curare peut la bloquer."
+    },
+    {
+     "label": "D",
+     "body": "L'atropine peut la bloquer."
+    }
+   ],
+   "key": "AC",
+   "rawKey": "AC",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels",
+    "key_not_in_options"
+   ]
+  },
+  {
+   "course": "jonction-neuromusculaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant la jonction neuro-musculaire: cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le corps cellulaire du motoneurone se trouve dans la corne antérieure."
+    },
+    {
+     "label": "B",
+     "body": "on peut trouver plusieurs plaques motrices par fibre musculaire striée squelettique."
+    },
+    {
+     "label": "C",
+     "body": "au niveau de certaines plaques motrices, l'acétylcholine peut avoir un effet inhibiteur"
+    },
+    {
+     "label": "D",
+     "body": "les récepteurs cholinergiques à ce niveau sont de type nicotinique Anciennes Questions 2010-2022"
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "jonction-neuromusculaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Concernant la jonction neuro-musculaire : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le corps cellulaire du motoneurone se trouve dans la corne antérieure de la moelle épinière."
+    },
+    {
+     "label": "B",
+     "body": "On peut trouver plusieurs plaques motrices par fibre musculaire striée squelettique."
+    },
+    {
+     "label": "C",
+     "body": "Au niveau de certaines plaques motrices, l’acétylcholine peut avoir un effet inhibiteur."
+    },
+    {
+     "label": "D",
+     "body": "Les récepteurs cholinergiques à ce niveau sont de type muscarinique."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "jonction-neuromusculaire",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant la jonction neuro-musculaire",
+   "options": [
+    {
+     "label": "A",
+     "body": "le corps cellulaire du neurone se trouve dans la corne postérieure de la moelle épinière"
+    },
+    {
+     "label": "B",
+     "body": "on peut trouver plusieurs plaques motrices par fibre musculaire striée squelettique."
+    },
+    {
+     "label": "C",
+     "body": "au niveau de certaines plaques motrices, l'acétylcholine peut avoir un effet inhibiteur"
+    },
+    {
+     "label": "D",
+     "body": "les récepteurs cholinergiques à ce niveau sont de type muscarinique"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 37,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Concernant les propriétés électriques d'un neurone",
+   "options": [
+    {
+     "label": "A",
+     "body": "Comme toutes les cellules vivantes de l'organisme, le neurone est une cellule excitable."
+    },
+    {
+     "label": "B",
+     "body": "La polarisation membranaire de repos est due à la présence de quelques charges positives en excès à la face externe de la membrane plasmique par rapport à la face interne."
+    },
+    {
+     "label": "C",
+     "body": "In vitro, un potentiel d'action peut apparaitre au niveau d'une dendrite lorsqu'on lui délivre un stimulus efficace avec un stimulateur électrique."
+    },
+    {
+     "label": "D",
+     "body": "La vitesse de conduction des potentiels d'action est plus élevée sur un neurone amyélinique que sur un axone myéliniques de petit calibre."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 37,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Concernant le potentiel de membrane d'un neurone au repos (en dehors de toute influence excitatrice ou inhibitrice)",
+   "options": [
+    {
+     "label": "A",
+     "body": "ll est dû au fait que la membrane plasmique du neurone présente une perméabilité sélective aux ions."
+    },
+    {
+     "label": "B",
+     "body": "Il s'explique par le faut que les transferts passifs des ions K+ sont plus faciles que ceux des ions Na+."
+    },
+    {
+     "label": "C",
+     "body": "Pour que les échanges passifs des ions K+ et Na+ soient réalisables, des mécanismes de transport actifs de ces ions fonctionnent en permanence pour créer et entretenir des gradients de concentration."
+    },
+    {
+     "label": "D",
+     "body": "Sa disparition est le signe de la mort du neurone."
+    }
+   ],
+   "key": "ABCD",
+   "rawKey": "ABCD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 37,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Concernant le neurone :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'amplitude des potentiels d'action d'un seul et même axone varie en fonction de la tension des stimuli supra liminaires (efficaces)."
+    },
+    {
+     "label": "B",
+     "body": "Les fibres afférentes des nerfs peuvent être myélinique et amyéliniques."
+    },
+    {
+     "label": "C",
+     "body": "Les potentiels d'action d'une seule et même cellule nerveuse ont une vitesse de propagation qui diminue au fur et à mesure que l'on s'éloigne du point de stimulation."
+    },
+    {
+     "label": "D",
+     "body": "Les axones des neurones préganglionnaires et des neurones postganglionnaires des voies afférentes du système nerveux végétatifs sont myélinisés."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 38,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Concernant le potentiel de repos des neurones: cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "est caractérisé par un excès de charges positives à la face interne de la membrane plasmique."
+    },
+    {
+     "label": "B",
+     "body": "est de l'ordre de 70mV."
+    },
+    {
+     "label": "C",
+     "body": "est maintenu seulement grâce aux pompes Na+ /K+ nécessitant de I'ATP"
+    },
+    {
+     "label": "D",
+     "body": "est présent dans toutes les cellules vivantes Anciennes Questions 2010-2022"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 38,
+   "n": 5,
+   "type": "multiple",
+   "stem": "A propos du potentiel membranaire de repos : cocher la proposition juste",
+   "options": [
+    {
+     "label": "A",
+     "body": "Réduite de la perméabilité sélective de la membrane neuronale aux ions."
+    },
+    {
+     "label": "B",
+     "body": "Est maintenu même après la mort de la cellule."
+    },
+    {
+     "label": "C",
+     "body": "A une valeur fixe et stable à exactement -70 mV chez l'homme."
+    },
+    {
+     "label": "D",
+     "body": "Son maintien ne nécessite pas de dépense énergétique."
+    },
+    {
+     "label": "E",
+     "body": "Est spécifique de la cellule nerveuse."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 38,
+   "n": 6,
+   "type": "multiple",
+   "stem": "A propos du potentiel de repos des neurones : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "La concentration en ions K+ est supérieure en extracellulaire qu’en intracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "La membrane est davantage perméable aux ions K qu’aux ions Na+."
+    },
+    {
+     "label": "C",
+     "body": "Les canaux de fuite K+ engendrent un important flux sortant d’ions K+."
+    },
+    {
+     "label": "D",
+     "body": "Les pompes Na+/K +» assurent le transport d’ions K+ hors de la cellule."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 38,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant la conduction du potentiel membranaire",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle est orthodromique quand l'influx se dirige vers le corps cellulaire"
+    },
+    {
+     "label": "B",
+     "body": "Elle est orthodromique quand l'influx se dirige vers l'axone"
+    },
+    {
+     "label": "C",
+     "body": "Elle est antidromique quand l'influx se dirige vers l'axone"
+    },
+    {
+     "label": "D",
+     "body": "In vivo, elle s'effectue dans le sens antidromique"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 38,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Un neurone :",
+   "options": [
+    {
+     "label": "A",
+     "body": "est constitué de plusieurs cellules nerveuses."
+    },
+    {
+     "label": "B",
+     "body": "peut quelquefois sécréter une hormone qui agira à distance."
+    },
+    {
+     "label": "C",
+     "body": "est toujours constitué de trois parties : dendrite, corps cellulaire et cellule de Schwann"
+    },
+    {
+     "label": "D",
+     "body": "est le seul type de cellule qui a un potentiel de membrane."
+    },
+    {
+     "label": "E",
+     "body": "est le seul type de cellule qui est excitable"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 38,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Le potentiel de repos des neurones",
+   "options": [
+    {
+     "label": "A",
+     "body": "est caractérisé par un excès de charges positives à la face interne de la membrane plasmique"
+    },
+    {
+     "label": "B",
+     "body": "est de l'ordre de 70mV"
+    },
+    {
+     "label": "C",
+     "body": "est maintenu seulement grâce aux pompes Na+/K+ nécessitant de I'ATP."
+    },
+    {
+     "label": "D",
+     "body": "est maintenu grâce à des canaux potassiques voltage dépendant"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 39,
+   "n": 10,
+   "type": "multiple",
+   "stem": "A propos du potentiel de repos des neurones",
+   "options": [
+    {
+     "label": "A",
+     "body": "la concentration en ions K+ est supérieure en extracellulaire qu'en intracellulaire"
+    },
+    {
+     "label": "B",
+     "body": "la membrane est d’avantage perméable aux ions K+ qu'aux ions Na+"
+    },
+    {
+     "label": "C",
+     "body": "les canaux de fuite K+ engendrent un important flux sortant d'ions K+"
+    },
+    {
+     "label": "D",
+     "body": "les pompes Na+/K+ assurent le transport d'ions K+ hors de la cellule"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 39,
+   "n": 11,
+   "type": "multiple",
+   "stem": "A propos du potentiel membranaire",
+   "options": [
+    {
+     "label": "A",
+     "body": "il est spécifique aux cellules cardiaques"
+    },
+    {
+     "label": "B",
+     "body": "les ions K+ sont les ions les plus représentés à l’extérieur de la cellule"
+    },
+    {
+     "label": "C",
+     "body": "il existe des canaux de fuite pour les ions Na+ maintenant le milieu intracellulaire négatif"
+    },
+    {
+     "label": "D",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 39,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Potentiel de membrane",
+   "options": [
+    {
+     "label": "A",
+     "body": "Seules les cellules musculaires et nerveuses ont une activité électrique membranaire"
+    },
+    {
+     "label": "B",
+     "body": "Toutes les cellules ont le même potentiel de repos"
+    },
+    {
+     "label": "C",
+     "body": "Les dendrites des neurones produisent des potentiels d’action"
+    },
+    {
+     "label": "D",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-de-repos",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 40,
+   "n": 1,
+   "type": "multiple",
+   "stem": "A propos du potentiel de repos des neurones : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "la concentration en ions K+ est supérieure en extracellulaire qu'en intracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "la membrane est davantage perméable aux ions K+ qu'aux ions Na+"
+    },
+    {
+     "label": "C",
+     "body": "les canaux de fuite K+ engendrent un important flux sortant d'ions K+"
+    },
+    {
+     "label": "D",
+     "body": "les pompes Na+ /K+ assurent le transport d'ions K hors de la cellule"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 41,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Concernant la pompe Na/K*",
+   "options": [
+    {
+     "label": "A",
+     "body": "Catalyse un symport des ions Na' et K*"
+    },
+    {
+     "label": "B",
+     "body": "Contribue au potentiel des membranes cellulaires."
+    },
+    {
+     "label": "C",
+     "body": "Catalyse un transport ionique électro-neutre."
+    },
+    {
+     "label": "D",
+     "body": "Assure I'équilibre osmotique de la cellule."
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 41,
+   "n": 2,
+   "type": "multiple",
+   "stem": "A propos des potentiels d'action du neurone",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ont une propagation décrémentielle (ex : qui ont une vitesse qui diminue progressivement au fil du temps)."
+    },
+    {
+     "label": "B",
+     "body": "Ont une amplitude graduable."
+    },
+    {
+     "label": "C",
+     "body": "Obéissent à la loi de tout ou rien."
+    },
+    {
+     "label": "D",
+     "body": "lls sont sommables."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 41,
+   "n": 3,
+   "type": "multiple",
+   "stem": "A propos des périodes réfractaires: cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "la période réfractaire absolue vient avant la période réfractaire relative."
+    },
+    {
+     "label": "B",
+     "body": "un potentiel d'action peut apparaître lorsque a fibre est en période réfractaire absolue"
+    },
+    {
+     "label": "C",
+     "body": "les périodes réfractaires permettent d'augmenter la fréquence de décharge des neurones."
+    },
+    {
+     "label": "D",
+     "body": "en conditions physiologiques, les périodes réfractaires permettent d'orienter le potentiel d'action dans le sens orthodromique"
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 41,
+   "n": 4,
+   "type": "multiple",
+   "stem": "A propos des caractéristiques du potentiel d'action : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "l'amplitude du potentiel d'action est indépendante du diamètre du neurone."
+    },
+    {
+     "label": "B",
+     "body": "le potentiel d'action d'un nerf a une amplitude proportionnelle à l'intensité de la stimulation."
+    },
+    {
+     "label": "C",
+     "body": "la vitesse de propagation du potentiel d'action le long d'un neurone est indépendante de l'intensité de stimulation."
+    },
+    {
+     "label": "D",
+     "body": "les potentiels post-synaptiques sont toujours des potentiels d'action. Potentiel d’Action"
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 42,
+   "n": 5,
+   "type": "multiple",
+   "stem": "A propos de la propagation du potentiel d'action : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "en conditions expérimentales, la conduction peut se faire dans le sens antidromique."
+    },
+    {
+     "label": "B",
+     "body": "plus l'intensité de la stimulation est grande, plus la vitesse de propagation est élevée."
+    },
+    {
+     "label": "C",
+     "body": "la fréquence des potentiels d'action est indépendante de l'intensité de la stimulation."
+    },
+    {
+     "label": "D",
+     "body": "dans un nerf, les fibres sont recrutées par propagation des potentiels d'action aux fibres voisines. Anciennes Questions 2010-2022"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 42,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Concernant le potentiel d’action du neurone : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Répond à la loi de tout ou rien."
+    },
+    {
+     "label": "B",
+     "body": "Ne peut se déclencher que si le potentiel membranaire atteint le seuil critique de-30 mV."
+    },
+    {
+     "label": "C",
+     "body": "Peut se propager dans les deux sens d’un axone, dans les conditions physiologiques."
+    },
+    {
+     "label": "D",
+     "body": "Peut-être excitateur ou inhibiteur."
+    },
+    {
+     "label": "E",
+     "body": "Se propage plus rapidement en l’absence de la cellule de Schwann."
+    }
+   ],
+   "key": "AB",
+   "rawKey": "AB",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 42,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant le potentiel post-synaptique : cocher la ou les proposition (s) juste (s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Peut-être excitateur quand il résulte de l’ouverture des canaux Cl-"
+    },
+    {
+     "label": "B",
+     "body": "N’obéit pas à la loi de tout ou rien."
+    },
+    {
+     "label": "C",
+     "body": "Résulte de l’ouverture de canaux sodiques voltage dépendants."
+    },
+    {
+     "label": "D",
+     "body": "Est limité par une période réfractaire."
+    },
+    {
+     "label": "E",
+     "body": "Peut s’annuler en cas de coexistence de 2 potentiels post-synaptiques de polarité différente."
+    }
+   ],
+   "key": "BE",
+   "rawKey": "BE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 42,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Potentiels : en vrac",
+   "options": [
+    {
+     "label": "A",
+     "body": "La période réfractaire absolue correspond à une durée durant laquelle un potentiel d’action de plus grande amplitude peut exciter la fibre"
+    },
+    {
+     "label": "B",
+     "body": "La concentration en ions potassium est plus grande dans le milieu extracellulaire que dans la cellule : on parle de gradient électrochimique"
+    },
+    {
+     "label": "C",
+     "body": "La dépolarisation correspond à une variation du potentiel de la membrane vers des valeurs plus négatives"
+    },
+    {
+     "label": "D",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 42,
+   "n": 9,
+   "type": "multiple",
+   "stem": "En utilisant le dinétrophénol (DNP) dans une cellule nerveuse",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'entrée de Na+ est inhibée"
+    },
+    {
+     "label": "B",
+     "body": "La sortie de K+ est inhibée"
+    },
+    {
+     "label": "C",
+     "body": "La sortie de Na+ est inhibée"
+    },
+    {
+     "label": "D",
+     "body": "L'entrée de Cl- est inhibée"
+    },
+    {
+     "label": "E",
+     "body": "La sortie de Cl- est inhibée"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 42,
+   "n": 10,
+   "type": "multiple",
+   "stem": "La DDP (différence de potentiel membranaire de repos)",
+   "options": [
+    {
+     "label": "A",
+     "body": "Existe que dans les cellules excitables"
+    },
+    {
+     "label": "B",
+     "body": "Traduit un excès de charges positives à l'intérieur de la cellule par rapport à l'extérieur"
+    },
+    {
+     "label": "C",
+     "body": "Est toujours négative dans toutes les cellules"
+    },
+    {
+     "label": "D",
+     "body": "Elle devient positive lors de la dépolarisation dans toutes les cellules"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 43,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Le potentiel d'action d'une fibre nerveuse est une succession des phases suivantes :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Potentiel seuil-dépolarisation-hyperpolarisation-repolarisation"
+    },
+    {
+     "label": "B",
+     "body": "Potentiel seuil-dépolarisation-repolarisation-hyperpolarisation"
+    },
+    {
+     "label": "C",
+     "body": "Potentiel seuil-repolarisation-hyperpolarisation-dépolarisation"
+    },
+    {
+     "label": "D",
+     "body": "Dépolarisation-repolarisation-hyperpolarisation-dépolarisation"
+    },
+    {
+     "label": "E",
+     "body": "Potentiel seuil-hyperpolarisation-repolarisation-dépolarisation"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 43,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Concernant l'amplitude du potentiel d'action",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle change avec la nature de la stimulation"
+    },
+    {
+     "label": "B",
+     "body": "Elle diminue dans les axones les plus longs"
+    },
+    {
+     "label": "C",
+     "body": "Elle augmente avec l'augmentation du diamètre des fibres"
+    },
+    {
+     "label": "D",
+     "body": "Elle diminue avec l'augmentation du diamètre des fibres"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 43,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Concernant la célérité du potentiel d'action",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle change avec la nature de la stimulation"
+    },
+    {
+     "label": "B",
+     "body": "Elle est élevée dans les axones les plus longs"
+    },
+    {
+     "label": "C",
+     "body": "Elle diminue avec l'augmentation du diamètre des fibres"
+    },
+    {
+     "label": "D",
+     "body": "Elle diminue avec l'augmentation de la température"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 43,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Une des réponses suivante est correcte, laquelle ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Une hypocalcémie provoque une augmentation de l'excitabilité des cellules nerveuses"
+    },
+    {
+     "label": "B",
+     "body": "L'effet des anesthésiants comme la procaïne est d'inhiber les canaux potassiques"
+    },
+    {
+     "label": "C",
+     "body": "La TTX (tétrodotoxine) inhibe les canaux potassiques"
+    },
+    {
+     "label": "D",
+     "body": "Le TEA (le tétraéthyl ammonium) inhibe les canaux sodiques"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 43,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Concernant les fibres nerveuses",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les fibres de type C sont myélinisées"
+    },
+    {
+     "label": "B",
+     "body": "Les fibres de type C ont une conduction très lente"
+    },
+    {
+     "label": "C",
+     "body": "Les fibres de type B sont non myélinisées"
+    },
+    {
+     "label": "D",
+     "body": "Les fibres de type A sont de gros diamètre et non myélinisées"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 43,
+   "n": 16,
+   "type": "multiple",
+   "stem": "Concernant de calcium intracellulaire ; cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "La concentration intracellulaire en Ca est plus élevée que celle en extracellulaire."
+    },
+    {
+     "label": "B",
+     "body": "Pendant la relaxation des cellules musculaires, l’antiport Ca2+/Na+ est activé."
+    },
+    {
+     "label": "C",
+     "body": "La contraction musculaire fait intervenir la pompe calcique au niveau du réticulum sarcoplasmique."
+    },
+    {
+     "label": "D",
+     "body": "La relaxation musculaire stimule la pompe calcique."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses."
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 44,
+   "n": 17,
+   "type": "multiple",
+   "stem": "A propos des caractéristiques du potentiel d’action (PA) :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L’amplitude du potentiel d’action est indépendante du diamètre du neurone."
+    },
+    {
+     "label": "B",
+     "body": "Le potentiel d’action d’un nerf a une amplitude proportionnelle à l’intensité de la stimulation."
+    },
+    {
+     "label": "C",
+     "body": "La vitesse de propagation du PA le long d’un neurone est indépendante de l’intensité de stimulation."
+    },
+    {
+     "label": "D",
+     "body": "Les potentiels post-synaptiques sont toujours des potentiels d’action."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 44,
+   "n": 18,
+   "type": "multiple",
+   "stem": "A propos des périodes réfractaires : cocher la ou les proposition(S) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "La période réfractaire absolue succède à la période réfractaire relative."
+    },
+    {
+     "label": "B",
+     "body": "Un potentiel d’action peut apparaitre lorsque la fibre est en période réfractaire absolue."
+    },
+    {
+     "label": "C",
+     "body": "périodes réfractaires permettent d’augmenter la fréquence de décharge des neurones."
+    },
+    {
+     "label": "D",
+     "body": "En Conditions physiologiques, les périodes réfractaires permettent d’orienter le potentiel D’action dans le sens antidromique."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 44,
+   "n": 19,
+   "type": "multiple",
+   "stem": "A propos du fonctionnement des canaux Na+ et K+ voltage-dépendants",
+   "options": [
+    {
+     "label": "A",
+     "body": "A l’état de repos, les canaux voltage-dépendants sont fermés."
+    },
+    {
+     "label": "B",
+     "body": "Lors de la phase de dépolarisation, les canaux K* voltage-dépendants s’ouvrent."
+    },
+    {
+     "label": "C",
+     "body": "Lors de la phase de repolarisation, les canaux Nat voltage-dépendants se ferment tandis que les canaux K+ s’ouvrent."
+    },
+    {
+     "label": "D",
+     "body": "Lors de la phase d’hyperpolarisation, les canaux K+ voltage-dépendants s’ouvrent brutalement."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "AC",
+   "rawKey": "AC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 44,
+   "n": 20,
+   "type": "multiple",
+   "stem": "A propos delà propagation du potentiel d’action : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "En conditions expérimentales, la conduction peut se faire dans le sens antidromique."
+    },
+    {
+     "label": "B",
+     "body": "Plus l’intensité de la stimulation est grande, plus la vitesse de propagation est élevée."
+    },
+    {
+     "label": "C",
+     "body": "La fréquence des potentiels d’action est indépendante de l’intensité de la stimulation."
+    },
+    {
+     "label": "D",
+     "body": "Dans un nerf, les fibres sont recrutées par propagation des potentiels d’action aux fibres voisines."
+    },
+    {
+     "label": "E",
+     "body": "Lors de la propagation du potentiel d’action, des canaux voltage dépendant sont activés et modifient la perméabilité membranaire du neurone."
+    }
+   ],
+   "key": "AE",
+   "rawKey": "AE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 44,
+   "n": 21,
+   "type": "multiple",
+   "stem": "A propos des périodes réfractaires",
+   "options": [
+    {
+     "label": "A",
+     "body": "la période réfractaire absolue succède à la période réfractaire relative."
+    },
+    {
+     "label": "B",
+     "body": "un potentiel d'action peut apparaître lorsque la fibre est en période réfractaire absolue."
+    },
+    {
+     "label": "C",
+     "body": "les périodes réfractaires permettent d'augmenter la fréquence de décharge des neurones"
+    },
+    {
+     "label": "D",
+     "body": "en conditions physiologiques, les périodes réfractaires permettent d'orienter le potentiel d'action dans le sens antidromique"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 45,
+   "n": 22,
+   "type": "multiple",
+   "stem": "A propos des caractéristiques du potentiel d'action",
+   "options": [
+    {
+     "label": "A",
+     "body": "l'amplitude du potentiel d'action est indépendante du diamètre du neurone."
+    },
+    {
+     "label": "B",
+     "body": "le potentiel d'action d'un nerf a une amplitude proportionnelle à l'intensité de la stimulation"
+    },
+    {
+     "label": "C",
+     "body": "la vitesse de propagation du potentiel d'action le long d'un neurone est indépendante de l'intensité de stimulation"
+    },
+    {
+     "label": "D",
+     "body": "les potentiels post-synaptiques sont toujours des potentiels d'action"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 45,
+   "n": 23,
+   "type": "multiple",
+   "stem": "A propos du fonctionnement des canaux Na+ et K+ voltages dépendants",
+   "options": [
+    {
+     "label": "A",
+     "body": "à l'état de repos, les canaux voltages dépendants sont fermés"
+    },
+    {
+     "label": "B",
+     "body": "lors de la phase de dépolarisation, les canaux K+ voltage-dépendants s'ouvrent."
+    },
+    {
+     "label": "C",
+     "body": "lors de la phase de repolarisation, les canaux Na+ voltage-dépendants se ferment tandis que les canaux K+ s'ouvrent"
+    },
+    {
+     "label": "D",
+     "body": "lors de la phase d'hyperpolarisation, les canaux K+ voltage-dépendants s'ouvrent brutalement"
+    },
+    {
+     "label": "E",
+     "body": "toutes ces réponses sont fausses"
+    }
+   ],
+   "key": "AC",
+   "rawKey": "AC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 45,
+   "n": 24,
+   "type": "multiple",
+   "stem": "A propos de la propagation du potentiel d'action",
+   "options": [
+    {
+     "label": "A",
+     "body": "en conditions expérimentales, la conduction peut se faire dans le sens antidromique"
+    },
+    {
+     "label": "B",
+     "body": "plus l'intensité de la stimulation est grande, plus la vitesse de propagation est élevée."
+    },
+    {
+     "label": "C",
+     "body": "la fréquence des potentiels d'action est indépendante de l'intensité de la stimulation"
+    },
+    {
+     "label": "D",
+     "body": "dans un nerf, les fibres sont recrutées par propagation des potentiels d'action aux fibres voisines."
+    },
+    {
+     "label": "E",
+     "body": "lors de la propagation du potentiel d'action, des canaux voltage dépendant sont activés et modifient la perméabilité membranaire du neurone."
+    }
+   ],
+   "key": "AE",
+   "rawKey": "AE",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 45,
+   "n": 25,
+   "type": "multiple",
+   "stem": "cocher la réponse juste :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les hépatocytes n’ont pas d’activité électrique"
+    },
+    {
+     "label": "B",
+     "body": "Les cellules sont excédentaires en K+"
+    },
+    {
+     "label": "C",
+     "body": "Un neurone est stimulé à -65 mV, cela induit un potentiel d’action"
+    },
+    {
+     "label": "D",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 45,
+   "n": 26,
+   "type": "multiple",
+   "stem": "cocher la réponse juste :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La période réfractaire absolue dure 2s"
+    },
+    {
+     "label": "B",
+     "body": "Les retours en arrière et les chevauchements des potentiels d’action sont possibles"
+    },
+    {
+     "label": "C",
+     "body": "Pendant la période réfractaire relative il faut des stimuli plus forts pour déclencher des potentiels d’action"
+    },
+    {
+     "label": "D",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "potentiel-d-action",
+   "section": "sans-ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 46,
+   "n": 1,
+   "type": "multiple",
+   "stem": "A propos du fonctionnement des canaux Na et K voltage-dépendants : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "à l'état de repos, les canaux voltage-dépendants sont fermés."
+    },
+    {
+     "label": "B",
+     "body": "lors de la phase de dépolarisation, les canaux K voltage-dépendants s'ouvrent."
+    },
+    {
+     "label": "C",
+     "body": "lors de la phase de repolarisation, les canaux Na voltage-dépendants se ferment tandis que les canaux K+ s'ouvrent."
+    },
+    {
+     "label": "D",
+     "body": "lors de la phase d'hyperpolarisation, les canaux K voltage-dépendants s’ouvrent brutalement"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "systeme-nerveux-autonome",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 47,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Concernant le système nerveux parasympathique",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le neurotransmetteur de la synapse ganglionnaire est l'acétylcholine."
+    },
+    {
+     "label": "B",
+     "body": "Les neurones préganglionnaires font relais dans les chaînes ganglionnaires latéro vertébrales."
+    },
+    {
+     "label": "C",
+     "body": "Les neurones préganglionnaires innervent directement les cellules de la médullosurrénale."
+    },
+    {
+     "label": "D",
+     "body": "Les neurones post-ganglionnaires sont plus courts que les neurones préganglionnaires."
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "systeme-nerveux-autonome",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 47,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Concernant le système nerveux sympathique",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les neurones postganglionnaires libèrent essentiellement de la noradrénaline."
+    },
+    {
+     "label": "B",
+     "body": "Les neurones préganglionnaires sont plus longs que les neurones postganglionnaires."
+    },
+    {
+     "label": "C",
+     "body": "Son rôle est prépondérant au repos."
+    },
+    {
+     "label": "D",
+     "body": "La médullosurrénale libère essentiellement de l'adrénaline."
+    }
+   ],
+   "key": "AD",
+   "rawKey": "AD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "systeme-nerveux-autonome",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 47,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Concernant les nerfs efférents du système nerveux autonome : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "innervent directement les cellules cibles"
+    },
+    {
+     "label": "B",
+     "body": "font relais au niveau des ganglions avant d'innerver les muscles squelettiques"
+    },
+    {
+     "label": "C",
+     "body": "peuvent avoir un effet excitateur ou inhibiteur sur la cellule cible"
+    },
+    {
+     "label": "D",
+     "body": "les corps cellulaires sont situés au niveau de la corne intermédio -latérale de la moelle épinière (du SN sympathique)"
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "systeme-nerveux-autonome",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 47,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Concernant le système nerveux autonome : cocher la ou les proposition(s) juste(s)",
+   "options": [
+    {
+     "label": "A",
+     "body": "la fibre postganglionnaire sympathique libère de l'acétylcholine au niveau de la médullosurrénale"
+    },
+    {
+     "label": "B",
+     "body": "la fibre postganglionnaire sympathique libère de la noradrénaline au niveau du cœur"
+    },
+    {
+     "label": "C",
+     "body": "la fibre postganglionnaire parasympathique libère de l'acétylcholine au niveau du muscle squelettique"
+    },
+    {
+     "label": "D",
+     "body": "la fibre postganglionnaire parasympathique libère de l'acétylcholine au niveau du muscle lisse"
+    }
+   ],
+   "key": "BD",
+   "rawKey": "BD",
+   "status": "published",
+   "issues": []
+  }
+ ]
+}

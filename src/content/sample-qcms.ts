@@ -14,16 +14,20 @@ export interface SampleOption {
   explanation: string | null;
 }
 
+/** A question of the starter content (hand-written samples or imported banks). */
 export interface SampleQcm {
   id: string;
   courseId: string;
   moduleId: string;
   type: QcmType;
   stem: string;
-  explanation: string;
-  difficulty: 1 | 2 | 3 | 4 | 5;
+  explanation: string | null;
+  difficulty: 1 | 2 | 3 | 4 | 5 | null;
   source: string | null;
+  examYear: number | null;
   tags: string[];
+  /** Drafts are stored in the database but never shown to students. */
+  status: 'published' | 'draft';
   options: SampleOption[];
 }
 
@@ -35,7 +39,7 @@ interface QcmSpec {
   stem: string;
   options: OptionSpec[];
   explanation: string;
-  difficulty?: SampleQcm['difficulty'];
+  difficulty?: 1 | 2 | 3 | 4 | 5;
   source?: string;
   tags?: string[];
 }
@@ -57,7 +61,9 @@ function q(n: number, courseN: number, spec: QcmSpec): SampleQcm {
     explanation: spec.explanation,
     difficulty: spec.difficulty ?? 2,
     source: spec.source ?? null,
+    examYear: null,
     tags: spec.tags ?? [],
+    status: 'published',
     options: spec.options.map(([body, isCorrect, explanation], i) => ({
       label: OPTION_LABELS[i],
       body,

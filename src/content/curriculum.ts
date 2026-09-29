@@ -92,9 +92,19 @@ function track(major: Major, studyYear: StudyYear, specs: ModuleSpec[]): Curricu
 
 const medicineL1 = track('medicine', 1, [
   [1, 'anatomie', t('Anatomie', 'Anatomy'), 'bone', 'rose', {
-    units: [unit(1, t('Ostéologie', 'Osteology'), [
-      course(1, 'osteologie-membre-superieur', t('Ostéologie du membre supérieur', 'Upper limb osteology')),
-    ])],
+    units: [
+      unit(1, t('Membre supérieur', 'Upper limb'), [
+        course(1, 'osteologie-membre-superieur', t('Ostéologie du membre supérieur', 'Upper limb osteology')),
+      ]),
+      unit(24, t('Membre inférieur', 'Lower limb'), [
+        course(33, 'mi-osteologie', t('Ostéologie', 'Osteology')),
+        course(34, 'mi-arthrologie', t('Arthrologie', 'Arthrology')),
+        course(35, 'mi-myologie', t('Myologie', 'Myology')),
+        course(36, 'mi-vascularisation', t('Vascularisation', 'Blood supply')),
+        course(37, 'mi-innervation', t('Innervation', 'Innervation')),
+        course(38, 'mi-regions-topographiques', t('Régions topographiques', 'Topographic regions')),
+      ]),
+    ],
   }],
   [2, 'biochimie', t('Biochimie', 'Biochemistry'), 'flask-conical', 'amber', {
     units: [unit(2, t('Biochimie structurale', 'Structural biochemistry'), [
@@ -123,17 +133,44 @@ const medicineL1 = track('medicine', 1, [
   }],
   [7, 'embryologie', t('Embryologie', 'Embryology'), 'baby', 'fuchsia', {
     units: [unit(6, t('Embryologie générale', 'General embryology'), [
+      course(39, 'gametogenese', t('Gamétogenèse', 'Gametogenesis')),
+      course(40, 'spermatogenese', t('Spermatogenèse', 'Spermatogenesis')),
+      course(41, 'ovogenese', t('Ovogenèse', 'Oogenesis')),
       course(10, 'fecondation', t('La fécondation', 'Fertilisation')),
+      course(42, 'premiere-semaine', t('1re semaine du développement', 'First week of development')),
+      course(43, 'deuxieme-semaine', t('2e semaine du développement', 'Second week of development')),
+      course(44, 'troisieme-semaine', t('3e semaine du développement', 'Third week of development')),
+      course(45, 'quatrieme-semaine', t('4e semaine du développement', 'Fourth week of development')),
+      course(46, 'annexes-embryonnaires', t('Annexes embryonnaires et grossesses gémellaires', 'Embryonic annexes and twin pregnancies')),
     ])],
   }],
   [8, 'histologie', t('Histologie', 'Histology'), 'layers', 'violet', {
-    units: [unit(7, t('Tissus épithéliaux', 'Epithelial tissues'), [
-      course(11, 'epitheliums-revetement', t('Épithéliums de revêtement', 'Covering epithelia')),
+    units: [unit(7, t('Histologie fondamentale', 'Basic histology'), [
+      course(11, 'epithelium-revetement', t("L'épithélium de revêtement", 'Covering epithelium')),
+      course(47, 'epithelium-glandulaire', t("L'épithélium glandulaire", 'Glandular epithelium')),
+      course(48, 'tissu-conjonctif', t('Le tissu conjonctif', 'Connective tissue')),
+      course(49, 'varietes-tissu-conjonctif', t('Les variétés de tissu conjonctif', 'Varieties of connective tissue')),
+      course(50, 'tissu-cartilagineux', t('Le tissu cartilagineux', 'Cartilage')),
+      course(51, 'tissu-osseux', t('Le tissu osseux', 'Bone tissue')),
+      course(52, 'ossification', t("L'ossification", 'Ossification')),
+      course(53, 'tissu-sanguin', t('Le tissu sanguin', 'Blood')),
+      course(54, 'hematopoiese', t("L'hématopoïèse", 'Haematopoiesis')),
+      course(55, 'tissu-nerveux', t('Le tissu nerveux', 'Nervous tissue')),
+      course(56, 'nevroglie', t('La névroglie', 'Neuroglia')),
+      course(57, 'tissu-musculaire', t('Le tissu musculaire', 'Muscle tissue')),
+      course(58, 'histologie-schemas', t('Schémas', 'Diagrams')),
     ])],
   }],
   [9, 'physiologie', t('Physiologie', 'Physiology'), 'activity', 'teal', {
-    units: [unit(8, t('Physiologie générale', 'General physiology'), [
-      course(12, 'potentiels-membranaires', t('Potentiels membranaires', 'Membrane potentials')),
+    units: [unit(8, t('Physiologie fondamentale', 'Basic physiology'), [
+      course(59, 'transport-membranaire', t('Transport membranaire', 'Membrane transport')),
+      course(60, 'communication-cellulaire', t('Communication cellulaire', 'Cell communication')),
+      course(61, 'milieu-interieur', t('Physiologie du milieu intérieur', 'Internal environment')),
+      course(62, 'transmission-synaptique', t('La transmission synaptique', 'Synaptic transmission')),
+      course(63, 'jonction-neuromusculaire', t('La jonction neuromusculaire', 'Neuromuscular junction')),
+      course(12, 'potentiel-de-repos', t('Potentiel de repos', 'Resting membrane potential')),
+      course(64, 'potentiel-d-action', t("Potentiel d'action", 'Action potential')),
+      course(65, 'systeme-nerveux-autonome', t('Système nerveux autonome', 'Autonomic nervous system')),
       course(13, 'regulation-glycemie', t('Régulation de la glycémie', 'Blood glucose regulation')),
     ])],
   }],

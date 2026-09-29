@@ -1,0 +1,8520 @@
+{
+ "module": "medicine/1/anatomie",
+ "source": "Anatomie du membre inférieur — QCM UMMTO classés par cours 2023-2024",
+ "courses": [
+  {
+   "slug": "mi-osteologie",
+   "title": "L'Ostéologie"
+  },
+  {
+   "slug": "mi-arthrologie",
+   "title": "L'Arthrologie"
+  },
+  {
+   "slug": "mi-myologie",
+   "title": "La Myologie"
+  },
+  {
+   "slug": "mi-vascularisation",
+   "title": "La Vascularisation"
+  },
+  {
+   "slug": "mi-innervation",
+   "title": "L'Innervation"
+  },
+  {
+   "slug": "mi-regions-topographiques",
+   "title": "Les Régions Topographiques et Les Schémas"
+  }
+ ],
+ "questions": [
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 1,
+   "type": "multiple",
+   "stem": "A propos de l'os coxal:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La grande incisure sciatique est située sur le bord antérieur."
+    },
+    {
+     "label": "B",
+     "body": "La tubérosité ischiatique sépare la petite incisure de la grande incisure,"
+    },
+    {
+     "label": "C",
+     "body": "Le bord postérieur est sous cutané."
+    },
+    {
+     "label": "D",
+     "body": "La crête iliaque est allongée dans le plan frontal"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Concernant le fémur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le bord le plus tranchant est en avant."
+    },
+    {
+     "label": "B",
+     "body": "Les deux lèvres de la ligne âpre se bifurquent en bas"
+    },
+    {
+     "label": "C",
+     "body": "Son extrémité distale présente deux surfaces articulaires."
+    },
+    {
+     "label": "D",
+     "body": "Son extrémité proximale est orientée en dehors et en bas."
+    },
+    {
+     "label": "E",
+     "body": "Les réponses a et c sont justes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 3,
+   "n": 3,
+   "type": "multiple",
+   "stem": "A propos du squelette de la jambe",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le bord médial du tibia est appelé bord interosseux."
+    },
+    {
+     "label": "B",
+     "body": "La malléole tibiale est parcourue en avant de gouttières."
+    },
+    {
+     "label": "C",
+     "body": "La tête de la Fibula est antérolatérale au tibia."
+    },
+    {
+     "label": "D",
+     "body": "La Fibula participe à l'articulation du genou."
+    },
+    {
+     "label": "E",
+     "body": "La malléole médiale est haut située par rapport à la latérale."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 3,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Le plateau tibial présente:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Une surface articulaire tibiale médiale et ventrale"
+    },
+    {
+     "label": "B",
+     "body": "Une aire inter condylaire transversale."
+    },
+    {
+     "label": "C",
+     "body": "Un tubercule inter condylaire médian."
+    },
+    {
+     "label": "D",
+     "body": "Une tubérosité tibiale antérieure"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 4,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Au niveau de la ceinture pelvienne, cochez la proposition exacte:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les deux pubis sont unis par une diarthrose de type arthrodie."
+    },
+    {
+     "label": "B",
+     "body": "La ligne arquée délimite latéralement le détroit inférieur"
+    },
+    {
+     "label": "C",
+     "body": "La crête iliaque est située dans le plan frontal"
+    },
+    {
+     "label": "D",
+     "body": "La grande incisure est traversée par le muscle piriforme."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et C sont exactes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 4,
+   "n": 6,
+   "type": "multiple",
+   "stem": "À propos du squelette de la jambe et du pied:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le Tibia est l'os médial de la jambe, son extrémité distale forme la malléole médiale."
+    },
+    {
+     "label": "B",
+     "body": "La Fibula s'articule avec le fémur."
+    },
+    {
+     "label": "C",
+     "body": "Deux as constituent le tarse antérieur."
+    },
+    {
+     "label": "D",
+     "body": "Le Métatarse est composé de 5 os placés sur deux rangées."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 4,
+   "n": 7,
+   "type": "multiple",
+   "stem": "A propos du tibia de la jambe",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'épiphyse proximale s'articule avec la patella"
+    },
+    {
+     "label": "B",
+     "body": "La face latérale répond au muscle triceps sural"
+    },
+    {
+     "label": "C",
+     "body": "L'épiphyse distale répond au calcanéus."
+    },
+    {
+     "label": "D",
+     "body": "L'épiphyse proximale donne insertion au ligament collatéral médial du genou"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 4,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Au niveau de la ceinture pelvienne:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les deux os coxaux s'articulent entre eux par une diarthrose."
+    },
+    {
+     "label": "B",
+     "body": "Los coxal se forme à partir de trois pièces osseuses soudées."
+    },
+    {
+     "label": "C",
+     "body": "La grande incisure est comprise entre l'épine sciatique et la tubérosité sciatique."
+    },
+    {
+     "label": "D",
+     "body": "La crête iliaque est située dans un plan horizontal"
+    },
+    {
+     "label": "E",
+     "body": "La fosse acétabulaire et la surface semi lunaire sont recouvertes de cartilage"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 4,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Sur l'os coxal on décrit:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La ligne arquée"
+    },
+    {
+     "label": "B",
+     "body": "La ligne glutéale médiale"
+    },
+    {
+     "label": "C",
+     "body": "Le limbus acétabulaire"
+    },
+    {
+     "label": "D",
+     "body": "La surface quadrilatère e. La ligne oblique"
+    },
+    {
+     "label": "E",
+     "body": "l’aire intercondylaire"
+    },
+    {
+     "label": "A",
+     "body": "(a+b+c) B. (a+b+c) C (a+c+e) D. (a+d+e) E. (a+b+d)"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 4,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Sur le fémur on décrit:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La ligne oblique"
+    },
+    {
+     "label": "B",
+     "body": "La ligne âpre"
+    },
+    {
+     "label": "C",
+     "body": "La ligne intertrochantérique"
+    },
+    {
+     "label": "D",
+     "body": "La crête intertrochantérique"
+    },
+    {
+     "label": "E",
+     "body": "L'aire intercondylaire"
+    },
+    {
+     "label": "A",
+     "body": "(a+b+c) B. (a+c+d) C. (a+c+e) D. (a+d+e) E. (b+c+d)"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 5,
+   "n": 11,
+   "type": "multiple",
+   "stem": "La patella:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est un os court."
+    },
+    {
+     "label": "B",
+     "body": "Est un os sésamoïde."
+    },
+    {
+     "label": "C",
+     "body": "Est un os plat."
+    },
+    {
+     "label": "D",
+     "body": "Est engainé dans un tendon."
+    },
+    {
+     "label": "E",
+     "body": "B et D sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 5,
+   "n": 12,
+   "type": "multiple",
+   "stem": "A propos des os du pied:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Se sont tous des os courts."
+    },
+    {
+     "label": "B",
+     "body": "Se sont tous des os longs."
+    },
+    {
+     "label": "C",
+     "body": "L'articulation transverse du tarse sépare tarse antérieur et postérieur."
+    },
+    {
+     "label": "D",
+     "body": "Los cuboïde répond à los naviculaire."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 5,
+   "n": 13,
+   "type": "multiple",
+   "stem": "L'os coxal constitue l’os principal de la ceinture pelvienne:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il a une forme d'hélice dont le centre est représenté par la cavité acétabulaire."
+    },
+    {
+     "label": "B",
+     "body": "L'os coxal s'articule avec le sacrum par une diarthrose."
+    },
+    {
+     "label": "C",
+     "body": "L'ischion est en avant tandis que le pubis est postérieur."
+    },
+    {
+     "label": "D",
+     "body": "La tubérosité ischiatique est au-dessus de l'épine ischiatique."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 5,
+   "n": 14,
+   "type": "multiple",
+   "stem": "À propos du squelette de la jambe et du pied:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La malléole médiale descend plus bas que la malléole latérale."
+    },
+    {
+     "label": "B",
+     "body": "La Fibula est placé en arrière en dehors du tibia."
+    },
+    {
+     "label": "C",
+     "body": "Le Tarse est comporte 5 os."
+    },
+    {
+     "label": "D",
+     "body": "Le Métatarse est composé de 6 os."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 5,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Le talus répond:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'os cuboïde."
+    },
+    {
+     "label": "B",
+     "body": "L'os calcanéus."
+    },
+    {
+     "label": "C",
+     "body": "Os naviculaire."
+    },
+    {
+     "label": "D",
+     "body": "1er cunéiforme."
+    },
+    {
+     "label": "E",
+     "body": "B et c sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 5,
+   "n": 16,
+   "type": "multiple",
+   "stem": "Le calcanéus répond à:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La fibula."
+    },
+    {
+     "label": "B",
+     "body": "Le tibia."
+    },
+    {
+     "label": "C",
+     "body": "Le cuboïde."
+    },
+    {
+     "label": "D",
+     "body": "L'os naviculaire."
+    },
+    {
+     "label": "E",
+     "body": "Los cunéiforme latéral."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 6,
+   "n": 17,
+   "type": "multiple",
+   "stem": "La patella répond à:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le tibia."
+    },
+    {
+     "label": "B",
+     "body": "Le fémur."
+    },
+    {
+     "label": "C",
+     "body": "La fibula."
+    },
+    {
+     "label": "D",
+     "body": "Le tibia et la fibula."
+    },
+    {
+     "label": "E",
+     "body": "Le tibia et le fémur."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 6,
+   "n": 18,
+   "type": "multiple",
+   "stem": "La face dorsale du tibia:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est percée à sa partie distale par le foramen nourricier."
+    },
+    {
+     "label": "B",
+     "body": "Répond aux muscles gastrocnémiens."
+    },
+    {
+     "label": "C",
+     "body": "Est traversée par une ligne oblique."
+    },
+    {
+     "label": "D",
+     "body": "Est traversée par une crête horizontale."
+    },
+    {
+     "label": "E",
+     "body": "A et B sont justes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 6,
+   "n": 19,
+   "type": "multiple",
+   "stem": "Le bord antérieur de los coxal est marqué par :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'épine ischiatique."
+    },
+    {
+     "label": "B",
+     "body": "L'épine iliaque postéro-inférieure."
+    },
+    {
+     "label": "C",
+     "body": "La surface pectinéale."
+    },
+    {
+     "label": "D",
+     "body": "La tubérosité ischiatique."
+    },
+    {
+     "label": "E",
+     "body": "L'incisure ischiatique."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 6,
+   "n": 20,
+   "type": "multiple",
+   "stem": "Sur le tibia on retrouve:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les gouttières des tendons musculaires sur l'épiphyse distale."
+    },
+    {
+     "label": "B",
+     "body": "Un bord interosseux médial."
+    },
+    {
+     "label": "C",
+     "body": "Un bord antérieur mousse."
+    },
+    {
+     "label": "D",
+     "body": "Le trou nourricier sur la face médiale."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont justes."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 6,
+   "n": 21,
+   "type": "multiple",
+   "stem": "La fibula est l'os latéral de la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "C'est un os robuste et résistant."
+    },
+    {
+     "label": "B",
+     "body": "Il répond latéralement aux muscles fibulaires."
+    },
+    {
+     "label": "C",
+     "body": "Le processus styloïde est sur l'épiphyse distale."
+    },
+    {
+     "label": "D",
+     "body": "La diaphyse subit un mouvement de torsion."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 6,
+   "n": 22,
+   "type": "multiple",
+   "stem": "La ceinture pelvienne est formée de l'os coxal:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La face interne de los coxal est marquée par la présence de lignes semi-circulaires."
+    },
+    {
+     "label": "B",
+     "body": "L'acétabulum est entièrement recouvert de cartilage articulaire."
+    },
+    {
+     "label": "C",
+     "body": "Les lignes arquées délimitent le détroit supérieur de la cavité pelvienne"
+    },
+    {
+     "label": "D",
+     "body": "Les deux os coxaux s'articulent entre eux par une diarthrose"
+    },
+    {
+     "label": "E",
+     "body": "Los coxal est entièrement situé dans le plan sagittal"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 8,
+   "n": 1,
+   "type": "multiple",
+   "stem": "À propos du tibia:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sa face médiale est recouverte par des muscles."
+    },
+    {
+     "label": "B",
+     "body": "La tubérosité tibiale antérieure donne attache au tendon du quadriceps"
+    },
+    {
+     "label": "C",
+     "body": "La tubérosité tibiale antérieure donne attache au tendon patellaire"
+    },
+    {
+     "label": "D",
+     "body": "La face latérale est superficielle."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et C sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 8,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Cocher la réponse juste:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les trois parties de l'os iliaque se réunissent au niveau du foramen obturé."
+    },
+    {
+     "label": "B",
+     "body": "La fosse iliaque correspond à la face exo pelvienne de l'aile iliaque"
+    },
+    {
+     "label": "C",
+     "body": "La surface articulaire de la patella occupe toute la face antérieure."
+    },
+    {
+     "label": "D",
+     "body": "La ligne âpre délimite la surface poplitée"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 8,
+   "n": 3,
+   "type": "multiple",
+   "stem": "L'articulation transverse du tarse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Relie le tarse et les métatarses."
+    },
+    {
+     "label": "B",
+     "body": "Relie le talus et le calcanéus."
+    },
+    {
+     "label": "C",
+     "body": "Se terminent sur le tibia."
+    },
+    {
+     "label": "D",
+     "body": "Relie L4os naviculaire au calcanéus"
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et C sent justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 8,
+   "n": 4,
+   "type": "multiple",
+   "stem": "À propos du squelette de la jambe et du pied:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le tibia est l'os médial de la jambe, son extrémité distale interne forme la malléole médiale."
+    },
+    {
+     "label": "B",
+     "body": "La fibula est placée en arrière et en dehors du tibia."
+    },
+    {
+     "label": "C",
+     "body": "Le tarse est composé de 7 os divisés en deux parties, antérieure et postérieure."
+    },
+    {
+     "label": "D",
+     "body": "Le métatarse est composé de 5 os placés sur une même rangée."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 8,
+   "n": 5,
+   "type": "multiple",
+   "stem": "En vous référant au schéma n°2 cochez la proposition juste:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La légende (a) correspond à l'os naviculaire."
+    },
+    {
+     "label": "B",
+     "body": "La légende (b) correspond à l'os cuboïde."
+    },
+    {
+     "label": "C",
+     "body": "La légende (c) correspond au col du talus."
+    },
+    {
+     "label": "D",
+     "body": "La légende (d) correspond au Sus Tentaculum Tali."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 8,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Sur la face exo-pelvienne de los coxal:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les lignes glutéales convergent toutes vers l'acétabulum."
+    },
+    {
+     "label": "B",
+     "body": "L'acétabulum est creusé à la jonction des trois parties constituant l'os coxal."
+    },
+    {
+     "label": "C",
+     "body": "Le limbus (bord) acétabulaire est régulier et tranchant surtout à sa partie supérieure."
+    },
+    {
+     "label": "D",
+     "body": "Le foramen obturé est délimité par l'ilion, l'ischion et le pubis."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont exactes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 9,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Au niveau du fémur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'extrémité proximale est plus volumineuse que l'extrémité distale."
+    },
+    {
+     "label": "B",
+     "body": "La tête du fémur représente le tiers d'une sphère de 25mm de rayon."
+    },
+    {
+     "label": "C",
+     "body": "Le bord postérieur de la diaphyse est tranchant et donne insertion aux muscles ischio jambiers."
+    },
+    {
+     "label": "D",
+     "body": "Le bord médial donne insertion au septum intermusculaire médial."
+    },
+    {
+     "label": "E",
+     "body": "Toutes tes propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 9,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Le bord supérieur de l’os coxal:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est dit crête iliaque et délimite latéralement le détroit supérieur."
+    },
+    {
+     "label": "B",
+     "body": "Est sous-cutané et donne insertion à tous les muscles glutéaux"
+    },
+    {
+     "label": "C",
+     "body": "Est contourné en S allongé et il est marqué en avant et en arrière par une épine."
+    },
+    {
+     "label": "D",
+     "body": "S'articule en avant avec le pubis et en arrière avec le sacrum."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-osteologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 9,
+   "n": 9,
+   "type": "multiple",
+   "stem": "À propos du squelette de la jambe et du pied:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La malléole médiale descend plus bas que la malléole latérale."
+    },
+    {
+     "label": "B",
+     "body": "Le plateau tibial comporte des surfaces articulaires planes."
+    },
+    {
+     "label": "C",
+     "body": "Le Tarse est composé de 7 os placés sur une même rangée."
+    },
+    {
+     "label": "D",
+     "body": "Le Métatarse est composé de 5 divisés en deux parties, antérieure et postérieure"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 10,
+   "n": 1,
+   "type": "multiple",
+   "stem": "L'articulation tibio-talienne est de type:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Trochléenne"
+    },
+    {
+     "label": "B",
+     "body": "Trochoïde."
+    },
+    {
+     "label": "C",
+     "body": "Enarthrose"
+    },
+    {
+     "label": "D",
+     "body": "Plane"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 10,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Au niveau de l'articulation du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La trochlée est articulaire avec la face ventrale de la Patella."
+    },
+    {
+     "label": "B",
+     "body": "Le ménisque médial est fermé en O."
+    },
+    {
+     "label": "C",
+     "body": "Le ligament croisé antérieur est antre-médial."
+    },
+    {
+     "label": "D",
+     "body": "Le ligament croisé antérieur est antéro-latéral"
+    },
+    {
+     "label": "E",
+     "body": "Le ligament postérieur est postéro-latéral."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 10,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Le plan fibreux postérieur du genou est constitué:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La coque condylienne médiale contient la fabella."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament poplité oblique est le faisceau récurent du semi-tendineux."
+    },
+    {
+     "label": "C",
+     "body": "Sous l'arche du ligament arqué passe le muscle poplité."
+    },
+    {
+     "label": "D",
+     "body": "Le faisceau médial du ligament arqué se termine sur la fabella."
+    },
+    {
+     "label": "E",
+     "body": "La réponse a et c sont justes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 10,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Le ligament deltoïdien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Constitue le plan profond du ligament collatéral médial"
+    },
+    {
+     "label": "B",
+     "body": "est le faisceau talo-fibulaire antérieur du ligament collatéral latéral"
+    },
+    {
+     "label": "C",
+     "body": "forme avec les ligaments tibio-talaire postérieur et antérieur, le ligament collatéral médial."
+    },
+    {
+     "label": "D",
+     "body": "Forme le ligament le ligament collatéral latéral."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 11,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Dans l'articulation de la hanche:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La tête fémorale est entièrement recouverte de cartilage."
+    },
+    {
+     "label": "B",
+     "body": "La capsule est lâche et peu résistante."
+    },
+    {
+     "label": "C",
+     "body": "Le labrum acétabulaire est plat et se dispose autour de l'acétabulum."
+    },
+    {
+     "label": "D",
+     "body": "Le ligament ilio-fémoral recouvre toute la face antérieure de l'articulation."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 11,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Arès avoir orienter correctement le schéma, vous dites qu'il s'agit d'une vue :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ventrale de l'articulation talo-crurale gauche"
+    },
+    {
+     "label": "B",
+     "body": "Ventrale de l’articulation du poignet gauche"
+    },
+    {
+     "label": "C",
+     "body": "Ventrale de l'articulation du coud droite"
+    },
+    {
+     "label": "D",
+     "body": "Dorsale de l'articulation talo-crurale droite"
+    },
+    {
+     "label": "E",
+     "body": "Médiale de l'articulation du coude gauche"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 11,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Le plan fibreux antérieur de l'articulation du genou comporte:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Des fibres arquées."
+    },
+    {
+     "label": "B",
+     "body": "Des fibres croisées."
+    },
+    {
+     "label": "C",
+     "body": "Des fibres transversales."
+    },
+    {
+     "label": "D",
+     "body": "Des fibres récurrentes."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 11,
+   "n": 8,
+   "type": "multiple",
+   "stem": "L'articulation talo crurale comporte:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sur sa face médiale un ligament deltoïdien superficiel."
+    },
+    {
+     "label": "B",
+     "body": "Sur sa face médiale, deux ligaments tibio-calcanéens antérieur."
+    },
+    {
+     "label": "C",
+     "body": "Sur sa face latérale, trois ligaments talo-fibulaires antérieur, moyen et postérieur."
+    },
+    {
+     "label": "D",
+     "body": "Sur sa face ventrale un ligament antérieur très épais."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 11,
+   "n": 9,
+   "type": "multiple",
+   "stem": "À propos de l'articulation coxo-fémorale, cochez la proposition fausse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La capsule fibreuse s'insère médialement sur le labrum acétabulaire."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament pubo-fémorale renforce la capsule sur sa face antéro-inférieure."
+    },
+    {
+     "label": "C",
+     "body": "Le mouvement d'abduction peut atteindre 120°."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle ilio-psoas est son principal fléchisseur."
+    },
+    {
+     "label": "E",
+     "body": "Le ligament de la tête fémorale se termine dans la fosse acétabulaire."
+    }
+   ],
+   "key": null,
+   "rawKey": "C/E",
+   "status": "draft",
+   "issues": [
+    "ambiguous_key"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 11,
+   "n": 10,
+   "type": "multiple",
+   "stem": "À propos de l'articulation du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle est toujours très stable."
+    },
+    {
+     "label": "B",
+     "body": "Le ménisque latéral a la forme d'un C ouvert en dehors."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf crural est responsable de sa flexion."
+    },
+    {
+     "label": "D",
+     "body": "Les muscles de la patte d'oie sont les seuls fléchisseurs."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 12,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Dans l'articulation de la hanche:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le col du fémur est intra capsulaire en arrière."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament le plus puissant est le ligament postérieur (ischio fémoral)."
+    },
+    {
+     "label": "C",
+     "body": "La capsule articulaire s'attache sur le limbus et le labrum acétabulaire."
+    },
+    {
+     "label": "D",
+     "body": "Le ligament fémoral participe à la vascularisation de la tête."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 12,
+   "n": 12,
+   "type": "multiple",
+   "stem": "À propos de la physiologie de l'articulation du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les mouvements se font autour d'un axe transversal."
+    },
+    {
+     "label": "B",
+     "body": "Les mouvements se font autour d'un axe sagittal."
+    },
+    {
+     "label": "C",
+     "body": "Les mouvements se font autour d'un axe longitudinal sur genou en flexion."
+    },
+    {
+     "label": "D",
+     "body": "Les mouvements se font autour d'un axe sagittal sur genou en flexion."
+    },
+    {
+     "label": "E",
+     "body": "En flexion le genou est verrouillé."
+    },
+    {
+     "label": "A",
+     "body": "(a+c) B. (a+b) C. (c+e) D. (d+e) E. (a+d)"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 12,
+   "n": 13,
+   "type": "multiple",
+   "stem": "La face médiale de l'articulation talo-crurale est renforcée par:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Des ligaments croisés."
+    },
+    {
+     "label": "B",
+     "body": "Un faisceau deltoïde."
+    },
+    {
+     "label": "C",
+     "body": "Un ligament transverse."
+    },
+    {
+     "label": "D",
+     "body": "Un faisceau fibulo-calcanéun."
+    },
+    {
+     "label": "E",
+     "body": "Un faisceau tibio-naviculaire."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 12,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Dans l'articulation de la hanche, quelle est la proposition exacte?",
+   "options": [
+    {
+     "label": "A",
+     "body": "La tête fémorale présente le tiers d'une sphère de 40 à 50 mm de diamètre."
+    },
+    {
+     "label": "B",
+     "body": "Le labrum est fixé sur le limbus acétabulaire."
+    },
+    {
+     "label": "C",
+     "body": "La face médiale du labrum donne insertion à la capsule."
+    },
+    {
+     "label": "D",
+     "body": "Le labrum est irrégulier au niveau de l'échancrure acétabulaire."
+    },
+    {
+     "label": "E",
+     "body": "Le ligament fémoral se fixe au fond de la fosse acétabulaire."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 12,
+   "n": 15,
+   "type": "multiple",
+   "stem": "L'articulation du genou est:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Une amphiarthrose."
+    },
+    {
+     "label": "B",
+     "body": "Une sphéroïde."
+    },
+    {
+     "label": "C",
+     "body": "Une diarthrose."
+    },
+    {
+     "label": "D",
+     "body": "Une trochoïde."
+    },
+    {
+     "label": "E",
+     "body": "Une synarthrose."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 12,
+   "n": 16,
+   "type": "multiple",
+   "stem": "L'articulation talo-crurale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Présente une mobilité dans tous les plans de l'espace"
+    },
+    {
+     "label": "B",
+     "body": "Présente un ligament deltoïde."
+    },
+    {
+     "label": "C",
+     "body": "Permet la pronation et la supination du pied."
+    },
+    {
+     "label": "D",
+     "body": "Possède des ligaments antérieur et postérieur puissants."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 13,
+   "n": 17,
+   "type": "multiple",
+   "stem": "Concernant l'articulation coxo-fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La capsule fibreuse s'insère à proximité de la tête fémorale."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament ilio-fémoral renforce la capsule à sa face antérieure."
+    },
+    {
+     "label": "C",
+     "body": "Les mouvements de flexion-extension s'effectuent dans le plan frontal."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle grand glutéal est responsable de sa rotation médiale."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont exactes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 13,
+   "n": 18,
+   "type": "multiple",
+   "stem": "Les ménisques:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont attachés par leur face inférieure au tibia."
+    },
+    {
+     "label": "B",
+     "body": "Ont une face inférieure adhérente à la capsule."
+    },
+    {
+     "label": "C",
+     "body": "Présentent un bord axial libre."
+    },
+    {
+     "label": "D",
+     "body": "Le ménisque latéral est solidement amarré."
+    },
+    {
+     "label": "E",
+     "body": "Assurent la vascularisation des surfaces articulaires."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 13,
+   "n": 19,
+   "type": "multiple",
+   "stem": "Le plan fibreux antérieur comprend:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le réticulum patellaire et le tendon du quadriceps."
+    },
+    {
+     "label": "B",
+     "body": "Le tendon collatéral latéral."
+    },
+    {
+     "label": "C",
+     "body": "Le ligament ménisco-patellaire."
+    },
+    {
+     "label": "D",
+     "body": "Les tendons des muscles ischio-jambiers."
+    },
+    {
+     "label": "E",
+     "body": "A et C sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 13,
+   "n": 20,
+   "type": "multiple",
+   "stem": "À la face externe de l'os coxal, au niveau de l'acétabulum:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La surface semi-lunaire et la fosse acétabulaire sont recouvertes de cartilage."
+    },
+    {
+     "label": "B",
+     "body": "Le labrum acétabulaire est semi-lunaire."
+    },
+    {
+     "label": "C",
+     "body": "Le ligament transverse est recouvert de cartilage."
+    },
+    {
+     "label": "D",
+     "body": "Le Limbus est régulier et répond à la capsule."
+    },
+    {
+     "label": "E",
+     "body": "L'incisure ilio-ischiatique est la plus large."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 13,
+   "n": 21,
+   "type": "multiple",
+   "stem": "Concernant articulation coxo-fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La capsule fibreuse s'insère à proximité de la tête fémorale."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament ilio-fémoral renforce la capsule à sa face antérieure."
+    },
+    {
+     "label": "C",
+     "body": "Les mouvements de flexion-extension s'effectuent dans le plan frontal."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle grand glutéal est responsable de sa rotation médiale."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont exactes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 13,
+   "n": 22,
+   "type": "multiple",
+   "stem": "À propos des tendons passifs présents dans le membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le ligament deltoïde est un tendon latéral de la cheville."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament poplité oblique est un issu du muscle semi-membraneux."
+    },
+    {
+     "label": "C",
+     "body": "Les tendons croisés sont croisés dans les plans coronal et transversal."
+    },
+    {
+     "label": "D",
+     "body": "Le ligament poplité arqué forme un arc au-dessus du muscle soléaire."
+    },
+    {
+     "label": "E",
+     "body": "Le ligament collatéral fibulaire est long et arrondi."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 14,
+   "n": 23,
+   "type": "multiple",
+   "stem": "L'articulation du genou comporte de très nombreux moyens d'unions:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les ligaments croisés sont antéro-médial et postéro-latéral."
+    },
+    {
+     "label": "B",
+     "body": "La capsule est renforcée en arrière par des coques condyliennes."
+    },
+    {
+     "label": "C",
+     "body": "Le ligament collatéral médial se termine sur l'épiphyse proximale du tibia."
+    },
+    {
+     "label": "D",
+     "body": "Les tendons de la patte d'oie se terminent sur la face médiale du tibia."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 14,
+   "n": 24,
+   "type": "multiple",
+   "stem": "L'articulation coxo-fémorale est:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Mobile dans deux plans seulement: sagittal et transversal."
+    },
+    {
+     "label": "B",
+     "body": "Très mobile et instable à la fois d'où sa fragilité."
+    },
+    {
+     "label": "C",
+     "body": "Recouverte en arrière par un plan musculaire très mince."
+    },
+    {
+     "label": "D",
+     "body": "Renforcée à sa face antérieure par deux ligaments supérieur et inférieur."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et C sont exactes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 14,
+   "n": 25,
+   "type": "multiple",
+   "stem": "À propos de l'articulation du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La rotation est possible en extension."
+    },
+    {
+     "label": "B",
+     "body": "Le ménisque latéral a la forme d'un C ouvert en dedans."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf crural est responsable de l'extension."
+    },
+    {
+     "label": "D",
+     "body": "Le triceps sural et les ischio-jambiers sont les seuls fléchisseurs."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 14,
+   "n": 26,
+   "type": "multiple",
+   "stem": "À propos de l'articulation coxo-fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le ligament ischio-fémoral est placé sur la face antérieure de l'articulation."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament ilio-fémoral ne présente qu'un seul faisceau."
+    },
+    {
+     "label": "C",
+     "body": "Le ligament de la tête fémorale est intra-articulaire."
+    },
+    {
+     "label": "D",
+     "body": "Le ligament pubo-fémoral nait de la branche ilio-pubienne."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions C et D sont justes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 14,
+   "n": 27,
+   "type": "multiple",
+   "stem": "À propos de l'articulation du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est une articulation stable en extension."
+    },
+    {
+     "label": "B",
+     "body": "La rotation n'est possible qu'en extension."
+    },
+    {
+     "label": "C",
+     "body": "Le ménisque médial a la forme d'un C ouvert en dedans (par rapport à faxe du corps)."
+    },
+    {
+     "label": "D",
+     "body": "Les ménisques sont adhérents sur leur face inférieure."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et C sont justes."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 16,
+   "n": 1,
+   "type": "multiple",
+   "stem": "À propos de l'articulation du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle met en présence le fémur, le tibia, la fibula."
+    },
+    {
+     "label": "B",
+     "body": "Les ménisques se fixent uniquement sur la capsule."
+    },
+    {
+     "label": "C",
+     "body": "Les surfaces articulaires fémorales et tibiales sont congruentes."
+    },
+    {
+     "label": "D",
+     "body": "Elle comporte un os sésamoïde."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 16,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Parmi ces propositions laquelle est juste?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le ligament rond est porteur d'une artère destinée à l'acétabulum."
+    },
+    {
+     "label": "B",
+     "body": "Le ligament rond s'insère au pourtour de l'acétabulum."
+    },
+    {
+     "label": "C",
+     "body": "La face postérieure de l'articulation est solidement renforcée par un large ligament postérieur."
+    },
+    {
+     "label": "D",
+     "body": "Le bourrelet acétabulaire s'insère sur le sourcil acétabulaire."
+    },
+    {
+     "label": "E",
+     "body": "La flexion de la hanche n'est possible que si elle est combinée à la flexion du genou."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 16,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Au niveau de la cheville laquelle de ces propositions est juste?",
+   "options": [
+    {
+     "label": "A",
+     "body": "La mortaise tibio-fibulaire est constituée de deux surfaces articulaires."
+    },
+    {
+     "label": "B",
+     "body": "L'articulation tibio-fibulaire est assurée par un ligament triangulaire."
+    },
+    {
+     "label": "C",
+     "body": "Le tenon talaire est de forme sphérique."
+    },
+    {
+     "label": "D",
+     "body": "Les ligaments passifs sont tous tendus des malléoles médiales et latérales au talus."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 16,
+   "n": 4,
+   "type": "multiple",
+   "stem": "À propos de l'articulation du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'articulation fémoro-patellaire est une trochoïde."
+    },
+    {
+     "label": "B",
+     "body": "L'articulation fémoro-tibiale est une condylienne."
+    },
+    {
+     "label": "C",
+     "body": "L'articulation possède un seul axe de mouvement."
+    },
+    {
+     "label": "D",
+     "body": "Les ligaments croisés sont intra-articulaire."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-arthrologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 16,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Dans l'articulation de la hanche:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le bourrelet acétabulaire est plat et se dispose autour de l'acétabulum."
+    },
+    {
+     "label": "B",
+     "body": "La tête fémorale est entièrement recouverte de cartilage."
+    },
+    {
+     "label": "C",
+     "body": "La capsule est lâche et mince et s'insère au pourtour des surfaces articulaires."
+    },
+    {
+     "label": "D",
+     "body": "Le ligament ilio-fémoral recouvre toute la face antérieure de l'articulation."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Les muscles de la patte d’oie :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont tous rotateurs médiaux de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Sont tous innervés par le même nerf"
+    },
+    {
+     "label": "C",
+     "body": "Se terminent au même endroit."
+    },
+    {
+     "label": "D",
+     "body": "Appartiennent tous à la même loge"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Tous les muscles suivants s'insèrent sur la ligne âpre, sauf un, lequel?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le court chef du biceps."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle grand adducteur"
+    },
+    {
+     "label": "C",
+     "body": "le muscle vaste médial"
+    },
+    {
+     "label": "D",
+     "body": "Le muscle vaste intermédiaire."
+    },
+    {
+     "label": "E",
+     "body": "Le muscle vaste latéral"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Toutes ces propositions concernent les muscles ischio-jambiers sauf une",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont représentés par le semi-membraneux, semi-tendineux et biceps."
+    },
+    {
+     "label": "B",
+     "body": "Prennent tous origines au niveau de la tubérosité ischiatique."
+    },
+    {
+     "label": "C",
+     "body": "Sont tous innervés par le nerf sciatique."
+    },
+    {
+     "label": "D",
+     "body": "Se terminent sur le tibia et la Fibula."
+    },
+    {
+     "label": "E",
+     "body": "Sont tous fléchisseurs de la jambe sur la cuisse."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 17,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Parmi ces muscles un seul n'est pas rotateur latéral de la cuisse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle piriforme."
+    },
+    {
+     "label": "B",
+     "body": "L'obturateur externe."
+    },
+    {
+     "label": "C",
+     "body": "Le tenseur du fascia-lata."
+    },
+    {
+     "label": "D",
+     "body": "Le grand glutéal."
+    },
+    {
+     "label": "E",
+     "body": "Le jumeau supérieur."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 18,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Les muscles de la loge médiale de la cuisse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont exclusivement adducteurs de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Sont disposés autour du fémur de la profondeur à la superficie."
+    },
+    {
+     "label": "C",
+     "body": "Se terminent tous sur la ligne âpre."
+    },
+    {
+     "label": "D",
+     "body": "Prennent tous origine du pubis."
+    },
+    {
+     "label": "E",
+     "body": "Sont pour la plupart innervés par le nerf obturateur."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 18,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Les muscles de la patte d'oie, cochez la proposition exacte :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont tous rotateurs médiaux de la cuisse"
+    },
+    {
+     "label": "B",
+     "body": "Sont tous innervés par le même nerf"
+    },
+    {
+     "label": "C",
+     "body": "Se terminent au même endroit"
+    },
+    {
+     "label": "D",
+     "body": "Appartiennent tous à la même loge"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 18,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Apres avoir étudié la myologie du membre pelvien vous confirmez:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle tibial antérieur est éverseur du pied."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle Sertorius est fléchisseur de la hanche."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle long fléchisseur de l'hallux participe à la flexion plantaire."
+    },
+    {
+     "label": "D",
+     "body": "Les propositions B et C sont justes."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions sont toutes fausses."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 18,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Parmi ces muscles un seul est extenseur de la hanche: lequel?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle petit glutéal."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle moyen glutéal."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle grand glutéal. D Le tenseur du fascia-lata."
+    },
+    {
+     "label": "E",
+     "body": "Le muscle ilio-psoas,"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 18,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Le muscle tibial postérieur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Intervient dans les mouvements d'extension."
+    },
+    {
+     "label": "B",
+     "body": "Est innervé par le nerf fibulaire commun."
+    },
+    {
+     "label": "C",
+     "body": "Appartient au plan superficiel des muscles postérieurs de la jambe."
+    },
+    {
+     "label": "D",
+     "body": "Est le fléchisseur plantaire principal."
+    },
+    {
+     "label": "E",
+     "body": "Intervient dans la supination du pied."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 19,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Le muscle long fibulaire:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est superficiel et recouvre le court fibulaire."
+    },
+    {
+     "label": "B",
+     "body": "Ne passe pas sous la plante du pied."
+    },
+    {
+     "label": "C",
+     "body": "A une action sur le mouvement des orteils."
+    },
+    {
+     "label": "C",
+     "body": "Longe le bord latéral du pied."
+    },
+    {
+     "label": "E",
+     "body": "Passe sur la face médiale du calcanéus."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 19,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Les propositions suivantes concernent la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Tous les muscles de la loge ventrale sont fléchisseurs des orteils."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle triceps sural se termine sur la face dorsale du talus."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle soléaire est bi-articulaire."
+    },
+    {
+     "label": "D",
+     "body": "La loge dorsale comporte des muscles bi-articulaires extenseurs."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 19,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Concernant les muscles pelvi-trochantériens:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle piriforme s'insère sur la face dorsale du sacrum."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle obturateur interne traverse la grande incisure sciatique pour se terminer sur le trochanter."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle jumeau supérieur se place au-dessus du muscle piriforme."
+    },
+    {
+     "label": "D",
+     "body": "Ils sont tous rotateurs latéraux de la hanche."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et C sont exactes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 19,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Dans la loge des adducteurs:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle grand adducteur est constitué de deux chefs."
+    },
+    {
+     "label": "B",
+     "body": "Les muscles adducteurs se placent dans un plan horizontal."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf obturateur arrive dans la loge en passant sous le pectiné."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle gracile est le plus postérieur."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 19,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Les muscles profonds de la loge dorsale de la jambe sont:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Tous fléchisseurs des orteils."
+    },
+    {
+     "label": "B",
+     "body": "Tous fléchisseurs plantaires."
+    },
+    {
+     "label": "C",
+     "body": "Tous supinateurs du pied."
+    },
+    {
+     "label": "D",
+     "body": "Tous rotateurs médiaux du genou."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 19,
+   "n": 16,
+   "type": "multiple",
+   "stem": "Le muscle quadriceps est un volumineux muscle de la cuisse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il se fixe en totalité sur le fémur."
+    },
+    {
+     "label": "B",
+     "body": "Il est exclusivement innervé par le nerf fémoral."
+    },
+    {
+     "label": "C",
+     "body": "Il est exclusivement extenseur du genou."
+    },
+    {
+     "label": "D",
+     "body": "Il contribue aux parois du trigone fémoral."
+    },
+    {
+     "label": "E",
+     "body": "Il contribue à la constitution du plan fibreux antérieur du genou."
+    },
+    {
+     "label": "A",
+     "body": "(a+b) B. (a+d) C. (c+e) D. (b+e) E. (b+d)"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 20,
+   "n": 17,
+   "type": "multiple",
+   "stem": "Le tractus ilio-tibial présente toutes ces caractéristiques sauf une, laquelle ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sa partie crâniale forme le fascia glutéal inséré sur la crête iliaque."
+    },
+    {
+     "label": "B",
+     "body": "Il est tendu en avant par le muscle tenseur du fascia lata."
+    },
+    {
+     "label": "C",
+     "body": "Est tendu en arrière par le muscle moyen glutéal."
+    },
+    {
+     "label": "D",
+     "body": "Sa partie caudale se termine sur la face latérale du tibia."
+    },
+    {
+     "label": "E",
+     "body": "Il assure la stabilité du genou on extension."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 20,
+   "n": 19,
+   "type": "multiple",
+   "stem": "Le muscle triceps sural est:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Fléchisseur plantaire."
+    },
+    {
+     "label": "B",
+     "body": "Extenseur du genou."
+    },
+    {
+     "label": "C",
+     "body": "Est formé de trois chefs fémoraux."
+    },
+    {
+     "label": "D",
+     "body": "Un muscle profond."
+    },
+    {
+     "label": "E",
+     "body": "Est innervé par le nerf ischiatique."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 20,
+   "n": 20,
+   "type": "multiple",
+   "stem": "Le muscle tibial antérieur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Appartient aux muscles de la loge ventrale de la jambe."
+    },
+    {
+     "label": "B",
+     "body": "Est innervé par le nerf fibulaire profond."
+    },
+    {
+     "label": "C",
+     "body": "Est fléchisseur dorsal du pied."
+    },
+    {
+     "label": "D",
+     "body": "Est le muscle le plus médial."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 20,
+   "n": 21,
+   "type": "multiple",
+   "stem": "Au niveau du membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle tenseur du fascia lata est bi-articulaire."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle piriforme est adducteur de la hanche."
+    },
+    {
+     "label": "C",
+     "body": "Les muscles obturateurs interne et externe sont abducteurs de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Les muscles Sertorius, gracile et semi-membraneux font partie des muscles de la patte d'oie."
+    },
+    {
+     "label": "E",
+     "body": "Les muscles de la loge médiale sont des muscles de l'abduction."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 20,
+   "n": 22,
+   "type": "multiple",
+   "stem": "Les muscles de la patte d'oie sont:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le m. semi-tendineux, le m semi-membraneux, le m. sartorius."
+    },
+    {
+     "label": "B",
+     "body": "Le m. semi-tendineux, le m. sartorius, le m. gracile."
+    },
+    {
+     "label": "C",
+     "body": "Le m. semi-membraneux, le m biceps fémoral, le m. sartorius."
+    },
+    {
+     "label": "D",
+     "body": "Le m. sartorius, le m. vaste médial, le m. semi-tendineux"
+    },
+    {
+     "label": "E",
+     "body": "Le m. semi-membraneux, le m. vaste médial le m. gracile."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 21,
+   "n": 23,
+   "type": "multiple",
+   "stem": "La dorsi-flexion du pied:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Rapproche le dos du pied de la face dorsale de la jambe."
+    },
+    {
+     "label": "B",
+     "body": "Est de 60°."
+    },
+    {
+     "label": "C",
+     "body": "Est réalisée par le triceps sural."
+    },
+    {
+     "label": "D",
+     "body": "Fait intervenir le muscle tibial antérieur."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 21,
+   "n": 24,
+   "type": "multiple",
+   "stem": "À propos des muscles de la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle triceps sural se termine sur la face postérieure du talus."
+    },
+    {
+     "label": "B",
+     "body": "Le triceps sural est l'unique fléchisseur plantaire"
+    },
+    {
+     "label": "C",
+     "body": "Tous les muscles de loge latérale sont mono-articulaires."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle poplité est innervé par le nerf tibial."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 21,
+   "n": 25,
+   "type": "multiple",
+   "stem": "Le muscle tibial antérieur est:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Fléchisseur dorsal de la cheville."
+    },
+    {
+     "label": "B",
+     "body": "Le plus latéral des muscles antérieurs de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "Paralyse suite à une section du nerf fibulaire commun."
+    },
+    {
+     "label": "D",
+     "body": "Le fléchisseur plantaire principal."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et C sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 21,
+   "n": 26,
+   "type": "multiple",
+   "stem": "Le muscle court fibulaire:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Recouvre le muscle long fibulaire."
+    },
+    {
+     "label": "B",
+     "body": "Passe sous la plante du pied."
+    },
+    {
+     "label": "C",
+     "body": "A une action sur le mouvement des orteils."
+    },
+    {
+     "label": "D",
+     "body": "Répond à la fibula."
+    },
+    {
+     "label": "E",
+     "body": "Est innervé par le nerf fémoral."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 21,
+   "n": 27,
+   "type": "multiple",
+   "stem": "Au niveau de la diaphyse fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le bord médial donne insertion au septum médial."
+    },
+    {
+     "label": "B",
+     "body": "Le bord latéral donne insertion au muscle vaste latéral."
+    },
+    {
+     "label": "C",
+     "body": "La ligne âpre donne insertion aux muscles adducteurs."
+    },
+    {
+     "label": "D",
+     "body": "La face latérale est libre de toute insertion."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 21,
+   "n": 28,
+   "type": "multiple",
+   "stem": "Le muscle ilio-psoas:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Prend insertion sur les corps vertébraux de T12 à L3."
+    },
+    {
+     "label": "B",
+     "body": "Le plexus lombal se constitue entre le muscle psoas et le muscle iliaque."
+    },
+    {
+     "label": "C",
+     "body": "Se termine par un tendon large sur le grand trochanter."
+    },
+    {
+     "label": "D",
+     "body": "Est le principal fléchisseur de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Est innervé par le nerf obturateur."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 22,
+   "n": 29,
+   "type": "multiple",
+   "stem": "Les muscles adducteurs de la cuisse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sont au nombre de trois."
+    },
+    {
+     "label": "B",
+     "body": "Le grand adducteur est le plus ventral de tous."
+    },
+    {
+     "label": "C",
+     "body": "Ils occupent la loge médiale de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Le court et le long adducteurs sont situés dans le même plan."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et C sont exactes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 22,
+   "n": 30,
+   "type": "multiple",
+   "stem": "À propos des muscles pelvi-trochantériens:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ils sont rotateurs latéraux de la hanche."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle piriforme se situe à la face dorsale du sacrum."
+    },
+    {
+     "label": "C",
+     "body": "Ils se terminent tous sur la ligne âpre."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle obturateur interne passe par la grande incisure."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 22,
+   "n": 32,
+   "type": "multiple",
+   "stem": "La jambe comprend de nombreux muscles:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle tibial antérieur est extenseur de la cheville."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle long fléchisseur des orteils est situé latéralement dans la loge postérieure."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle poplité est rotateur médial et fléchisseur du genou."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle court fibulaire est le seul muscle de l'éversion du pied."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et C sont justes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 22,
+   "n": 33,
+   "type": "multiple",
+   "stem": "Les muscles fléchisseurs plantaires sont:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Tous innervés par le nerf fibulaire commun."
+    },
+    {
+     "label": "B",
+     "body": "Certains sont bi-articulaires."
+    },
+    {
+     "label": "C",
+     "body": "Tous sont mono-articulaires."
+    },
+    {
+     "label": "D",
+     "body": "Certains se terminent sur le tendon calcanéen."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 22,
+   "n": 34,
+   "type": "multiple",
+   "stem": "Une coupe transversale effectuée à la partie moyenne de la cuisse nous montre:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les faces postérieures du fémur sont entièrement recouvertes par les muscles ischio- jambiers."
+    },
+    {
+     "label": "B",
+     "body": "Les muscles adducteurs sont situés en avant du vaste médial."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle sartorius est en avant du muscle vaste latéral."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle quadriceps entoure toutes les faces du corps du fémur."
+    },
+    {
+     "label": "E",
+     "body": "Le septurn intermusculaire médial part du bord médial du fémur."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 23,
+   "n": 35,
+   "type": "multiple",
+   "stem": "Quels sont les muscles qui interviennent dans la rotation latérale de la hanche?",
+   "options": [
+    {
+     "label": "A",
+     "body": "M. obturateur externe - M. piriforme - M. grand glutéal - M. moyen glutéal."
+    },
+    {
+     "label": "B",
+     "body": "M. obturateur interne - M. piriforme - M. grand glutéal - M. jumeau supérieur."
+    },
+    {
+     "label": "C",
+     "body": "M. petit glutéal - M. jumeau supérieur - M. obturateur externe - M. obturateur interne."
+    },
+    {
+     "label": "D",
+     "body": "M. tenseur du fascia lata - M. piriforme - M. obturateur interne - M. jumeau supérieur."
+    },
+    {
+     "label": "E",
+     "body": "M. moyen glutéal - M. petit glutéal - M. jumeau inferieur - M. carré fémoral."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 23,
+   "n": 36,
+   "type": "multiple",
+   "stem": "Le muscle court fibulaire:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est superficiel et recouvre le long fibulaire."
+    },
+    {
+     "label": "B",
+     "body": "Ne passe pas sous la plante du pied."
+    },
+    {
+     "label": "C",
+     "body": "A une action sur le mouvement des orteils."
+    },
+    {
+     "label": "D",
+     "body": "Longe le bord latéral du pied."
+    },
+    {
+     "label": "E",
+     "body": "Intervient dans la flexion plantaire du pied."
+    }
+   ],
+   "key": "BC",
+   "rawKey": "BC",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 23,
+   "n": 37,
+   "type": "multiple",
+   "stem": "Les propositions suivantes concernent la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Tous les muscles de la loge antérieure sont extenseurs des orteils."
+    },
+    {
+     "label": "B",
+     "body": "Sur la face postérieure du talus se termine le muscle triceps sural."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle semi-membraneux n'y passe pas."
+    },
+    {
+     "label": "D",
+     "body": "La loge postérieure comporte des muscles bi-articulaires."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "CD",
+   "rawKey": "CD",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 25,
+   "n": 1,
+   "type": "multiple",
+   "stem": "À propos des muscles de la patte d'oie:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Prennent tous leur origine sur le fémur."
+    },
+    {
+     "label": "B",
+     "body": "Sont des muscles fléchisseurs de la hanche."
+    },
+    {
+     "label": "C",
+     "body": "Sont tous innervés par un même nerf."
+    },
+    {
+     "label": "D",
+     "body": "Ce sont le Sartorius, gracile, et le semi-tendineux."
+    },
+    {
+     "label": "E",
+     "body": "Ils se terminent sur la fibula."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 25,
+   "n": 2,
+   "type": "multiple",
+   "stem": "À propos de la fonction des muscles du membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le sartorius est fléchisseur de la hanche et du genou."
+    },
+    {
+     "label": "B",
+     "body": "Le tibial antérieur est fléchisseur dorsal et éverseur."
+    },
+    {
+     "label": "C",
+     "body": "Le long fibulaire est fléchisseur dorsal et éverseur."
+    },
+    {
+     "label": "D",
+     "body": "Le triceps sural est fléchisseur du genou et des orteils."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et D sont justes"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 25,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Indiquer la proposition fausse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le vaste médial est un muscle pelvi-trochantérien."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle ilio-psoas s'insère sur le petit trochanter."
+    },
+    {
+     "label": "C",
+     "body": "Le court adducteur appartient au plan moyen."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle grand adducteur possède trois faisceaux supérieur, moyen et inférieur."
+    },
+    {
+     "label": "E",
+     "body": "Le muscle sartorius prend insertion sur l'épine iliaque antéro-supérieure."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 25,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Parmi ces muscles les quelles sont adducteurs de la cuisse?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Grand adducteur, sartorius, biceps fémoral, semi-membraneux."
+    },
+    {
+     "label": "B",
+     "body": "Pectiné, moyen adducteur, petit fessier, muscle gracile."
+    },
+    {
+     "label": "C",
+     "body": "Moyen adducteur, moyen fessier grand adducteur, obturateur interne."
+    },
+    {
+     "label": "D",
+     "body": "Pectiné, muscle gracile, court adducteur, carré fémoral."
+    },
+    {
+     "label": "E",
+     "body": "Grand adducteur, court adducteur, semi-membraneux, carré fémoral."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 25,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant la loge postérieure de la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle comporte 8 muscles tous placés à la face postérieure du tibia et de la fibula."
+    },
+    {
+     "label": "B",
+     "body": "Certain de ces muscles sont innervés par le nerf fibulaire commun."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle court fléchisseur de l'hallux lui appartient."
+    },
+    {
+     "label": "D",
+     "body": "Tous les muscles sont fléchisseurs plantaires."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 25,
+   "n": 6,
+   "type": "multiple",
+   "stem": "En vous référant au schéma nº1 cochez la proposition juste:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La légende (a) correspond à un muscle inverseur du pied."
+    },
+    {
+     "label": "B",
+     "body": "La légende (b) correspond à la loge des muscles de l'éversion du pied"
+    },
+    {
+     "label": "C",
+     "body": "La légende (c) correspond à un muscle de la flexion plantaire."
+    },
+    {
+     "label": "D",
+     "body": "La légende (d) correspond à un muscle de la flexion plantaire."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 26,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Dans la loge glutéale (fessière):",
+   "options": [
+    {
+     "label": "A",
+     "body": "Tous les muscles de cette région sont rotateurs de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Les muscles pelvi-trochantériens présentent tous une insertion endo-pelvienne."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle grand glutéal a une large insertion au niveau de la face externe de l'ilion."
+    },
+    {
+     "label": "D",
+     "body": "Le tenseur du fascia lata se termine à la face interne du tibia."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont exactes"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 26,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Au niveau de la cuisse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les muscles de la loge antérieure recouvrent uniquement la face antérieure du fémur."
+    },
+    {
+     "label": "B",
+     "body": "Le quadriceps est formé de quatre chefs se terminant chacun sur les faces externes de la patella."
+    },
+    {
+     "label": "C",
+     "body": "Les muscles ischio-jambiers sont bi-articulaires et sont tendus de la hanche à la jambe."
+    },
+    {
+     "label": "D",
+     "body": "Dans la loge interne, le grand adducteur est le plus antérieur des muscles de cette loge."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont exactes"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-myologie",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 26,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Concernant la loge postérieure de la jambe",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle comporte 8 muscles tous placés à la face postérieure du tibia et de la fibula."
+    },
+    {
+     "label": "B",
+     "body": "Tous les muscles sont innervés par le nerf tibial."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle long fléchisseur de l'hallux lui appartient."
+    },
+    {
+     "label": "D",
+     "body": "Tous les muscles sont fléchisseurs plantaires."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 1,
+   "type": "multiple",
+   "stem": "A propos de la vascularisation du membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère fémorale est médiale à la veine fémorale dans l'anneau fémoral,"
+    },
+    {
+     "label": "B",
+     "body": "Les collatérales de la fémorale profonde se destinent aux loges médiale et antérieure"
+    },
+    {
+     "label": "C",
+     "body": "L'artère poplitée est l'élément de plus superficiel de la fosse poplitée."
+    },
+    {
+     "label": "D",
+     "body": "L'artère dorsale du pied continue l'artère tibiale antérieure."
+    },
+    {
+     "label": "E",
+     "body": "Le cercle péri-articulaire du genou est tributaire de des artères poplitée, tibiales et fibulaire"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 27,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Le retour veineux du membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Les veines superficielles se situent au dessous du fascia superficiel."
+    },
+    {
+     "label": "B",
+     "body": "La petite veine saphène nait de l'extrémité latérale de l'arcade dorsale."
+    },
+    {
+     "label": "C",
+     "body": "La grande veine saphène remonte le long du canal fémoral."
+    },
+    {
+     "label": "D",
+     "body": "La petite veine saphène remonte le long de la face latérale de la jambe."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions a et d sont justes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 27,
+   "n": 3,
+   "type": "multiple",
+   "stem": "L'artère tibiale antérieure :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Fait suite au tronc tibio-fibulaire"
+    },
+    {
+     "label": "B",
+     "body": "Nait dans la loge antérieure de la jambe"
+    },
+    {
+     "label": "C",
+     "body": "Descend dans la loge postérieure de la jambe"
+    },
+    {
+     "label": "D",
+     "body": "Se continue par l'artère dorsale du pied"
+    },
+    {
+     "label": "E",
+     "body": "Les propositions C et D sont justes"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 27,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Le cercle artériel péri articulaire du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est formé de deux cercles, péri tibial et péri-fibulaire."
+    },
+    {
+     "label": "B",
+     "body": "Deux cercles issus de l'artère fémorale."
+    },
+    {
+     "label": "C",
+     "body": "Deux cercles, supérieur et inférieur indépendant."
+    },
+    {
+     "label": "D",
+     "body": "Le cercle inférieur reçoit l'artère descendante du genou."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 28,
+   "n": 5,
+   "type": "multiple",
+   "stem": "La veine grande saphène longe le membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Superficiellement sur sa face latérale."
+    },
+    {
+     "label": "B",
+     "body": "Accompagnée du nerf fémoral sur une partie de son trajet."
+    },
+    {
+     "label": "C",
+     "body": "Sa partie terminale est entourée de lymphonoeuds."
+    },
+    {
+     "label": "D",
+     "body": "Chemine sous le fascia avant de rejoindre la veine profonde."
+    },
+    {
+     "label": "E",
+     "body": "Son segment crural est accompagné d'une branche motrice."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 28,
+   "n": 6,
+   "type": "multiple",
+   "stem": "L'artère plantaire médiale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est une branche terminale médiale de l'artère tibiale."
+    },
+    {
+     "label": "B",
+     "body": "Participe à la vascularisation de la loge dorsale de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "Nait dans le canal fibulaire."
+    },
+    {
+     "label": "D",
+     "body": "Nait dans le canal calcanéen."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et D sont justes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 28,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant le retour veineux du membre inférieur.",
+   "options": [
+    {
+     "label": "A",
+     "body": "La grande saphène fait suite à la veine marginale latérale."
+    },
+    {
+     "label": "B",
+     "body": "La petite saphène passe en arrière de la malléole médiale."
+    },
+    {
+     "label": "C",
+     "body": "La petite saphène remonte sur la face médiale de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Les veines profondes sont paires sur tout le réseau."
+    },
+    {
+     "label": "E",
+     "body": "Les veines superficielles rejoignent toujours le réseau profond."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 28,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Concemant le rétinaculum des extenseurs:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il a une forme en Z."
+    },
+    {
+     "label": "B",
+     "body": "Il permet de maintenir les tendons musculaires latéraux de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "L'artère tibiale antérieure passe sous ce rétinaculum."
+    },
+    {
+     "label": "D",
+     "body": "Il est situé à la face médiale de la cheville."
+    },
+    {
+     "label": "E",
+     "body": "Il a une forme annulaire."
+    },
+    {
+     "label": "A",
+     "body": "(a+b) B. (a+c) C. (a+d) D. (c+e) E. (e+d)"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 28,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Concernent l'artère fémorale à son origine, quelle est la proposition fausse ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle fait suite à l'artère iliaque externe au niveau de l'anneau fémoral."
+    },
+    {
+     "label": "B",
+     "body": "L'anneau fémoral est limité en dehors par le ligament lacunaire."
+    },
+    {
+     "label": "C",
+     "body": "Elle répond latéralement au muscle ilio-psoas."
+    },
+    {
+     "label": "D",
+     "body": "La veine fémorale monte le long du bord médial de l'artère."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf fémoral lui est latéral."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 28,
+   "n": 10,
+   "type": "multiple",
+   "stem": "L'artère profonde de la cuisse donne toutes ces branches collatérales, sauf une, laquelle ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère circonflexe médiale de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "L'artère du quadriceps."
+    },
+    {
+     "label": "C",
+     "body": "L'artère circonflexe latérale de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Les artères perforantes."
+    },
+    {
+     "label": "E",
+     "body": "L'artère descendante du genou."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 29,
+   "n": 11,
+   "type": "multiple",
+   "stem": "La vascularisation artérielle de la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère tibiale antérieure nait dans la loge dorsale."
+    },
+    {
+     "label": "B",
+     "body": "L'artère tibiale postérieure nait dans la loge dorsale."
+    },
+    {
+     "label": "C",
+     "body": "Le tronc tibio-fibulaire est situé dans la loge latérale."
+    },
+    {
+     "label": "D",
+     "body": "Toutes les artères de jambes sont accompagnées d'une seule veine."
+    },
+    {
+     "label": "E",
+     "body": "A et B sont justes"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 29,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Concernant le retour veineux du membre inférieur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La grande veine saphène nait de l'extrémité latérale de l'arcade dorsale."
+    },
+    {
+     "label": "B",
+     "body": "La petite veine saphène remonte sur la face dorsale de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "La petite saphène se jette dans la veine fémorale."
+    },
+    {
+     "label": "D",
+     "body": "Toutes les veines profondes sont accompagnées de deux veines profondes."
+    },
+    {
+     "label": "E",
+     "body": "La crosse de la grande saphène se situe dans la fosse poplitée."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 29,
+   "n": 13,
+   "type": "multiple",
+   "stem": "À propos de l'artère fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle donne 2 branches circonflexes: latérale et médiale de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Elle traverse le canal fémoral de haut en bas."
+    },
+    {
+     "label": "C",
+     "body": "La fémorale profonde est une de ses branches principales."
+    },
+    {
+     "label": "D",
+     "body": "Fait suite à l'artère iliaque externe sous le ligament inguinal."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 29,
+   "n": 14,
+   "type": "multiple",
+   "stem": "La vascularisation artérielle du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est formé de deux cercles artériels indépendants."
+    },
+    {
+     "label": "B",
+     "body": "Reçoit des artères récurrentes de l'artère tibiale postérieure."
+    },
+    {
+     "label": "C",
+     "body": "Est tributaire uniquement de l'artère poplitée."
+    },
+    {
+     "label": "D",
+     "body": "Reçoit une récurrente tibiale médiale du tronc tibio-fibulaire."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 29,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Concernant la veine petite saphène:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est accompagnée par un nerf cutané."
+    },
+    {
+     "label": "B",
+     "body": "Passe en arrière de la malléole latérale."
+    },
+    {
+     "label": "C",
+     "body": "Remonte sur la face latérale de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Se draine vers la veine fémorale profonde."
+    },
+    {
+     "label": "E",
+     "body": "Est satellite de l'artère tibiale."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 29,
+   "n": 16,
+   "type": "multiple",
+   "stem": "Parmi les artères suivantes, laquelle est une branche collatérale de l'artère fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère pudentale interne."
+    },
+    {
+     "label": "B",
+     "body": "L'artère circonflexe médiale de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "La troisième artère perforante de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "L'artère descendante du genou."
+    },
+    {
+     "label": "E",
+     "body": "L'artère du quadriceps."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 30,
+   "n": 17,
+   "type": "multiple",
+   "stem": "L'artère fémorale profonde dans la loge des adducteurs:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Répond en avant au muscle grand adducteur."
+    },
+    {
+     "label": "B",
+     "body": "Arrive en passant entre le pectiné et le court adducteur."
+    },
+    {
+     "label": "C",
+     "body": "Perfore le muscle grand adducteur."
+    },
+    {
+     "label": "D",
+     "body": "Est accompagnée du nerf saphène."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 30,
+   "n": 18,
+   "type": "multiple",
+   "stem": "La veine grande et la veine petite saphène drainent le membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La veine petite saphène répond au nerf saphène."
+    },
+    {
+     "label": "B",
+     "body": "La veine grande saphène remonte sur la face antérieure de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "La veine inter-saphène est située sur la face latérale de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf sural latéral accompagne la veine petite saphène."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf sural médial accompagne la veine grande saphène."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 30,
+   "n": 19,
+   "type": "multiple",
+   "stem": "À propos des artères de la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Naissent de l'artère fémorale."
+    },
+    {
+     "label": "B",
+     "body": "Le tronc tibio-fibulaire est situé en arrière de la fibula"
+    },
+    {
+     "label": "C",
+     "body": "L'artère récurrente médiale nait en avant du tibia."
+    },
+    {
+     "label": "D",
+     "body": "Le pouls de l'artère tibiale postérieure se recherche en avant de la malléole médiale."
+    },
+    {
+     "label": "E",
+     "body": "L'artère nourricière du tibia nait de l'artère tibiale postérieure."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 32,
+   "n": 1,
+   "type": "multiple",
+   "stem": "La veine petite saphène est accompagnée par:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf saphène accessoire."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf saphène interne."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf sural latéral et médial."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf sural médial."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 32,
+   "n": 2,
+   "type": "multiple",
+   "stem": "L'artère articulaire médiale supérieure du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Reçoit l'artère récurrente médiale."
+    },
+    {
+     "label": "B",
+     "body": "Intervient dans la composition du cercle artériel péri-fémoral."
+    },
+    {
+     "label": "C",
+     "body": "Reçoit l'artère descendante du genou."
+    },
+    {
+     "label": "D",
+     "body": "Les propositions A et B sont justes."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions C et B sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 32,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Concernant l'artère fémorale, quelle est la proposition juste?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle est située en dedans de la veine fémorale."
+    },
+    {
+     "label": "B",
+     "body": "Elle est en rapport avec le nerf fémoral dans l'anneau inguinal."
+    },
+    {
+     "label": "C",
+     "body": "Elle a pour branche terminale l'artère fémorale profonde."
+    },
+    {
+     "label": "D",
+     "body": "Elle répond en arrière au muscle grand adducteur."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 32,
+   "n": 4,
+   "type": "multiple",
+   "stem": "La vascularisation de la jambe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Provient exclusivement de l'artère poplitée."
+    },
+    {
+     "label": "B",
+     "body": "Présente une veine inter-saphène sur la face médiale de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "Présente une veine inter-saphène sur la face latérale de la jambe."
+    },
+    {
+     "label": "D",
+     "body": "Présente une artère poplitée latérale à la veine."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 32,
+   "n": 5,
+   "type": "multiple",
+   "stem": "À propos de la veine grande saphène:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle fait suite à la veine marginale médiale."
+    },
+    {
+     "label": "B",
+     "body": "Elle se continue par la veine iliaque externe."
+    },
+    {
+     "label": "C",
+     "body": "Elle chemine accompagnée par le nerf sural médial."
+    },
+    {
+     "label": "D",
+     "body": "Elle se termine dans le losange poplité."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 32,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Le cercle artériel péri-articulaire du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Provient de l'anastomose de deux cercles: péri-tibial et péri-fémoral."
+    },
+    {
+     "label": "B",
+     "body": "Anastomose les deux cercles péri-tibial et péri-fémoral."
+    },
+    {
+     "label": "C",
+     "body": "Reçoit l'artère récurrente tibiale médiale branche de la poplitée."
+    },
+    {
+     "label": "D",
+     "body": "Reçoit l'artère récurrente tibiale antérieure branche de la poplitée."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions A et B sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 33,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Concernant le retour veineux du membre inférieur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La petite veine saphène nait de l'extrémité latérale de l'arcade dorsale."
+    },
+    {
+     "label": "B",
+     "body": "La petite saphène remonte sur la face latérale de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "Toutes les veines superficielles sont au-dessous du fascia superficiel."
+    },
+    {
+     "label": "D",
+     "body": "La crosse de la petite saphène se situe dans le triangle fémoral."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 33,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Parmi les artères suivantes, lesquelles sont des branches de l'artère fémorale profonde?",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère circonflexe iliaque externe et l'artère pudentale externe superficielle."
+    },
+    {
+     "label": "B",
+     "body": "Les artères perforantes et l'artère du quadriceps."
+    },
+    {
+     "label": "C",
+     "body": "Les artères circonflexes médiales et les artères pudentales externes."
+    },
+    {
+     "label": "D",
+     "body": "L'artère descendante du genou et l'artère circonflexe médiale."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 33,
+   "n": 9,
+   "type": "multiple",
+   "stem": "A la face postérieure du genou:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère est l'élément le plus superficiel de la région."
+    },
+    {
+     "label": "B",
+     "body": "La veine poplitée est antérieure à l'artère et reçoit la petite veine saphène."
+    },
+    {
+     "label": "C",
+     "body": "L'artère poplitée répond en avant aux muscles ischio-jambiers."
+    },
+    {
+     "label": "D",
+     "body": "L'artère poplitée s'enfonce dans la jambe sous le muscle poplité."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 33,
+   "n": 10,
+   "type": "multiple",
+   "stem": "À propos de la veine petite saphène :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle fait suite à la veine marginale latérale."
+    },
+    {
+     "label": "B",
+     "body": "Elle se continue par la veine poplitée."
+    },
+    {
+     "label": "C",
+     "body": "Elle chemine accompagnée par le nerf sural médial."
+    },
+    {
+     "label": "D",
+     "body": "Elle se termine dans le losange poplité."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-vascularisation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 33,
+   "n": 12,
+   "type": "multiple",
+   "stem": "À propos de l'artère fémorale profonde:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Se termine dans le creux poplité."
+    },
+    {
+     "label": "B",
+     "body": "Se termine dans le triangle fémoral."
+    },
+    {
+     "label": "C",
+     "body": "Vascularise toutes les loges de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Est l'artère nourricière de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Les réponses C et D sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 34,
+   "n": 1,
+   "type": "multiple",
+   "stem": ". Le nerf fémoral",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il est constitué de fibres L1-L2-L3"
+    },
+    {
+     "label": "B",
+     "body": "ll est moteur pour les m. fléchisseurs de la cuise"
+    },
+    {
+     "label": "C",
+     "body": "Son territoire sens atteint la malléole médiale"
+    },
+    {
+     "label": "D",
+     "body": "Il innerve les muscles adducteurs de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 34,
+   "n": 2,
+   "type": "multiple",
+   "stem": "le nerf obturateur est le nerf:",
+   "options": [
+    {
+     "label": "A",
+     "body": "De l'adduction de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "De l'extension de la hanche."
+    },
+    {
+     "label": "C",
+     "body": "De la flexion du genou"
+    },
+    {
+     "label": "D",
+     "body": "De l'extension du genou"
+    },
+    {
+     "label": "E",
+     "body": "De la flexion de la cheville"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 34,
+   "n": 3,
+   "type": "multiple",
+   "stem": "le nerf sciatique quitte la région pelvienne et passe dans la région glutéale à travers :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le canal supra-piriforme"
+    },
+    {
+     "label": "B",
+     "body": "Le canal infra-piriforme"
+    },
+    {
+     "label": "C",
+     "body": "Le trou obturateur."
+    },
+    {
+     "label": "D",
+     "body": "L'anneau fémoral"
+    },
+    {
+     "label": "E",
+     "body": "Les réponses a et b sont justes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 34,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Ces surfaces cutanées correspondent aux branches sensitives du nerf fémoral, sauf une, laquelle?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Face ventrale (antérieure) de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Face latérale (externe) de la cuisse"
+    },
+    {
+     "label": "C",
+     "body": "Face ventrale (antérieure) du genou"
+    },
+    {
+     "label": "D",
+     "body": "Face médiale (interne)de la jambe"
+    },
+    {
+     "label": "E",
+     "body": "Face plantaire du pied 20"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Le nerf fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est le nerf de l'extension de la cuisse et la flexion du genou."
+    },
+    {
+     "label": "B",
+     "body": "Son territoire sensitif s'étend à la face antérieure de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "Est moteur pour tous les muscles de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Accompagne l'artère fémorale le long du canal fémoral."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Le nerf obturateur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est destiné aux muscles ischio-jambiers et adducteurs."
+    },
+    {
+     "label": "B",
+     "body": "Innerve tous les muscles adducteurs."
+    },
+    {
+     "label": "C",
+     "body": "Arrive dans la loge des adducteurs par le canal sous pubien."
+    },
+    {
+     "label": "D",
+     "body": "Présente un territoire sensitif à la face médiale de la jambe."
+    },
+    {
+     "label": "E",
+     "body": "Chemine en avant du pectiné et du long adducteur."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Le plexus sacré:",
+   "options": [
+    {
+     "label": "A",
+     "body": "formé par l'anastomose du tronc lombo-sacré et les branches ant. des 3 premiers nerfs spinaux sacrés."
+    },
+    {
+     "label": "B",
+     "body": "Sa branche terminale est le nerf obturateur."
+    },
+    {
+     "label": "C",
+     "body": "Est de forme rectangulaire."
+    },
+    {
+     "label": "D",
+     "body": "Assure l'innervation motrice de tous les muscles de la cuisse"
+    },
+    {
+     "label": "E",
+     "body": "Les branches ant. des 2ème, 3ème nerfs spinaux sacrés participent en totalité dans la formation plexus sacré"
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 35,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Le nerf sciatique; cochez la réponse fausse :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nerf mixte, le plus volumineux du corps humain."
+    },
+    {
+     "label": "B",
+     "body": "Il se divise en deux branches terminales: le nerf tibial et fibulaire commun."
+    },
+    {
+     "label": "C",
+     "body": "Dans son trajet glutéal, il se projette sur le quadrant inféro-médial."
+    },
+    {
+     "label": "D",
+     "body": "Ne donne aucune collatérale dans son trajet."
+    },
+    {
+     "label": "E",
+     "body": "Assure toute l'innervation motrice de la jambe et du pied."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 35,
+   "n": 9,
+   "type": "multiple",
+   "stem": "Le nerf ischiatique est responsable de :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La flexion du genou"
+    },
+    {
+     "label": "B",
+     "body": "La flexion plantaire du pied"
+    },
+    {
+     "label": "C",
+     "body": "La flexion dorsale du pied"
+    },
+    {
+     "label": "D",
+     "body": "La sensibilité postéro-latérale de la jambe"
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 36,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Au niveau du pied :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le bord latéral est innervé par le nerf saphène"
+    },
+    {
+     "label": "B",
+     "body": "Le dos est innervé par le nerf fibulaire superficiel."
+    },
+    {
+     "label": "C",
+     "body": "Le dos est innervé par le nerf fibulaire commun."
+    },
+    {
+     "label": "D",
+     "body": "La plante est innervée par le nerf tibial"
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont justes"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 36,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Le nerf fémoral : cocher la proposition exacte :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il est constitué de fibres L1-L2-L3"
+    },
+    {
+     "label": "B",
+     "body": "Il est moteur pour les muscles fléchisseurs de la cuisse"
+    },
+    {
+     "label": "C",
+     "body": "Son territoire sensitif atteint la malléole médiale."
+    },
+    {
+     "label": "D",
+     "body": "Il innerve les muscles adducteurs de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 36,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Dans la nomina anatomica:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le tendon calcanéen correspond au ligament deltoïde."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf fibulaire commun correspond au nerf sciatique."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle sartorius correspond au muscle droit antérieur."
+    },
+    {
+     "label": "D",
+     "body": "Le plexus pudental correspond au plexus coccygien."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf fémoral correspond au nerf crural."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 36,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Le plexus sacral présente une seule de ces branches collatérales:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf du muscle pectiné."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf du muscle carré fémoral."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf cutané fémoral latéral."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf sural latéral."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf du muscle obturateur externe."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 36,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Le nerf ischiatique est responsable de l'innervation:",
+   "options": [
+    {
+     "label": "A",
+     "body": "De la partie supérieure de la face médiale de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "L'articulation du genou."
+    },
+    {
+     "label": "C",
+     "body": "Du muscle sartorius."
+    },
+    {
+     "label": "D",
+     "body": "Des muscles grand et court adducteurs."
+    },
+    {
+     "label": "E",
+     "body": "Du muscle pectiné."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 37,
+   "n": 15,
+   "type": "multiple",
+   "stem": "L'élément A représente le nerf fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il est constitué de fibres L1-L2-L3."
+    },
+    {
+     "label": "B",
+     "body": "Il est moteur pour les m. fléchisseurs de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "Son territoire sensitif atteint la malléole médiale."
+    },
+    {
+     "label": "D",
+     "body": "Il Innerve les muscles adducteurs de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 37,
+   "n": 16,
+   "type": "multiple",
+   "stem": "L'élément B:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Correspond à la veine grande saphène."
+    },
+    {
+     "label": "B",
+     "body": "Représente la veine petite saphène."
+    },
+    {
+     "label": "C",
+     "body": "Prend origine à partir de la veine marginale latérale."
+    },
+    {
+     "label": "D",
+     "body": "Rejoint la veine iliaque externe. E Les propositions A et C sont exactes."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 37,
+   "n": 17,
+   "type": "multiple",
+   "stem": "L'élément H correspond au:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nerf cutané médial de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Nerf musculo-cutané latéral."
+    },
+    {
+     "label": "C",
+     "body": "Nerf musculo cutané médial."
+    },
+    {
+     "label": "D",
+     "body": "Nerf perforant médial."
+    },
+    {
+     "label": "E",
+     "body": "Nerf saphène accessoire."
+    }
+   ],
+   "key": null,
+   "rawKey": "C/E",
+   "status": "draft",
+   "issues": [
+    "ambiguous_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 37,
+   "n": 18,
+   "type": "multiple",
+   "stem": "L'élément G:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Correspond au nerf saphène dans le canal des adducteurs."
+    },
+    {
+     "label": "B",
+     "body": "Correspond au nerf cutané médial de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "Traverse le septum médial pour devenir superficiel."
+    },
+    {
+     "label": "D",
+     "body": "il se termine avec l'élément F au niveau de la cheville."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 37,
+   "n": 19,
+   "type": "multiple",
+   "stem": "L'élément F:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Représente les nerfs moteurs destinés au muscle sartorius."
+    },
+    {
+     "label": "B",
+     "body": "Correspond aux branches destinées au muscle quadriceps."
+    },
+    {
+     "label": "C",
+     "body": "Correspond aux nerfs cutanés antérieurs de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Sont des branches cutanées du nerf saphène."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et D sont exactes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 38,
+   "n": 20,
+   "type": "multiple",
+   "stem": "Les propositions suivantes concernant les nerfs fibulaires:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf fibulaire profond est responsable de l'extension des orteils."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf fibulaire profond intervient dans la supination du pied."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf fibulaire superficiel est superficiel sur tout son trajet."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf fibulaire commun atteint la loge ventrale de la jambe."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": "A/B",
+   "status": "draft",
+   "issues": [
+    "ambiguous_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 38,
+   "n": 21,
+   "type": "multiple",
+   "stem": "Le plexus sacral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est plaqué à la face ventrale du muscle piriforme."
+    },
+    {
+     "label": "B",
+     "body": "Se place dans la région pelvienne."
+    },
+    {
+     "label": "C",
+     "body": "Il innerve les muscles fléchisseurs du genou."
+    },
+    {
+     "label": "D",
+     "body": "Est profondément situé."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 38,
+   "n": 22,
+   "type": "multiple",
+   "stem": "Le nerf ischiatique:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est le nerf de la loge dorsale de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Est l'unique collatérale du plexus sacral."
+    },
+    {
+     "label": "C",
+     "body": "Traverse la région poplitée."
+    },
+    {
+     "label": "D",
+     "body": "Nait au-dessus du muscle piriforme."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 38,
+   "n": 23,
+   "type": "multiple",
+   "stem": "À propos du plexus lombal et de ses branches:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il se constitue à partir des bronches ventrales de L2 à S1."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf ilio-fémoral se distribue à la face antérieure de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "Il se situe entre les deux plans du muscle psoas."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf obturateur se dégage du bord latéral du muscle psoas."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf cutané latéral se distribue à la paroi abdominale."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 38,
+   "n": 24,
+   "type": "multiple",
+   "stem": "À propos du nerf fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il arrive dans la cuisse par la lacune vasculaire de l'orifice inguinal."
+    },
+    {
+     "label": "B",
+     "body": "Il parcourt le canal fémoral sur toute sa hauteur."
+    },
+    {
+     "label": "C",
+     "body": "Il est destiné uniquement aux muscles du quadriceps."
+    },
+    {
+     "label": "D",
+     "body": "Son territoire d'innervation se limite à la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 38,
+   "n": 25,
+   "type": "multiple",
+   "stem": "Au niveau des téguments de la cuisse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La face antérieure est innervée par les nerfs cutanés antérieurs du musculo cutané latéral."
+    },
+    {
+     "label": "B",
+     "body": "La face latérale est tributaire du nerf cutané fémoral latéral"
+    },
+    {
+     "label": "C",
+     "body": "La face médiale est tributaire du nerf obturateur."
+    },
+    {
+     "label": "D",
+     "body": "La face médiale du genou est tributaire du nerf saphène."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 38,
+   "n": 26,
+   "type": "multiple",
+   "stem": "Le nerf ischiatique est responsable de l'innervation:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Du muscle semi-tendineux."
+    },
+    {
+     "label": "B",
+     "body": "Du faisceau supérieur du muscle grand adducteur."
+    },
+    {
+     "label": "C",
+     "body": "De la peau de la face dorsale de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Du muscle gracile."
+    },
+    {
+     "label": "E",
+     "body": "De l'articulation de la hanche."
+    },
+    {
+     "label": "A",
+     "body": "(a+c) B. (b+d) C. (c+e) D. (d+e) E. (a+e)"
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 39,
+   "n": 27,
+   "type": "multiple",
+   "stem": "Le nerf saphène interne:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Suit l'artère poplitée."
+    },
+    {
+     "label": "B",
+     "body": "Est la branche la plus courte du nerf fémoral."
+    },
+    {
+     "label": "C",
+     "body": "S'étend du trigone fémoral au pied."
+    },
+    {
+     "label": "D",
+     "body": "Est satellite de la veine grande saphène à la jambe."
+    },
+    {
+     "label": "E",
+     "body": "Est responsable de l'innervation de la face ventrale de la cuisse."
+    },
+    {
+     "label": "A",
+     "body": "(a+c) B. (a+b) C. (b+c) D. (c+d) E. (a+d)"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 39,
+   "n": 28,
+   "type": "multiple",
+   "stem": "Toutes ces propositions concernent le nerf fémoral sont justes, sauf une laquelle?",
+   "options": [
+    {
+     "label": "A",
+     "body": "À son entrée dans la cuisse sous Le ligament inguinal, il est en dedans de l'axe vasculaire fémoral."
+    },
+    {
+     "label": "B",
+     "body": "Il permet l'extension du genou et la flexion de la hanche."
+    },
+    {
+     "label": "C",
+     "body": "innerve le muscle sartorius et le muscle long adducteur."
+    },
+    {
+     "label": "D",
+     "body": "Il est responsable de l'innervation sensitive de la peau située en regard de la malléole tibiale."
+    },
+    {
+     "label": "E",
+     "body": "Il donne les nerfs cutanés ventraux de la cuisse."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 39,
+   "n": 29,
+   "type": "multiple",
+   "stem": "Ces surfaces cutanées correspondent aux branches sensitives du nerf fémoral, sauf une, laquelle ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Face ventrale (antérieure) de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Face latérale (externe) de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "Face ventrale (antérieure) du genou."
+    },
+    {
+     "label": "D",
+     "body": "Face médiale (interne) de la jambe."
+    },
+    {
+     "label": "E",
+     "body": "Face plantaire du pied."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 39,
+   "n": 30,
+   "type": "multiple",
+   "stem": "Toutes ces propositions concernant le nerf obturateur sont justes, sauf une, laquelle ?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est constitué de fibres provenant de L2-L3-L4."
+    },
+    {
+     "label": "B",
+     "body": "Arrive dans la cuisse en traversant le canal sous pubien."
+    },
+    {
+     "label": "C",
+     "body": "Innerve tous les muscles adducteurs."
+    },
+    {
+     "label": "D",
+     "body": "Il partage avec le nerf fémoral, innervation du grand adducteur."
+    },
+    {
+     "label": "E",
+     "body": "Contribue à l'innervation sensitive de la cuisse."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 39,
+   "n": 31,
+   "type": "multiple",
+   "stem": "Les propositions suivantes concernent le plexus sacral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Son origine se fait de L3 à S3."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf ischiatique est sa seule branche terminale."
+    },
+    {
+     "label": "C",
+     "body": "Il innerve tous les muscles pelvi-trochantériens."
+    },
+    {
+     "label": "D",
+     "body": "Il innerve tous les muscles de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 39,
+   "n": 32,
+   "type": "multiple",
+   "stem": "À propos du nerf obturateur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "C'est la branche médiale du plexus lombal."
+    },
+    {
+     "label": "B",
+     "body": "Il se distribue à certains muscles de la loge médiale de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "Il est sensitivomoteur et principalement adducteur."
+    },
+    {
+     "label": "D",
+     "body": "Il donne une branche au muscle obturateur externe."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 39,
+   "n": 33,
+   "type": "multiple",
+   "stem": "Le nerf crural est:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Une branche terminale du plexus sacré."
+    },
+    {
+     "label": "B",
+     "body": "Un nerf sensitivomoteur."
+    },
+    {
+     "label": "C",
+     "body": "Destiné à tous les muscles de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Responsable de la flexion du genou."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 40,
+   "n": 34,
+   "type": "multiple",
+   "stem": "Concernant le plexus lombal:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il se constitue à partir des branches antérieures de L1 à S1."
+    },
+    {
+     "label": "B",
+     "body": "Son territoire sensitif se limite à la face ventrale de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "Ses branches terminales sont toutes sensitivomotrices."
+    },
+    {
+     "label": "D",
+     "body": "Ses branches motrices se destinent aux muscles antérieurs et médiaux de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 40,
+   "n": 35,
+   "type": "multiple",
+   "stem": "Le plexus sacral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est constitué des branches antérieures de S1, S2, S3."
+    },
+    {
+     "label": "B",
+     "body": "Est situé en partie dans la cavité pelvienne."
+    },
+    {
+     "label": "C",
+     "body": "À la face antérieure du muscle obturateur interne"
+    },
+    {
+     "label": "D",
+     "body": "Il innerve le muscle carré fémoral."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions B et D sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 40,
+   "n": 36,
+   "type": "multiple",
+   "stem": "Le nerf ischiatique:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nait de L4-L5-S1-S2-S3-S4."
+    },
+    {
+     "label": "B",
+     "body": "Est moteur pour les muscles de la patte d'oie."
+    },
+    {
+     "label": "C",
+     "body": "Nait sur le muscle piriforme."
+    },
+    {
+     "label": "D",
+     "body": "Innerve la face dorsale de la cuisse."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 40,
+   "n": 37,
+   "type": "multiple",
+   "stem": "À propos du plexus lombal:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il est situé entre les muscles: iliaque et psoas."
+    },
+    {
+     "label": "B",
+     "body": "Il se constitue à partir des racines L1 à L5."
+    },
+    {
+     "label": "C",
+     "body": "Ses branches collatérales sont motrices."
+    },
+    {
+     "label": "D",
+     "body": "Ses branches terminales sont motrices."
+    },
+    {
+     "label": "E",
+     "body": "Les branches terminales sont mixtes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 40,
+   "n": 38,
+   "type": "multiple",
+   "stem": "Le nerf fémoral, dans son trajet:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Traverse la lacune vasculaire en avant de l'artère fémorale."
+    },
+    {
+     "label": "B",
+     "body": "Donne des branches terminales superficielles sensitives."
+    },
+    {
+     "label": "C",
+     "body": "Se divise à son arrivée dans le triangle."
+    },
+    {
+     "label": "D",
+     "body": "Se place entre l'artère fémorale et sa veine."
+    },
+    {
+     "label": "E",
+     "body": "Donne des branches perforantes médiales."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 40,
+   "n": 39,
+   "type": "multiple",
+   "stem": "Le nerf obturateur assure l'innervation:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Du muscle Piriforme."
+    },
+    {
+     "label": "B",
+     "body": "Du muscle iliopsoas."
+    },
+    {
+     "label": "C",
+     "body": "Du muscle Obturateur externe."
+    },
+    {
+     "label": "D",
+     "body": "Du muscle Obturateur interne."
+    },
+    {
+     "label": "E",
+     "body": "De tous les muscles cités."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 41,
+   "n": 42,
+   "type": "multiple",
+   "stem": "A propos de l'innervation au niveau de la cuisse:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf saphène se distribue aux téguments de la face médiale de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle grand adducteur reçoit des fibres du nerf fémoral."
+    },
+    {
+     "label": "C",
+     "body": "Les nerfs cutanés perforants se distribuent à la face antérieure de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Le muscle sartorius reçoit des branches motrices du nerf saphène."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf du quadriceps innerve tous les muscles de la loge médiale de la cuisse."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 43,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Le nerf fibulaire superficie:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nait dans la fosse poplitée."
+    },
+    {
+     "label": "B",
+     "body": "Innerve le muscle 3ème fibulaire."
+    },
+    {
+     "label": "C",
+     "body": "Est responsable de la sensibilité de la partie proximale du 1er espace interosseux."
+    },
+    {
+     "label": "D",
+     "body": "Est responsable de la sensibilité de la face dorsale de l'hallux."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 43,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Concernant l'innervation au niveau de la cuisse, indiquez la proposition juste:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'innervation sensitive de la face antérieure de la cuisse est assurée par le nerf saphène."
+    },
+    {
+     "label": "B",
+     "body": "L'innervation motrice du quadriceps est partagée entre le nerf fémoral et le nerf obturateur."
+    },
+    {
+     "label": "C",
+     "body": "La branche perforante du nerf fémoral est destinée à l'innervation motrice du sartorius."
+    },
+    {
+     "label": "D",
+     "body": "Tous les muscles adducteurs sont innervés par le nerf obturateur."
+    },
+    {
+     "label": "E",
+     "body": "Le grand adducteur est exclusivement innervé par le nerf obturateur."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 43,
+   "n": 3,
+   "type": "multiple",
+   "stem": "Le nerf tibial:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf tibial continue le trajet vertical du nerf fémoral."
+    },
+    {
+     "label": "B",
+     "body": "Descend dans la fosse poplitée en dedans du nerf fibulaire commun."
+    },
+    {
+     "label": "C",
+     "body": "Descend dans la loge postérieure de la jambe au-dessus du soléaire."
+    },
+    {
+     "label": "D",
+     "body": "Contourne la fibula à hauteur du col."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 43,
+   "n": 4,
+   "type": "multiple",
+   "stem": "Le nerf fibulaire superficiel:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Descend dans la loge antérieure de la jambe."
+    },
+    {
+     "label": "B",
+     "body": "Perfore le septum intermusculaire au quart inférieur de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "Devient superficiel avant de se terminer."
+    },
+    {
+     "label": "D",
+     "body": "Innerve les téguments de la plante du pied."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 43,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Le nerf ischiatique:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf sort du pelvis par la grande incisure ischiatique au-dessus du piriforme."
+    },
+    {
+     "label": "B",
+     "body": "Traverse la région glutéale en décrivant une courbe concave vers le haut."
+    },
+    {
+     "label": "C",
+     "body": "Descend vertical et superficiel dans la loge postérieure de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Donne le nerf du muscle gracile."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 43,
+   "n": 6,
+   "type": "multiple",
+   "stem": "À propos du plexus sacral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il comporte des fibres de L3, L4, L5, S1, S2, S3."
+    },
+    {
+     "label": "B",
+     "body": "Il comporte des fibres de L4, L5, S1, S2, S3, S4."
+    },
+    {
+     "label": "C",
+     "body": "Il innerve tous les muscles glutéaux."
+    },
+    {
+     "label": "D",
+     "body": "Il innerve tous les muscles pelvi-trochantériens."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 43,
+   "n": 7,
+   "type": "multiple",
+   "stem": "À propos du segment crural du membre pelvien:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La loge postérieure comporte uniquement des muscles fléchisseurs."
+    },
+    {
+     "label": "B",
+     "body": "Partage son innervation motrice entre le nerf tibial et nerf ischiatique."
+    },
+    {
+     "label": "C",
+     "body": "Ouvre passage à la veine grande saphène sur sa face antérieure."
+    },
+    {
+     "label": "D",
+     "body": "Reçoit une partie de son innervation sensitive par le nerf fibulaire profond."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 44,
+   "n": 8,
+   "type": "multiple",
+   "stem": "Sont tributaires du plexus sacral le:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nerf du pectiné."
+    },
+    {
+     "label": "B",
+     "body": "Nerf du poplité."
+    },
+    {
+     "label": "C",
+     "body": "Nerf de l'obturateur externe."
+    },
+    {
+     "label": "D",
+     "body": "Nerf du Sartorius."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 44,
+   "n": 9,
+   "type": "multiple",
+   "stem": "La paralysie du nerf fibulaire commun:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Peut-être provoquée par une fracture du col de la fibula."
+    },
+    {
+     "label": "B",
+     "body": "Peut-être provoquée par une fracture du tibia."
+    },
+    {
+     "label": "C",
+     "body": "Conserve l'éversion du pied."
+    },
+    {
+     "label": "D",
+     "body": "Entraine une perte de la sensibilité sur la face antérieure de la jambe."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 44,
+   "n": 10,
+   "type": "multiple",
+   "stem": "Concernent le plexus lombaire:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Ce plexus est à l'origine des nerfs destinés seulement à la région lombaire."
+    },
+    {
+     "label": "B",
+     "body": "Il présente une seule branche terminale représentée par le nerf fémoral."
+    },
+    {
+     "label": "C",
+     "body": "Il est formé à partir de toutes les branches antérieures des nerfs lombaires."
+    },
+    {
+     "label": "D",
+     "body": "Il se constitue entre les deux plans du psoas iliaque."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 44,
+   "n": 11,
+   "type": "multiple",
+   "stem": "Le nerf fémoral :",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est le nerf de l'extension de la cuisse et de la flexion du genou."
+    },
+    {
+     "label": "B",
+     "body": "Présente un territoire sensitif étendu de la face antérieure de la cuisse à la face antérieure de la jambe."
+    },
+    {
+     "label": "C",
+     "body": "Innerve exclusivement les 4 chefs du muscle quadriceps."
+    },
+    {
+     "label": "D",
+     "body": "Chemine dans le triangle fémoral de haut en bas."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 44,
+   "n": 12,
+   "type": "multiple",
+   "stem": "Le nerf obturateur:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est destiné au muscle quadriceps et aux muscles adducteurs."
+    },
+    {
+     "label": "B",
+     "body": "Traverse successivement le triangle fémoral et le canal fémoral."
+    },
+    {
+     "label": "E",
+     "body": "Est le nerf de l'adduction de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Nait dans la cavité pelvienne qu'il quitte par le canal obturateur."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont exactes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 44,
+   "n": 13,
+   "type": "multiple",
+   "stem": "Le nerf tibial:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf tibial continue le trajet vertical du nerf ischiatique."
+    },
+    {
+     "label": "B",
+     "body": "Descend dans la fosse poplitée en dedans du nerf fibulaire commun."
+    },
+    {
+     "label": "C",
+     "body": "Descend dans la loge postérieure de la jambe au-dessous du soléaire."
+    },
+    {
+     "label": "D",
+     "body": "Passe en dessous de la malléole médiale."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 44,
+   "n": 14,
+   "type": "multiple",
+   "stem": "Le nerf ischiatique:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Innerve la face postérieure de la cuisse."
+    },
+    {
+     "label": "B",
+     "body": "Traverse la région glutéale."
+    },
+    {
+     "label": "C",
+     "body": "Descend vertical et superficiel dans la loge postérieure de la cuisse."
+    },
+    {
+     "label": "D",
+     "body": "Donne le nerf du muscle semi tendineux."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses B et D sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 45,
+   "n": 15,
+   "type": "multiple",
+   "stem": "Sont tributaires du plexus sacral le:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nerf du gracile."
+    },
+    {
+     "label": "B",
+     "body": "Nerf du tibial antérieur."
+    },
+    {
+     "label": "C",
+     "body": "Nerf du droit fémoral."
+    },
+    {
+     "label": "D",
+     "body": "Nerf du Sertorius."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les réponses sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 45,
+   "n": 16,
+   "type": "multiple",
+   "stem": "Concernant le plexus lombal:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il donne le nerf le plus volumineux de l'organisme."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf obturateur intervient dans l'innervation des muscles pelvi-trochantériens."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf fémoral est son unique branche terminale."
+    },
+    {
+     "label": "D",
+     "body": "Il innerve le muscle psoas iliaque."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 45,
+   "n": 17,
+   "type": "multiple",
+   "stem": "Les propositions suivantes concernent le plexus sacral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Son origine s'étend de L4 à S3."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf ischiatique est sa seule branche terminale."
+    },
+    {
+     "label": "C",
+     "body": "Il innerve les muscles pelvi-trochantériens."
+    },
+    {
+     "label": "D",
+     "body": "Il donne le nerf cutané fémoral dorsal."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-innervation",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 45,
+   "n": 18,
+   "type": "multiple",
+   "stem": "A propos du nerf fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Il chemine sur la partie médiale du muscle psoas."
+    },
+    {
+     "label": "B",
+     "body": "Il dépend de L3, L4, L5."
+    },
+    {
+     "label": "C",
+     "body": "Il quitte le bassin par la petite incisure ischiatique."
+    },
+    {
+     "label": "D",
+     "body": "Il donne des branches sensitives pour la face latérale de la jambe."
+    },
+    {
+     "label": "E",
+     "body": "Il est responsable de l'innervation des muscles de la loge antérieure de la cuisse."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 46,
+   "n": 1,
+   "type": "multiple",
+   "stem": "Dans la fosse poplitée:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère poplitée descend latéralement à la veine poplitée."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf tibial postérieur est l’élément le plus antérieur."
+    },
+    {
+     "label": "C",
+     "body": "La veine poplitée reçoit la grande veine saphène."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf fibulaire commun longe le bord médial du biceps."
+    },
+    {
+     "label": "E",
+     "body": "Le pédicule vasculo-nerveux est superficiel à sa partie inférieure"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 46,
+   "n": 2,
+   "type": "multiple",
+   "stem": "Au niveau du canal fémoral, on trouve tous les éléments suivants, sauf un, lequel?",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère fémorale."
+    },
+    {
+     "label": "B",
+     "body": "La veine fémorale."
+    },
+    {
+     "label": "C",
+     "body": "La grande veine saphène"
+    },
+    {
+     "label": "D",
+     "body": "Le nerf saphène."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf accessoire saphène"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Rattrapage 2023",
+   "examYear": 2023,
+   "page": 46,
+   "n": 3,
+   "type": "multiple",
+   "stem": "dans le triangle fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère fémorale est latérale à sa veine"
+    },
+    {
+     "label": "B",
+     "body": "La veine fémorale reçoit la grande veine saphène."
+    },
+    {
+     "label": "C",
+     "body": "La nerf fémoral donne ses branches terminales."
+    },
+    {
+     "label": "D",
+     "body": "L'artère morale profonde nais de l'artère fémorale commune."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 46,
+   "n": 4,
+   "type": "multiple",
+   "stem": "A la face médiale de la cheville:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le tendon du muscle tibial postérieur passe sous le rétinaculum des extenseurs."
+    },
+    {
+     "label": "B",
+     "body": "L'artère tibiale postérieure est accompagnée du nerf fibulaire profond."
+    },
+    {
+     "label": "C",
+     "body": "L'artère tibiale postérieure donne ses deux branches terminales"
+    },
+    {
+     "label": "D",
+     "body": "Le nerf tibial postérieur accompagne l'artère fibulaire superficielle."
+    },
+    {
+     "label": "E",
+     "body": "Les réponses b et c sont justes. Les Régions Topographiques et"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 47,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Dans le canal des adducteurs",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le nerf obturateur traverse le muscle long adducteur."
+    },
+    {
+     "label": "B",
+     "body": "L'artère obturatrice suit le nerf obturateur sur tout son trajet."
+    },
+    {
+     "label": "C",
+     "body": "La branche antérieure du nerf obturateur se termine par une branche sensitive"
+    },
+    {
+     "label": "D",
+     "body": "La branche postérieure du nerf obturateur chemine en avant du court adducteur."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 47,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Au niveau de la fosse poplitée:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La veine poplitée est antérieure à l'artère et reçoit la petite saphène."
+    },
+    {
+     "label": "B",
+     "body": "L'artère poplitée répond en avant aux muscles ischio-jambiers."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf fibulaire commun suit le bord latéral du muscle semi-tendineux"
+    },
+    {
+     "label": "D",
+     "body": "Le nerf tibial descend verticalement en avant du muscle poplité."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": "X",
+   "status": "draft",
+   "issues": [
+    "open_question"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "EMD 2 2023",
+   "examYear": 2023,
+   "page": 47,
+   "n": 7,
+   "type": "multiple",
+   "stem": "Dans le trigone fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère fémorale se place en dedans de la veine fémorale."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf fémoral donne toutes ses branches terminales"
+    },
+    {
+     "label": "C",
+     "body": "Le nerf saphène nait du nerf musculo-cutané médial."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf cutané latéral de la cuisse est satellite du muscle sartorius."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions b et c sont justes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 47,
+   "n": 8,
+   "type": "multiple",
+   "stem": "La structure 1:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscle vaste médial."
+    },
+    {
+     "label": "B",
+     "body": "Plan fibreux antérieur du genou."
+    },
+    {
+     "label": "C",
+     "body": "Bourse synoviale du genou."
+    },
+    {
+     "label": "D",
+     "body": "Capsule articulaire."
+    },
+    {
+     "label": "E",
+     "body": "Rétinaculum patellaire."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 48,
+   "n": 9,
+   "type": "multiple",
+   "stem": "La structure 2:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscle plantaire."
+    },
+    {
+     "label": "B",
+     "body": "Ligament collatéral latéral."
+    },
+    {
+     "label": "C",
+     "body": "Ligament collatéral médial."
+    },
+    {
+     "label": "D",
+     "body": "Ligament croisé postérieur."
+    },
+    {
+     "label": "E",
+     "body": "Ligament croisé antérieur."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 48,
+   "n": 10,
+   "type": "multiple",
+   "stem": "La structure 3:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscle poplité."
+    },
+    {
+     "label": "B",
+     "body": "Muscle semi-membraneux."
+    },
+    {
+     "label": "C",
+     "body": "Muscle sartorius."
+    },
+    {
+     "label": "D",
+     "body": "Ligament collatéral médial."
+    },
+    {
+     "label": "E",
+     "body": "Ligament poplité arqué."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 48,
+   "n": 11,
+   "type": "multiple",
+   "stem": "La structure 4:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscle gracile."
+    },
+    {
+     "label": "B",
+     "body": "Muscle sartorius."
+    },
+    {
+     "label": "C",
+     "body": "Bandelette ilio-tibiale."
+    },
+    {
+     "label": "D",
+     "body": "Ligament collatéral médial."
+    },
+    {
+     "label": "E",
+     "body": "Muscle long adducteur."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 48,
+   "n": 12,
+   "type": "multiple",
+   "stem": "La structure 5:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscle poplité."
+    },
+    {
+     "label": "B",
+     "body": "Muscle semi-tendineux."
+    },
+    {
+     "label": "C",
+     "body": "Muscle semi-membraneux."
+    },
+    {
+     "label": "D",
+     "body": "Muscle plantaire."
+    },
+    {
+     "label": "E",
+     "body": "Muscle gracile."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 48,
+   "n": 13,
+   "type": "multiple",
+   "stem": "La structure 6:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Tronc artériel tibio-fibulaire."
+    },
+    {
+     "label": "B",
+     "body": "Artère tibiale postérieure."
+    },
+    {
+     "label": "C",
+     "body": "Veine petite saphène."
+    },
+    {
+     "label": "D",
+     "body": "Nerf ischiatique."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 48,
+   "n": 14,
+   "type": "multiple",
+   "stem": "La structure 7:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nerf ischiatique."
+    },
+    {
+     "label": "B",
+     "body": "Nerf obturateur."
+    },
+    {
+     "label": "C",
+     "body": "Nerf tibial."
+    },
+    {
+     "label": "D",
+     "body": "Nerf fibulaire profond."
+    },
+    {
+     "label": "E",
+     "body": "Nerf fibulaire commun."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 48,
+   "n": 15,
+   "type": "multiple",
+   "stem": "La structure 8:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscle gastrocnémien latéral."
+    },
+    {
+     "label": "B",
+     "body": "Muscle gastrocnémien médial."
+    },
+    {
+     "label": "C",
+     "body": "Muscle semi-tendineux."
+    },
+    {
+     "label": "D",
+     "body": "Muscle semi-membraneux."
+    },
+    {
+     "label": "E",
+     "body": "Plan fibreux postérieur."
+    }
+   ],
+   "key": "A",
+   "rawKey": "A",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 49,
+   "n": 16,
+   "type": "multiple",
+   "stem": "La structure 9:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Muscle poplité."
+    },
+    {
+     "label": "B",
+     "body": "Muscle plantaire."
+    },
+    {
+     "label": "C",
+     "body": "Ligament poplité oblique."
+    },
+    {
+     "label": "D",
+     "body": "Ligament poplité arqué."
+    },
+    {
+     "label": "E",
+     "body": "Muscle sartorius."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 49,
+   "n": 17,
+   "type": "multiple",
+   "stem": "La structure 10:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Nerf obturateur."
+    },
+    {
+     "label": "B",
+     "body": "Ligament collatéral latéral."
+    },
+    {
+     "label": "C",
+     "body": "Nerf fémoral."
+    },
+    {
+     "label": "D",
+     "body": "Veine grande saphène."
+    },
+    {
+     "label": "E",
+     "body": "Nerf sural médial."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 49,
+   "n": 18,
+   "type": "multiple",
+   "stem": "Au niveau de la fosse axillaire, cocher la proposition exacte :",
+   "options": [
+    {
+     "label": "A",
+     "body": "La paroi postérieure est fermée de toute part"
+    },
+    {
+     "label": "B",
+     "body": "L’artère axillaire est l’élément le plus médial du pédicule vasculaire axillaire"
+    },
+    {
+     "label": "C",
+     "body": "Le faisceau postérieur (TSP) se place en arrière de la veine axillaire"
+    },
+    {
+     "label": "D",
+     "body": "Le nerf ulnaire se place en dedans de l’artère axillaire"
+    },
+    {
+     "label": "E",
+     "body": "Le nerf radial est la branche latérale du faisceau postérieur (TSP"
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 49,
+   "n": 19,
+   "type": "multiple",
+   "stem": "Dans la fosse poplitée, cocher la proposition exacte :",
+   "options": [
+    {
+     "label": "A",
+     "body": "L’artère poplitée descend latéralement à la veine poplitée"
+    },
+    {
+     "label": "B",
+     "body": "Le nerf tibial postérieur est l’élément le plus antérieur"
+    },
+    {
+     "label": "C",
+     "body": "La veine poplitée reçoit la grande veine saphène"
+    },
+    {
+     "label": "D",
+     "body": "Le nerf fibulaire commun longe le bord médial du biceps"
+    },
+    {
+     "label": "E",
+     "body": "Le pédicule vasculo-nerveux est superficiel à sa partie inférieure"
+    }
+   ],
+   "key": null,
+   "rawKey": "D/E",
+   "status": "draft",
+   "issues": [
+    "ambiguous_key"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 49,
+   "n": 21,
+   "type": "multiple",
+   "stem": "Dans la fosse poplitée, cochez la proposition exacte:",
+   "options": [
+    {
+     "label": "A",
+     "body": "L'artère poplitée descend latéralement à la veine poplitée."
+    },
+    {
+     "label": "B",
+     "body": "Le nerf tibial postérieur est l'élément le plus antérieur."
+    },
+    {
+     "label": "C",
+     "body": "La veine poplitée reçoit la grande veine saphène."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf fibulaire commun longe le bord médial du biceps."
+    },
+    {
+     "label": "E",
+     "body": "Le pédicule vasculo-nerveux est superficiel à sa partie inférieure."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 49,
+   "n": 22,
+   "type": "multiple",
+   "stem": "A propos de l'artère fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Elle se divise à 10cm sous le ligament inguinal."
+    },
+    {
+     "label": "B",
+     "body": "Sa branche superficielle est la véritable artère nourricière de la cuisse."
+    },
+    {
+     "label": "C",
+     "body": "Elle traverse le canal fémoral de haut en bas."
+    },
+    {
+     "label": "D",
+     "body": "Les artères circonflexes entourent la partie moyenne de la diaphyse fémorale."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont exactes"
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 50,
+   "n": 23,
+   "type": "multiple",
+   "stem": "Dans le triangle fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La veine fémorale se place en dehors de l'artère."
+    },
+    {
+     "label": "B",
+     "body": "La grande veine saphène arrive dans le triangle par le fascia criblé."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf saphène est une branche destinée au muscle sartorius."
+    },
+    {
+     "label": "D",
+     "body": "L'artère fémorale profonde est accompagnée du nerf saphène accessoire."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et C sont exactes."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 50,
+   "n": 24,
+   "type": "multiple",
+   "stem": "Dans la fosse poplitée:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La paroi antérieure est aponévrotique et livre passage à la petite veine saphène."
+    },
+    {
+     "label": "B",
+     "body": "L'artère poplitée y est superficielle de haut en bas."
+    },
+    {
+     "label": "C",
+     "body": "L'artère poplitée ne donne que des branches musculaires pour les parois."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf tibial est l'élément le plus profond du pédicule vasculo-nerveux."
+    },
+    {
+     "label": "E",
+     "body": "Aucune proposition n'est exacte."
+    }
+   ],
+   "key": "E",
+   "rawKey": "E",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 50,
+   "n": 25,
+   "type": "multiple",
+   "stem": "Dans le canal calcanéen passe:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le tendon du muscle long fibulaire."
+    },
+    {
+     "label": "B",
+     "body": "Le tendon du muscle long fléchisseur des orteils"
+    },
+    {
+     "label": "C",
+     "body": "L'artère fibulaire. D. Le nerf tibial."
+    },
+    {
+     "label": "E",
+     "body": "Le tendon du muscle tibial antérieur."
+    },
+    {
+     "label": "A",
+     "body": "(a+b) B. (b+d) C. (c+e) D. (b+e) E. (a+d)"
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "draft",
+   "issues": [
+    "bad_option_labels"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 50,
+   "n": 27,
+   "type": "multiple",
+   "stem": "Dans la fosse poplitée, quelle est la proposition exacte?",
+   "options": [
+    {
+     "label": "A",
+     "body": "Sa paroi supéro-latérale est formée par le muscle semi-membraneux."
+    },
+    {
+     "label": "B",
+     "body": "L'artère poplitée est l'élément le plus dorsal à sa partie moyenne."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf tibial la traverse verticalement de haut en bas."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf fibulaire commun suit le bord latéral du muscle biceps."
+    },
+    {
+     "label": "E",
+     "body": "La grande veine saphène rejoint la veine poplitée."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 50,
+   "n": 28,
+   "type": "multiple",
+   "stem": "Au niveau de la fosse poplitée:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La paroi postérieure est constituée de haut en bas par le muscle poplité."
+    },
+    {
+     "label": "B",
+     "body": "La paroi latérale est limitée par le muscle semi-tendineux et semi-membraneux."
+    },
+    {
+     "label": "C",
+     "body": "Le paquet vasculo-nerveux poplité est profond à sa partie supérieure."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf tibial est l'élément le plus superficiel du paquet vasculo-nerveux."
+    },
+    {
+     "label": "E",
+     "body": "La veine poplitée se place en dedans de l'artère poplitée."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 51,
+   "n": 29,
+   "type": "multiple",
+   "stem": "Dans le triangle fémoral, l'artère fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Répond au muscle court adducteur en dedans."
+    },
+    {
+     "label": "B",
+     "body": "Est accompagnée de sa veine qui reçoit la grande veine saphène."
+    },
+    {
+     "label": "C",
+     "body": "Est située en dehors du nerf fémoral."
+    },
+    {
+     "label": "D",
+     "body": "Se divise à l'angle inférieur en deux branches terminales."
+    },
+    {
+     "label": "E",
+     "body": "Toutes les propositions sont fausses."
+    }
+   ],
+   "key": "B",
+   "rawKey": "B",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 51,
+   "n": 30,
+   "type": "multiple",
+   "stem": "Les limites du triangle fémoral sont:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le muscle court adducteur en dedans."
+    },
+    {
+     "label": "B",
+     "body": "Le muscle long adducteur en arrière."
+    },
+    {
+     "label": "C",
+     "body": "Le muscle vaste latéral en dehors."
+    },
+    {
+     "label": "D",
+     "body": "Le fascia criblé en avant."
+    },
+    {
+     "label": "E",
+     "body": "Le muscle sartorius en haut."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 51,
+   "n": 33,
+   "type": "multiple",
+   "stem": "Dans son trajet dans le canal des adducteurs, l'artère fémorale:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est accompagnée de sa veine qui se place sur le flan médial."
+    },
+    {
+     "label": "B",
+     "body": "Répond en arrière aux muscles: court adducteur et grand adducteur."
+    },
+    {
+     "label": "C",
+     "body": "Est croisée par le nerf saphène de haut en bas."
+    },
+    {
+     "label": "D",
+     "body": "Donne naissance à l'artère ascendante du genou."
+    },
+    {
+     "label": "E",
+     "body": "Les propositions B et C sont justes."
+    }
+   ],
+   "key": "C",
+   "rawKey": "C",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 51,
+   "n": 34,
+   "type": "multiple",
+   "stem": "Dans le triangle fémoral:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Le bord médial est constitué par le muscle gracile."
+    },
+    {
+     "label": "B",
+     "body": "La base est limitée par le muscle ilio-psoas."
+    },
+    {
+     "label": "C",
+     "body": "L'artère fémorale est placée en dehors du nerf fémoral."
+    },
+    {
+     "label": "D",
+     "body": "La veine saphène forme une crosse pour se jeter dans la veine fémorale."
+    },
+    {
+     "label": "E",
+     "body": "Le nerf saphène se place en arrière de l'artère fémorale."
+    }
+   ],
+   "key": "D",
+   "rawKey": "D",
+   "status": "published",
+   "issues": []
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 53,
+   "n": 1,
+   "type": "multiple",
+   "stem": "À quel niveau correspond cette coupe",
+   "options": [
+    {
+     "label": "A",
+     "body": "Tiers supérieur."
+    },
+    {
+     "label": "B",
+     "body": "Tiers moyen."
+    },
+    {
+     "label": "C",
+     "body": "Tiers inferieur."
+    },
+    {
+     "label": "D",
+     "body": "Triangle fémoral."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 53,
+   "n": 2,
+   "type": "multiple",
+   "stem": "La légende A correspond:",
+   "options": [
+    {
+     "label": "A",
+     "body": "À la loge des adducteurs avec le nerf obturateur."
+    },
+    {
+     "label": "B",
+     "body": "Au canal fémoral avec les vaisseaux fémoraux."
+    },
+    {
+     "label": "C",
+     "body": "Au nerf fémoral dans le canal fémoral."
+    },
+    {
+     "label": "D",
+     "body": "Au nerf saphène dans l'anneau du grand adducteur."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 53,
+   "n": 3,
+   "type": "multiple",
+   "stem": "La légende B correspond:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Au muscle semi-membraneux et semi-tendineux."
+    },
+    {
+     "label": "B",
+     "body": "Aux long et court chef du biceps."
+    },
+    {
+     "label": "C",
+     "body": "Au muscle droit fémoral."
+    },
+    {
+     "label": "D",
+     "body": "Au muscle long biceps et semi-membraneux."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont fausses."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 53,
+   "n": 4,
+   "type": "multiple",
+   "stem": "La légende C correspond:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Au muscle gracile de la loge interne des adducteurs."
+    },
+    {
+     "label": "B",
+     "body": "Au court adducteur avec ses deux chefs."
+    },
+    {
+     "label": "C",
+     "body": "Au sartorius tendu de l'épine iliaque antéro-supérieure à la face interne du tibia."
+    },
+    {
+     "label": "D",
+     "body": "Au faisceau superficiel du vaste interne du quadriceps."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont exactes"
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key",
+    "needs_image"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 54,
+   "n": 5,
+   "type": "multiple",
+   "stem": "Concernant le trigone fémoral indiquez la proposition juste:",
+   "options": [
+    {
+     "label": "A",
+     "body": "La base est formée par le ligament inguinal."
+    },
+    {
+     "label": "B",
+     "body": "Le bord médial est constitué par le muscle gracile."
+    },
+    {
+     "label": "C",
+     "body": "Le nerf fémoral est situé en dedans de l'artère fémorale."
+    },
+    {
+     "label": "D",
+     "body": "Le nerf saphène descend en arrière de l'artère."
+    },
+    {
+     "label": "E",
+     "body": "Les réponses A et D sont justes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  },
+  {
+   "course": "mi-regions-topographiques",
+   "section": "sans-ct",
+   "label": "Les Autres : 2022 - 2008",
+   "examYear": null,
+   "page": 54,
+   "n": 6,
+   "type": "multiple",
+   "stem": "Le foramen obturé:",
+   "options": [
+    {
+     "label": "A",
+     "body": "Est un orifice entièrement fermé par la membrane obturatrice et les muscles obturateurs interne et externe."
+    },
+    {
+     "label": "B",
+     "body": "Est fermé par le muscle obturateur externe en dehors et par le muscle obturateur interne en dedans."
+    },
+    {
+     "label": "C",
+     "body": "Communique directement avec le canal fémoral."
+    },
+    {
+     "label": "D",
+     "body": "Livre passage au pédicule vasculo-nerveux obturateur destiné à la région glutéale."
+    },
+    {
+     "label": "E",
+     "body": "Toutes ces propositions sont exactes."
+    }
+   ],
+   "key": null,
+   "rawKey": null,
+   "status": "draft",
+   "issues": [
+    "no_key"
+   ]
+  }
+ ]
+}
