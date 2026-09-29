@@ -1,0 +1,178 @@
+{
+  "cc053e53-231c-593f-9d0c-ef1d1ad26753": {
+    "why": "Avant la méiose, la cellule germinale (spermatocyte I, ovocyte I) réplique son ADN en phase S : elle entre en méiose avec 2n chromosomes bichromatidiens et 4C d'ADN. La première division sépare les homologues (réductionnelle), la seconde sépare les chromatides (équationnelle).",
+    "options": {
+      "A": "Vrai : une seule réplication (phase S) précède les deux divisions méiotiques.",
+      "B": "Faux : seules les cellules germinales font une méiose ; les cellules somatiques se divisent par mitose.",
+      "C": "Vrai : la première division sépare les chromosomes homologues et fait passer de 2n à n chromosomes.",
+      "D": "Faux : après la réplication, le noyau contient 2n chromosomes mais 4n (4C) d'ADN."
+    }
+  },
+  "962e6597-e90b-56fd-82fa-cd4f42db1436": {
+    "why": "En anaphase II, les centromères se clivent et les chromatides sœurs de chaque chromosome migrent vers des pôles opposés, comme dans une mitose.",
+    "options": {
+      "A": "Faux : la migration des chromosomes homologues caractérise l'anaphase I.",
+      "B": "Vrai : le clivage (dédoublement) des centromères libère les chromatides sœurs.",
+      "C": "Faux : les bivalents (tétrades) se séparent en anaphase I.",
+      "D": "Vrai : les chromatides sœurs se séparent et deviennent des chromosomes monochromatidiens.",
+      "E": "Faux : la disjonction des homologues a lieu en anaphase I."
+    }
+  },
+  "18dc64a7-0d50-5410-b1d0-671990aaa7bf": {
+    "why": "La méiose est propre aux cellules germinales et constitue la phase de maturation de la gamétogenèse. Chez la femme, elle est bloquée deux fois : en prophase I (diplotène) jusqu'à la puberté, puis en métaphase II jusqu'à la fécondation.",
+    "options": {
+      "A": "Faux : la méiose concerne toujours, et uniquement, les cellules germinales ; « souvent » rend la proposition fausse.",
+      "B": "Faux : c'est une étape essentielle de la gamétogenèse (phase de maturation).",
+      "C": "Faux : l'ovocyte est bloqué en prophase I puis en métaphase II, jamais en métaphase I.",
+      "D": "Vrai : la lignée issue des ovogonies (diploïdes) devient haploïde grâce à la méiose."
+    }
+  },
+  "13c4b2ad-21d0-5c9e-9b69-19afafba5abf": {
+    "why": "La prophase I est la phase la plus longue de la méiose (appariement des homologues, crossing-over) et elle suit la réplication de l'ADN. L'ordre des divisions est : réductionnelle puis équationnelle.",
+    "options": {
+      "A": "Considérée fausse par le corrigé type : le crossing-over échange des segments entre chromatides non sœurs de chromosomes homologues ; la formulation « échanges des chromatides » est jugée imprécise.",
+      "B": "Faux : c'est l'inverse, la première division est réductionnelle et la seconde équationnelle.",
+      "C": "Faux : chez la femme, un ovocyte I ne donne qu'un seul ovule (plus les globules polaires).",
+      "D": "Vrai : la prophase I est la plus longue (des années chez la femme) et elle est précédée de la réplication de l'ADN."
+    }
+  },
+  "ffe570ce-d624-5329-8a82-4c53b6324e5f": {
+    "why": "La gamétogenèse comprend : la multiplication (mitoses des gonies), l'accroissement (gonie → cyte I), la maturation (méiose) et, chez l'homme, la différenciation (spermiogenèse).",
+    "options": {
+      "A": "Faux : la différenciation (spermiogenèse) suit la méiose et transforme les spermatides en spermatozoïdes.",
+      "B": "Vrai : la méiose correspond à la phase de maturation.",
+      "C": "Faux : l'accroissement précède la méiose (spermatogonie → spermatocyte I, ovogonie → ovocyte I).",
+      "D": "Faux : la multiplication se fait par mitoses des gonies.",
+      "E": "Faux : la prolifération est un autre nom de la multiplication (mitoses)."
+    }
+  },
+  "6c3abe0c-24fc-57af-857f-afb3f91811a2": {
+    "why": "La prophase I comprend le leptotène, le zygotène (appariement des homologues), le pachytène (crossing-over), le diplotène (chiasmas visibles, blocage de l'ovocyte) et la diacinèse.",
+    "options": {
+      "A": "Vrai : les crossing-over se produisent au pachytène, quand les homologues sont complètement appariés.",
+      "B": "Faux : au zygotène, les homologues s'apparient (formation du complexe synaptonémal).",
+      "C": "Faux : au leptotène, les chromosomes commencent seulement à se condenser.",
+      "D": "Faux : au diplotène, on voit les chiasmas, traces des crossing-over déjà réalisés.",
+      "E": "Faux : la diacinèse termine la prophase I (condensation maximale)."
+    }
+  },
+  "4c242cfe-8c0b-51af-a537-14f9f2cc8f28": {
+    "why": "Le crossing-over échange des segments entre chromatides non sœurs de chromosomes homologues : il crée de nouvelles combinaisons d'allèles, source de diversité génétique.",
+    "options": {
+      "A": "Faux : la diploïdie est restaurée par la fécondation.",
+      "B": "Vrai : il réalise un brassage intrachromosomique qui augmente la variabilité.",
+      "C": "Faux : l'haploïdie résulte de la séparation des homologues en anaphase I.",
+      "D": "Faux : le sexe est déterminé à la fécondation par le chromosome X ou Y du spermatozoïde.",
+      "E": "Faux : il ne change pas le nombre de chromosomes ; la stabilité du stock est assurée par l'alternance méiose–fécondation."
+    }
+  },
+  "5498c0ab-47c0-599c-af23-d935898438a9": {
+    "why": "Les phases de la gamétogenèse sont la multiplication (ou prolifération), l'accroissement, la maturation et, chez l'homme, la différenciation. La « division cellulaire » n'est pas une phase : c'est un mécanisme présent dans plusieurs phases.",
+    "options": {
+      "A": "Faux : la prolifération (multiplication des gonies) est bien une phase.",
+      "B": "Faux : la multiplication est une phase.",
+      "C": "Vrai, c'est l'intrus : la division cellulaire n'est pas une phase de la gamétogenèse.",
+      "D": "Faux : l'accroissement est une phase.",
+      "E": "Faux : la maturation (méiose) est une phase."
+    }
+  },
+  "8bdea8b0-ce2e-5289-bc94-fbdc47c4a301": {
+    "why": "Le crossing-over se produit au pachytène de la prophase I, lorsque les chromosomes homologues sont complètement appariés (bivalents).",
+    "options": {
+      "A": "Faux : le zygotène correspond à l'appariement des homologues.",
+      "B": "Vrai : le pachytène est le stade des crossing-over.",
+      "C": "Faux : la diacinèse termine la prophase I.",
+      "D": "Faux : au diplotène, les chiasmas deviennent visibles, mais les échanges ont déjà eu lieu."
+    }
+  },
+  "504972c4-f00c-57db-bbb0-189e0f59b65d": {
+    "why": "En anaphase I, les homologues se séparent : chaque chromosome, encore formé de deux chromatides, migre vers un pôle. La réduction du nombre de chromosomes et de la quantité d'ADN par cellule n'est effective qu'après la cytodiérèse (fin de la division I).",
+    "options": {
+      "A": "Considérée fausse : l'anaphase n'est qu'une migration ; la quantité d'ADN par cellule n'est divisée par deux qu'à la fin de la division I.",
+      "B": "Considérée fausse pour la même raison : le passage de 2n à n chromosomes par cellule est effectif à la fin de la division I, pas pendant l'anaphase.",
+      "C": "Vrai : les chromosomes qui migrent sont bichromatidiens (les chromatides sœurs restent unies).",
+      "D": "Faux : la migration de chromosomes monochromatidiens caractérise l'anaphase II."
+    }
+  },
+  "0514b60d-bc89-5641-8f48-502dc7762f05": {
+    "why": "En anaphase II, les centromères se clivent : chaque chromosome se « dédouble » en deux chromatides qui migrent vers des pôles opposés.",
+    "options": {
+      "A": "Faux : les bivalents se séparent en anaphase I.",
+      "B": "Vrai : le dédoublement des chromosomes (clivage des centromères) a lieu en anaphase II.",
+      "C": "Vrai : les chromatides sœurs se séparent.",
+      "D": "Faux : les homologues se séparent en anaphase I.",
+      "E": "Faux : le crossing-over a lieu au pachytène de la prophase I."
+    }
+  },
+  "fa5f508c-2385-5144-8579-ff46c3b43388": {
+    "why": "Le spermatocyte II est haploïde : il a n chromosomes, chacun encore formé de deux chromatides, soit 2n chromatides et 2n (2C) d'ADN en métaphase II.",
+    "options": {
+      "A": "Faux : 2n chromosomes / 4n chromatides / 4n ADN correspond au spermatocyte I après réplication.",
+      "B": "Faux : avec n chromosomes bichromatidiens, on a 2n chromatides, pas 4n.",
+      "C": "Faux : 2n chromosomes monochromatidiens correspond à une cellule diploïde non répliquée (gonie en G1).",
+      "D": "Retenue par le corrigé type, mais « 4n chromosomes » est faux : il faut lire n chromosomes / 2n chromatides / 2n ADN."
+    },
+    "keyIssue": "Aucune proposition n'est exacte telle qu'imprimée : le spermatocyte II en métaphase II a n chromosomes, 2n chromatides et 2n ADN. La proposition D retenue par le corrigé type contient probablement une faute de frappe (« 4n » au lieu de « n »)."
+  },
+  "1394f17f-77e1-569d-9cd9-2163801f655d": {
+    "why": "Après la première division méiotique, les cellules sont haploïdes : spermatocytes II, ovocytes II, spermatides, spermatozoïdes. Les gonies et les cytes I sont diploïdes.",
+    "options": {
+      "A": "Vrai : la spermatide, issue de la division II, est haploïde.",
+      "B": "Vrai : l'ovocyte II, issu de la division I, est haploïde (n chromosomes bichromatidiens).",
+      "C": "Faux : la spermatogonie est diploïde.",
+      "D": "Faux : l'ovocyte I est diploïde ; il est bloqué en prophase I."
+    }
+  },
+  "765747d5-b785-5c09-a541-da0a373a41ae": {
+    "why": "La méiose ne concerne que les cellules germinales engagées (cytes I). Par la répartition aléatoire des homologues et les crossing-over, elle produit des gamètes haploïdes génétiquement tous différents.",
+    "options": {
+      "A": "Faux : les gonies se divisent par mitose ; seuls les cytes I entrent en méiose.",
+      "B": "Faux : aucune cellule somatique ne fait de méiose.",
+      "C": "Vrai : les brassages inter- et intrachromosomique créent la variabilité.",
+      "D": "Faux : la diploïdie est reconstituée par la fécondation.",
+      "E": "Faux : la méiose produit des gamètes haploïdes."
+    }
+  },
+  "ce8bacda-1c46-597c-a2cf-089f7883d1c6": {
+    "why": "En divisant par deux le nombre de chromosomes, la méiose permet à la fécondation de restituer exactement 2n : l'alternance méiose–fécondation maintient le caryotype de l'espèce d'une génération à l'autre.",
+    "options": {
+      "A": "Faux : seules les cellules germinales engagées en méiose (cytes I) la réalisent.",
+      "B": "Vrai : avec la fécondation, elle maintient le stock chromosomique (46) de l'espèce.",
+      "C": "Faux : les cellules somatiques ne font que des mitoses.",
+      "D": "Faux : c'est la fécondation qui reconstitue la diploïdie.",
+      "E": "Faux : les gamètes sont haploïdes."
+    }
+  },
+  "5bc1b962-b18d-5504-9390-1186b630ef66": {
+    "why": "Seules les cellules issues de la première division méiotique sont haploïdes. Les spermatocytes II le sont ; les gonies, les cytes I et les cellules somatiques (Leydig) sont diploïdes.",
+    "options": {
+      "A": "Vrai, c'est l'intrus : le spermatocyte II est haploïde.",
+      "B": "Faux : les cellules de Leydig sont des cellules somatiques diploïdes.",
+      "C": "Faux : l'ovocyte I est diploïde.",
+      "D": "Faux : les ovogonies sont diploïdes.",
+      "E": "Faux : le spermatocyte I est diploïde."
+    }
+  },
+  "b8d1c9dd-a733-57b1-b160-faa120ce6dfb": {
+    "why": "La gamétogenèse comprend la multiplication, l'accroissement, la maturation (méiose) et, chez l'homme, la différenciation (spermiogenèse).",
+    "options": {
+      "A": "Juste en réalité : la méiose correspond à la phase de maturation.",
+      "B": "Retenue par le corrigé type, mais la différenciation (spermiogenèse) se déroule après la méiose.",
+      "C": "Faux : l'accroissement précède la méiose.",
+      "D": "Faux : la multiplication se fait par mitoses des gonies.",
+      "E": "Faux : la prolifération est un autre nom de la multiplication."
+    },
+    "keyIssue": "Le corrigé type retient B (différenciation), alors que la méiose correspond à la phase de maturation (A), comme l'indique la question identique du même cours."
+  },
+  "84f790ef-062e-56ef-9654-a0bb2185eefb": {
+    "why": "En anaphase II, les centromères se clivent et les chromatides sœurs se séparent vers des pôles opposés.",
+    "options": {
+      "A": "Faux : les bivalents se séparent en anaphase I.",
+      "B": "Vrai : le dédoublement des centromères a lieu en anaphase II.",
+      "C": "Juste en réalité : les chromatides sœurs se séparent en anaphase II.",
+      "D": "Retenue par le corrigé type, mais la séparation des homologues caractérise l'anaphase I.",
+      "E": "Faux : le crossing-over a lieu au pachytène de la prophase I."
+    },
+    "keyIssue": "Le corrigé type retient B et D, mais la séparation des homologues (D) a lieu en anaphase I ; en anaphase II, B et C sont justes (voir la question identique du même cours)."
+  }
+}

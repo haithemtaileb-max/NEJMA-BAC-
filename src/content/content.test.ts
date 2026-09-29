@@ -7,7 +7,7 @@ import fr from '../../messages/fr.json';
 import { buildSeedSql } from '../../scripts/build-seed-sql';
 
 import { CURRICULUM } from './curriculum';
-import { IMPORTED_QCMS } from './imported';
+import { AI_EXPLANATIONS, IMPORTED_QCMS } from './imported';
 import { PUBLISHED_QCMS, SEED_QCMS } from './questions';
 
 function keys(value: unknown, prefix = ''): string[] {
@@ -61,11 +61,24 @@ describe('starter content', () => {
         expect(q.explanation, q.id).toMatch(/^\[À revoir avant publication/);
         expect(q.tags.some((t) => t.startsWith('a-revoir:')), q.id).toBe(true);
       } else {
-        // Published imports carry no hidden notes and state their exam source.
-        expect(q.explanation, q.id).toBeNull();
+        // Published imports state their source; an explanation, if any, is labelled as AI-written.
         expect(q.source, q.id).toMatch(/^UMMTO/);
-        expect(q.tags, q.id).toEqual(['import:ummto-2023-24']);
+        expect(q.tags.filter((t) => t !== 'explication:ia'), q.id).toEqual(['import:ummto-2023-24']);
+        if (q.explanation) expect(q.explanation, q.id).toMatch(/Explication rédigée par IA/);
       }
+    }
+  });
+
+  it('attaches AI explanations only to existing questions and propositions', () => {
+    const byId = new Map(IMPORTED_QCMS.map((q) => [q.id, q]));
+    for (const [id, ai] of Object.entries(AI_EXPLANATIONS)) {
+      const q = byId.get(id);
+      expect(q, `explanation for unknown question ${id}`).toBeDefined();
+      expect(ai.why.length, id).toBeGreaterThan(20);
+      for (const label of Object.keys(ai.options)) {
+        expect(q!.options.some((o) => o.label === label), `${id} option ${label}`).toBe(true);
+      }
+      if (ai.keyIssue) expect(q!.status, id).toBe('draft');
     }
   });
 

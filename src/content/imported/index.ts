@@ -15,6 +15,7 @@ import { OPTION_LABELS, type OptionLabel, type QcmType } from '@/types/domain';
 
 import anatomieS2 from './ummto-2023-24/anatomie-s2.json';
 import embryologie from './ummto-2023-24/embryologie.json';
+import embryologieExplanations from './ummto-2023-24/explanations/embryologie.json';
 import histologie from './ummto-2023-24/histologie.json';
 import physiologie from './ummto-2023-24/physiologie.json';
 
@@ -52,6 +53,21 @@ interface ImportedFile {
 
 const FILES: ImportedFile[] = [embryologie, anatomieS2, histologie, physiologie];
 
+/**
+ * AI-written explanations, keyed by question id: why each proposition is right
+ * or wrong. Writing them also re-checks the corrigé type: when the printed key
+ * contradicts the course (`keyIssue`), the question goes back to drafts.
+ */
+export interface AiExplanation {
+  why: string;
+  options: Partial<Record<OptionLabel, string>>;
+  keyIssue?: string;
+}
+
+export const AI_EXPLANATIONS: Record<string, AiExplanation> = { ...embryologieExplanations };
+
+const AI_NOTE = ' (Explication rédigée par IA : signalez la question si vous repérez une erreur.)';
+
 const ISSUE_NOTES: Record<ImportIssue, string> = {
   no_key: 'pas de corrigé type',
   needs_image: 'la question dépend d’un schéma ou d’une autre question',
@@ -83,23 +99,33 @@ function toSampleQcm(file: ImportedFile, q: ImportedQuestion): SampleQcm {
   if (!course) throw new Error(`Imported course ${file.module}/${q.course} is not in src/content/curriculum.ts`);
 
   const key = q.key ?? '';
+  const id = stableId(['ummto-2023-24', file.module, q.course, q.label ?? '', String(q.n), q.stem, ...q.options.map((o) => o.body)]);
+  const ai = AI_EXPLANATIONS[id];
+  const issues = ai?.keyIssue ? [...q.issues, 'cle-douteuse'] : q.issues;
+  const status = q.status === 'published' && !ai?.keyIssue ? 'published' : 'draft';
+  const explanation =
+    status === 'draft'
+      ? [q.status === 'draft' ? draftNote(q) : `[À revoir avant publication — clé douteuse.] ${ai?.keyIssue}`, ai?.why].filter(Boolean).join(' ')
+      : ai
+        ? ai.why + AI_NOTE
+        : null;
   return {
-    id: stableId(['ummto-2023-24', file.module, q.course, q.label ?? '', String(q.n), q.stem, ...q.options.map((o) => o.body)]),
+    id,
     courseId: course.id,
     moduleId: mod.id,
     type: q.type as QcmType,
     stem: q.stem,
-    explanation: q.status === 'draft' ? draftNote(q) : null,
+    explanation,
     difficulty: null,
     source: q.label ? `UMMTO · ${q.label}` : 'UMMTO',
     examYear: q.examYear,
-    tags: ['import:ummto-2023-24', ...q.issues.map((i) => `a-revoir:${i}`)],
-    status: q.status === 'published' ? 'published' : 'draft',
+    tags: ['import:ummto-2023-24', ...(ai ? ['explication:ia'] : []), ...issues.map((i) => `a-revoir:${i}`)],
+    status,
     options: q.options
       .filter((o): o is { label: OptionLabel; body: string } => (OPTION_LABELS as readonly string[]).includes(o.label))
       // A draft may repeat a letter (source typo): keep the first so (qcm, label) stays unique.
       .filter((o, i, all) => all.findIndex((x) => x.label === o.label) === i)
-      .map((o) => ({ label: o.label, body: o.body, isCorrect: key.includes(o.label), explanation: null })),
+      .map((o) => ({ label: o.label, body: o.body, isCorrect: key.includes(o.label), explanation: ai?.options[o.label] ?? null })),
   };
 }
 
