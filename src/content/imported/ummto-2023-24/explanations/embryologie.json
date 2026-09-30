@@ -112,7 +112,8 @@
       "C": "Faux : 2n chromosomes monochromatidiens correspond à une cellule diploïde non répliquée (gonie en G1).",
       "D": "Retenue par le corrigé type, mais « 4n chromosomes » est faux : il faut lire n chromosomes / 2n chromatides / 2n ADN."
     },
-    "keyIssue": "Aucune proposition n'est exacte telle qu'imprimée : le spermatocyte II en métaphase II a n chromosomes, 2n chromatides et 2n ADN. La proposition D retenue par le corrigé type contient probablement une faute de frappe (« 4n » au lieu de « n »)."
+    "keyIssue": "aucune proposition n'est exacte telle qu'imprimée. En métaphase II, le spermatocyte II a n chromosomes, 2n chromatides et 2n ADN ; la proposition D contient probablement une faute de frappe (« 4n » au lieu de « n »).",
+    "aiKey": ""
   },
   "1394f17f-77e1-569d-9cd9-2163801f655d": {
     "why": "Après la première division méiotique, les cellules sont haploïdes : spermatocytes II, ovocytes II, spermatides, spermatozoïdes. Les gonies et les cytes I sont diploïdes.",
@@ -162,7 +163,8 @@
       "D": "Faux : la multiplication se fait par mitoses des gonies.",
       "E": "Faux : la prolifération est un autre nom de la multiplication."
     },
-    "keyIssue": "Le corrigé type retient B (différenciation), alors que la méiose correspond à la phase de maturation (A), comme l'indique la question identique du même cours."
+    "keyIssue": "la méiose correspond à la phase de maturation ; la différenciation (spermiogenèse) vient après, comme l'indique la question identique du même cours.",
+    "aiKey": "A"
   },
   "84f790ef-062e-56ef-9654-a0bb2185eefb": {
     "why": "En anaphase II, les centromères se clivent et les chromatides sœurs se séparent vers des pôles opposés.",
@@ -173,6 +175,2251 @@
       "D": "Retenue par le corrigé type, mais la séparation des homologues caractérise l'anaphase I.",
       "E": "Faux : le crossing-over a lieu au pachytène de la prophase I."
     },
-    "keyIssue": "Le corrigé type retient B et D, mais la séparation des homologues (D) a lieu en anaphase I ; en anaphase II, B et C sont justes (voir la question identique du même cours)."
+    "keyIssue": "la séparation des homologues (D) a lieu en anaphase I ; en anaphase II, les centromères se dédoublent (B) et les chromatides sœurs se séparent (C).",
+    "aiKey": "BC"
+  },
+  "71862bed-070f-5364-af8c-98b1e3e39551": {
+    "why": "Les spermatogonies Ad (A dark, noyau sombre) sont les cellules souches de réserve ; les Ap (A pale) se divisent pour donner les spermatogonies B, qui sont les dernières à se diviser par mitose avant de devenir spermatocytes I.",
+    "options": {
+      "A": "Vrai : le stock de spermatogonies se renouvelle en permanence par mitoses.",
+      "B": "Faux : « d » signifie dark (noyau sombre) ; le noyau pâle correspond aux spermatogonies Ap.",
+      "C": "Faux : ce sont les Ap qui se divisent pour donner les spermatogonies B ; les Ad sont des cellules souches de réserve.",
+      "D": "Vrai : les spermatogonies B font la dernière mitose et donnent les spermatocytes I."
+    }
+  },
+  "5b287451-a8ad-5c61-bf25-f8c5ed8269fe": {
+    "why": "La spermiogenèse est la phase de différenciation : la spermatide ronde devient spermatozoïde (acrosome, flagelle, condensation du noyau) et élimine l'essentiel de son cytoplasme sous forme de corps résiduels.",
+    "options": {
+      "A": "Faux : la maturation correspond à la méiose ; la spermiogenèse est la phase de différenciation.",
+      "B": "Vrai : le cytoplasme en excès est éliminé (corps résiduels phagocytés par les cellules de Sertoli).",
+      "C": "Faux : les spermatozoïdes testiculaires ne sont pas encore fécondants (maturation épididymaire puis capacitation nécessaires).",
+      "D": "Faux : c'est le centriole distal qui forme l'axonème du flagelle ; le proximal reste au niveau du col."
+    }
+  },
+  "b91fafee-0e75-5b6c-a653-95e64e662738": {
+    "why": "À la spermiation, les spermatozoïdes sont libérés dans la lumière du tube séminifère encore immobiles. Le spermatozoïde comprend la tête, le col, puis la pièce intermédiaire, la pièce principale et la pièce terminale.",
+    "options": {
+      "A": "Vrai : ils ne deviennent mobiles qu'après le transit épididymaire.",
+      "B": "Vrai selon le seuil du cours : moins de 20 millions/mL (les normes OMS récentes retiennent 15 millions/mL).",
+      "C": "Vrai selon le cours : plus de 50 % de formes anormales.",
+      "D": "Faux : la pièce intermédiaire est située entre le col et la pièce principale."
+    }
+  },
+  "1ed428f8-dc3f-5f65-ae9e-8890effb6090": {
+    "why": "La spermatogenèse est contrôlée par l'axe hypothalamo-hypophysaire (FSH, LH, testostérone) et produit toujours une proportion variable de spermatozoïdes immobiles ou anormaux.",
+    "options": {
+      "A": "Vrai : régulation par la GnRH, la FSH, la LH et la testostérone.",
+      "B": "Vrai : tout éjaculat contient une part variable de spermatozoïdes immobiles.",
+      "C": "Considérée fausse par le corrigé type : le pouvoir fécondant s'acquiert progressivement (maturation dans l'épididyme, capacitation dans les voies génitales féminines), pas uniquement dans la trompe.",
+      "D": "Considérée fausse par le corrigé type : ce n'est pas une caractéristique de la spermatogenèse retenue par le cours."
+    }
+  },
+  "10a5c1c6-7784-5936-9376-cc36da50bd30": {
+    "why": "Les spermatogonies sont les cellules germinales souches diploïdes de la paroi du tube séminifère ; elles se multiplient par mitose.",
+    "options": {
+      "A": "Vrai : ce sont des cellules diploïdes (2n).",
+      "B": "Faux : les cellules haploïdes apparaissent après la première division méiotique.",
+      "C": "Vrai : elles appartiennent à la lignée germinale.",
+      "D": "Faux : les cellules somatiques du tube sont les cellules de Sertoli.",
+      "E": "Considérée fausse par le corrigé type : formulation ambiguë ; les spermatogonies se divisent par mitose, mais n'entrent pas en méiose."
+    }
+  },
+  "6a00f4c1-7a04-5abc-a230-c53289a44459": {
+    "why": "Le tube séminifère contient les cellules de Sertoli et les cellules germinales à tous les stades, avec les spermatozoïdes dans sa lumière. Les cellules de Leydig et les vaisseaux sont dans le tissu interstitiel, entre les tubes.",
+    "options": {
+      "A": "Faux : les cellules de Leydig sont dans le tissu interstitiel, en dehors des tubes séminifères.",
+      "B": "Vrai : les cellules de Sertoli forment l'épithélium de soutien du tube.",
+      "C": "Vrai : les cellules germinales tapissent la paroi du tube.",
+      "D": "Vrai : les spermatozoïdes sont libérés dans la lumière du tube.",
+      "E": "Faux : les vaisseaux sont dans le tissu interstitiel."
+    },
+    "keyIssue": "les cellules de Leydig (A) sont situées dans le tissu interstitiel, entre les tubes séminifères, et non dans le tube.",
+    "aiKey": "BCD"
+  },
+  "9b546b8d-e407-591f-91f2-3be65300d1a2": {
+    "why": "La spermiogenèse est la phase de différenciation des spermatides en spermatozoïdes. Elle se déroule en plusieurs étapes (phase de Golgi, de coiffe, acrosomiale, de maturation) et élimine la quasi-totalité du cytoplasme. Les spermatozoïdes produits sont immobiles et non capacités.",
+    "options": {
+      "A": "Faux : les spermatozoïdes testiculaires sont immobiles ; la mobilité s'acquiert dans l'épididyme.",
+      "B": "Vrai si l'on lit « décapacités » (non capacités) : les spermatozoïdes ne sont pas encore capables de féconder.",
+      "C": "Vrai : c'est la phase de différenciation de la spermatogenèse.",
+      "D": "Juste en réalité : la spermiogenèse passe par des étapes successives (Golgi, coiffe, acrosome, maturation).",
+      "E": "Vrai : le cytoplasme en excès est éliminé sous forme de corps résiduels."
+    },
+    "keyIssue": "la spermiogenèse se déroule bien en plusieurs étapes successives (phases de Golgi, de coiffe, acrosomiale et de maturation), donc D est juste aussi.",
+    "aiKey": "BCDE"
+  },
+  "921a5714-a5db-5bad-9edf-8844bbf8d007": {
+    "why": "Cette question porte sur une partie légendée d'un schéma du spermatozoïde.",
+    "options": {},
+    "draft": "la question dépend d'un schéma (« la partie C ») absent du site."
+  },
+  "3edebe66-2091-5744-9857-87ed18e08134": {
+    "why": "Le sperme est un mélange formé au moment de l'éjaculation : spermatozoïdes (testicules, épididyme) et liquide séminal (vésicules séminales, prostate). Il est légèrement basique et est déposé dans les voies génitales féminines.",
+    "options": {
+      "A": "Faux : la prostate ne sécrète qu'une partie du liquide séminal ; les spermatozoïdes viennent des testicules.",
+      "B": "Faux : son pH est légèrement basique (7,2 à 8).",
+      "C": "Vrai : un éjaculat peut contenir plusieurs centaines de millions à plus d'un milliard de spermatozoïdes.",
+      "D": "Juste en réalité : le sperme est déposé dans le vagin puis les spermatozoïdes remontent les voies génitales féminines.",
+      "E": "Faux : les spermatozoïdes sont produits en continu ; seul le mélange avec le liquide séminal se fait à l'éjaculation."
+    },
+    "keyIssue": "le sperme passe bien dans les voies génitales féminines (D) ; le corrigé type d'une autre question de ce cours retient d'ailleurs cette proposition comme juste.",
+    "aiKey": "CD"
+  },
+  "af40709a-a012-5a4f-96e7-d7461129f4b8": {
+    "why": "Les spermatides sont des cellules haploïdes issues de la deuxième division méiotique ; elles ne se divisent plus et se différencient en spermatozoïdes (spermiogenèse) dans le tube séminifère.",
+    "options": {
+      "A": "Faux : elles sont haploïdes.",
+      "B": "Faux : elles ne se divisent plus.",
+      "C": "Vrai : elles subissent la spermiogenèse.",
+      "D": "Faux : elles se trouvent dans le tube séminifère, pas dans l'épididyme.",
+      "E": "Faux : A est fausse."
+    }
+  },
+  "6e214e4b-ef7c-5964-9cd4-7d16c6a1925b": {
+    "why": "La spermatogenèse se déroule dans les tubes séminifères des deux testicules, en quatre phases (multiplication, accroissement, maturation, différenciation) ; elle débute à la puberté et se poursuit toute la vie en diminuant.",
+    "options": {
+      "A": "Considérée fausse : la spermatogenèse part des spermatogonies souches Ad, qui donnent les Ap puis les B.",
+      "B": "Faux : elle comporte quatre phases.",
+      "C": "Faux : elle ne s'arrête pas à un âge fixe ; elle diminue progressivement.",
+      "D": "Considérée fausse : elle se déroule simultanément dans les deux testicules (formulation « et / » jugée incorrecte).",
+      "E": "Vrai : aucune proposition n'est retenue comme juste."
+    }
+  },
+  "202c10ec-4128-5da7-ac21-c2c1c45f4a4a": {
+    "why": "La spermatogenèse produit les gamètes à partir des cellules germinales en quatre phases. Les spermatocytes II ont n chromosomes bichromatidiens (2n ADN) ; les spermatides ont n chromosomes monochromatidiens.",
+    "options": {
+      "A": "Vrai : c'est la définition de la spermatogenèse.",
+      "B": "Faux : elle comporte quatre phases.",
+      "C": "Vrai : les spermatocytes II ont n chromosomes et 2n (2C) d'ADN.",
+      "D": "Faux : les chromosomes des spermatides sont monochromatidiens.",
+      "E": "Faux : A et C sont justes."
+    }
+  },
+  "c2f9408b-e051-5202-be1d-77bdbabbac29": {
+    "why": "Les spermatogonies Ad (noyau sombre) sont les véritables cellules souches : elles se divisent par mitose pour se renouveler ; ce sont les Ap qui donnent les spermatogonies B.",
+    "options": {
+      "A": "Vrai : elles se divisent par mitose.",
+      "B": "Faux : ce sont les Ap qui donnent les spermatogonies B.",
+      "C": "Vrai : les Ad constituent la réserve de cellules souches.",
+      "D": "Faux : seuls les spermatocytes I entrent en méiose.",
+      "E": "Faux : leur chromatine est sombre (dark) ; la chromatine pâle caractérise les Ap."
+    }
+  },
+  "903e7fbf-a622-5924-b116-0a7dd061100f": {
+    "why": "Le spermatozoïde éjaculé est mobile mais non capacité ; la capacitation se fait dans l'utérus et les trompes. Ses mitochondries (pièce intermédiaire) fournissent l'énergie du flagelle, indispensable pour atteindre l'ovocyte.",
+    "options": {
+      "A": "Considérée fausse : le cours décrit trois parties, la tête, le col et le flagelle.",
+      "B": "Faux : il est mobile à l'éjaculation.",
+      "C": "Considérée fausse : dans l'épididyme, il acquiert sa mobilité ; la formulation est jugée incorrecte.",
+      "D": "Faux : la capacitation se fait dans l'utérus et les trompes, pas dans le vagin.",
+      "E": "Vrai : l'activité respiratoire des mitochondries fournit l'énergie du mouvement."
+    }
+  },
+  "76bf4321-fa80-5b8a-8e20-72568e2f8b6d": {
+    "why": "Seules les cellules issues de la première division méiotique sont haploïdes ; les cellules somatiques (Sertoli, Leydig), les spermatogonies et les spermatocytes I sont diploïdes.",
+    "options": {
+      "A": "Faux : le spermatocyte I est diploïde.",
+      "B": "Vrai, c'est l'intrus : le spermatocyte II est haploïde.",
+      "C": "Faux : les cellules de Sertoli sont somatiques et diploïdes.",
+      "D": "Faux : la spermatogonie est diploïde.",
+      "E": "Faux : les cellules de Leydig sont diploïdes."
+    }
+  },
+  "1e346ed6-0fa9-574d-9a6a-fefae8a3574b": {
+    "why": "Les cellules de Sertoli, cellules somatiques du tube séminifère, soutiennent et nourrissent les cellules germinales, contrôlent la spermiogenèse et sécrètent l'inhibine (endocrine) et l'ABP (dans la lumière). Elles répondent à la FSH.",
+    "options": {
+      "A": "Faux : les cellules germinales sont logées dans des replis de leur membrane, pas dans leur cytoplasme.",
+      "B": "Faux : elles ont des récepteurs à la FSH ; la LH agit sur les cellules de Leydig.",
+      "C": "Vrai : elles contrôlent la spermiogenèse et phagocytent les corps résiduels.",
+      "D": "Vrai : elles sécrètent l'inhibine et l'ABP.",
+      "E": "Faux : elles sont dans l'épithélium du tube séminifère, pas dans le tissu interstitiel."
+    }
+  },
+  "69bcf70f-ef25-5d1a-85e6-8d87c9b33954": {
+    "why": "La testostérone, sécrétée par les cellules de Leydig sous l'effet de la LH, est indispensable à la spermatogenèse et aux caractères sexuels secondaires ; elle exerce un rétrocontrôle négatif sur la sécrétion de LH.",
+    "options": {
+      "A": "Faux : sa sécrétion augmente fortement à la puberté.",
+      "B": "Faux : elle induit les caractères sexuels secondaires masculins.",
+      "C": "Vrai : rétrocontrôle négatif sur l'hypothalamus et l'hypophyse.",
+      "D": "Faux : elle est produite par les cellules de Leydig.",
+      "E": "Faux : elle est indispensable à la spermatogenèse."
+    }
+  },
+  "000a9f68-e43c-5d95-93aa-049e44214164": {
+    "why": "La spermatogenèse débute à la puberté ; un cycle complet dure environ 74 jours, soit à peu près deux mois et demi. Les spermatogonies Ad sont les cellules souches ; seules les spermatocytes I entrent en méiose.",
+    "options": {
+      "A": "Considérée fausse : elle se déroule simultanément dans les deux testicules.",
+      "B": "Faux : la maturation n'est qu'une des quatre phases de la spermatogenèse.",
+      "C": "Faux : les véritables cellules souches sont les spermatogonies Ad.",
+      "D": "Faux : les Ad se divisent par mitose ; ce sont les spermatocytes I qui entrent en méiose.",
+      "E": "Vrai : elle débute à la puberté et dure environ 74 jours."
+    }
+  },
+  "300e59e0-08cd-5bbd-8106-68c1754bd2ce": {
+    "why": "Le spermatozoïde est mobile au moment de l'éjaculation mais doit encore être capacité dans l'utérus et les trompes. Son noyau est condensé et inactif.",
+    "options": {
+      "A": "Considérée fausse : le cours décrit la tête, le col et le flagelle.",
+      "B": "Vrai : il est mobile à l'éjaculation.",
+      "C": "Considérée fausse : il acquiert sa mobilité dans l'épididyme.",
+      "D": "Faux : la capacitation se fait dans l'utérus et les trompes, pas dans le vagin.",
+      "E": "Faux : son noyau est condensé et transcriptionnellement inactif ; c'est l'activité respiratoire qui est indispensable."
+    }
+  },
+  "70786ef3-c9a3-50b0-b9e0-8f9682a103cb": {
+    "why": "Les cellules de Sertoli sont des cellules somatiques stimulées par la FSH. Elles sont à la fois endocrines (inhibine) et exocrines (ABP dans la lumière) : on dit amphicrines.",
+    "options": {
+      "A": "Faux : la testostérone est sécrétée par les cellules de Leydig.",
+      "B": "Vrai : elles portent les récepteurs de la FSH.",
+      "C": "Faux : ce sont des cellules somatiques.",
+      "D": "Considérée fausse : elles sont amphicrines, pas uniquement endocrines.",
+      "E": "Considérée fausse : elles sont amphicrines, pas uniquement exocrines."
+    }
+  },
+  "05c92c3c-9cfa-57c2-9224-4fa44459962a": {
+    "why": "Les voies spermatiques intratesticulaires sont les tubes droits et le rete testis ; les voies extratesticulaires sont l'épididyme, le canal déférent, puis les canaux éjaculateurs.",
+    "options": {
+      "A": "Vrai : l'épididyme est extratesticulaire.",
+      "B": "Faux : le rete testis est intratesticulaire.",
+      "C": "Vrai : le canal déférent est extratesticulaire.",
+      "D": "Faux : les tubes droits sont intratesticulaires.",
+      "E": "Vrai : les canaux éjaculateurs sont extratesticulaires."
+    }
+  },
+  "595d9d54-ea57-5b54-bbd6-6a01d08f1a4d": {
+    "why": "Le spermatocyte I est une cellule germinale diploïde (2n chromosomes, 4C d'ADN après réplication) qui entre en méiose.",
+    "options": {
+      "A": "Vrai : c'est une cellule de la lignée germinale.",
+      "B": "Faux : ce n'est pas une cellule somatique.",
+      "C": "Faux : il a 2n chromosomes (mais 4C d'ADN).",
+      "D": "Vrai : il est diploïde.",
+      "E": "Faux : il devient haploïde seulement après la première division."
+    }
+  },
+  "a832d0c7-0eac-5bd9-87f9-365c706743c2": {
+    "why": "Les cellules de Sertoli soutiennent les cellules germinales, interviennent dans la spermatogenèse et sécrètent l'inhibine et l'ABP ; elles répondent à la FSH et sont situées dans le tube séminifère.",
+    "options": {
+      "A": "Faux : les cellules germinales sont dans des replis de leur membrane, pas dans leur cytoplasme.",
+      "B": "Faux : récepteurs à la FSH ; la LH agit sur les cellules de Leydig.",
+      "C": "Juste en réalité : les cellules de Sertoli interviennent dans la spermatogenèse (soutien, nutrition, contrôle).",
+      "D": "Vrai : elles sécrètent l'inhibine et l'ABP.",
+      "E": "Faux : elles sont dans l'épithélium du tube séminifère."
+    },
+    "keyIssue": "les cellules de Sertoli interviennent bien dans la spermatogenèse (C) ; une autre question de ce cours retient d'ailleurs « contrôlent la spermiogenèse » comme juste.",
+    "aiKey": "CD"
+  },
+  "94fa266a-bc5c-5a1f-9ea1-a1fb63231ace": {
+    "why": "La spermatogenèse est sensible à la chaleur (d'où la position scrotale des testicules), produit toujours une part variable de spermatozoïdes anormaux et se poursuit, en diminuant, chez le sujet âgé.",
+    "options": {
+      "A": "Faux : une élévation de température altère la spermatogenèse.",
+      "B": "Vrai : un pourcentage variable de formes anormales est normal.",
+      "C": "Faux : le pouvoir fécondant s'acquiert après l'épididyme et la capacitation.",
+      "D": "Faux : elle diminue avec l'âge sans s'arrêter complètement."
+    }
+  },
+  "e78ebc67-baa8-5997-b8fb-24a711cf1c84": {
+    "why": "Le liquide séminal est formé surtout par les sécrétions des vésicules séminales (riches en fructose) et de la prostate ; il est légèrement basique.",
+    "options": {
+      "A": "Considérée fausse : les sécrétions sont produites en continu et seulement émises à l'éjaculation.",
+      "B": "Vrai : il provient des vésicules séminales et de la prostate.",
+      "C": "Considérée fausse par le corrigé type : il coagule puis se liquéfie ; la formulation est jugée imprécise.",
+      "D": "Faux : il est légèrement basique.",
+      "E": "Considérée fausse par le corrigé type : on retient surtout sa richesse en fructose."
+    }
+  },
+  "6adfe91f-fa10-5515-b3b2-4f74fb1feec3": {
+    "why": "Les voies spermatiques extratesticulaires sont l'épididyme, le canal déférent et les canaux éjaculateurs.",
+    "options": {},
+    "draft": "propositions mal découpées dans le PDF (« Les canaux de », « Le canal déférent les tubes droits ») : la clé ne correspond plus aux propositions affichées."
+  },
+  "39f3eea6-64cb-5ecd-9fac-585e185d5efb": {
+    "why": "Le tube séminifère, situé dans le testicule, contient les cellules de Sertoli et les cellules germinales ; les cellules de Leydig sont dans le tissu interstitiel, entre les tubes.",
+    "options": {
+      "A": "Faux : les tubes séminifères sont dans les testicules.",
+      "B": "Vrai : ils constituent l'essentiel du parenchyme testiculaire.",
+      "C": "Faux : les cellules de Leydig sont dans le tissu interstitiel.",
+      "D": "Vrai : les cellules de Sertoli forment l'épithélium de soutien.",
+      "E": "Juste en réalité : les cellules germinales tapissent la paroi du tube."
+    },
+    "keyIssue": "les cellules de Leydig (C) sont dans le tissu interstitiel, pas dans le tube séminifère, alors que les cellules germinales (E) en font bien partie.",
+    "aiKey": "BDE"
+  },
+  "b4791dd6-6d64-54f7-af5d-d12705610974": {
+    "why": "Le sperme est un liquide légèrement basique déposé dans le vagin ; les spermatozoïdes remontent ensuite les voies génitales féminines.",
+    "options": {
+      "A": "Faux : les spermatozoïdes sont stockés dans la queue de l'épididyme, pas dans la prostate.",
+      "B": "Faux : son pH est légèrement basique.",
+      "C": "Vrai : il est déposé dans les voies génitales féminines.",
+      "D": "Vrai : pH d'environ 7,2 à 8.",
+      "E": "Considérée fausse : le sperme n'est pas garanti stérile (contamination possible par l'urètre)."
+    }
+  },
+  "b89f6fca-0b3f-5492-a2c5-21549525b1a0": {
+    "why": "La cellule de Leydig est une cellule somatique diploïde du tissu interstitiel ; elle sécrète la testostérone sous l'effet de la LH.",
+    "options": {
+      "A": "Faux : c'est une cellule somatique.",
+      "B": "Vrai : elle n'appartient pas à la lignée germinale.",
+      "C": "Faux : elle est stimulée par la LH, pas par la FSH.",
+      "D": "Vrai : comme toutes les cellules somatiques.",
+      "E": "Faux : elle est diploïde."
+    }
+  },
+  "2b452d9a-ee31-5c51-a128-f92f6c43e84e": {
+    "why": "Les cellules de Sertoli sont des cellules somatiques stimulées par la FSH ; la testostérone est sécrétée par les cellules de Leydig sous l'effet de la LH.",
+    "options": {
+      "A": "Faux : la testostérone est produite par les cellules de Leydig.",
+      "B": "Vrai : elles portent les récepteurs de la FSH.",
+      "C": "Faux : ce sont des cellules somatiques.",
+      "D": "Faux : la LH agit sur les cellules de Leydig ; les cellules de Sertoli y sont sensibles seulement indirectement, par la testostérone.",
+      "E": "Vrai : ce sont des cellules somatiques."
+    },
+    "keyIssue": "la testostérone (A) est sécrétée par les cellules de Leydig et la LH (D) agit sur les cellules de Leydig ; une autre question de ce cours retient d'ailleurs A comme fausse.",
+    "aiKey": "BE"
+  },
+  "67eafd92-b446-5a57-a723-97796cc83783": {
+    "why": "La FSH est une hormone hypophysaire ; chez l'homme, elle agit sur les cellules de Sertoli et stimule ainsi la spermatogenèse.",
+    "options": {
+      "A": "Faux : chez la femme, c'est le pic de LH qui débloque la méiose de l'ovocyte.",
+      "B": "Faux : elle est sécrétée par l'antéhypophyse ; l'hypothalamus sécrète la GnRH.",
+      "C": "Juste en réalité : par les cellules de Sertoli, la FSH stimule la spermatogenèse.",
+      "D": "Faux : la FSH favorise la croissance folliculaire, elle ne provoque pas l'atrésie.",
+      "E": "Vrai : ses récepteurs sont sur les cellules de Sertoli."
+    },
+    "keyIssue": "la FSH stimule la spermatogenèse (C) en agissant sur les cellules de Sertoli.",
+    "aiKey": "CE"
+  },
+  "78203986-703d-595f-926d-33d3f0e29013": {
+    "why": "La LH est une hormone hypophysaire : chez l'homme, elle stimule les cellules de Leydig (testostérone) ; chez la femme, elle déclenche l'ovulation et maintient le corps jaune.",
+    "options": {
+      "A": "Faux : elle est sécrétée par l'antéhypophyse.",
+      "B": "Faux : elle agit sur la thèque interne, pas la thèque externe.",
+      "C": "Juste en réalité : la LH maintient le corps jaune (cellules lutéales).",
+      "D": "Faux : la LH stimule les cellules de Leydig ; ce sont les cellules de Sertoli qui répondent à la FSH.",
+      "E": "Faux : la sélection du follicule dominant dépend de la FSH."
+    },
+    "keyIssue": "la LH stimule les cellules de Leydig, pas les cellules de Sertoli (D), et elle agit sur les cellules lutéales du corps jaune (C).",
+    "aiKey": "C"
+  },
+  "44a9fddd-4405-5e2e-85f2-a0bb43566f8d": {
+    "why": "Les ovogonies se multiplient par mitose uniquement pendant la vie fœtale (jusqu'au 5e–7e mois) ; à la naissance, le stock d'ovocytes I est définitif.",
+    "options": {
+      "A": "Faux : aucune multiplication après la vie fœtale.",
+      "B": "Faux : elle s'arrête avant la fin de la grossesse.",
+      "C": "Faux : à la puberté reprennent la croissance folliculaire et la méiose, pas la multiplication.",
+      "D": "Vrai : elle n'a lieu que pendant les premiers mois de la vie fœtale."
+    }
+  },
+  "3c94d3d1-c293-5b45-a289-e7d16a9b1b3f": {
+    "why": "Les follicules primordiaux se forment pendant la vie fœtale ; à partir de la puberté, des cohortes de follicules entrent en croissance et les follicules tertiaires (cavitaires) apparaissent.",
+    "options": {
+      "A": "Faux : des follicules primaires se forment aussi après la naissance, à partir des primordiaux.",
+      "B": "Faux : les follicules se développent en continu, pas selon un rythme de 28 jours.",
+      "C": "Faux : les follicules sont recrutés par cohortes, pas individuellement.",
+      "D": "Vrai : les follicules cavitaires (tertiaires) n'apparaissent qu'à partir de la puberté."
+    }
+  },
+  "92f20dcd-a3ab-5533-9ba2-4e2c3a6bf6de": {
+    "why": "Les cellules de la thèque interne, stimulées par la LH, produisent des androgènes transformés en œstrogènes ; le cours retient qu'elles sécrètent des œstrogènes.",
+    "options": {
+      "A": "Faux : elles ne deviennent lutéales (thécaluténiques) qu'après l'ovulation.",
+      "B": "Vrai : elles portent les récepteurs de la LH.",
+      "C": "Faux : la thèque est en dehors de la granulosa, séparée par la membrane de Slavjanski.",
+      "D": "Faux : l'inhibine est sécrétée par la granulosa.",
+      "E": "Vrai : elles participent à la sécrétion des œstrogènes."
+    }
+  },
+  "0d3f21e3-4b88-5c23-8cac-4ecc8fec5016": {
+    "why": "L'ovulation, déclenchée par le pic de LH, libère l'ovocyte II (et non le follicule) ; elle survient environ 14 jours avant les règles, donc plus tôt ou plus tard selon la durée du cycle, et elle n'a pas lieu à chaque cycle.",
+    "options": {
+      "A": "Vrai : c'est le pic de LH qui déclenche l'ovulation.",
+      "B": "Faux : l'ovulation libère l'ovocyte II entouré de la corona radiata, pas le follicule.",
+      "C": "Vrai : il existe des cycles anovulatoires.",
+      "D": "Juste en réalité : dans un cycle long, l'ovulation peut être tardive (vers le 24e jour).",
+      "E": "Juste en réalité : l'ovulation peut s'accompagner d'une douleur pelvienne (syndrome intermenstruel)."
+    },
+    "keyIssue": "l'ovulation peut être tardive dans les cycles longs (D) et peut s'accompagner de douleurs pelviennes (E) ; le corrigé type d'une autre question du cours admet d'ailleurs une ovulation « précoce ou tardive ».",
+    "aiKey": "ACDE"
+  },
+  "45df4908-3dd0-53ea-8f4b-e452d970a41c": {
+    "why": "Après l'ovulation, le follicule déhiscent devient corps jaune. Sans fécondation, c'est un corps jaune progestatif qui vit environ 14 jours sous l'effet de la LH puis régresse.",
+    "options": {
+      "A": "Faux : le corps jaune gestatif n'existe qu'en cas de grossesse.",
+      "B": "Faux : c'est le corps jaune gestatif qui persiste environ trois mois.",
+      "C": "Vrai : le corps jaune progestatif persiste environ deux semaines.",
+      "D": "Faux : il est maintenu par la LH."
+    }
+  },
+  "846ac0ca-cc55-5b95-8504-457f338e250a": {
+    "why": "Les ovogonies sont des cellules germinales diploïdes qui se multiplient par mitose au début de la vie fœtale ; elles se transforment en ovocytes I, seuls à entrer en méiose.",
+    "options": {
+      "A": "Faux : les follicules primordiaux contiennent un ovocyte I, pas une ovogonie.",
+      "B": "Faux : elles apparaissent tôt pendant la vie fœtale.",
+      "C": "Vrai : ce sont des cellules germinales.",
+      "D": "Faux : c'est l'ovocyte I qui entre en méiose."
+    }
+  },
+  "ddbb1691-c49a-52e8-8305-44f2c9d22c51": {
+    "why": "Les follicules primordiaux se forment pendant la vie fœtale dans la corticale de l'ovaire ; les follicules tertiaires n'apparaissent qu'à partir de la puberté.",
+    "options": {
+      "A": "Vrai : les follicules primordiaux se forment pendant la vie fœtale (« fatale » est une faute de frappe).",
+      "B": "Faux : les follicules sont dans la zone corticale.",
+      "C": "Faux : ils se développent par cohortes.",
+      "D": "Vrai : les follicules tertiaires n'apparaissent qu'à la puberté."
+    }
+  },
+  "473eddba-221f-52aa-be3a-803bcad332c1": {
+    "why": "Selon le cours, l'atrésie touche les follicules de la cohorte non sélectionnés ; elle est associée à un excès d'androgènes thécaux sous l'effet de la LH lorsque la FSH baisse.",
+    "options": {
+      "A": "Faux : une meilleure sensibilité à la FSH protège le follicule (c'est le cas du follicule dominant).",
+      "B": "Réponse retenue par le corrigé type : l'augmentation de l'effet de la LH favorise la production d'androgènes thécaux, associée à l'atrésie.",
+      "C": "Faux : plus de récepteurs à la FSH favorisent la croissance du follicule.",
+      "D": "Faux : ce n'est pas le mécanisme retenu par le cours."
+    }
+  },
+  "81e8f43d-83cb-53db-ab1f-52b9774c229d": {
+    "why": "Le pic de LH provoque la fin de la maturation folliculaire (follicule de De Graaf), l'ovulation et la reprise de la méiose ; le corps jaune est ensuite maintenu par la sécrétion de LH.",
+    "options": {
+      "A": "Vrai (donc pas à cocher) : le pic de LH permet l'apparition du follicule mûr.",
+      "B": "Vrai (donc pas à cocher) : il déclenche l'ovulation.",
+      "C": "Vrai (donc pas à cocher) : il débloque la méiose de l'ovocyte I.",
+      "D": "Réponse retenue comme « fausse » par le corrigé type : le corps jaune dépend de la sécrétion de LH après l'ovulation plutôt que du pic lui-même."
+    }
+  },
+  "429b693a-3bf3-520f-a953-584b99f762fb": {
+    "why": "La phase d'accroissement de l'ovocyte se déroule dans le follicule en croissance : l'ovocyte I grossit et synthétise massivement de l'ARN et des protéines. Le follicule de De Graaf apparaît pendant la phase de maturation.",
+    "options": {
+      "A": "Faux : elle commence pendant la vie fœtale.",
+      "B": "Faux : les ovocytes I existent depuis la vie fœtale.",
+      "C": "Faux : le follicule de De Graaf apparaît pendant la phase de maturation.",
+      "D": "Vrai : l'ovocyte synthétise activement ARN et protéines."
+    }
+  },
+  "152aaf64-32f8-5b80-b238-82f603caeb0e": {
+    "why": "La phase lutéale (après l'ovulation) est dominée par la progestérone du corps jaune, qui prépare l'endomètre à une éventuelle nidation.",
+    "options": {
+      "A": "Considérée fausse : la phase lutéale est dominée par la progestérone.",
+      "B": "Considérée fausse par le corrigé type : aucun follicule ne poursuit sa maturation vers l'ovulation pendant cette phase.",
+      "C": "Vrai : l'endomètre devient sécrétoire pour accueillir l'œuf.",
+      "D": "Considérée fausse : des douleurs ne caractérisent pas cette phase."
+    }
+  },
+  "85eff206-d645-5f3b-bde7-6bab9c120bb4": {
+    "why": "L'ovulation, précédée par le pic de LH, libère l'ovocyte II ; elle n'a pas lieu à chaque cycle, peut être précoce ou tardive et peut être suivie de la fécondation.",
+    "options": {
+      "A": "Faux : il existe des cycles anovulatoires.",
+      "B": "Faux : elle libère l'ovocyte, pas le follicule, et sa date varie.",
+      "C": "Faux : elle est précédée, et non suivie, par le pic de LH.",
+      "D": "Vrai : l'ovocyte II peut être fécondé dans la trompe.",
+      "E": "Vrai : elle peut être précoce (cycles courts)."
+    }
+  },
+  "80a059be-0b66-5976-ab69-b5d52022ffff": {
+    "why": "La folliculogenèse se déroule dans la zone corticale de l'ovaire. Ses premières étapes sont indépendantes des gonadotrophines ; elle ne s'arrête pas à la naissance.",
+    "options": {
+      "A": "Faux : les follicules sont dans la corticale.",
+      "B": "Considérée fausse : les premières étapes de la croissance folliculaire sont indépendantes de l'axe hypothalamo-hypophysaire.",
+      "C": "Faux : elle débute pendant la vie fœtale et se poursuit sans interruption jusqu'à la ménopause.",
+      "D": "Faux : l'accroissement se poursuit après la naissance.",
+      "E": "Vrai : elle se déroule dans la zone corticale."
+    }
+  },
+  "f7d51b3f-8456-502e-8c4f-0d8ee073ea47": {
+    "why": "La maturation ovocytaire, déclenchée par le pic de LH, correspond à la reprise de la méiose : achèvement de la première division (réductionnelle), expulsion du premier globule polaire, puis blocage en métaphase II.",
+    "options": {
+      "A": "Faux : la synthèse massive d'ARN caractérise la phase d'accroissement.",
+      "B": "Faux : la méiose ne s'achève qu'à la fécondation.",
+      "C": "Faux : le follicule de De Graaf contient un ovocyte II et un seul globule polaire.",
+      "D": "Vrai : reprise de la méiose et fin de la division réductionnelle.",
+      "E": "Faux : la croissance de l'ovocyte a lieu pendant l'accroissement."
+    }
+  },
+  "c92e95c6-dbd1-5b11-b03a-72cd6659f415": {
+    "why": "L'ovogenèse commence pendant la vie fœtale, se déroule dans la corticale de l'ovaire, et l'accroissement se poursuit après la naissance : aucune proposition n'est exacte.",
+    "options": {
+      "A": "Faux : elle se déroule dans la corticale de l'ovaire (et non « de l'ovocyte »).",
+      "B": "Considérée fausse : les premières étapes sont indépendantes des gonadotrophines.",
+      "C": "Faux : elle débute tôt dans la vie fœtale et se poursuit après la naissance.",
+      "D": "Faux : l'accroissement n'est pas exclusivement fœtal.",
+      "E": "Vrai : toutes les propositions sont fausses."
+    }
+  },
+  "28be7e3b-ca8e-5b72-977d-bd2f74794883": {
+    "why": "La maturation, déclenchée par le pic de LH, aboutit au follicule de De Graaf contenant un ovocyte II bloqué en métaphase II et un premier globule polaire.",
+    "options": {
+      "A": "Faux : la synthèse massive d'ARN caractérise l'accroissement.",
+      "B": "Faux : la méiose s'achève à la fécondation.",
+      "C": "Vrai : follicule de De Graaf avec ovocyte II et un globule polaire.",
+      "D": "Faux : la première division est réductionnelle, pas équationnelle.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "9f9e2f22-84d3-53b5-a49d-cebf3a120138": {
+    "why": "Le follicule antral contient un ovocyte I. Les follicules primordiaux sont les plus nombreux et n'ont pas de zone pellucide ; celle-ci apparaît au stade primaire et devient bien visible au stade secondaire.",
+    "options": {
+      "A": "Vrai : l'ovocyte reste un ovocyte I jusqu'au pic de LH.",
+      "B": "Faux : le follicule primordial n'a pas de zone pellucide.",
+      "C": "Faux : les plus nombreux sont les follicules primordiaux.",
+      "D": "Faux : au stade secondaire, la zone pellucide est bien visible.",
+      "E": "Faux : à la naissance, on compte environ un à deux millions de follicules primordiaux."
+    }
+  },
+  "e7242c51-5326-5938-abf5-2e70905f81ae": {
+    "why": "Follicule primordial : ovocyte I entouré de cellules aplaties. Primaire : une couche de cellules cubiques. Secondaire : plusieurs couches, zone pellucide bien visible, début de thèque. Antral : ovocyte I et antrum. Mûr : ovocyte II.",
+    "options": {
+      "A": "Vrai : le follicule antral contient un ovocyte I.",
+      "B": "Faux : la thèque apparaît au stade secondaire.",
+      "C": "Faux : le follicule primaire a une couche de cellules cubiques ; les cellules aplaties caractérisent le primordial.",
+      "D": "Faux : au stade secondaire, la zone pellucide est bien visible.",
+      "E": "Faux : le follicule mûr contient un ovocyte II, pas un ovotide."
+    },
+    "keyIssue": "au stade secondaire, la zone pellucide est bien visible (D) ; le corrigé type d'une autre question du cours retient d'ailleurs cette même proposition comme fausse.",
+    "aiKey": "A"
+  },
+  "cf9d46a6-26b8-5291-9c96-22e64624f1b3": {
+    "why": "Le corps jaune progestatif est une glande endocrine qui sécrète progestérone et œstrogènes sous l'effet de la LH ; sa régression (environ 14 jours) fait chuter les hormones et déclenche les règles, donc un nouveau cycle.",
+    "options": {
+      "A": "Faux : c'est une glande endocrine.",
+      "B": "Vrai : sa disparition entraîne les règles et un nouveau cycle.",
+      "C": "Faux : il produit aussi des œstrogènes.",
+      "D": "Faux : c'est le corps jaune gestatif qui persiste environ trois mois.",
+      "E": "Faux : il est stimulé par la LH."
+    }
+  },
+  "06214c26-f9d3-5319-b24b-24a7de313fd8": {
+    "why": "La FSH, sécrétée par l'antéhypophyse, stimule la granulosa et la croissance folliculaire et permet la sélection du follicule dominant ; l'ovulation dépend du pic de LH.",
+    "options": {
+      "A": "Faux : elle est sécrétée par l'antéhypophyse.",
+      "B": "Faux : la FSH protège les follicules de l'atrésie.",
+      "C": "Faux : l'ovulation est déclenchée par le pic de LH.",
+      "D": "Faux : la thèque interne est stimulée par la LH.",
+      "E": "Vrai : elle permet la sélection du follicule dominant."
+    }
+  },
+  "c711a71e-797e-506b-9145-3ad79a6b2c8f": {
+    "why": "La LH est sécrétée par l'antéhypophyse ; elle stimule les cellules de Leydig chez l'homme et la thèque interne chez la femme.",
+    "options": {
+      "A": "Vrai : sécrétion antéhypophysaire.",
+      "B": "Vrai : elle stimule la sécrétion de testostérone.",
+      "C": "Considérée fausse : la granulosa est la cible principale de la FSH.",
+      "D": "Vrai : la thèque interne porte les récepteurs de la LH.",
+      "E": "Faux : l'hypothalamus sécrète la GnRH."
+    }
+  },
+  "a0b75e29-c2ed-57a3-b3c1-9e063778485a": {
+    "why": "L'hypothalamus sécrète la GnRH, l'hypophyse la FSH et la LH. Les œstrogènes sont sécrétés avant l'ovulation (follicule) puis après (corps jaune) ; la progestérone domine après l'ovulation ; l'inhibine freine la FSH.",
+    "options": {
+      "A": "Faux : l'hypothalamus sécrète la GnRH ; la FSH et la LH viennent de l'hypophyse.",
+      "B": "Juste en réalité : il existe un pic d'œstrogènes avant l'ovulation et une seconde sécrétion par le corps jaune après.",
+      "C": "Faux : l'inhibine exerce un rétrocontrôle négatif sur la FSH.",
+      "D": "Faux : la progestérone est surtout sécrétée après l'ovulation.",
+      "E": "Vrai : chez l'homme, la FSH agit sur les cellules de Sertoli."
+    },
+    "keyIssue": "les œstrogènes sont sécrétés avant l'ovulation par le follicule puis après l'ovulation par le corps jaune (B).",
+    "aiKey": "BE"
+  },
+  "8b635636-f387-5385-adc9-2703bf608c3d": {
+    "why": "La phase lutéale est la seconde phase du cycle : après l'ovulation, le follicule déhiscent se transforme en corps jaune qui sécrète surtout de la progestérone. Sa durée est assez fixe (environ 14 jours).",
+    "options": {
+      "A": "Faux : c'est la seconde phase du cycle.",
+      "B": "Faux : le follicule mûr apparaît en phase folliculaire.",
+      "C": "Vrai : le follicule rompu (déhiscent) devient corps jaune.",
+      "D": "Faux : c'est la phase progestative ; la phase œstrogénique est la phase folliculaire.",
+      "E": "Faux : c'est la phase folliculaire dont la durée varie ; la phase lutéale dure environ 14 jours."
+    }
+  },
+  "531c67c3-15bd-52ef-86b0-0c2b0e86f7f0": {
+    "why": "L'ovogenèse commence vers la 9e semaine de la vie fœtale et, à partir de la puberté, dépend de l'axe hypothalamo-hypophysaire. Le passage de l'ovocyte I à l'ovocyte II nécessite la reprise de la méiose.",
+    "options": {
+      "A": "Faux : le passage à l'ovocyte II se fait par la première division méiotique, pas par simple accroissement.",
+      "B": "Vrai : elle démarre vers la 9e semaine de la vie fœtale.",
+      "C": "Vrai : après la puberté, la maturation dépend de la FSH et de la LH.",
+      "D": "Faux : entouré d'une couche de cellules aplaties, l'ovocyte I forme un follicule primordial ; le primaire a des cellules cubiques."
+    }
+  },
+  "2010f2a1-e720-5919-ab8c-ace42454bc84": {
+    "why": "La maturation ovocytaire commence au pic de LH, environ 36 heures avant l'ovulation : l'ovocyte I reprend et achève sa première division méiotique (maturation nucléaire) et prépare son cytoplasme à la fécondation (maturation cytoplasmique).",
+    "options": {
+      "A": "Vrai : elle est à la fois nucléaire et cytoplasmique.",
+      "B": "Vrai : l'ovocyte I reprend la méiose I.",
+      "C": "Vrai : elle débute avec le pic de LH, environ 36 heures avant l'ovulation.",
+      "D": "Faux : A est juste."
+    }
+  },
+  "8688980c-05d1-5469-a270-4a11d8c239f0": {
+    "why": "Le follicule de De Graaf est le follicule mûr qui apparaît pendant la phase de maturation, juste avant l'ovulation ; il contient un ovocyte II bloqué en métaphase II.",
+    "options": {
+      "A": "Faux : c'est l'ovocyte, pas le follicule, qui peut être fécondé.",
+      "B": "Faux : l'ovocyte II est bloqué en métaphase II.",
+      "C": "Faux : il apparaît pendant la maturation.",
+      "D": "Vrai : il apparaît pendant la phase de maturation.",
+      "E": "Faux : il n'y a pas d'ovulation à chaque cycle."
+    }
+  },
+  "e78b6b55-8825-5550-8a4c-db3c9575ef73": {
+    "why": "L'ovulation est l'expulsion de l'ovocyte II hors du follicule ; déclenchée par le pic de LH, elle peut être précoce ou tardive. Un DIU agit surtout en empêchant la nidation, pas l'ovulation.",
+    "options": {
+      "A": "Faux : c'est l'ovocyte II qui est expulsé, pas le follicule.",
+      "B": "Vrai : sa date varie selon la durée du cycle.",
+      "C": "Faux : elle dépend du pic de LH.",
+      "D": "Faux : le DIU n'empêche pas l'ovulation.",
+      "E": "Faux : elle est le plus souvent asymptomatique."
+    }
+  },
+  "7767950c-444a-534d-913b-92c6cd666bb6": {
+    "why": "Au pic de LH, l'ovocyte I achève sa première division ; le follicule de De Graaf contient donc un ovocyte II bloqué en métaphase II jusqu'à la fécondation.",
+    "options": {
+      "A": "Faux : l'ovocyte I est bloqué en prophase I, pas en métaphase I.",
+      "B": "Faux : il n'existe pas d'ovocyte I en prophase II.",
+      "C": "Faux : c'est l'état des ovocytes des follicules non mûrs.",
+      "D": "Faux : en métaphase II, c'est un ovocyte II.",
+      "E": "Vrai : ovocyte II bloqué en métaphase II."
+    }
+  },
+  "129f13b5-2915-5826-a000-ea8511de6889": {
+    "why": "« FH » est une faute de frappe pour FSH. La FSH, sécrétée par l'antéhypophyse, agit sur les cellules de Sertoli chez l'homme et sur la granulosa chez la femme.",
+    "options": {
+      "A": "Faux : elle est sécrétée par l'antéhypophyse.",
+      "B": "Faux : la thèque interne est stimulée par la LH.",
+      "C": "Vrai : elle agit sur les cellules de Sertoli.",
+      "D": "Faux : les cellules de Leydig sont stimulées par la LH.",
+      "E": "Faux : la FSH protège de l'atrésie."
+    }
+  },
+  "6c09a66b-cf29-5b6b-86f6-a5f5b745f51b": {
+    "why": "Le follicule de De Graaf est un follicule mûr prêt à ovuler, occupé presque entièrement par l'antrum, contenant un ovocyte II bloqué en métaphase II.",
+    "options": {
+      "A": "Vrai : c'est le follicule mûr prêt à l'ovulation.",
+      "B": "Vrai : l'antrum occupe presque tout son volume.",
+      "C": "Faux : l'ovocyte II est bloqué en métaphase II.",
+      "D": "Vrai : la proposition C est fausse."
+    }
+  },
+  "0f3f5929-7072-5e59-b9fb-f47aeb798d48": {
+    "why": "Les ovogonies se multiplient par mitose uniquement pendant la vie fœtale ; à la naissance, le stock d'ovocytes est définitif.",
+    "options": {
+      "A": "Faux : aucune multiplication après la vie fœtale.",
+      "B": "Faux : elle s'arrête avant la fin de la grossesse.",
+      "C": "Faux : « commerce » se lit « commence » ; la multiplication ne reprend pas à la puberté.",
+      "D": "Vrai : elle n'a lieu que pendant les premiers mois de la vie fœtale."
+    }
+  },
+  "dfeed4c0-cd88-5a78-a07b-4bb98e14b1cc": {
+    "why": "Les follicules primordiaux se forment pendant la vie fœtale ; à partir de la puberté, des cohortes de follicules entrent en croissance et les follicules tertiaires apparaissent.",
+    "options": {
+      "A": "Faux : des follicules primaires se forment aussi après la naissance.",
+      "B": "Faux : les follicules se développent en continu.",
+      "C": "Faux : ils sont recrutés par cohortes.",
+      "D": "Vrai : les follicules tertiaires n'apparaissent qu'à partir de la puberté."
+    }
+  },
+  "cfb06f78-2d56-5696-8237-5ca96ce66fca": {
+    "why": "Le follicule de De Graaf apparaît juste avant l'ovulation, sous l'effet du pic de LH. Habituellement unique, il peut être double, ce qui explique les jumeaux dizygotes.",
+    "options": {
+      "A": "Faux : il apparaît juste avant l'ovulation, pas au début du cycle.",
+      "B": "Vrai : le pic de LH est nécessaire à son apparition.",
+      "C": "Faux : c'est le pic de LH, pas de FSH.",
+      "D": "Juste en réalité : une ovulation multiple est possible (origine des jumeaux dizygotes).",
+      "E": "Faux : B est juste."
+    },
+    "keyIssue": "il peut exister plusieurs follicules mûrs au même cycle (D) : c'est l'origine des grossesses gémellaires dizygotes.",
+    "aiKey": "BD"
+  },
+  "7c49bb2d-65b3-56d9-988d-377f6791d8b9": {
+    "why": "Cette question porte sur un follicule désigné sur un schéma.",
+    "options": {},
+    "draft": "la question dépend d'un schéma (« ce follicule ») absent du site."
+  },
+  "bd74521d-b085-5415-8482-3ac0b9799b08": {
+    "why": "L'ovulation est déclenchée par le pic de LH et libère l'ovocyte II ; sa date dépend de la durée du cycle (elle peut être précoce), elle n'a pas lieu à chaque cycle et elle peut s'accompagner d'une douleur pelvienne.",
+    "options": {
+      "A": "Faux : elle est déclenchée par le pic de LH.",
+      "B": "Faux : elle libère l'ovocyte, pas le follicule.",
+      "C": "Faux : il existe des cycles anovulatoires.",
+      "D": "Vrai : une ovulation précoce, vers le 10e jour, est possible.",
+      "E": "Juste en réalité : une douleur pelvienne peut accompagner l'ovulation (syndrome intermenstruel)."
+    },
+    "keyIssue": "l'ovulation peut s'accompagner de douleurs pelviennes (syndrome intermenstruel, E).",
+    "aiKey": "DE"
+  },
+  "ea5c8cf0-6b11-5b34-8f8a-00a4080bcc00": {
+    "why": "Le deuxième globule polaire est émis par l'ovocyte II lors de la fécondation, quand la méiose s'achève ; c'est une petite cellule haploïde (un noyau et très peu de cytoplasme) qui dégénère ensuite.",
+    "options": {
+      "A": "Faux : la réduction du nombre de chromosomes a lieu à la première division (premier globule polaire).",
+      "B": "Faux : il est haploïde.",
+      "C": "Juste en réalité : c'est une petite cellule, avec un noyau haploïde et un peu de cytoplasme.",
+      "D": "Vrai : il n'apparaît qu'en cas de fécondation.",
+      "E": "Faux : il n'existe pas encore à l'ovulation."
+    },
+    "keyIssue": "le globule polaire est une petite cellule qui possède un noyau et un peu de cytoplasme (C).",
+    "aiKey": "CD"
+  },
+  "63355995-f9b6-5449-b604-cafe2eae0472": {
+    "why": "Le 2e globule polaire est expulsé à la fin de la méiose II, déclenchée par l'entrée du spermatozoïde : c'est une petite cellule haploïde, avec un noyau et très peu de cytoplasme, qui dégénère ensuite.",
+    "options": {
+      "A": "Vrai : il reçoit un lot haploïde de chromatides.",
+      "B": "Faux : il est haploïde.",
+      "C": "Juste en réalité : c'est une vraie cellule, avec un noyau et un peu de cytoplasme.",
+      "D": "Vrai : il dégénère après la fécondation.",
+      "E": "Proposition identique à D."
+    },
+    "draft": "les propositions D et E sont identiques (erreur de saisie) et C est juste aussi"
+  },
+  "5c38a9b5-1fe9-5dca-abe2-9daaceba71d2": {
+    "why": "Dans le modèle du cours, le spermatozoïde capacité se fixe sur la glycoprotéine ZP3 de la zone pellucide, ce qui déclenche la réaction acrosomique ; ZP2 n'intervient qu'après, comme récepteur secondaire.",
+    "options": {
+      "A": "Faux : seul un spermatozoïde capacité peut faire la réaction acrosomique.",
+      "B": "Vrai : la liaison à ZP3 déclenche la réaction acrosomique.",
+      "C": "Faux : ZP2 sert de récepteur secondaire, après la réaction acrosomique.",
+      "D": "Faux : ZP1 relie les filaments de la zone pellucide, ce n'est pas le récepteur qui déclenche la réaction.",
+      "E": "Vrai : la réaction acrosomique ne contrôle pas le caryotype ; un spermatozoïde anormal peut la faire et féconder."
+    }
+  },
+  "e9be1797-a06e-54d0-8010-2f59be50d469": {
+    "why": "La fécondation a lieu dans l'ampoule (tiers externe de la trompe) ; elle se termine par l'amphimixie, la mise en commun des chromosomes des deux pronucléus.",
+    "options": {
+      "A": "Faux : elle a lieu dans le tiers externe de la trompe (ampoule), pas dans un « pavillon utérin ».",
+      "B": "Vrai : l'amphimixie est la réunion des deux pronucléus, mâle et femelle.",
+      "C": "Faux tel que formulé : un seul spermatozoïde pénètre dans l'ovocyte, pas « les spermatozoïdes ».",
+      "D": "Faux : B est juste."
+    }
+  },
+  "a73b2f25-1f74-57a0-950b-e892327f7e02": {
+    "why": "La fécondation donne un zygote diploïde. La capacitation rend le spermatozoïde apte à féconder. ZP3 est une glycoprotéine de la zone pellucide, pas du spermatozoïde. La glaire cervicale, alcaline, protège les spermatozoïdes de l'acidité du vagin.",
+    "options": {
+      "A": "Faux : le zygote est diploïde (2n).",
+      "B": "Juste en réalité : c'est exactement le but de la capacitation.",
+      "C": "Faux : ZP3 appartient à la zone pellucide ; le spermatozoïde porte les protéines qui s'y fixent.",
+      "D": "Vrai : son pH alcalin neutralise l'acidité vaginale qui tuerait les spermatozoïdes."
+    },
+    "keyIssue": "la capacitation a justement pour but de préparer le spermatozoïde à la fécondation (hypermobilité, aptitude à la réaction acrosomique), donc B est juste aussi.",
+    "aiKey": "BD"
+  },
+  "bb805293-d901-5280-899b-a749a5954397": {
+    "why": "Chez l'humain, le spermatozoïde entre en entier dans l'ovocyte, mais seuls son noyau et son centriole proximal persistent. Chaque pronucléus réplique son ADN ; les enveloppes disparaissent au contact et les chromosomes se mêlent (amphimixie) : l'œuf a alors 2n chromosomes et 4n ADN, prêt pour la 1re mitose.",
+    "options": {
+      "A": "Faux : tout le spermatozoïde pénètre (flagelle et mitochondries compris) ; ces éléments dégénèrent ensuite.",
+      "B": "Faux : l'enveloppe nucléaire du spermatozoïde disparaît dès son entrée ; le pronucléus mâle en reforme une nouvelle.",
+      "C": "Faux : l'amphimixie est la réunion des pronucléus ; la fusion des gamètes a lieu avant.",
+      "D": "Vrai : l'ADN a été répliqué dans les pronucléus : 2n chromosomes à deux chromatides, soit 4n ADN."
+    }
+  },
+  "7888e056-a34f-556b-a8ae-bb992817df43": {
+    "why": "Dans le modèle du cours, le spermatozoïde capacité se fixe sur ZP3 de la zone pellucide, ce qui déclenche la réaction acrosomique ; ZP2 est le récepteur secondaire.",
+    "options": {
+      "A": "Faux : le spermatozoïde doit être capacité.",
+      "B": "Vrai : la liaison à ZP3 déclenche la réaction acrosomique.",
+      "C": "Faux : ZP2 intervient après la réaction acrosomique.",
+      "D": "Faux : ZP1 relie les filaments de la zone pellucide."
+    }
+  },
+  "8ca2bd46-152e-5125-952f-65a46dc60720": {
+    "why": "La fécondation a lieu dans le tiers externe de la trompe. Elle rétablit la diploïdie et détermine le sexe génétique (X ou Y apporté par le spermatozoïde).",
+    "options": {
+      "A": "Faux : elle a lieu dans le tiers externe (ampoule), pas dans le tiers interne.",
+      "B": "Faux selon le cours (formule piège) : la fécondation diversifie les individus, mais elle maintient le caryotype de l'espèce.",
+      "C": "Vrai : le spermatozoïde apporte un X (fille) ou un Y (garçon).",
+      "D": "Faux : beaucoup de zygotes ne sont pas viables (anomalies chromosomiques…)."
+    }
+  },
+  "49d7a00b-522d-52d0-855d-8788dab002da": {
+    "why": "La glaire cervicale est sécrétée par les glandes de l'endocol. Sous l'effet des œstrogènes, elle devient abondante, fluide et riche en eau autour de l'ovulation, et filtre les spermatozoïdes.",
+    "options": {
+      "A": "Faux : elle vient du col (endocol), pas de l'endomètre.",
+      "B": "Vrai : elle ne laisse passer que les spermatozoïdes mobiles et normaux.",
+      "C": "Faux : elle est abondante avant l'ovulation ; après, la progestérone la rend rare et épaisse.",
+      "D": "Faux : en période ovulatoire elle est riche en eau et en électrolytes."
+    }
+  },
+  "4c63a935-3d61-5d05-a9be-92358f34f7f7": {
+    "why": "La traversée de la corona radiata se fait surtout grâce à la mobilité du spermatozoïde, aidée par une hyaluronidase de sa membrane.",
+    "options": {
+      "A": "Vrai : la mobilité flagellaire permet de passer entre les cellules de la corona.",
+      "B": "Faux : la réaction acrosomique a lieu plus loin, au contact de la zone pellucide.",
+      "C": "Faux : l'ovule n'aide pas le spermatozoïde à traverser.",
+      "D": "Discutable : une hyaluronidase de membrane y participe."
+    },
+    "draft": "l'énoncé est tronqué (« …radiata est assurée par ») et D (« des enzymes ») est défendable"
+  },
+  "df2cfc39-0f26-5dd5-b7e6-30083ab46a01": {
+    "why": "Le spermatozoïde traverse le cumulus, la corona radiata puis la zone pellucide (après la réaction acrosomique), avant de fusionner avec l'ovocyte II. C'est cette fusion qui déclenche la fin de la méiose II et l'expulsion du 2e globule polaire.",
+    "options": {
+      "A": "Vrai : cumulus, corona radiata puis zone pellucide.",
+      "B": "Vrai : sans réaction acrosomique, pas de traversée de la zone pellucide ni de fusion.",
+      "C": "Faux : l'expulsion du 2e globule polaire est une conséquence de la fusion, pas une condition.",
+      "D": "Faux : il fusionne avec l'ovocyte II, bloqué en métaphase II ; l'ovotide n'apparaît qu'après.",
+      "E": "Faux : la zone pellucide persiste jusqu'à l'éclosion du blastocyste."
+    }
+  },
+  "c4b2742c-6522-5966-a3b4-3b01d250ab59": {
+    "why": "La glaire cervicale est un gel glycoprotéique alcalin sécrété par l'endocol pendant tout le cycle. Très hydratée en période ovulatoire, elle filtre les spermatozoïdes et fait barrière aux infections.",
+    "options": {
+      "A": "Faux : elle est sécrétée par l'endocol.",
+      "B": "Faux : elle est bien alcaline, mais riche en eau (très hydratée) en période ovulatoire.",
+      "C": "Vrai : c'est une barrière contre les germes remontant du vagin.",
+      "D": "Faux : le liquide séminal reste dans le vagin ; seuls les spermatozoïdes mobiles traversent.",
+      "E": "Faux : elle est sécrétée pendant tout le cycle ; seules sa quantité et ses propriétés changent."
+    }
+  },
+  "379643e8-d387-587c-9cba-a3969034e4af": {
+    "why": "La glaire cervicale est un gel glycoprotéique alcalin sécrété par l'endocol pendant tout le cycle. Très hydratée en période ovulatoire, elle filtre les spermatozoïdes et fait barrière aux infections.",
+    "options": {
+      "A": "Faux : elle est sécrétée par l'endocol.",
+      "B": "Faux : elle est alcaline mais très hydratée en période ovulatoire (et c'est un gel glycoprotéique).",
+      "C": "Vrai : c'est une barrière contre les infections ascendantes.",
+      "D": "Faux : le liquide séminal ne franchit pas la glaire ; seuls les spermatozoïdes mobiles passent.",
+      "E": "Faux : elle est sécrétée pendant tout le cycle."
+    }
+  },
+  "59ca15cc-3960-58af-ab8b-2a130a16ed31": {
+    "why": "La fusion des gamètes unit la membrane de la région post-acrosomique (segment équatorial) du spermatozoïde à la membrane de l'ovocyte II. Elle provoque la vague calcique qui débloque la méiose II (méiose équationnelle).",
+    "options": {
+      "A": "Faux : chez l'humain, c'est le spermatozoïde entier qui entre dans le cytoplasme.",
+      "B": "Faux : l'amphimixie est la réunion des pronucléus, bien plus tard.",
+      "C": "Faux : la réaction acrosomique précède la fusion.",
+      "D": "Faux : la fusion se fait par la membrane plasmique post-acrosomique (segment équatorial), pas acrosomiale.",
+      "E": "Vrai : l'entrée du calcium permet à l'ovocyte d'achever sa méiose II."
+    }
+  },
+  "9aace7e7-391e-5662-aeee-417d2a0a8f15": {
+    "why": "La réaction acrosomique est l'exocytose du contenu de l'acrosome. Elle ne se produit que chez un spermatozoïde capacité, est déclenchée par la fixation à ZP3 de la zone pellucide, et libère les enzymes (acrosine) qui permettent de traverser la zone pellucide.",
+    "options": {
+      "A": "Faux selon le cours : tout le contenu enzymatique est libéré ; seule la membrane acrosomiale interne persiste.",
+      "B": "Juste en réalité : c'est la fixation à ZP3, récepteur de la zone pellucide, qui la déclenche.",
+      "C": "Vrai : l'acrosine digère la zone pellucide.",
+      "D": "Vrai : la capacitation est indispensable.",
+      "E": "Faux : c'est la réaction corticale de l'ovocyte qui bloque la polyspermie."
+    },
+    "keyIssue": "la réaction acrosomique est déclenchée par la fixation du spermatozoïde sur ZP3, récepteur de la zone pellucide (c'est ce que retiennent les autres questions du cours), donc B est juste aussi.",
+    "aiKey": "BCD"
+  },
+  "21d94a0f-bd09-51f7-9b74-0de08322ec2d": {
+    "why": "La fécondation a lieu dans l'ampoule tubaire. La réaction acrosomique précède toujours la fusion, qui déclenche ensuite la fin de la méiose II. La zone pellucide persiste jusqu'à l'éclosion du blastocyste.",
+    "options": {
+      "A": "Faux : elle a lieu dans l'ampoule (tiers externe), pas dans l'isthme.",
+      "B": "Vrai : la réaction acrosomique « précède » (et non « procède ») toujours la fusion.",
+      "C": "Faux : l'expulsion du 2e globule polaire suit la fusion.",
+      "D": "Faux : il fusionne avec l'ovocyte II.",
+      "E": "Faux : la zone pellucide ne disparaît qu'au stade blastocyste (éclosion)."
+    }
+  },
+  "68317a29-df7f-5d67-a16b-37f109805d3b": {
+    "why": "La réaction acrosomique ne se produit que chez un spermatozoïde capacité. Elle est déclenchée par la fixation à ZP3 de la zone pellucide et libère les enzymes qui permettent de traverser la zone pellucide ; la corona radiata a déjà été franchie avant.",
+    "options": {
+      "A": "Faux selon le cours : tout le contenu de l'acrosome est libéré.",
+      "B": "Juste en réalité : c'est la fixation à ZP3, récepteur de la zone pellucide, qui la déclenche.",
+      "C": "Faux : la corona radiata est traversée avant (mobilité et hyaluronidase de membrane) ; la réaction acrosomique sert à traverser la zone pellucide.",
+      "D": "Vrai : la capacitation est indispensable.",
+      "E": "Faux : c'est la réaction corticale qui empêche la polyspermie."
+    },
+    "keyIssue": "la réaction acrosomique est déclenchée par la fixation du spermatozoïde sur ZP3, récepteur de la zone pellucide, donc B est juste aussi.",
+    "aiKey": "BD"
+  },
+  "0e71feb8-67b6-5e3b-9f3a-f1a314910681": {
+    "why": "Le zygote est l'œuf fécondé, la cellule issue de la fusion des deux gamètes. Morula et blastocyste sont des stades ultérieurs.",
+    "options": {
+      "A": "Faux : le blastocyste apparaît vers le 4e–5e jour.",
+      "B": "Vrai : zygote = œuf fécondé.",
+      "C": "Faux : la morula est le stade de 16 blastomères environ.",
+      "D": "Vrai : il résulte de la fusion du spermatozoïde et de l'ovocyte II.",
+      "E": "Faux : la réunion des lots haploïdes (amphimixie) se fait à l'intérieur de l'œuf déjà formé."
+    }
+  },
+  "17759771-f700-553c-ad54-cb9406733879": {
+    "why": "La fécondation donne un zygote diploïde (restauration de la diploïdie) ; elle a lieu dans le tiers externe de la trompe.",
+    "options": {
+      "A": "Vrai : elle aboutit au zygote.",
+      "B": "Faux : elle a lieu dans le tiers externe (ampoule).",
+      "C": "Vrai : n + n = 2n.",
+      "D": "Faux : B est faux."
+    }
+  },
+  "36ed695b-12a7-5eef-98bb-e40eb5b1a5c4": {
+    "why": "L'acrosome, dérivé du Golgi, contient des enzymes hydrolytiques, surtout l'acrosine et la hyaluronidase.",
+    "options": {
+      "A": "Faux : l'hydroxylase n'est pas une enzyme acrosomiale.",
+      "B": "Vrai : l'acrosine digère la zone pellucide.",
+      "C": "Faux : la peroxydase n'est pas une enzyme de l'acrosome.",
+      "D": "Vrai : la hyaluronidase dissocie l'acide hyaluronique du cumulus.",
+      "E": "Faux : A et C sont fausses."
+    }
+  },
+  "a4c310d3-dc05-5c13-b69a-d09758bcccaa": {
+    "why": "On cherche la méthode qui n'empêche pas la fécondation. Selon le cours, le dispositif intra-utérin agit surtout en empêchant la nidation, alors que les autres méthodes empêchent la rencontre des gamètes.",
+    "options": {
+      "A": "Faux : la pilule bloque l'ovulation, donc empêche la fécondation.",
+      "B": "Faux : la ligature empêche la rencontre des gamètes.",
+      "C": "Vrai (réponse attendue) : le DIU empêche surtout la nidation.",
+      "D": "Faux : le spermicide tue les spermatozoïdes.",
+      "E": "Faux : le coït interrompu vise à éviter l'arrivée des spermatozoïdes (méthode peu fiable)."
+    }
+  },
+  "a58bf53a-8508-5065-9668-194523e59522": {
+    "why": "De l'extérieur vers l'intérieur, l'ovocyte II est entouré du cumulus oophorus, de la corona radiata, puis de la zone pellucide ; vient ensuite sa membrane plasmique.",
+    "options": {
+      "A": "Faux : la zone pellucide est la plus interne des enveloppes.",
+      "B": "Vrai : c'est l'ordre de l'extérieur vers l'intérieur.",
+      "C": "Faux : la corona radiata est au contact de la zone pellucide, en dehors d'elle.",
+      "D": "Faux : B est juste."
+    }
+  },
+  "875b5fca-394c-5dbc-a0f6-6bb11515b441": {
+    "why": "La réaction corticale est l'exocytose des granules corticaux de l'ovocyte après la fusion. Leurs enzymes modifient la zone pellucide (ZP2 et ZP3) : elle durcit (membrane de fécondation) et ne peut plus fixer de spermatozoïdes, ce qui bloque la polyspermie.",
+    "options": {
+      "A": "Faux : le déblocage de la méiose est dû à la vague calcique, pas à la réaction corticale.",
+      "B": "Faux : la dépolarisation membranaire est un blocage rapide distinct.",
+      "C": "Vrai : la zone pellucide modifiée forme la membrane de fécondation.",
+      "D": "Juste en réalité : les enzymes des granules corticaux détruisent les récepteurs (ZP3) des spermatozoïdes.",
+      "E": "Faux : C est juste."
+    },
+    "keyIssue": "les enzymes des granules corticaux inactivent ZP3 et clivent ZP2 : les récepteurs des spermatozoïdes sont détruits, c'est le mécanisme même du blocage de la polyspermie, donc D est juste aussi.",
+    "aiKey": "CD"
+  },
+  "79eee321-4412-5461-8f4f-d0bc1e5d9e03": {
+    "why": "La fécondation fait entrer le lot haploïde paternel dans l'ovocyte et rétablit la diploïdie : d'une génération à l'autre, le nombre de chromosomes de l'espèce reste constant. Elle a lieu dans les voies génitales féminines.",
+    "options": {
+      "A": "Juste en réalité : en rétablissant la diploïdie, elle maintient constant le stock chromosomique (46) d'une génération à l'autre.",
+      "B": "Faux selon le cours (formule piège) : elle diversifie les individus mais maintient l'espèce.",
+      "C": "Faux : elle a lieu dans la trompe (sauf fécondation in vitro).",
+      "D": "Faux : le « sperme » est le liquide éjaculé ; un seul spermatozoïde entre dans l'ovocyte.",
+      "E": "Vrai : le spermatozoïde apporte le lot haploïde paternel dans l'ovocyte."
+    },
+    "keyIssue": "méiose et fécondation assurent ensemble la constance du nombre de chromosomes (46) d'une génération à l'autre, donc A est juste aussi.",
+    "aiKey": "AE"
+  },
+  "abdae95e-7a71-5ad8-ad93-f0ff6b34afe1": {
+    "why": "L'acrosome est une vésicule dérivée du Golgi, riche en glycoprotéines (PAS+) et en enzymes. Il coiffe la partie antérieure du noyau (environ les 2/3) et libère son contenu lors de la réaction acrosomique, avant l'entrée dans l'ovocyte.",
+    "options": {
+      "A": "Faux : il coiffe la partie antérieure du noyau.",
+      "B": "Faux : il est indispensable pour traverser la zone pellucide.",
+      "C": "Juste en réalité : issu du Golgi, il est riche en glycoprotéines (PAS positif) ; ses enzymes sont elles-mêmes des glycoprotéines.",
+      "D": "Faux : son contenu est libéré à la zone pellucide ; il n'entre pas tel quel dans l'ovocyte.",
+      "E": "Vrai selon le corrigé : il recouvre les deux tiers antérieurs du noyau."
+    },
+    "keyIssue": "l'acrosome, d'origine golgienne, est riche en glycoprotéines (il est PAS positif), donc C est juste aussi.",
+    "aiKey": "CE"
+  },
+  "9a6bce14-b11e-54e3-b5dd-c1ad68d95989": {
+    "why": "La fusion déclenche une vague de calcium dans l'ovocyte : réaction corticale et reprise de la méiose II. Le génome de l'embryon ne s'active que vers le stade 4–8 cellules, et l'inactivation d'un X survient bien plus tard.",
+    "options": {
+      "A": "Faux : le pH intracellulaire ne baisse pas (il augmente plutôt).",
+      "B": "Faux : c'est une entrée de sodium qui dépolarise la membrane.",
+      "C": "Vrai : c'est le signal d'activation de l'ovocyte.",
+      "D": "Faux : l'ovocyte utilise d'abord ses ARNm stockés ; le génome embryonnaire s'active plus tard.",
+      "E": "Faux : l'inactivation d'un X a lieu au stade blastocyste."
+    }
+  },
+  "6c8cd2db-6182-5b42-aacb-19f8c6455bf7": {
+    "why": "Sécrétée par l'endocol, la glaire devient abondante, fluide et alcaline avant l'ovulation, sous l'effet des œstrogènes. Elle est riche en eau et en sels (cristallisation en feuille de fougère) et protège contre les infections.",
+    "options": {
+      "A": "Faux : elle vient de l'endocol.",
+      "B": "Faux : elle s'oppose aux infections.",
+      "C": "Vrai : les œstrogènes la rendent abondante avant l'ovulation.",
+      "D": "Faux : elle est riche en électrolytes (NaCl).",
+      "E": "Faux : son pH est alcalin."
+    }
+  },
+  "eb71c85f-9d4c-549a-a1ca-6677d65a8464": {
+    "why": "La fécondation a lieu dans le tiers externe de la trompe. Elle rétablit la diploïdie et détermine le sexe génétique du zygote.",
+    "options": {
+      "A": "Faux : on parle du tiers externe (ampoule), pas de la moitié externe.",
+      "B": "Faux selon le cours (formule piège) : elle diversifie les individus mais maintient le caryotype de l'espèce.",
+      "C": "Vrai : le spermatozoïde apporte un X ou un Y.",
+      "D": "Faux : un zygote n'est pas toujours viable.",
+      "E": "Faux : les gamètes haploïdes sont produits par la méiose ; la fécondation donne un zygote diploïde."
+    }
+  },
+  "4f31090a-56cb-5ee5-aee4-8a6cbc6807b6": {
+    "why": "Sur des millions de spermatozoïdes éjaculés, seules quelques centaines, les plus mobiles, atteignent l'ampoule. La capacitation a lieu dans l'utérus et la trompe. La zone pellucide est franchie grâce aux enzymes acrosomiales.",
+    "options": {
+      "A": "Faux : la grande majorité est éliminée en route.",
+      "B": "Faux : des spermatozoïdes anormaux peuvent aussi arriver (et féconder).",
+      "C": "Faux : la mobilité seule ne suffit pas, il faut l'acrosine libérée par la réaction acrosomique.",
+      "D": "Faux : la capacitation se fait dans l'utérus et les trompes ; le vagin est hostile (pH acide).",
+      "E": "Vrai : c'est la mobilité qui sélectionne les spermatozoïdes qui arrivent."
+    }
+  },
+  "707511d9-7423-5f57-9f4e-b3920a273c91": {
+    "why": "La glaire est sécrétée par les glandes de l'endocol. Elle est abondante et filante avant l'ovulation ; c'est un hydrogel glycoprotéique pauvre en enzymes.",
+    "options": {
+      "A": "Faux : elle ne vient pas de l'endomètre.",
+      "B": "Vrai : elle est sécrétée par l'endocol.",
+      "C": "Faux : elle est au contraire abondante avant l'ovulation.",
+      "D": "Faux : elle n'est pas riche en enzymes.",
+      "E": "Faux selon le corrigé : en période ovulatoire elle est fluide, transparente et filante, pas « gélatineuse »."
+    }
+  },
+  "68037d87-715f-5a90-bb43-bd9c2e2d84e9": {
+    "why": "Dans le modèle du cours, le spermatozoïde capacité se fixe sur ZP3 de la zone pellucide, ce qui déclenche la réaction acrosomique.",
+    "options": {
+      "A": "Faux : le spermatozoïde doit être capacité.",
+      "B": "Vrai : la liaison à ZP3 déclenche la réaction acrosomique.",
+      "C": "Faux : ZP2 intervient après, comme récepteur secondaire.",
+      "D": "Faux : ZP1 relie les filaments de la zone pellucide.",
+      "E": "Faux : B est juste."
+    }
+  },
+  "df3880fe-369f-5cb3-aa77-dc0afedfd567": {
+    "why": "On cherche la proposition fausse. La fécondation achève l'ovogenèse (méiose II), rétablit la diploïdie, détermine le sexe et donne un zygote. Le cours considère que « variabilité de l'espèce » est la formule fausse : elle maintient l'espèce.",
+    "options": {
+      "A": "Juste : la méiose II ne s'achève qu'après la fécondation.",
+      "B": "Réponse attendue : selon le cours, elle diversifie les individus mais maintient l'espèce.",
+      "C": "Juste : le spermatozoïde apporte X ou Y.",
+      "D": "Juste : elle aboutit au zygote.",
+      "E": "Juste : n + n = 2n."
+    }
+  },
+  "a70d5ed5-ada3-59bd-956a-2305d7a3975a": {
+    "why": "La glaire cervicale, alcaline, protège les spermatozoïdes de l'acidité du vagin. La capacitation précède la réaction acrosomique. La fécondation se fait normalement dans le tiers externe de la trompe, mais elle peut aussi être réalisée in vitro.",
+    "options": {
+      "A": "Faux : les spermatozoïdes acquièrent une mobilité progressive, orientée (dans l'épididyme).",
+      "B": "Vrai : son pH alcalin neutralise l'acidité vaginale.",
+      "C": "Faux : c'est l'inverse, la capacitation précède la réaction acrosomique.",
+      "D": "Faux : c'est le tiers externe (ampoule).",
+      "E": "Vrai : la fécondation in vitro (FIV) existe à côté de la fécondation naturelle."
+    }
+  },
+  "97e248e1-7a50-5ff7-ad79-0ca17efd479b": {
+    "why": "La 1re semaine est la phase de pré-implantation : segmentation dans la trompe, puis blastocyste libre dans l'utérus. Le cytoplasme du zygote est presque entièrement d'origine ovocytaire, et la taille de l'œuf ne change pas.",
+    "options": {
+      "A": "Faux : le cytoplasme vient de l'ovocyte ; le spermatozoïde n'apporte presque que son noyau et son centriole.",
+      "B": "Faux : la segmentation se fait à volume constant, dans la zone pellucide.",
+      "C": "Faux : chez l'humain, deux génomes maternels ne donnent pas d'embryon viable (empreinte parentale).",
+      "D": "Vrai : l'implantation ne commence qu'à la fin de la 1re semaine (J6–J7)."
+    }
+  },
+  "6756aa8f-3a0c-5009-b3f6-8c273fe80653": {
+    "why": "La segmentation est une suite de mitoses asynchrones, sans croissance : les blastomères deviennent plus nombreux et plus petits. Les premiers blastomères sont totipotents.",
+    "options": {
+      "A": "Faux : les blastomères deviennent de plus en plus petits.",
+      "B": "Faux : les mitoses sont asynchrones (on passe par des stades à 3, 5… cellules).",
+      "C": "Vrai : aux premiers stades, chaque blastomère peut donner un embryon complet.",
+      "D": "Faux selon le cours : la 1re division donne deux blastomères de taille inégale."
+    }
+  },
+  "71248696-5f5d-5fec-8c76-a3c967cef880": {
+    "why": "La morula (vers J3–J4) compte environ 16 cellules : les périphériques, petites, donneront le trophoblaste ; les centrales, plus grosses, le bouton embryonnaire. Elle reste dans la zone pellucide et n'est pas plus grande que l'ovocyte.",
+    "options": {
+      "A": "Vrai : environ 16 blastomères.",
+      "B": "Faux : les cellules périphériques sont les plus petites.",
+      "C": "Faux : elle est toujours entourée de la zone pellucide.",
+      "D": "Faux : la segmentation se fait sans augmentation de volume."
+    }
+  },
+  "a2bc9408-a66e-5384-9c3e-bb680b0955c2": {
+    "why": "L'implantation (J6–J7) se fait normalement dans la paroi postéro-supérieure du corps utérin, après l'éclosion hors de la zone pellucide. Elle est interstitielle (l'œuf s'enfouit entièrement dans l'endomètre) et exige un endomètre préparé par les hormones.",
+    "options": {
+      "A": "Faux : elle a lieu dans la partie postéro-supérieure, pas inférieure.",
+      "B": "Faux : le blastocyste doit sortir de la zone pellucide (éclosion) pour s'implanter.",
+      "C": "Faux : il faut un endomètre préparé par les œstrogènes et la progestérone (fenêtre d'implantation).",
+      "D": "Vrai : chez l'humain, l'implantation est interstitielle, profonde."
+    }
+  },
+  "0621463d-063f-57a0-ae54-f4f032d18970": {
+    "why": "Pendant la 1re semaine, la segmentation se fait sans changement de taille et le cytoplasme de l'œuf est d'origine maternelle. Les cellules du cumulus et de la corona se détachent dans la trompe, bien avant le blastocyste ; la zone pellucide, elle, ne disparaît qu'à l'éclosion.",
+    "options": {
+      "A": "Vrai : la taille globale de l'œuf est conservée.",
+      "B": "Juste en réalité : les cellules du cumulus et de la corona se dispersent dans la trompe, dès les premiers jours.",
+      "C": "Faux : deux génomes maternels ne donnent pas d'embryon viable chez l'humain.",
+      "D": "Vrai : le cytoplasme vient de l'ovocyte."
+    },
+    "keyIssue": "les cellules du cumulus oophorus et de la corona radiata se détachent dans la trompe dès les premiers jours ; ce qui persiste jusqu'au blastocyste, c'est la zone pellucide. B est donc juste aussi.",
+    "aiKey": "ABD"
+  },
+  "dd780f0f-2499-5255-a00a-658850e70883": {
+    "why": "La segmentation augmente le nombre de blastomères par des mitoses asynchrones. Les blastomères restent totipotents aux premiers stades (au moins jusqu'à 4 à 8 cellules).",
+    "options": {
+      "A": "Vrai : au stade 4 blastomères, chaque cellule est encore totipotente.",
+      "B": "Faux : les mitoses ne sont pas simultanées (asynchrones).",
+      "C": "Faux selon le cours : les deux premiers blastomères sont de taille inégale.",
+      "D": "Vrai : c'est la définition de la segmentation."
+    }
+  },
+  "69b81546-fc4f-5222-b16a-536875109929": {
+    "why": "Dans la morula, les cellules périphériques sont plus petites (futur trophoblaste) que les cellules internes (futur bouton embryonnaire). Le cours la décrit de 16 à 60 cellules environ. Sa taille reste celle de l'ovocyte, et elle n'est plus entourée que par la zone pellucide.",
+    "options": {
+      "A": "Vrai : les cellules périphériques sont plus petites.",
+      "B": "Vrai selon le cours : elle compte de 16 à 60 cellules environ.",
+      "C": "Faux : pas d'augmentation de volume.",
+      "D": "Faux : à ce stade, la corona a disparu : seule la zone pellucide l'entoure."
+    }
+  },
+  "4ca5458b-061d-56e9-a72d-b88db073f68e": {
+    "why": "Une implantation est ectopique quand elle se fait en dehors de la cavité utérine (trompe, ovaire, péritoine, col…). Seule l'implantation utérine est normale.",
+    "options": {
+      "A": "Ectopique : c'est la grossesse extra-utérine la plus fréquente.",
+      "B": "Ectopique : implantation dans le pelvis.",
+      "C": "Ectopique : implantation sur le péritoine abdominal.",
+      "D": "Réponse attendue : c'est l'implantation normale."
+    }
+  },
+  "96eff9c5-c356-5ecd-aa5e-a73b03e0b372": {
+    "why": "C'est le syncytiotrophoblaste, masse multinucléée issue du cytotrophoblaste, qui érode l'endomètre (enzymes) et fait pénétrer l'œuf.",
+    "options": {
+      "A": "Faux : l'ectoblaste appartient au disque embryonnaire.",
+      "B": "Faux : le cytotrophoblaste prolifère et forme le syncytium, mais n'envahit pas lui-même.",
+      "C": "Vrai : il est invasif et lytique.",
+      "D": "Faux : le mésenchyme extra-embryonnaire apparaît plus tard (2e semaine)."
+    }
+  },
+  "d3990ee4-be10-52b7-ada7-c3adf0a226d8": {
+    "why": "Le blastocyste se fixe par son pôle embryonnaire (côté du bouton) sur la paroi postéro-supérieure de l'utérus. Le syncytiotrophoblaste envahit l'endomètre, préparé par les hormones. Un petit saignement est possible mais inconstant.",
+    "options": {
+      "A": "Faux : il se fixe par le pôle du bouton embryonnaire.",
+      "B": "Faux : c'est le syncytiotrophoblaste qui pénètre.",
+      "C": "Vrai : c'est le site habituel.",
+      "D": "Faux : elle dépend de conditions hormonales et d'un endomètre réceptif.",
+      "E": "Faux : le saignement est possible mais inconstant et discret, pas « souvent modéré »."
+    }
+  },
+  "e9725cf2-08ed-52dc-b63a-8572e6e28345": {
+    "why": "La 1re semaine va de la fécondation à la formation du blastocyste. L'œuf ne grossit pas et les blastomères sont de tailles inégales ; l'implantation se déroule surtout pendant la 2e semaine.",
+    "options": {
+      "A": "Faux : la segmentation se fait sans augmentation de la taille de l'œuf.",
+      "B": "Faux : les blastomères sont de tailles inégales (micromères et macromères).",
+      "C": "Vrai : le blastocyste se forme vers J4–J5.",
+      "D": "Faux : c'est la phase de pré-implantation ; l'implantation commence à peine à J6–J7.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "1b6df605-1f08-58a9-84c2-8c1547f8194f": {
+    "why": "La morula résulte de mitoses asynchrones ; elle compte de 16 à 60 cellules environ selon le cours. Ses cellules périphériques sont petites, et elle n'est pas plus grande que l'œuf. Ses cellules ne sont plus considérées comme totipotentes : elles s'engagent déjà vers le trophoblaste ou le bouton.",
+    "options": {
+      "A": "Vrai : les divisions sont asynchrones.",
+      "B": "Faux selon le cours : la totipotence est limitée aux premiers blastomères.",
+      "C": "Faux : les cellules volumineuses sont au centre.",
+      "D": "Faux : la segmentation se fait à volume constant.",
+      "E": "Vrai selon le cours : 16 à 60 cellules."
+    }
+  },
+  "0e70e336-5051-51f1-8187-f251ca15d3dc": {
+    "why": "La nidation se fait normalement dans la cavité utérine. Elle est interstitielle (l'œuf s'enfouit dans l'endomètre), assurée par le syncytiotrophoblaste, et peut provoquer un petit saignement.",
+    "options": {
+      "A": "Faux : elle est normalement utérine ; les grossesses extra-utérines sont rares (1 à 2 %).",
+      "B": "Vrai : un petit saignement est possible vers J13 (signe de Hartman).",
+      "C": "Vrai : l'œuf s'enfouit dans l'épaisseur de l'endomètre.",
+      "D": "Faux : le cytotrophoblaste n'est pas l'élément invasif.",
+      "E": "Juste en réalité : c'est le syncytiotrophoblaste qui envahit l'endomètre."
+    },
+    "keyIssue": "c'est le syncytiotrophoblaste qui assure la pénétration de l'œuf dans l'endomètre (c'est la réponse retenue par une autre question du même cours), donc E est juste aussi.",
+    "aiKey": "BCE"
+  },
+  "0d39c8fb-1e49-5b00-9b83-2c833fb08571": {
+    "why": "La segmentation se fait sans augmentation de volume et conduit au blastocyste. Le cytoplasme du zygote est ovocytaire. Dans la morula, les cellules périphériques sont les plus petites.",
+    "options": {
+      "A": "Faux : le volume de l'œuf reste constant.",
+      "B": "Faux : il vient de l'ovocyte.",
+      "C": "Vrai : morula, puis blastocyste.",
+      "D": "Vrai : les petites cellules périphériques donneront le trophoblaste."
+    }
+  },
+  "3659b6a6-b05a-52de-850a-dc7f45b78b79": {
+    "why": "Le blastocyste (J4–J5) est formé de cellules diploïdes : le bouton embryonnaire (pluripotent) et le trophoblaste. Il apparaît après la compaction de la morula ; l'hCG est surtout sécrétée par le syncytiotrophoblaste après l'implantation.",
+    "options": {
+      "A": "Faux : ses cellules sont pluripotentes (bouton) ou déjà engagées (trophoblaste).",
+      "B": "Faux : elles sont diploïdes.",
+      "C": "Faux : il apparaît vers J4–J5, à la fin de la 1re semaine.",
+      "D": "Faux selon le cours : l'hCG est sécrétée par le syncytiotrophoblaste, à partir de l'implantation.",
+      "E": "Vrai : la compaction de la morula précède la cavitation."
+    }
+  },
+  "2dd86954-b839-5dde-98bb-9bcb221abbc9": {
+    "why": "Le blastocyste se forme vers J4–J5 ; ses cellules sont diploïdes et pluripotentes (bouton). Il peut s'implanter hors de l'utérus : c'est la grossesse ectopique (trompe, ovaire, abdomen).",
+    "options": {
+      "A": "Faux : il se forme à la fin de la 1re semaine.",
+      "B": "Faux : les cellules du bouton sont pluripotentes.",
+      "C": "Faux : elles sont diploïdes.",
+      "D": "Faux selon le cours : il reste libre environ 2 jours avant de s'implanter.",
+      "E": "Vrai : c'est la grossesse abdominale, forme rare de grossesse ectopique."
+    }
+  },
+  "2f7a581c-6ac2-548b-bc7e-cc797929a734": {
+    "why": "Une implantation est ectopique quand elle se fait hors de la cavité du corps utérin : trompe, pelvis, abdomen, col…",
+    "options": {
+      "A": "Ectopique : grossesse tubaire.",
+      "B": "Ectopique : implantation pelvienne.",
+      "C": "Ectopique : implantation abdominale.",
+      "D": "Réponse attendue : c'est la localisation normale.",
+      "E": "Ectopique : la grossesse cervicale est aussi extra-utérine."
+    }
+  },
+  "50f3517c-b654-5d63-989b-c6986a7e8ddb": {
+    "why": "On cherche la proposition fausse. Le blastocyste se fixe par son pôle embryonnaire sur la paroi postéro-supérieure d'un endomètre préparé, et un petit saignement est possible.",
+    "options": {
+      "A": "Réponse attendue (fausse) : la fixation se fait du côté du bouton embryonnaire.",
+      "B": "Juste : c'est le site habituel.",
+      "C": "Juste : l'endomètre doit être préparé par les œstrogènes et la progestérone.",
+      "D": "Juste : un petit saignement est possible."
+    }
+  },
+  "4228492d-e733-5cdd-923b-78767db70ec3": {
+    "why": "La morula résulte de mitoses asynchrones, a le volume de l'œuf d'origine, et ses cellules volumineuses sont au centre. Ses cellules ne sont plus considérées comme totipotentes.",
+    "options": {
+      "A": "Vrai : les mitoses sont asynchrones.",
+      "B": "Faux selon le cours : seuls les premiers blastomères sont totipotents.",
+      "C": "Faux : les cellules volumineuses sont centrales.",
+      "D": "Faux : la morula n'est pas plus grande que l'œuf."
+    }
+  },
+  "5bc70a1b-36e2-5426-b4f2-01bd4f8d2f14": {
+    "why": "À la fin de la 1re semaine, le blastocyste est formé, il est sorti de la zone pellucide (éclosion) et commence à s'implanter. La taille de l'œuf n'a pas augmenté pendant la segmentation.",
+    "options": {
+      "A": "Faux : il n'y a pas de croissance pendant la segmentation.",
+      "B": "Faux : la zone pellucide disparaît à l'éclosion, avant l'implantation.",
+      "C": "Vrai : c'est le stade de la fin de la 1re semaine.",
+      "D": "Faux : la morula apparaît vers J3–J4."
+    }
+  },
+  "1495aca3-1d61-55d6-a742-5f9bbd158220": {
+    "why": "La segmentation est une suite de mitoses asynchrones, sans croissance ; les premiers blastomères sont totipotents.",
+    "options": {
+      "A": "Faux : les blastomères deviennent plus petits.",
+      "B": "Faux : les mitoses sont asynchrones.",
+      "C": "Vrai : ils sont totipotents aux premiers stades.",
+      "D": "Faux selon le cours : les deux premiers blastomères sont inégaux."
+    }
+  },
+  "8a6924b5-5488-5e92-a0a1-44dfe09413b8": {
+    "why": "La morula compte environ 16 cellules ; les périphériques sont petites, les centrales grosses. Elle reste dans la zone pellucide et garde la taille de l'ovocyte.",
+    "options": {
+      "A": "Vrai : environ 16 cellules.",
+      "B": "Faux : les cellules périphériques sont les plus petites.",
+      "C": "Faux : elle est entourée de la zone pellucide.",
+      "D": "Faux : son volume est celui de l'ovocyte."
+    }
+  },
+  "6cf40ddb-443c-5600-a87d-fd9fd65c674e": {
+    "why": "Le blastocyste apparaît vers J4–J5. Ses cellules sont diploïdes, pluripotentes pour le bouton embryonnaire. Il peut s'implanter hors de l'utérus, par exemple dans la trompe.",
+    "options": {
+      "A": "Faux : il se forme à la fin de la 1re semaine.",
+      "B": "Faux : les cellules du bouton sont pluripotentes.",
+      "C": "Vrai : 2n chromosomes.",
+      "D": "Faux selon le cours : il reste libre environ 2 jours avant l'implantation.",
+      "E": "Vrai : la grossesse tubaire est la plus fréquente des grossesses ectopiques."
+    }
+  },
+  "3337580e-153d-53b7-9659-b5d18b7b1dde": {
+    "why": "Pendant la segmentation, les blastomères deviennent plus nombreux et plus petits, à volume total constant. Dans la morula, les cellules centrales sont plus grosses. Les premiers blastomères sont peu liés entre eux ; la compaction, avec ses jonctions serrées, survient au stade 8 cellules.",
+    "options": {
+      "A": "Vrai : leur nombre augmente à chaque mitose.",
+      "B": "Vrai : les cellules centrales (futur bouton) sont plus volumineuses.",
+      "C": "Faux : les premiers blastomères sont lâchement associés ; les jonctions apparaissent à la compaction.",
+      "D": "Faux : la taille de l'œuf ne change pas.",
+      "E": "Faux : c'est le volume global de l'œuf qui est conservé ; chaque blastomère devient plus petit."
+    }
+  },
+  "419339a2-bd8f-562f-9acf-b35e0eddb420": {
+    "why": "La 1re semaine est la phase de pré-implantation : segmentation à volume constant, avec un cytoplasme d'origine ovocytaire. Le petit saignement d'implantation survient plus tard, vers J13.",
+    "options": {
+      "A": "Vrai : le cytoplasme vient de l'ovocyte.",
+      "B": "Faux : la taille de l'œuf ne change pas.",
+      "C": "Faux : deux génomes maternels ne donnent pas d'embryon viable.",
+      "D": "Vrai : l'implantation commence seulement à la fin de la semaine.",
+      "E": "Faux : le saignement d'implantation survient pendant la 2e semaine (vers J13)."
+    }
+  },
+  "a59a4111-076d-5aa2-ad40-c3f0b6fcfe5c": {
+    "why": "La segmentation est une suite de mitoses asynchrones qui augmente le nombre des blastomères sans augmenter leur taille. Les premiers blastomères sont totipotents, pas seulement pluripotents.",
+    "options": {
+      "A": "Faux : les blastomères deviennent plus petits.",
+      "B": "Vrai : les mitoses sont asynchrones.",
+      "C": "Faux : les premiers jours, ils sont totipotents.",
+      "D": "Faux selon le cours : la 1re division donne deux blastomères inégaux.",
+      "E": "Vrai : c'est le principe de la segmentation."
+    }
+  },
+  "b39becde-4591-5df7-bdc2-93dd755b3f79": {
+    "why": "La morula compte 16 cellules ou plus ; elle garde la taille de l'ovocyte et reste entourée de la zone pellucide. Ses cellules périphériques sont les plus petites.",
+    "options": {
+      "A": "Vrai : 16 cellules ou plus.",
+      "B": "Faux : les cellules périphériques sont les plus petites.",
+      "C": "Proposition illisible dans la source (« au niveau l'use »).",
+      "D": "Faux : volume constant.",
+      "E": "Vrai : elle est encore entourée de la zone pellucide."
+    },
+    "draft": "la proposition C est illisible (« se trouve au niveau l'use ») : impossible de dire si elle est juste"
+  },
+  "a3a96fc7-54ad-5f6f-a63f-c67310fcf042": {
+    "why": "Vers J13, l'érosion des vaisseaux maternels par le syncytiotrophoblaste peut provoquer un petit saignement (signe de Hartman), parfois pris pour des règles. Les signes sympathiques de grossesse (nausées, vomissements…) apparaissent plus tard.",
+    "options": {
+      "A": "Faux : les nausées apparaissent plus tard (vers 5–6 semaines d'aménorrhée).",
+      "B": "Faux : même remarque.",
+      "C": "Vrai : le saignement d'implantation (vers J13).",
+      "D": "Faux : ce n'est pas un signe de ce stade.",
+      "E": "Faux : l'implantation normale n'est pas douloureuse."
+    },
+    "draft": "« à ce stade » renvoie à un énoncé commun absent de la question"
+  },
+  "c119207a-acbc-57bb-af9b-0e68c85368f2": {
+    "why": "On cherche la proposition fausse. Le mésenchyme extra-embryonnaire forme la somatopleure (avec le trophoblaste : lame choriale), la splanchnopleure (autour de la vésicule vitelline) et le pédicule de fixation. Le cœlome extra-embryonnaire n'est pas un tissu : c'est une cavité creusée dans ce mésenchyme.",
+    "options": {
+      "A": "Juste : la somatopleure extra-embryonnaire double le cytotrophoblaste et forme la lame choriale.",
+      "B": "Réponse attendue : le cœlome est une cavité creusée dans le mésenchyme, pas un dérivé.",
+      "C": "Juste : la splanchnopleure extra-embryonnaire tapisse la vésicule vitelline.",
+      "D": "Juste : le pédicule de fixation relie le disque au chorion."
+    }
+  },
+  "6cf17e96-20ce-5885-acb2-eca420081535": {
+    "why": "Pendant la 2e semaine, l'œuf s'enfouit dans l'endomètre, qui n'est réceptif que pendant la fenêtre d'implantation (J20–J24 du cycle). Le bouton embryonnaire donne l'embryon et des annexes. Le trophoblaste se dédouble en cytotrophoblaste et syncytiotrophoblaste.",
+    "options": {
+      "A": "Vrai : hors de la fenêtre d'implantation, l'endomètre n'est pas réceptif.",
+      "B": "Vrai : l'œuf s'implante dans la muqueuse utérine (endomètre).",
+      "C": "Faux : la masse interne donne aussi l'amnios, la vésicule vitelline et l'allantoïde.",
+      "D": "Faux (incomplet) : le trophoblaste donne cytotrophoblaste ET syncytiotrophoblaste."
+    }
+  },
+  "eec442aa-6d0d-5643-9360-462343c02261": {
+    "why": "L'épiblaste apparaît au début de la 2e semaine (disque didermique). Il forme le plancher de la cavité amniotique, et à la 3e semaine il donne la ligne primitive et le nœud de Hensen. L'hypoblaste se forme en même temps que lui, à partir du bouton embryonnaire.",
+    "options": {
+      "A": "Faux : épiblaste et hypoblaste se séparent tous deux à partir du bouton embryonnaire.",
+      "B": "Faux : c'est l'hypoblaste qui forme le toit de la vésicule vitelline.",
+      "C": "Vrai : il apparaît vers J8.",
+      "D": "Vrai : le nœud de Hensen est épiblastique (3e semaine)."
+    }
+  },
+  "4b6108c5-0a53-5279-87da-c994cc9a0b1e": {
+    "why": "Le petit saignement d'implantation (signe de Hartman) survient vers J13, pendant la 2e semaine, quand le syncytiotrophoblaste érode les vaisseaux maternels.",
+    "options": {
+      "A": "Faux : pendant la 1re semaine, l'œuf n'est pas encore implanté.",
+      "B": "Vrai : vers J13.",
+      "C": "Faux : l'implantation est déjà achevée.",
+      "D": "Faux : l'implantation est déjà achevée."
+    }
+  },
+  "e144eef7-f58c-5cc2-a0b3-b0b5ee988753": {
+    "why": "Pendant la 2e semaine, le bouton embryonnaire devient un disque didermique (épiblaste + hypoblaste) pendant que l'œuf s'enfouit. Le trophoblaste se sépare en cytotrophoblaste interne et syncytiotrophoblaste externe. La femme ne ressent encore aucun signe.",
+    "options": {
+      "A": "Faux : il n'y a pas encore de signes cliniques de grossesse.",
+      "B": "Faux : l'œuf évolue pendant qu'il s'enfouit, pas seulement après.",
+      "C": "Vrai : épiblaste et hypoblaste.",
+      "D": "Faux : c'est l'inverse, le cytotrophoblaste est interne et le syncytiotrophoblaste externe."
+    }
+  },
+  "b6813853-355b-5b01-b85c-6abe646183f2": {
+    "why": "On cherche la proposition fausse. Le mésenchyme extra-embryonnaire forme la lame choriale (avec le trophoblaste), la splanchnopleure et le pédicule de fixation ; le cœlome extra-embryonnaire est une cavité creusée en lui.",
+    "options": {
+      "A": "Juste : la somatopleure extra-embryonnaire participe à la lame choriale.",
+      "B": "Réponse attendue : le cœlome est une cavité, pas un dérivé tissulaire.",
+      "C": "Juste : il forme la splanchnopleure extra-embryonnaire.",
+      "D": "Juste : il forme le pédicule de fixation."
+    }
+  },
+  "a333c501-e6d4-52c6-9e03-0a2e0d582767": {
+    "why": "Pendant la 2e semaine, le bouton embryonnaire se transforme en disque didermique (épiblaste et hypoblaste). Le disque tridermique se forme à la 3e semaine.",
+    "options": {
+      "A": "Faux : le bouton est l'état de la 1re semaine.",
+      "B": "Vrai : disque didermique.",
+      "C": "Faux : il apparaît à la 3e semaine (gastrulation).",
+      "D": "Faux : la morula est un stade de la 1re semaine."
+    }
+  },
+  "a42cdfef-f30f-551f-9f50-7ec1b9d39d77": {
+    "why": "Le bouton embryonnaire donne l'embryon, la cavité amniotique (épiblaste) et la vésicule vitelline (hypoblaste). Le placenta vient surtout du trophoblaste.",
+    "options": {
+      "A": "Réponse attendue : le placenta dérive du trophoblaste.",
+      "B": "Faux : la cavité amniotique se creuse dans l'épiblaste.",
+      "C": "Faux : la vésicule vitelline dérive de l'hypoblaste.",
+      "D": "Faux : l'embryon vient du bouton embryonnaire."
+    }
+  },
+  "789f5b53-eeca-56b2-b5af-6c0199a77640": {
+    "why": "L'hypoblaste se sépare du bouton embryonnaire pendant la 2e semaine (face à la cavité du blastocyste). Ses cellules forment la membrane de Heuser et le toit de la vésicule vitelline primaire.",
+    "options": {
+      "A": "Faux : il ne dérive pas de l'épiblaste ; les deux feuillets se séparent à partir du bouton.",
+      "B": "Faux selon le cours : il se met en place au début de la 2e semaine.",
+      "C": "Faux : c'est l'épiblaste (et les amnioblastes) qui bordent la cavité amniotique.",
+      "D": "Vrai : ses cellules tapissent la cavité du blastocyste (membrane de Heuser)."
+    }
+  },
+  "4a3f6db4-d984-570f-975c-d300f2518922": {
+    "why": "On cherche la proposition fausse. L'épiblaste entoure la cavité amniotique et donne, à la gastrulation, l'entoblaste et le mésoblaste (dont le mésoblaste intermédiaire). La vésicule vitelline est bordée par l'hypoblaste et la membrane de Heuser, pas par l'épiblaste.",
+    "options": {
+      "A": "Juste selon le corrigé : l'épiblaste forme le plancher de la cavité amniotique, et les amnioblastes qui en dérivent forment son plafond.",
+      "B": "Juste : à la 3e semaine, des cellules épiblastiques remplacent l'hypoblaste et forment l'entoblaste.",
+      "C": "Juste : tout le mésoblaste vient de l'épiblaste.",
+      "D": "Réponse attendue : la vésicule vitelline n'est pas épiblastique."
+    }
+  },
+  "d1213b35-a729-5a99-9be0-74fe53976193": {
+    "why": "La 2e semaine est celle de l'implantation (l'œuf s'enfouit dans l'endomètre qu'il érode) et du disque didermique. Le disque tridermique et la gastrulation appartiennent à la 3e semaine.",
+    "options": {
+      "A": "Faux : les signes de grossesse sont plus tardifs.",
+      "B": "Vrai : c'est la semaine de l'implantation.",
+      "C": "Faux : le disque tridermique se forme à la 3e semaine.",
+      "D": "Faux : le syncytiotrophoblaste érode l'endomètre (réaction déciduale).",
+      "E": "Faux : la gastrulation se fait à la 3e semaine."
+    }
+  },
+  "90d6c5fe-84b7-5ef7-beff-7102c4855b57": {
+    "why": "Le bouton embryonnaire est formé de cellules pluripotentes. Il donne l'embryon mais aussi des annexes (amnios, vésicule vitelline, allantoïde). À la 2e semaine, il devient un disque à deux feuillets.",
+    "options": {
+      "A": "Faux : il donne aussi des annexes.",
+      "B": "Faux : ses cellules sont pluripotentes.",
+      "C": "Faux : il compte plus de cellules qu'une vingtaine.",
+      "D": "Vrai : amnios, vésicule vitelline, allantoïde.",
+      "E": "Faux : il devient d'abord un disque à deux feuillets (2e semaine) ; le troisième feuillet vient de la gastrulation."
+    }
+  },
+  "62a0c685-c36c-5657-b512-c457b4604a31": {
+    "why": "L'hypoblaste apparaît au début de la 2e semaine, à partir du bouton embryonnaire. Ses cellules forment la membrane de Heuser et il forme le toit (non le fond) de la vésicule vitelline ; le plancher de la cavité amniotique est épiblastique.",
+    "options": {
+      "A": "Faux : il apparaît pendant la 2e semaine.",
+      "B": "Vrai : ses cellules tapissent la cavité du blastocyste (membrane de Heuser).",
+      "C": "Faux : il ne dérive pas de l'épiblaste.",
+      "D": "Faux : il forme le toit de la vésicule vitelline, pas son fond.",
+      "E": "Faux : le plancher de la cavité amniotique est formé par l'épiblaste."
+    }
+  },
+  "0df3f262-9810-58f4-9011-c27dc67557b1": {
+    "why": "Pendant la 2e semaine apparaissent le disque didermique (épiblaste et hypoblaste), la cavité amniotique, la vésicule vitelline, le mésenchyme extra-embryonnaire, puis le cœlome extra-embryonnaire et le pédicule de fixation (vers J13). L'entoblaste définitif et le cordon viennent plus tard.",
+    "options": {
+      "A": "Juste en réalité : le pédicule de fixation se forme vers J13, quand le cœlome extra-embryonnaire isole le disque.",
+      "B": "Vrai : il apparaît vers J8.",
+      "C": "Vrai : elle se creuse dans l'épiblaste vers J8.",
+      "D": "Faux : le cordon se forme à partir de la 4e–5e semaine.",
+      "E": "Faux : l'entoblaste définitif se forme à la 3e semaine (gastrulation)."
+    },
+    "keyIssue": "le pédicule de fixation se forme dès la fin de la 2e semaine (vers J13), avec le cœlome extra-embryonnaire ; les autres questions du cours le citent parmi les dérivés du mésenchyme extra-embryonnaire (2e semaine). A est donc juste aussi.",
+    "aiKey": "ABC"
+  },
+  "9bd61f2b-e7c9-5c0f-aff3-4fb98f6362bf": {
+    "why": "La nidation est normalement intra-utérine et interstitielle (dans l'épaisseur de l'endomètre). Elle est assurée par le syncytiotrophoblaste et peut entraîner un petit saignement vers J13.",
+    "options": {
+      "A": "Juste en réalité : l'implantation est intra-utérine dans l'immense majorité des cas.",
+      "B": "Juste en réalité : un petit saignement est possible vers J13 (signe de Hartman).",
+      "C": "Vrai : l'œuf s'enfouit dans la muqueuse.",
+      "D": "Faux : le cytotrophoblaste prolifère, mais l'élément invasif est le syncytiotrophoblaste.",
+      "E": "Vrai : le syncytiotrophoblaste envahit l'endomètre."
+    },
+    "keyIssue": "la nidation est presque toujours intra-utérine (A), elle peut donner un petit saignement vers J13 (B), et c'est le syncytiotrophoblaste, pas le cytotrophoblaste, qui pénètre l'endomètre (D faux, comme le retiennent les autres questions du cours).",
+    "aiKey": "ABCE"
+  },
+  "14abd783-30df-57c5-a79b-9260f488ebea": {
+    "why": "L'hypoblaste se sépare du bouton embryonnaire au début de la 2e semaine. Ses cellules forment la membrane de Heuser et il constitue le toit (plafond) de la vésicule vitelline, primaire puis secondaire (lécithocèle).",
+    "options": {
+      "A": "Faux : il ne dérive pas de l'épiblaste.",
+      "B": "Vrai : membrane de Heuser.",
+      "C": "Faux : le fond (plancher) de la cavité amniotique est épiblastique.",
+      "D": "Juste en réalité : l'hypoblaste forme le plafond de la vésicule vitelline secondaire (lécithocèle secondaire).",
+      "E": "Vrai : il se forme par différenciation du bouton embryonnaire."
+    },
+    "keyIssue": "l'hypoblaste forme le toit (plafond) de la vésicule vitelline primaire puis secondaire (lécithocèle), donc D est juste aussi.",
+    "aiKey": "BDE"
+  },
+  "38c356dd-6c60-5890-9df2-042801e634bf": {
+    "why": "Une implantation ectopique se fait hors de la cavité utérine, dans les voies génitales ou la cavité péritonéale : trompe (le plus souvent), ovaire, pelvis, abdomen, col. Une implantation médiastinale n'existe pas.",
+    "options": {
+      "A": "Vrai : c'est la plus fréquente.",
+      "B": "Vrai : implantation pelvienne possible.",
+      "C": "Vrai : grossesse abdominale (rare).",
+      "D": "Faux : l'œuf ne peut pas atteindre le médiastin.",
+      "E": "Faux : D est faux."
+    },
+    "keyIssue": "une grossesse ectopique se fait dans les voies génitales ou la cavité péritonéale ; une implantation médiastinale n'existe pas, donc « toutes les réponses sont justes » est faux.",
+    "aiKey": "ABC"
+  },
+  "fe3dca7b-6ad7-5574-b424-633efbf6e642": {
+    "why": "À la gastrulation (3e semaine), les cellules de l'épiblaste migrent par la ligne primitive : elles forment l'entoblaste, le mésoblaste, et celles qui restent deviennent l'ectoblaste. Les trois feuillets sont donc d'origine épiblastique.",
+    "options": {
+      "A": "Faux : l'hypoblaste est refoulé et ne participe pas à l'embryon.",
+      "B": "Faux : le mésoblaste est lui-même un feuillet dérivé.",
+      "C": "Faux : l'entoblaste est l'un des feuillets, il ne produit pas les autres.",
+      "D": "Juste en réalité : les trois feuillets dérivent de l'épiblaste.",
+      "E": "Faux : l'ectoblaste est la partie de l'épiblaste qui reste en place."
+    },
+    "keyIssue": "à la gastrulation, les trois feuillets (ecto-, méso- et entoblaste) proviennent tous de l'épiblaste.",
+    "aiKey": "D"
+  },
+  "93fb0854-4887-53aa-afd5-5aa58d9876c4": {
+    "why": "C'est le syncytiotrophoblaste, invasif et lytique, qui fait pénétrer le blastocyste dans l'endomètre.",
+    "options": {
+      "A": "Faux : l'entoblaste appartient au disque embryonnaire (3e semaine).",
+      "B": "Faux : l'ectoblaste appartient au disque embryonnaire.",
+      "C": "Faux : le cytotrophoblaste prolifère mais n'envahit pas.",
+      "D": "Vrai : il érode l'endomètre et ses vaisseaux.",
+      "E": "Faux : le mésenchyme extra-embryonnaire apparaît plus tard."
+    }
+  },
+  "48d9bb0d-631c-5822-8488-33d73692735c": {
+    "why": "Pendant la 2e semaine, l'épiblaste (dorsal) forme le plancher de la cavité amniotique ; l'hypoblaste (ventral) forme le toit de la vésicule vitelline primaire. Le mésenchyme extra-embryonnaire apparaît avant la ligne primitive, et le trophoblaste donne à la fois cytotrophoblaste et syncytiotrophoblaste.",
+    "options": {
+      "A": "Faux : l'épiblaste est dorsal.",
+      "B": "Juste en réalité : l'hypoblaste forme le toit de la vésicule vitelline primaire.",
+      "C": "Faux : la ligne primitive n'apparaît qu'à la 3e semaine.",
+      "D": "Faux en réalité : c'est l'épiblaste qui forme le plancher de la cavité amniotique.",
+      "E": "Faux (incomplet) : il donne aussi le syncytiotrophoblaste."
+    },
+    "keyIssue": "c'est l'épiblaste qui forme le plancher de la cavité amniotique ; l'hypoblaste forme le toit de la vésicule vitelline primaire. Une autre question du même cours compte d'ailleurs « l'hypoblaste forme le fond de la cavité amniotique » comme faux.",
+    "aiKey": "B"
+  },
+  "44cb37ff-d681-5fe7-a9c6-ddd2939a6e0d": {
+    "why": "La masse cellulaire interne du blastocyste forme le bouton embryonnaire : elle donne l'embryon et des annexes (amnios, vésicule vitelline). Le trophoblaste donne cytotrophoblaste, syncytiotrophoblaste et placenta.",
+    "options": {
+      "A": "Faux : elle donne aussi des annexes.",
+      "B": "Faux : le placenta vient du trophoblaste.",
+      "C": "Faux : le syncytiotrophoblaste vient du trophoblaste.",
+      "D": "Vrai : masse interne = bouton embryonnaire.",
+      "E": "Faux : le cytotrophoblaste vient du trophoblaste."
+    }
+  },
+  "f75e0ea1-2a8d-5500-8d31-94558cf28980": {
+    "why": "L'hypoblaste se met en place au début de la 2e semaine à partir du bouton embryonnaire. À la 3e semaine, il est refoulé par l'entoblaste définitif, d'origine épiblastique.",
+    "options": {
+      "A": "Faux : c'est l'entoblaste définitif qui passe par la ligne primitive.",
+      "B": "Vrai si on lit « à la 2e semaine » (le numéro manque dans la source).",
+      "C": "Faux : c'est l'épiblaste qui borde la cavité amniotique.",
+      "D": "Faux : l'entoblaste vient de l'épiblaste, pas de l'hypoblaste.",
+      "E": "Faux : l'allantoïde naît de la paroi de la vésicule vitelline à la 3e semaine."
+    },
+    "draft": "la proposition B a perdu le numéro de la semaine (« à la semaine du développement »)"
+  },
+  "185f98f7-f806-5ea3-9559-a4e65d43f618": {
+    "why": "Le mésenchyme extra-embryonnaire se creuse du cœlome extra-embryonnaire, qui le sépare en somatopleure (qui forme la lame choriale avec le trophoblaste), splanchnopleure (autour de la vésicule vitelline) et pédicule de fixation. Le cœlome est une cavité, pas une partie du mésenchyme.",
+    "options": {
+      "A": "Vrai : la somatopleure extra-embryonnaire forme la lame choriale avec le trophoblaste.",
+      "B": "Faux : le cœlome est la cavité qui le sépare, pas une de ses parties.",
+      "C": "Vrai : elle tapisse la vésicule vitelline.",
+      "D": "Vrai : c'est la partie qui relie le disque au chorion.",
+      "E": "Vrai : elle double le cytotrophoblaste."
+    }
+  },
+  "ada9ee42-e782-5882-9c9a-5e598a689034": {
+    "why": "La 3e semaine est celle de la gastrulation (disque tridermique), de la chorde et des premières ébauches vasculaires ; l'allantoïde apparaît aussi vers J16. La grossesse est entretenue par la progestérone du corps jaune, lui-même maintenu par l'hCG du syncytiotrophoblaste.",
+    "options": {
+      "A": "Faux : à ce stade, la progestérone vient du corps jaune (stimulé par l'hCG du syncytiotrophoblaste).",
+      "B": "Faux : le petit saignement d'implantation se situe à la 2e semaine.",
+      "C": "Vrai : c'est l'événement majeur de la 3e semaine.",
+      "D": "Juste en réalité : l'allantoïde apparaît vers J16, diverticule de la paroi de la vésicule vitelline."
+    },
+    "keyIssue": "l'allantoïde apparaît au cours de la 3e semaine (vers J16), donc D est juste aussi.",
+    "aiKey": "CD"
+  },
+  "f7bfd39e-4d01-525d-8083-babba4130226": {
+    "why": "On cherche la proposition fausse. La villosité tertiaire comporte, de dehors en dedans : syncytiotrophoblaste, cytotrophoblaste, axe de mésenchyme extra-embryonnaire contenant des capillaires fœtaux. Les vaisseaux maternels restent en dehors, dans la chambre intervilleuse.",
+    "options": {
+      "A": "Juste : le cytotrophoblaste est sous le syncytium.",
+      "B": "Juste : c'est l'axe mésenchymateux de la villosité.",
+      "C": "Réponse attendue : le sang maternel baigne la villosité mais n'y pénètre pas.",
+      "D": "Juste : c'est la couche la plus externe."
+    }
+  },
+  "ef274c7d-f484-530b-9665-bc61c006c520": {
+    "why": "La gastrulation commence par la ligne primitive, dans la moitié caudale de la face dorsale (épiblastique) du disque. Les cellules épiblastiques qui migrent forment l'entoblaste définitif puis le mésoblaste.",
+    "options": {
+      "A": "Faux selon le cours : c'est l'apparition de la ligne primitive qui définit les axes et les plans de l'embryon.",
+      "B": "Faux : elle apparaît dans la moitié caudale.",
+      "C": "Vrai : l'épiblaste forme l'entoblaste et le mésoblaste.",
+      "D": "Faux : l'épiblaste est dorsal."
+    }
+  },
+  "a830dde5-e283-511c-b404-06e910d4ae26": {
+    "why": "Le processus chordal naît du nœud de Hensen et progresse vers l'avant, jusqu'à la membrane pharyngienne. Il crée transitoirement le canal neurentérique, puis donne la chorde dorsale, qui organise le squelette axial (vertèbres) en induisant les tissus voisins.",
+    "options": {
+      "A": "Faux : la communication (canal neurentérique) est transitoire.",
+      "B": "Faux : c'est la chorde dorsale.",
+      "C": "Vrai selon le cours : la chorde est l'axe de l'embryon, autour duquel se forment les vertèbres (elle n'en garde que le nucleus pulposus).",
+      "D": "Faux : les cellules migrent vers l'avant (côté céphalique)."
+    }
+  },
+  "2b0f72f9-4892-5568-9067-b22ced30db6d": {
+    "why": "La gastrulation (3e semaine) commence après l'apparition de la ligne primitive : elle met en place les trois feuillets définitifs. Morula et blastocyste sont des stades bien antérieurs, et la délimitation est un phénomène de la 4e semaine.",
+    "options": {
+      "A": "Vrai : la ligne primitive apparaît d'abord.",
+      "B": "Faux selon le cours : elle met en place les feuillets définitifs (primordiaux).",
+      "C": "Faux : la morula est un stade de la 1re semaine.",
+      "D": "Faux : le blastocyste aussi (1re semaine).",
+      "E": "Faux : la délimitation se fait à la 4e semaine."
+    }
+  },
+  "581c1b29-9188-53ee-97c9-f9f2304fe7d5": {
+    "why": "Pendant la gastrulation, des cellules épiblastiques convergent vers la ligne primitive, qui s'épaissit, puis s'invaginent : elles forment d'abord l'entoblaste, ensuite le mésoblaste. La ligne primitive régresse après.",
+    "options": {
+      "A": "Faux : le disque didermique se forme à la 2e semaine.",
+      "B": "Faux : la ligne primitive régresse et disparaît.",
+      "C": "Vrai : les cellules épiblastiques convergent vers elle.",
+      "D": "Faux : l'entoblaste se forme avant le mésoblaste."
+    }
+  },
+  "a92aa1b4-844c-5e08-9fa8-e76b0daf99e5": {
+    "why": "Le nœud de Hensen, fait de cellules épiblastiques, est l'extrémité céphalique de la ligne primitive. Il est le point de départ du processus chordal ; c'est la chorde, et non le nœud lui-même, qui progresse jusqu'à la membrane pharyngienne.",
+    "options": {
+      "A": "Faux : il est à l'extrémité céphalique (crâniale).",
+      "B": "Faux : c'est le processus chordal qui progresse jusqu'à la membrane pharyngienne.",
+      "C": "Faux selon le corrigé : le mésoblaste para-axial vient des cellules qui passent par la partie crâniale de la ligne primitive.",
+      "D": "Vrai : il est formé de cellules épiblastiques."
+    }
+  },
+  "d7d190bf-b456-5203-850b-9f8ae20c0c08": {
+    "why": "L'entoblaste définitif vient de cellules épiblastiques qui migrent par la ligne primitive et remplacent l'hypoblaste. Il se forme avant le mésoblaste et donne l'épithélium du tube digestif et de ses glandes.",
+    "options": {
+      "A": "Faux : il vient de l'épiblaste ; l'hypoblaste est refoulé.",
+      "B": "Faux : les membres viennent du mésoblaste et de l'ectoblaste.",
+      "C": "Vrai : les premières cellules migrantes forment l'entoblaste.",
+      "D": "Faux : la membrane de Heuser vient de l'hypoblaste (2e semaine)."
+    }
+  },
+  "5035a744-0832-5cca-863d-e58d1349f65b": {
+    "why": "La gastrulation se déroule pendant la 3e semaine, après l'apparition de la ligne primitive. Elle met en place les trois feuillets définitifs : ectoblaste, mésoblaste, entoblaste.",
+    "options": {
+      "A": "Faux : hypoblaste et épiblaste existent déjà ; elle met en place ectoblaste, mésoblaste et entoblaste.",
+      "B": "Vrai : 3e semaine.",
+      "C": "Vrai : la ligne primitive apparaît d'abord.",
+      "D": "Faux : la 2e semaine est celle du disque didermique.",
+      "E": "Faux : la 4e semaine est celle de la délimitation."
+    }
+  },
+  "5671cfe2-73f8-5141-bc32-6ab87080b67f": {
+    "why": "La 3e semaine est marquée par la gastrulation, la chorde et les premières ébauches vasculaires (îlots sanguins). Le dosage de l'hCG permet déjà le diagnostic, et la neurulation débute en fin de semaine.",
+    "options": {
+      "A": "Faux : le petit saignement se situe à la 2e semaine.",
+      "B": "Faux : le trophoblaste s'est différencié à la 2e semaine.",
+      "C": "Faux : l'hCG est dosable, le diagnostic est possible.",
+      "D": "Vrai : les îlots vasculo-sanguins apparaissent.",
+      "E": "Faux selon le corrigé : la neurulation ne fait que débuter en fin de 3e semaine ; elle se déroule surtout à la 4e."
+    }
+  },
+  "0086550b-f7a1-51ea-b72e-2a50bb043892": {
+    "why": "Le disque tridermique apparaît pendant la 3e semaine du développement, après la ligne primitive. Ses trois feuillets sont définitifs et donnent l'embryon.",
+    "options": {
+      "A": "Faux : la ligne primitive le précède.",
+      "B": "Faux : c'est la 3e semaine du développement, pas du cycle.",
+      "C": "Faux : ses feuillets sont définitifs.",
+      "D": "Faux : les annexes viennent surtout des structures extra-embryonnaires.",
+      "E": "Vrai : la ligne primitive apparaît d'abord."
+    }
+  },
+  "fb5a7b15-4884-5254-9dcc-8f2c072b7ef0": {
+    "why": "L'épiblaste est à l'origine des trois feuillets définitifs et des amnioblastes. Il forme le plancher (fond) de la cavité amniotique ; le toit de la vésicule vitelline est hypoblastique et l'allantoïde naît de la vésicule vitelline.",
+    "options": {
+      "A": "Vrai : ectoblaste, mésoblaste et entoblaste.",
+      "B": "Faux : c'est l'hypoblaste.",
+      "C": "Vrai : les amnioblastes dérivent de l'épiblaste.",
+      "D": "Faux : l'allantoïde vient de la paroi de la vésicule vitelline.",
+      "E": "Juste en réalité : l'épiblaste forme le fond (plancher) de la cavité amniotique."
+    },
+    "keyIssue": "l'épiblaste forme le fond (plancher) de la cavité amniotique : c'est justement pourquoi le cours compte faux « l'hypoblaste forme le fond de la cavité amniotique ». E est donc juste aussi.",
+    "aiKey": "ACE"
+  },
+  "1a47b7e0-3ce6-52e8-b363-b0899acd856e": {
+    "why": "La chorde naît du nœud de Hensen (processus chordal). C'est un inducteur : elle induit l'ectoblaste sus-jacent à devenir la plaque neurale, et le mésoblaste à former les vertèbres. Le canal neurentérique est transitoire.",
+    "options": {
+      "A": "Faux : elle part du nœud de Hensen, pas de la ligne primitive.",
+      "B": "Faux : la moelle épinière vient du tube neural (neurectoblaste).",
+      "C": "Faux : le squelette axial se forme autour d'elle, à partir des sclérotomes.",
+      "D": "Faux : le canal neurentérique disparaît.",
+      "E": "Vrai : elle induit la plaque neurale."
+    }
+  },
+  "85ad9c72-1734-5a4a-b809-bc931219301a": {
+    "why": "Le disque tridermique comporte l'ectoblaste, le mésoblaste et l'entoblaste. Le cours y distingue aussi le neurectoblaste, partie de l'ectoblaste induite par la chorde ; l'hypoblaste, lui, a été refoulé.",
+    "options": {
+      "A": "Vrai : le feuillet moyen.",
+      "B": "Vrai selon le cours : c'est la partie de l'ectoblaste induite par la chorde.",
+      "C": "Faux : l'hypoblaste est remplacé par l'entoblaste.",
+      "D": "Vrai : le feuillet externe.",
+      "E": "Vrai : le feuillet interne."
+    }
+  },
+  "1fcc48b7-b8f2-5800-ad80-2980e6c1115d": {
+    "why": "La villosité tertiaire comporte le syncytiotrophoblaste, le cytotrophoblaste et un axe mésenchymateux contenant des capillaires fœtaux. Ce mésenchyme est extra-embryonnaire, et les capillaires maternels n'y entrent pas.",
+    "options": {
+      "A": "Vrai : c'est le revêtement externe.",
+      "B": "Faux en réalité : l'axe est fait de mésenchyme extra-embryonnaire.",
+      "C": "Faux : le sang maternel reste dans la chambre intervilleuse.",
+      "D": "Juste en réalité : le cytotrophoblaste double le syncytium (couche de Langhans).",
+      "E": "Vrai : c'est ce qui définit la villosité tertiaire."
+    },
+    "keyIssue": "l'axe de la villosité est fait de mésenchyme extra-embryonnaire, pas intra-embryonnaire (B faux), et le cytotrophoblaste en fait bien partie (D juste), comme le retiennent les autres questions du cours.",
+    "aiKey": "ADE"
+  },
+  "803c700d-c377-5c3e-9aea-c1aea3920acd": {
+    "why": "On cherche la proposition fausse. La villosité tertiaire comporte syncytiotrophoblaste, cytotrophoblaste et un axe de mésenchyme extra-embryonnaire avec des capillaires fœtaux. Les vaisseaux maternels n'en font pas partie.",
+    "options": {
+      "A": "Juste : couche interne du revêtement.",
+      "B": "Juste : c'est l'axe de la villosité.",
+      "C": "Réponse attendue : le sang maternel reste en dehors, dans la chambre intervilleuse.",
+      "D": "Juste : couche externe du revêtement."
+    }
+  },
+  "df726b3e-1d14-5c03-844b-e4fb26df5f4f": {
+    "why": "La ligne primitive apparaît dans la moitié caudale de la face dorsale du disque et définit ses axes. L'épiblaste, dorsal, forme l'entoblaste puis le mésoblaste.",
+    "options": {
+      "A": "Faux selon le cours : c'est la ligne primitive qui définit les axes de l'embryon.",
+      "B": "Faux : elle apparaît dans la moitié caudale.",
+      "C": "Vrai : ce sont des cellules épiblastiques qui forment les deux feuillets.",
+      "D": "Faux : l'épiblaste est dorsal."
+    }
+  },
+  "1961ee14-c125-5d71-b9f6-5ee17e5b3bfe": {
+    "why": "À la 3e semaine se met en place le mésoblaste. C'est aussi le moment du premier retard de règles : l'aménorrhée apparaît. Le pédicule de fixation existe depuis la fin de la 2e semaine, et le cordon se forme plus tard.",
+    "options": {
+      "A": "Vrai : c'est la gastrulation.",
+      "B": "Faux : il apparaît à la fin de la 2e semaine.",
+      "C": "Faux : le cordon se forme à la 4e–5e semaine.",
+      "D": "Vrai : les règles attendues ne surviennent pas."
+    }
+  },
+  "e14410c3-d0fe-50dd-8383-04b586b7010d": {
+    "why": "La villosité tertiaire comporte le syncytiotrophoblaste, le cytotrophoblaste et un axe de mésenchyme extra-embryonnaire avec des capillaires sanguins fœtaux (pas de lymphatiques).",
+    "options": {
+      "A": "Vrai : couche interne du revêtement.",
+      "B": "Faux : le mésenchyme est extra-embryonnaire.",
+      "C": "Faux : la villosité ne contient pas de vaisseaux lymphatiques.",
+      "D": "Vrai : couche externe du revêtement."
+    }
+  },
+  "5c60de97-5a55-514a-9cd7-3beb77b879c8": {
+    "why": "La ligne primitive apparaît dans la moitié caudale de la face dorsale du disque, par convergence de cellules épiblastiques. Celles-ci forment d'abord l'entoblaste, puis le mésoblaste.",
+    "options": {
+      "A": "Faux : ce sont des cellules épiblastiques.",
+      "B": "Vrai : moitié caudale.",
+      "C": "Faux : l'entoblaste se forme avant le mésoblaste.",
+      "D": "Vrai : l'épiblaste est dorsal."
+    }
+  },
+  "3069f60c-1043-5cf1-8e00-22200e89cd20": {
+    "why": "L'entoblaste définitif, d'origine épiblastique, se forme avant le mésoblaste. Il donne l'épithélium du tube digestif (intestin) et de ses glandes.",
+    "options": {
+      "A": "Vrai : les premières cellules migrantes forment l'entoblaste.",
+      "B": "Vrai : il donne l'épithélium intestinal.",
+      "C": "Faux : il dérive de l'épiblaste.",
+      "D": "Faux : les membres viennent du mésoblaste et de l'ectoblaste."
+    }
+  },
+  "394bc5a9-233f-5225-82d5-ac3bc03730d0": {
+    "why": "À la 3e semaine, l'hCG sécrétée par le syncytiotrophoblaste passe dans le sang et les urines : c'est la base des tests de grossesse. Les signes cliniques (nausées…) sont plus tardifs et inconstants, et l'embryon n'est pas encore délimité.",
+    "options": {
+      "A": "Faux : le saignement d'implantation se situe à la 2e semaine.",
+      "B": "Faux selon le corrigé : les signes sympathiques apparaissent plus tard.",
+      "C": "Faux : les vomissements ne touchent pas toutes les femmes.",
+      "D": "Faux : la délimitation se fait à la 4e semaine.",
+      "E": "Vrai : c'est le principe du test urinaire."
+    }
+  },
+  "43d2b1e6-aa72-5483-9c46-557ef622aec0": {
+    "why": "La gastrulation, précédée par la ligne primitive, met en place l'entoblaste définitif et le mésoblaste (l'épiblaste restant devient l'ectoblaste). L'hypoblaste existait déjà et le neurectoblaste est induit plus tard par la chorde.",
+    "options": {
+      "A": "Vrai : la ligne primitive apparaît d'abord.",
+      "B": "Faux : l'hypoblaste apparaît à la 2e semaine.",
+      "C": "Vrai : c'est le feuillet moyen.",
+      "D": "Vrai : c'est le feuillet interne définitif.",
+      "E": "Faux : le neurectoblaste est induit par la chorde (neurulation)."
+    }
+  },
+  "227e6300-f4f4-5c91-9f42-890b7e01ab19": {
+    "why": "Le processus chordal part du nœud de Hensen et progresse vers l'avant (vers le pôle céphalique). Il crée transitoirement le canal neurentérique entre la cavité amniotique et la vésicule vitelline, puis forme la chorde, qui induit l'ectoblaste (plaque neurale).",
+    "options": {
+      "A": "Juste en réalité : le processus chordal naît du nœud de Hensen.",
+      "B": "Faux : le tube digestif vient de l'entoblaste.",
+      "C": "Juste en réalité : les cellules du nœud migrent vers l'avant, côté céphalique.",
+      "D": "Juste en réalité : c'est le canal neurentérique, qui est transitoire.",
+      "E": "Faux : la chorde induit l'ectoblaste (neurectoblaste), pas l'entoblaste."
+    },
+    "keyIssue": "le processus chordal part du nœud de Hensen (A), migre vers le côté céphalique (C) et crée la communication transitoire du canal neurentérique (D) ; il induit l'ectoblaste, pas l'entoblaste, comme le retient la question du même cours « le processus chordal induit la différenciation de l'ectoblaste ».",
+    "aiKey": "ACD"
+  },
+  "bd80d5ec-60ba-506d-9dc6-878f5923fac9": {
+    "why": "La gastrulation se déroule à la 3e semaine (vers J15–J21). La ligne primitive s'épaissit par recrutement de cellules épiblastiques, qui forment d'abord l'entoblaste puis le mésoblaste ; elle régresse et disparaît ensuite.",
+    "options": {
+      "A": "Faux : le disque didermique se forme à la 2e semaine.",
+      "B": "Faux : l'embryon a environ 15 à 21 jours.",
+      "C": "Faux : ce sont des cellules épiblastiques.",
+      "D": "Faux : l'entoblaste est formé en premier.",
+      "E": "Vrai : elle régresse et disparaît."
+    }
+  },
+  "03d555a6-34ce-51ef-b893-6509c03bfe6b": {
+    "why": "Le nœud de Hensen, fait de cellules épiblastiques, est l'extrémité céphalique de la ligne primitive et le point de départ du processus chordal. Les cellules qui passent par la partie crâniale de la ligne primitive donnent le mésoblaste para-axial.",
+    "options": {
+      "A": "Faux : il est formé de cellules épiblastiques (l'ectoblaste n'existe pas encore).",
+      "B": "Faux : c'est l'épiblaste qui est à l'origine des trois feuillets.",
+      "C": "Vrai selon le cours : les cellules qui migrent par sa région donnent le mésoblaste para-axial.",
+      "D": "Faux : c'est la chorde qui progresse jusqu'à la membrane pharyngienne.",
+      "E": "Juste en réalité : le processus chordal part du nœud de Hensen."
+    },
+    "keyIssue": "le processus chordal naît du nœud de Hensen : E est juste aussi.",
+    "aiKey": "CE"
+  },
+  "bdbfcfae-208e-5ed6-bd7e-c6eda813504c": {
+    "why": "L'entoblaste définitif dérive de cellules épiblastiques qui migrent par la ligne primitive. Il se forme avant le mésoblaste et remplace l'hypoblaste.",
+    "options": {
+      "A": "Faux : la membrane de Heuser vient de l'hypoblaste.",
+      "B": "Faux : l'hypoblaste est refoulé.",
+      "C": "Faux : il se forme avant le mésoblaste.",
+      "D": "Vrai : origine épiblastique.",
+      "E": "Faux : les membres viennent du mésoblaste et de l'ectoblaste."
+    }
+  },
+  "491ed3e8-a8a1-5418-9e04-ea02da0d0cc2": {
+    "why": "La chorde, issue du processus chordal, induit l'ectoblaste qui la recouvre : il devient la plaque neurale (neurectoblaste).",
+    "options": {
+      "A": "Faux : l'épiblaste est déjà devenu les trois feuillets.",
+      "B": "Faux : le neurectoblaste est le résultat de l'induction, pas sa cible.",
+      "C": "Faux : l'hypoblaste a été refoulé.",
+      "D": "Vrai : l'ectoblaste devient la plaque neurale.",
+      "E": "Faux selon le corrigé : l'induction principale porte sur l'ectoblaste."
+    }
+  },
+  "16722a7b-3a64-556d-94c0-65a64f454f70": {
+    "why": "L'épiblaste apparaît au début de la 2e semaine et donne les trois feuillets définitifs. Le plafond de la vésicule vitelline est hypoblastique. Le canal neurentérique est créé par le processus chordal.",
+    "options": {
+      "A": "Faux : c'est l'hypoblaste.",
+      "B": "Faux : épiblaste et hypoblaste se séparent à partir du bouton embryonnaire.",
+      "C": "Vrai : ectoblaste, mésoblaste et entoblaste.",
+      "D": "Faux selon le corrigé : le canal neurentérique est creusé par le processus chordal.",
+      "E": "Faux : il apparaît au début de la 2e semaine (vers J8)."
+    }
+  },
+  "5f76acb4-4d00-5976-bf45-5339c48655e0": {
+    "why": "La 4e semaine est celle de la neurulation (fermeture du tube neural), de la délimitation (plicature simultanée dans les plans longitudinal ET transversal) et de la multiplication des somites. Les feuillets définitifs et le pédicule de fixation existent déjà.",
+    "options": {
+      "A": "Faux : la délimitation se fait dans les deux plans à la fois, pas « ou ».",
+      "B": "Faux : les feuillets définitifs sont ectoblaste, mésoblaste et entoblaste (3e semaine).",
+      "C": "Vrai : la fermeture du tube neural se fait à la 4e semaine.",
+      "D": "Faux : il apparaît à la fin de la 2e semaine."
+    }
+  },
+  "42daff41-3518-5339-a95c-973ad1f11f26": {
+    "why": "Les somites naissent de la segmentation du mésoblaste para-axial à partir de J20, à raison de 3 paires par jour environ, jusqu'à 42–44 paires vers J30–35. Chacun se divise en sclérotome (vertèbres) et dermomyotome (derme et muscles).",
+    "options": {
+      "A": "Faux : ils viennent du mésoblaste para-axial ; l'intermédiaire donne l'appareil urinaire.",
+      "B": "Faux : les membres viennent du mésoblaste latéral (somatopleure) et de l'ectoblaste.",
+      "C": "Faux : il y en a au maximum 42 à 44 paires, vers J30–35.",
+      "D": "Vrai : sclérotome et dermomyotome."
+    }
+  },
+  "0a85be3c-0093-5e78-bc60-4a7fa61ffb31": {
+    "why": "Le mésenchyme (mésoblaste) de l'embryon donne les tissus de soutien : os, cartilages, muscles, tissus conjonctifs, sang et vaisseaux. L'épiderme vient de l'ectoblaste et l'épithélium intestinal de l'entoblaste.",
+    "options": {
+      "A": "Vrai : os et muscles sont mésoblastiques.",
+      "B": "Faux : l'épiderme est ectoblastique.",
+      "C": "Faux : l'intestin (son épithélium) vient de l'entoblaste.",
+      "D": "Faux : le pédicule de fixation vient du mésenchyme extra-embryonnaire."
+    }
+  },
+  "fe6b301f-ddae-5878-ae88-172fde3e73cc": {
+    "why": "Les somites naissent du mésoblaste para-axial à partir de J20, jusqu'à 42–44 paires. Chacun se divise en sclérotome et dermomyotome.",
+    "options": {
+      "A": "Faux : ils viennent du mésoblaste para-axial.",
+      "B": "Faux : les membres viennent du mésoblaste latéral et de l'ectoblaste.",
+      "C": "Faux : au maximum 42 à 44 paires.",
+      "D": "Vrai : sclérotome et dermomyotome."
+    }
+  },
+  "ad669ac0-4e00-5d8b-b979-555710b09503": {
+    "why": "La neurulation transforme la plaque neurale (neurectoblaste, donc d'origine ectoblastique) en tube neural, ébauche du système nerveux central. La fermeture commence au centre (région des 4e–6e somites) et progresse vers les deux extrémités.",
+    "options": {
+      "A": "Faux selon le cours : la gouttière n'est qu'une étape ; la neurulation aboutit au tube neural.",
+      "B": "Vrai : le tube neural donne l'encéphale et la moelle épinière.",
+      "C": "Faux : elle commence au centre.",
+      "D": "Juste en réalité : le neurectoblaste fait partie de l'ectoblaste."
+    },
+    "keyIssue": "le tube neural vient du neurectoblaste, partie de l'ectoblaste : c'est bien un cylindre d'origine ectoblastique (le corrigé type d'une autre question du cours le retient d'ailleurs).",
+    "aiKey": "BD"
+  },
+  "f52fbc2e-09c4-5799-81f0-75b7059ab291": {
+    "why": "Les crêtes neurales naissent des bords de la plaque neurale (neurectoblaste, donc ectoblaste). Leurs cellules migrent dans tout l'embryon : neurones et ganglions du système nerveux périphérique, mélanocytes, médullosurrénale… Elles ne donnent pas les ganglions lymphatiques.",
+    "options": {
+      "A": "Faux : elles migrent loin du tube neural.",
+      "B": "Juste en réalité : elles viennent du neurectoblaste, partie de l'ectoblaste.",
+      "C": "Vrai : neurones des ganglions spinaux et du système nerveux autonome.",
+      "D": "Faux : les ganglions lymphatiques sont mésoblastiques."
+    },
+    "keyIssue": "les crêtes neurales viennent du neurectoblaste, qui fait partie de l'ectoblaste (d'autres questions du cours retiennent « d'origine ectoblastique » comme juste).",
+    "aiKey": "BC"
+  },
+  "b5457b4a-193c-51a8-aafa-878e1d5348e8": {
+    "why": "Pour le cours, la neurulation (4e semaine) est la fermeture de la gouttière en tube neural, un cylindre fermé qui donnera à la fois le cerveau et la moelle épinière.",
+    "options": {
+      "A": "Faux : la plaque neurale apparaît avant (3e semaine).",
+      "B": "Faux selon le cours : elle se déroule surtout pendant la 4e semaine.",
+      "C": "Vrai : le tube neural donne l'encéphale et la moelle.",
+      "D": "Faux : les neuropores se ferment vers J25 et J27 ; le tube est finalement fermé aux deux bouts."
+    }
+  },
+  "c024fb70-137a-55d4-a007-376b814d11ec": {
+    "why": "La délimitation (4e semaine) est due à la croissance rapide du disque embryonnaire. L'embryon s'enroule, l'amnios l'entoure complètement, et la vésicule vitelline est étranglée : il en reste le canal vitellin, dans le cordon.",
+    "options": {
+      "A": "Juste en réalité : la cavité amniotique s'étend et enveloppe tout l'embryon.",
+      "B": "Faux : elle se déroule à la 4e semaine.",
+      "C": "Faux : la vésicule vitelline ne grandit pas ; elle est étranglée.",
+      "D": "Vrai : étranglement du lécithocèle secondaire (canal vitellin)."
+    },
+    "keyIssue": "pendant la délimitation, la cavité amniotique s'enroule autour de l'embryon (le corrigé type d'une autre question du cours retient d'ailleurs cette proposition comme juste). A est donc juste aussi.",
+    "aiKey": "AD"
+  },
+  "883471ef-f499-51e1-b579-f7df804a5d93": {
+    "why": "Les somites donnent le sclérotome (vertèbres, côtes), le myotome (muscles squelettiques) et le dermatome (derme, tissu conjonctif). L'ébauche des membres vient du mésoblaste latéral et de l'ectoblaste.",
+    "options": {
+      "A": "Dérive des somites : le dermatome donne le derme et du tissu conjonctif.",
+      "B": "Dérive des somites : le sclérotome donne les vertèbres.",
+      "C": "Réponse attendue : les membres viennent du mésoblaste latéral (somatopleure).",
+      "D": "Dérive des somites : le myotome donne les muscles."
+    }
+  },
+  "30c77adf-83d3-5b2a-b29c-4d78a1063922": {
+    "why": "La 1re paire de somites apparaît vers J20, puis environ 3 paires par jour : 4 à 7 paires vers J21, 7 à 10 vers J22, 26 à 29 vers J28.",
+    "options": {
+      "A": "Vrai : 7 paires correspondent à J21–J22.",
+      "B": "Faux : vers J24, on compte 13 à 17 paires.",
+      "C": "Faux : vers J26, on compte 20 à 23 paires.",
+      "D": "Faux : vers J28, on compte 26 à 29 paires."
+    }
+  },
+  "908dd46c-2869-5fef-b16a-ec5651355584": {
+    "why": "Le tube neural vient du neurectoblaste (ectoblaste) par soulèvement et fusion des bourrelets neuraux. La fermeture part du centre et progresse vers les deux extrémités. Il donne le système nerveux central (cerveau et moelle).",
+    "options": {
+      "A": "Juste en réalité : il vient du neurectoblaste, partie de l'ectoblaste.",
+      "B": "Faux : le canal neurentérique est une communication transitoire liée au processus chordal.",
+      "C": "Faux : ce sont les bourrelets neuraux qui se soulèvent et fusionnent ; l'enroulement de l'embryon est la délimitation.",
+      "D": "Faux : elle se fait du centre vers les extrémités.",
+      "E": "Vrai : sa partie céphalique donne l'encéphale."
+    },
+    "keyIssue": "le tube neural dérive du neurectoblaste, qui fait partie de l'ectoblaste (le corrigé type d'une autre question du cours retient « cylindre d'origine ectoblastique »). A est donc juste aussi.",
+    "aiKey": "AE"
+  },
+  "a5290636-8ad5-5ffd-a35a-56b2d9b1298f": {
+    "why": "À la 4e semaine (6 semaines d'aménorrhée), la délimitation étrangle la vésicule vitelline et le cordon ombilical commence à se former. L'hCG est élevée : le test est positif, et les signes de grossesse s'installent.",
+    "options": {
+      "A": "Faux : elle est étranglée par la délimitation.",
+      "B": "Faux selon le cours : la plicature se fait dans les deux plans à la fois.",
+      "C": "Faux : l'hCG est largement détectable, le test est positif.",
+      "D": "Faux : les signes de grossesse s'installent, ils ne s'atténuent pas.",
+      "E": "Vrai : pédicule de fixation et canal vitellin se rassemblent en cordon."
+    }
+  },
+  "fe3ef6af-7ad4-517c-83fb-bcb76bd18899": {
+    "why": "Pour le cours, la neurulation se déroule à la 4e semaine. Elle aboutit à un tube neural complètement fermé (formation cylindrique), qui donne le système nerveux central ; les crêtes neurales formées en même temps donnent le système nerveux périphérique.",
+    "options": {
+      "A": "Faux : le tube se ferme complètement (neuropores fermés vers J25–J27).",
+      "B": "Vrai : c'est le tube neural.",
+      "C": "Faux : les crêtes neurales donnent aussi le système nerveux périphérique.",
+      "D": "Faux selon le cours : elle se déroule à la 4e semaine.",
+      "E": "Vrai : c'est la semaine de fermeture du tube neural."
+    }
+  },
+  "80b79f64-1201-53eb-a5fb-12fdabaf5bc5": {
+    "why": "Le mésoblaste donne les reins (mésoblaste intermédiaire), les muscles, les os, le sang et les tissus conjonctifs. La moelle épinière et l'épiderme sont ectoblastiques, et les ganglions rachidiens viennent des crêtes neurales.",
+    "options": {
+      "A": "Vrai : mésoblaste intermédiaire.",
+      "B": "Vrai : muscles squelettiques (somites) et lisses (mésoblaste latéral).",
+      "C": "Faux : elle vient du tube neural.",
+      "D": "Faux : ils viennent des crêtes neurales.",
+      "E": "Faux : l'épiderme est ectoblastique."
+    }
+  },
+  "6588dd8f-6557-5f27-9924-1e51236c144c": {
+    "why": "Le mésoblaste para-axial se segmente en somites, dont le nombre permet de dater l'embryon. Chaque somite donne sclérotome et dermomyotome. Les reins viennent du mésoblaste intermédiaire ; les muscles lisses et les membres, du mésoblaste latéral.",
+    "options": {
+      "A": "Faux : le rein vient du mésoblaste intermédiaire.",
+      "B": "Faux : les muscles lisses viennent de la splanchnopleure (mésoblaste latéral).",
+      "C": "Vrai : on date l'embryon par le nombre de paires de somites.",
+      "D": "Faux : il donne aussi le sclérotome.",
+      "E": "Faux : les membres viennent du mésoblaste latéral."
+    }
+  },
+  "cbc19bb0-92f0-567f-b843-94179dd86ba4": {
+    "why": "Le cours définit la neurulation comme la fermeture (« suture ») du tube neural, à la 4e semaine.",
+    "options": {
+      "A": "Défendable : la fermeture commence vers J22, au début de la 4e semaine.",
+      "B": "Défendable : la neurulation fait justement apparaître le tube neural.",
+      "C": "Vrai : c'est la définition retenue par le cours.",
+      "D": "Défendable : les crêtes neurales s'individualisent pendant la fermeture.",
+      "E": "Défendable si A, B et D sont acceptés."
+    },
+    "draft": "question ambiguë : A, B et D sont aussi défendables, donc E aussi"
+  },
+  "400c63e1-384e-5e0b-b5b5-42a13a53bdd3": {
+    "why": "La délimitation enroule l'embryon dans l'amnios, étrangle la vésicule vitelline secondaire et fait apparaître le cordon ombilical. L'expansion de l'amnios fait peu à peu disparaître le cœlome extra-embryonnaire. Les trois feuillets existent déjà depuis la 3e semaine.",
+    "options": {
+      "A": "Faux : c'est la vésicule secondaire (lécithocèle secondaire) qui est étranglée.",
+      "B": "Vrai : l'amnios, en s'étendant, comble le cœlome extra-embryonnaire.",
+      "C": "Vrai : le cordon se forme.",
+      "D": "Faux : les feuillets se mettent en place à la 3e semaine.",
+      "E": "Faux : l'épiblaste s'est différencié à la 3e semaine."
+    }
+  },
+  "41fc6ebb-1040-5e90-9d6b-e91273813e36": {
+    "why": "Le mésoblaste latéral se clive en somatopleure et splanchnopleure intra-embryonnaires. La somatopleure forme notamment l'ébauche des membres. Les somites viennent du para-axial et les voies urinaires de l'intermédiaire.",
+    "options": {
+      "A": "Faux : c'est le mésoblaste para-axial qui forme les somites.",
+      "B": "Faux : il comporte la somatopleure intra-embryonnaire.",
+      "C": "Vrai : feuillet viscéral du mésoblaste latéral.",
+      "D": "Vrai : les membres viennent de la somatopleure intra-embryonnaire.",
+      "E": "Faux : c'est le mésoblaste intermédiaire."
+    }
+  },
+  "2527a6e7-4073-5d56-9e4d-841789eecdc5": {
+    "why": "La délimitation est due à la croissance rapide du disque embryonnaire, pas de la vésicule vitelline. En enroulant l'embryon, elle fait recouvrir toute sa surface par l'ectoblaste (futur épiderme), et l'expansion de l'amnios fait disparaître le cœlome extra-embryonnaire.",
+    "options": {
+      "A": "Faux : c'est la croissance du disque (tube neural, somites) qui plicature l'embryon.",
+      "B": "Juste en réalité : l'amnios, qui s'étend avec la délimitation, comble le cœlome extra-embryonnaire.",
+      "C": "Faux selon le corrigé : le pédicule (de fixation) existe depuis la 2e semaine ; la délimitation forme le cordon.",
+      "D": "Vrai : l'ectoblaste recouvre tout l'embryon et donne l'épiderme.",
+      "E": "Faux : la métamérisation (somites) n'est pas causée par la délimitation."
+    },
+    "keyIssue": "la délimitation entraîne la disparition progressive du cœlome extra-embryonnaire (le corrigé type d'une autre question du cours la retient d'ailleurs comme conséquence de la délimitation). B est donc juste aussi.",
+    "aiKey": "BD"
+  },
+  "1262390e-7c8a-5fb6-b39d-5799afe9fb43": {
+    "why": "On cherche l'exception. Le mésoblaste donne reins, muscles, os et tissus conjonctifs ; le foie (hépatocytes) vient de l'entoblaste.",
+    "options": {
+      "A": "Dérive du mésoblaste (intermédiaire).",
+      "B": "Dérive du mésoblaste.",
+      "C": "Dérive du mésoblaste (sclérotome, mésenchyme).",
+      "D": "Réponse attendue : le foie est entoblastique.",
+      "E": "Dérive du mésoblaste."
+    }
+  },
+  "0b0a57a1-6243-5759-a9a0-4ec8736cd082": {
+    "why": "À la 4e semaine se déroulent la neurulation et la délimitation (dans les deux plans à la fois), et de nombreux somites apparaissent. L'allantoïde est apparue à la 3e semaine.",
+    "options": {
+      "A": "Faux : la délimitation se fait dans les deux plans à la fois, pas « ou ».",
+      "B": "Vrai : ils apparaissent dès J20 et se multiplient pendant la 4e semaine.",
+      "C": "Faux : l'allantoïde apparaît vers J16 (3e semaine).",
+      "D": "Vrai : fermeture du tube neural."
+    }
+  },
+  "24f5aac1-a11d-581e-a858-c3e2ceb48e89": {
+    "why": "Les crêtes neurales naissent des bords de la plaque neurale (bourrelets neuraux), migrent dans tout l'embryon, et donnent notamment les neurones du système nerveux périphérique et les ganglions rachidiens (pas les ganglions lymphatiques).",
+    "options": {
+      "A": "Faux selon le corrigé : elles naissent des bords de la plaque neurale (bourrelets), pas du tube déjà formé.",
+      "B": "Faux : elles migrent.",
+      "C": "Vrai : neurones du système nerveux périphérique.",
+      "D": "Faux : les ganglions rachidiens oui, mais pas les ganglions lymphatiques."
+    }
+  },
+  "bf72aa0b-6665-51c1-996b-d8cd1223c607": {
+    "why": "La neurulation correspond à la fermeture du tube neural, cylindre d'origine ectoblastique (neurectoblaste) qui donne le système nerveux central. La fermeture part du centre.",
+    "options": {
+      "A": "Faux : le tube neural donne le système nerveux central.",
+      "B": "Vrai : c'est la fermeture du tube neural.",
+      "C": "Faux : elle commence au centre.",
+      "D": "Vrai : neurectoblaste, donc ectoblaste."
+    }
+  },
+  "a37f7d41-39cf-5105-9b2b-aa5bdbee737c": {
+    "why": "La fermeture du tube neural commence au centre (région des 4e–6e somites) et progresse en même temps vers le haut et vers le bas ; le neuropore antérieur se ferme vers J25, le postérieur vers J27.",
+    "options": {
+      "A": "Vrai : du centre vers les deux extrémités.",
+      "B": "Faux : les deux directions progressent en même temps, pas l'une puis l'autre.",
+      "C": "Faux : même remarque.",
+      "D": "Faux : elle commence au centre.",
+      "E": "Faux : elle commence au centre."
+    }
+  },
+  "955f38b1-a864-5c85-bf70-b37257cd1cf9": {
+    "why": "Les crêtes neurales naissent des bords latéraux de la plaque neurale (neurectoblaste, donc ectoblaste). Leurs cellules migrent et donnent le système nerveux périphérique, les mélanocytes, la médullosurrénale… mais pas le système nerveux central ni les ganglions lymphatiques.",
+    "options": {
+      "A": "Juste en réalité : elles naissent des bords latéraux de la plaque neurale (bourrelets neuraux).",
+      "B": "Faux : elles migrent.",
+      "C": "Vrai : origine ectoblastique (neurectoblaste).",
+      "D": "Faux : elles donnent le système nerveux périphérique.",
+      "E": "Faux : les ganglions lymphatiques sont mésoblastiques."
+    },
+    "keyIssue": "les cellules des crêtes neurales naissent des bords latéraux de la plaque neurale (bourrelets neuraux) : c'est la définition classique. A est donc juste aussi.",
+    "aiKey": "AC"
+  },
+  "25e573c1-a285-53b6-88d6-6341f8cd2085": {
+    "why": "Chaque somite se divise en sclérotome (vertèbres) et dermomyotome, lui-même divisé en dermatome (derme) et myotome (muscles). Le néphrotome n'appartient pas au somite : c'est le mésoblaste intermédiaire.",
+    "options": {
+      "A": "Vrai : partie ventro-médiane du somite.",
+      "B": "Faux : le néphrotome vient du mésoblaste intermédiaire.",
+      "C": "Vrai : il donne le derme.",
+      "D": "Vrai : il donne les muscles squelettiques.",
+      "E": "Faux : B est faux."
+    },
+    "keyIssue": "le néphrotome vient du mésoblaste intermédiaire, pas des somites ; les somites se divisent en sclérotome, dermatome et myotome.",
+    "aiKey": "ACD"
+  },
+  "3b2cf82a-abf3-531e-b7b3-427eaed87642": {
+    "why": "La délimitation se fait dans les plans transversal et sagittal (longitudinal), à cause de la croissance rapide du disque. Elle étrangle la vésicule vitelline secondaire et fait apparaître l'ébauche du cordon, pendant que l'expansion de l'amnios réduit le cœlome extra-embryonnaire.",
+    "options": {
+      "A": "Juste en réalité : elle se fait dans les deux plans à la fois.",
+      "B": "Faux : elle est due à la croissance du disque embryonnaire.",
+      "C": "Juste en réalité : le cordon ombilical s'ébauche (le cours le retient ailleurs comme conséquence de la délimitation).",
+      "D": "Juste en réalité : étranglement du lécithocèle secondaire (canal vitellin).",
+      "E": "Faux en réalité : l'expansion de l'amnios réduit puis fait disparaître le cœlome extra-embryonnaire."
+    },
+    "keyIssue": "la délimitation se fait dans les plans transversal et sagittal (A), fait apparaître le cordon (C) et étrangle le lécithocèle secondaire (D) ; elle réduit le cœlome extra-embryonnaire au lieu de l'agrandir (E faux). Les autres questions du cours retiennent d'ailleurs C, D et la disparition du cœlome.",
+    "aiKey": "ACD"
+  },
+  "ad851d10-2e20-56b2-8ed3-8701eb89e573": {
+    "why": "Le bourgeon de membre est formé d'un axe de mésoblaste venant de la somatopleure intra-embryonnaire (mésoblaste latéral), recouvert d'ectoblaste. Ses muscles viennent des myotomes. L'entoblaste et la splanchnopleure n'y participent pas.",
+    "options": {
+      "A": "Juste en réalité : l'axe du bourgeon vient de la somatopleure intra-embryonnaire.",
+      "B": "Faux : l'entoblaste donne l'épithélium digestif et respiratoire.",
+      "C": "Juste en réalité : l'axe du membre est mésoblastique.",
+      "D": "Juste en réalité : l'ectoblaste recouvre le bourgeon (crête apicale).",
+      "E": "Faux : la splanchnopleure entoure les viscères."
+    },
+    "keyIssue": "les membres se forment à partir de la somatopleure intra-embryonnaire (mésoblaste) recouverte d'ectoblaste ; l'entoblaste et la splanchnopleure n'y participent pas (le cours dit ailleurs que l'entoblaste n'est pas à l'origine des membres).",
+    "aiKey": "ACD"
+  },
+  "dec8a2eb-0a21-5cbc-abcc-ed96c3cdda23": {
+    "why": "L'entoblaste définitif est formé par des cellules épiblastiques qui migrent par la ligne primitive, avant le mésoblaste. Il donne l'épithélium digestif et respiratoire ; les reins sont mésoblastiques.",
+    "options": {
+      "A": "Faux en réalité : les reins viennent du mésoblaste intermédiaire.",
+      "B": "Vrai : il se forme en premier.",
+      "C": "Faux : l'hypoblaste est refoulé.",
+      "D": "Vrai : ses cellules passent par la ligne primitive.",
+      "E": "Faux selon le corrigé : le nœud de Hensen est surtout le point de départ du processus chordal."
+    },
+    "keyIssue": "les reins viennent du mésoblaste intermédiaire, pas de l'entoblaste (le cours classe d'ailleurs les reins parmi les dérivés du mésoblaste). A est donc faux.",
+    "aiKey": "BD"
+  },
+  "ce4f7dbc-d25a-5ba1-ace6-7c5f030024b8": {
+    "why": "On cherche l'exception. Muscles, reins, moelle osseuse hématopoïétique et os de la colonne sont mésoblastiques ; l'épiderme vient de l'ectoblaste.",
+    "options": {
+      "A": "Dérive du mésoblaste.",
+      "B": "Dérive du mésoblaste intermédiaire.",
+      "C": "Dérive du mésoblaste.",
+      "D": "Réponse attendue : l'épiderme est ectoblastique.",
+      "E": "Dérive du mésoblaste (sclérotome)."
+    }
+  },
+  "8137fb23-2447-54f5-a8a3-752cff975559": {
+    "why": "La délimitation se fait à la 4e semaine : la cavité amniotique s'enroule autour de l'embryon et la vésicule vitelline est étranglée. Le tube neural reste cylindrique.",
+    "options": {
+      "A": "Vrai : l'amnios entoure tout l'embryon.",
+      "B": "Vrai : 4e semaine.",
+      "C": "Faux : la vésicule vitelline est étranglée, elle ne grandit pas.",
+      "D": "Faux : c'est la vésicule vitelline qui est étranglée, pas la cavité amniotique.",
+      "E": "Faux : la délimitation ne donne pas une forme rectangulaire au tube neural."
+    }
+  },
+  "9eaa0543-00d3-5bdb-b550-759a8d7891b6": {
+    "why": "La neurulation est, pour le cours, la fermeture de la gouttière neurale à la 4e semaine. Elle commence au centre et aboutit à un cylindre fermé qui donne l'encéphale et la moelle.",
+    "options": {
+      "A": "Faux : la plaque neurale apparaît avant.",
+      "B": "Faux selon le cours : elle se déroule à la 4e semaine.",
+      "C": "Faux : la fusion commence au centre et progresse vers les extrémités.",
+      "D": "Vrai : encéphale et moelle épinière.",
+      "E": "Vrai : une fois les neuropores fermés, le tube est clos aux deux extrémités."
+    }
+  },
+  "329fd911-0cea-5a80-8f0e-eb31d101a0cd": {
+    "why": "Les crêtes neurales naissent des bords de la plaque neurale (neurectoblaste). Leurs cellules migrent et donnent les cellules du système nerveux périphérique (neurones, cellules de Schwann), mais pas les ganglions lymphatiques.",
+    "options": {
+      "A": "Faux : elles naissent des bords de la plaque neurale, pas de l'épiblaste.",
+      "B": "Faux : elles migrent.",
+      "C": "Vrai : origine neurectoblastique.",
+      "D": "Vrai : neurones, cellules gliales périphériques.",
+      "E": "Faux : les ganglions lymphatiques sont mésoblastiques."
+    }
+  },
+  "bc45358c-8f8d-545f-8d08-3de906f7a4ff": {
+    "why": "Pendant la délimitation, l'amnios engaine le pédicule de fixation (mésenchyme extra-embryonnaire, vaisseaux ombilicaux), le canal vitellin et l'allantoïde : c'est le cordon ombilical. Son mésenchyme, la gelée de Wharton, est extra-embryonnaire.",
+    "options": {
+      "A": "Vrai : l'amnios recouvre le cordon.",
+      "B": "Vrai : le canal vitellin est englobé dans le cordon.",
+      "C": "Faux : le mésenchyme du cordon est extra-embryonnaire.",
+      "D": "Vrai : il apporte l'axe mésenchymateux et les vaisseaux.",
+      "E": "Vrai : l'allantoïde est incluse dans le pédicule."
+    }
+  },
+  "d101b051-74b4-565e-b08f-1446954466e3": {
+    "why": "Le placenta (syncytiotrophoblaste) sécrète l'hCG, l'hCS (hormone chorionique somatomammotrope), la progestérone, les œstrogènes, et aussi l'inhibine A.",
+    "options": {
+      "A": "Sécrétée par le placenta, qui relaie le corps jaune vers 8–10 semaines.",
+      "B": "Sécrétés par le placenta, à partir des androgènes fœtaux.",
+      "C": "Sécrétée par le syncytiotrophoblaste dès l'implantation.",
+      "D": "Sécrétée par le placenta (hormone lactogène placentaire).",
+      "E": "Le placenta sécrète aussi l'inhibine A (une autre question du même cours la retient d'ailleurs parmi ses hormones)."
+    },
+    "draft": "le placenta sécrète les cinq hormones (y compris l'inhibine A, que le cours retient ailleurs) : aucune réponse ne convient"
+  },
+  "6125ee46-c4e7-5480-ac35-4968c2a1b035": {
+    "why": "Le placenta se forme au pôle d'implantation, là où les villosités sont en contact avec la caduque basilaire. La caduque ovulaire recouvre l'œuf du côté de la cavité, et la caduque pariétale tapisse le reste de l'utérus.",
+    "options": {
+      "A": "Faux : la caduque pariétale tapisse le reste de la cavité utérine.",
+      "B": "Faux : en regard de la caduque ovulaire, les villosités régressent (chorion lisse).",
+      "C": "Vrai : c'est la partie maternelle du placenta.",
+      "D": "Faux : seulement la caduque basilaire.",
+      "E": "Faux : aucune des deux n'est en contact avec le placenta."
+    }
+  },
+  "191386cf-d7b5-576e-9901-633d1070a493": {
+    "why": "Le placenta prævia s'insère en partie ou en totalité sur le segment inférieur de l'utérus, près de l'orifice interne du col ou sur lui. Une implantation dans le col lui-même serait une grossesse cervicale.",
+    "options": {
+      "A": "Faux : ce serait une grossesse tubaire.",
+      "B": "Faux : ce serait une grossesse ovarienne.",
+      "C": "Faux : proposition sans sens.",
+      "D": "Faux : il est sur le segment inférieur, pas dans le col (grossesse cervicale).",
+      "E": "Vrai : il s'insère près du col, sur le segment inférieur."
+    }
+  },
+  "e1de23db-3972-5194-8bc8-54db993656fd": {
+    "why": "Le cordon est formé par l'amnios qui engaine le pédicule de fixation (mésenchyme extra-embryonnaire), le canal (cordon) vitellin et l'allantoïde.",
+    "options": {
+      "A": "Faux : le syncytiotrophoblaste appartient au placenta.",
+      "B": "Vrai : c'est la gelée de Wharton.",
+      "C": "Vrai : l'amnios recouvre le cordon.",
+      "D": "Faux : l'hypoblaste ne participe pas au cordon.",
+      "E": "Vrai : le canal vitellin y est englobé."
+    }
+  },
+  "991ced55-ad91-5782-b58e-5287cff5c4b3": {
+    "why": "La villosité tertiaire comprend le syncytiotrophoblaste, le cytotrophoblaste et un axe de mésenchyme extra-embryonnaire contenant des vaisseaux fœtaux.",
+    "options": {
+      "A": "Présent : couche interne du revêtement.",
+      "B": "Réponse attendue : le mésenchyme est extra-embryonnaire.",
+      "C": "Présents : ils définissent la villosité tertiaire.",
+      "D": "Présent : couche externe du revêtement."
+    }
+  },
+  "fc5ae670-9998-52a1-a37f-792227538f0a": {
+    "why": "Les jumeaux monozygotes (homozygotes) viennent d'un seul zygote : ils ont le même sexe. Selon le moment de la séparation, ils ont un seul placenta (séparation après J3, cas le plus fréquent) ou deux placentas (séparation dans les 3 premiers jours, environ un tiers des cas).",
+    "options": {
+      "A": "Faux : ils ont le même génome, donc le même sexe.",
+      "B": "Vrai : les jumeaux monochoriaux partagent un placenta.",
+      "C": "Pas toujours : séparés tôt, ils forment deux blastocystes qui peuvent s'implanter à des endroits différents.",
+      "D": "Juste en réalité : séparés dans les 3 premiers jours, ils ont deux chorions et deux placentas.",
+      "E": "Faux : ils proviennent d'un seul zygote."
+    },
+    "keyIssue": "environ un tiers des jumeaux monozygotes se séparent avant J3 : ils ont alors deux chorions et deux placentas (D juste), parfois implantés à des endroits différents (C pas toujours vrai).",
+    "aiKey": "BD"
+  },
+  "08ad7391-2dc7-5b6a-b2e4-cf1199bb5fce": {
+    "why": "Le placenta est au contact de la caduque basilaire, qui en forme la partie maternelle.",
+    "options": {
+      "A": "Faux : la caduque pariétale tapisse le reste de l'utérus.",
+      "B": "Faux : seulement la basilaire.",
+      "C": "Vrai : partie maternelle du placenta.",
+      "D": "Faux : la caduque ovulaire recouvre l'œuf côté cavité.",
+      "E": "Faux : seulement la basilaire."
+    }
+  },
+  "3b7ecd94-f6e2-548c-ab38-5349c06548b1": {
+    "why": "On cherche l'élément qui ne participe pas au cordon. L'amnios engaine le pédicule de fixation, le canal vitellin et l'allantoïde ; le mésenchyme du cordon est extra-embryonnaire.",
+    "options": {
+      "A": "Participe : il recouvre le cordon.",
+      "B": "Participe : il est englobé dans le cordon.",
+      "C": "Ne participe pas : le mésenchyme du cordon (gelée de Wharton) est extra-embryonnaire.",
+      "D": "Participe : il apporte l'axe et les vaisseaux.",
+      "E": "Participe : l'allantoïde est incluse dans le pédicule de fixation."
+    },
+    "keyIssue": "l'allantoïde participe bien au cordon (les autres questions du même cours la comptent parmi ses éléments) ; c'est le mésenchyme intra-embryonnaire qui n'y participe pas.",
+    "aiKey": "C"
+  },
+  "7e21df1b-a73e-5fe0-996b-17eba2eea0ee": {
+    "why": "Le placenta sécrète l'hCG, l'hCS, la progestérone (il relaie le corps jaune vers 8–10 semaines), les œstrogènes et l'inhibine A. La LH est hypophysaire.",
+    "options": {
+      "A": "Juste en réalité : le placenta devient la source principale de progestérone.",
+      "B": "Faux : la LH est sécrétée par l'hypophyse.",
+      "C": "Vrai : sécrétée par le syncytiotrophoblaste.",
+      "D": "Juste en réalité : l'hCS (hormone lactogène placentaire) est placentaire.",
+      "E": "Vrai : le placenta sécrète l'inhibine A."
+    },
+    "keyIssue": "le placenta sécrète aussi la progestérone (il relaie le corps jaune vers 8–10 semaines) et l'hCS, hormone placentaire par définition ; seule la LH n'est pas placentaire.",
+    "aiKey": "ACDE"
+  },
+  "d9ed651e-9862-503e-8d8b-18d314e33b5a": {
+    "why": "Le cordon est formé par l'amnios qui engaine le pédicule embryonnaire (de fixation), le canal vitellin et l'allantoïde. Son mésenchyme est extra-embryonnaire.",
+    "options": {
+      "A": "Vrai : l'amnios recouvre le cordon.",
+      "B": "Vrai : l'allantoïde est incluse dans le pédicule.",
+      "C": "Vrai : le canal vitellin est englobé.",
+      "D": "Faux : le mésenchyme du cordon est extra-embryonnaire.",
+      "E": "Vrai : il forme l'axe du cordon."
+    }
   }
 }

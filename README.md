@@ -8,7 +8,7 @@ Study platform for 1st/2nd-year Medicine, Dentistry and Pharmacy students at UMM
 | | |
 | --- | --- |
 | 🎯 **Onboarding** | Pick major (Médecine / Dentaire / Pharmacie) and year (L1 / L2) → tailored dashboard |
-| ✅ **QCM par cours** | Module → unit → course, instant correction, explanation per proposition, bookmarks, error reports, keyboard shortcuts — **807 real UMMTO QCMs** (Embryologie, Anatomie S2, Histologie, Physiologie) |
+| ✅ **QCM par cours** | Module → unit → course, instant correction, explanation per proposition, bookmarks, error reports, keyboard shortcuts — **797 real UMMTO QCMs** (Embryologie, Anatomie S2, Histologie, Physiologie) with AI explanations that follow the corrigé type and flag doubtful keys |
 | ⏱️ **Examen blanc** | Timed, module-balanced random paper, autosave, flags, auto hand-in, mark /20, per-module analytics, full correction |
 | 🧠 **Flashcards (FSRS)** | Schema + Anki-grade scheduler ready (`src/lib/srs`); review UI in the next phase |
 | 📄 **Résumés** | Schema, moderation flow and private storage ready; reader/upload UI in the next phase |

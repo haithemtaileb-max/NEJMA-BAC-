@@ -54,7 +54,7 @@ describe('starter content', () => {
 
   it('imports the UMMTO banks, keeping unsafe questions as explained drafts', () => {
     const published = IMPORTED_QCMS.filter((q) => q.status === 'published');
-    expect(published.length).toBeGreaterThan(800);
+    expect(published.length).toBeGreaterThan(780);
     for (const q of IMPORTED_QCMS) {
       expect(q.stem.length, q.id).toBeGreaterThan(3);
       if (q.status === 'draft') {
@@ -63,7 +63,7 @@ describe('starter content', () => {
       } else {
         // Published imports state their source; an explanation, if any, is labelled as AI-written.
         expect(q.source, q.id).toMatch(/^UMMTO/);
-        expect(q.tags.filter((t) => t !== 'explication:ia'), q.id).toEqual(['import:ummto-2023-24']);
+        expect(q.tags.filter((t) => t !== 'explication:ia' && t !== 'corrige-discutable'), q.id).toEqual(['import:ummto-2023-24']);
         if (q.explanation) expect(q.explanation, q.id).toMatch(/Explication rédigée par IA/);
       }
     }
@@ -78,7 +78,7 @@ describe('starter content', () => {
       for (const label of Object.keys(ai.options)) {
         expect(q!.options.some((o) => o.label === label), `${id} option ${label}`).toBe(true);
       }
-      if (ai.keyIssue) expect(q!.status, id).toBe('draft');
+      if (ai.keyIssue && q!.status === 'published') expect(q!.explanation, id).toMatch(/^⚠️ Le corrigé type retient/);
     }
   });
 

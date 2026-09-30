@@ -55,13 +55,17 @@ const FILES: ImportedFile[] = [embryologie, anatomieS2, histologie, physiologie]
 
 /**
  * AI-written explanations, keyed by question id: why each proposition is right
- * or wrong. Writing them also re-checks the corrigé type: when the printed key
- * contradicts the course (`keyIssue`), the question goes back to drafts.
+ * or wrong. Grading always follows the corrigé type; when the AI thinks the
+ * printed key is wrong, `aiKey` + `keyIssue` show a warning to the student:
+ * « le corrigé type retient X, mais la bonne réponse est Y, parce que… ».
  */
 export interface AiExplanation {
   why: string;
   options: Partial<Record<OptionLabel, string>>;
   keyIssue?: string;
+  aiKey?: string;
+  /** Set when the question cannot be shown as-is (needs a picture, garbled options…): back to drafts. */
+  draft?: string;
 }
 
 export const AI_EXPLANATIONS: Record<string, AiExplanation> = { ...embryologieExplanations };
@@ -101,13 +105,15 @@ function toSampleQcm(file: ImportedFile, q: ImportedQuestion): SampleQcm {
   const key = q.key ?? '';
   const id = stableId(['ummto-2023-24', file.module, q.course, q.label ?? '', String(q.n), q.stem, ...q.options.map((o) => o.body)]);
   const ai = AI_EXPLANATIONS[id];
-  const issues = ai?.keyIssue ? [...q.issues, 'cle-douteuse'] : q.issues;
-  const status = q.status === 'published' && !ai?.keyIssue ? 'published' : 'draft';
+  const status = q.status === 'published' && !ai?.draft ? 'published' : 'draft';
+  const warning = ai?.keyIssue
+    ? `⚠️ Le corrigé type retient ${[...key].join(', ')}, mais la bonne réponse est ${[...(ai.aiKey ?? '')].join(', ') || 'différente'} : ${ai.keyIssue} `
+    : '';
   const explanation =
     status === 'draft'
-      ? [q.status === 'draft' ? draftNote(q) : `[À revoir avant publication — clé douteuse.] ${ai?.keyIssue}`, ai?.why].filter(Boolean).join(' ')
+      ? [ai?.draft ? `[À revoir avant publication — ${ai.draft}]` : draftNote(q), ai?.why].filter(Boolean).join(' ')
       : ai
-        ? ai.why + AI_NOTE
+        ? warning + ai.why + AI_NOTE
         : null;
   return {
     id,
@@ -119,7 +125,13 @@ function toSampleQcm(file: ImportedFile, q: ImportedQuestion): SampleQcm {
     difficulty: null,
     source: q.label ? `UMMTO · ${q.label}` : 'UMMTO',
     examYear: q.examYear,
-    tags: ['import:ummto-2023-24', ...(ai ? ['explication:ia'] : []), ...issues.map((i) => `a-revoir:${i}`)],
+    tags: [
+      'import:ummto-2023-24',
+      ...(ai ? ['explication:ia'] : []),
+      ...(ai?.keyIssue ? ['corrige-discutable'] : []),
+      ...q.issues.map((i) => `a-revoir:${i}`),
+      ...(ai?.draft ? ['a-revoir:signale-par-ia'] : []),
+    ],
     status,
     options: q.options
       .filter((o): o is { label: OptionLabel; body: string } => (OPTION_LABELS as readonly string[]).includes(o.label))
