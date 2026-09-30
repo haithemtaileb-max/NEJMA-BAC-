@@ -11,7 +11,7 @@ Phases are ordered by value to students. Each phase is shippable on its own.
 - [x] Demo mode: runs without Supabase on bundled sample content
 - [x] Starter UMMTO curriculum (6 tracks, 54 modules) + 36 sample QCMs, generated `seed.sql`
 - [x] Imported the UMMTO 1re année médecine banks (Embryologie, Anatomie S2, Histologie, Physiologie): 797 published QCMs, 270 drafts to review (`scripts/import-qcm`)
-- [ ] AI explanations for every imported QCM (why each proposition is right or wrong; grading follows the corrigé type, with a ⚠️ warning when the key looks wrong): Embryologie done, Anatomie S2, Histologie, Physiologie in progress
+- [ ] AI explanations for every imported QCM (why each proposition is right or wrong; grading follows the corrigé type, with a ⚠️ warning when the key looks wrong): Embryologie and Anatomie S2 done, Histologie and Physiologie in progress
 
 ## Phase 1 — MVP: practise and simulate ✅ (this repository)
 

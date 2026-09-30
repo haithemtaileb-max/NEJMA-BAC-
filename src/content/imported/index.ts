@@ -15,7 +15,10 @@ import { OPTION_LABELS, type OptionLabel, type QcmType } from '@/types/domain';
 
 import anatomieS2 from './ummto-2023-24/anatomie-s2.json';
 import embryologie from './ummto-2023-24/embryologie.json';
+import anatomieS2Explanations from './ummto-2023-24/explanations/anatomie-s2.json';
 import embryologieExplanations from './ummto-2023-24/explanations/embryologie.json';
+import histologieExplanations from './ummto-2023-24/explanations/histologie.json';
+import physiologieExplanations from './ummto-2023-24/explanations/physiologie.json';
 import histologie from './ummto-2023-24/histologie.json';
 import physiologie from './ummto-2023-24/physiologie.json';
 
@@ -68,7 +71,12 @@ export interface AiExplanation {
   draft?: string;
 }
 
-export const AI_EXPLANATIONS: Record<string, AiExplanation> = { ...embryologieExplanations };
+export const AI_EXPLANATIONS: Record<string, AiExplanation> = {
+  ...embryologieExplanations,
+  ...anatomieS2Explanations,
+  ...histologieExplanations,
+  ...physiologieExplanations,
+};
 
 const AI_NOTE = ' (Explication rédigée par IA : signalez la question si vous repérez une erreur.)';
 

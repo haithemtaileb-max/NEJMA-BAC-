@@ -1,0 +1,1404 @@
+{
+  "ac08edc8-bbb6-5ab9-ae94-d25bd9394ed3": {
+    "why": "L'os coxal porte, sur son bord postérieur, la grande incisure ischiatique (en haut) et la petite (en bas), séparées par l'épine ischiatique. Le bord postérieur est profond, sous les muscles fessiers. La crête iliaque est orientée d'avant en arrière (plan sagittal).",
+    "options": {
+      "A": "Faux : elle est sur le bord postérieur.",
+      "B": "Faux : c'est l'épine ischiatique qui les sépare ; la tubérosité est sous la petite incisure.",
+      "C": "Faux : il est recouvert par les muscles fessiers ; c'est la crête iliaque qui est sous-cutanée.",
+      "D": "Faux : elle va de l'épine iliaque antéro-supérieure à la postéro-supérieure, dans un plan sagittal.",
+      "E": "Vrai : A, B, C et D sont fausses."
+    }
+  },
+  "95943ab1-1846-5463-a054-bc3ec4941482": {
+    "why": "La diaphyse fémorale est prismatique, avec un bord postérieur saillant, la ligne âpre, dont les deux lèvres divergent en bas vers les épicondyles. L'extrémité proximale (tête et col) est orientée en dedans, en haut et en avant ; l'extrémité distale porte les deux condyles et la surface patellaire.",
+    "options": {
+      "A": "Faux : la face antérieure est lisse ; le bord saillant (ligne âpre) est postérieur.",
+      "B": "Vrai : ses lèvres divergent en bas et limitent la surface poplitée.",
+      "C": "Faux : il y a les deux surfaces condylaires ET la surface patellaire.",
+      "D": "Faux : la tête regarde en dedans, en haut et en avant.",
+      "E": "Faux : A et C sont fausses."
+    }
+  },
+  "319de15a-d999-50ec-bb25-711c3e87d7ca": {
+    "why": "Le bord interosseux du tibia est latéral, face à la fibula. La tête de la fibula est postéro-latérale au tibia et ne participe pas au genou. La malléole latérale descend plus bas que la médiale, qui porte en arrière la gouttière du tibial postérieur.",
+    "options": {
+      "A": "Faux : le bord interosseux est latéral.",
+      "B": "Faux : la gouttière de la malléole médiale est sur sa face postérieure.",
+      "C": "Faux : elle est postéro-latérale.",
+      "D": "Faux : le genou unit fémur, tibia et patella ; la fibula n'en fait pas partie.",
+      "E": "Vrai : la malléole latérale descend plus bas."
+    }
+  },
+  "85e5b323-d96d-562d-9769-147c8a1f393a": {
+    "why": "Le plateau tibial porte deux surfaces articulaires condylaires, médiale et latérale, séparées par une aire intercondylaire orientée d'avant en arrière. Au milieu se dresse l'éminence intercondylaire, avec deux tubercules (médial et latéral). La tubérosité tibiale est en dessous, sur la face antérieure.",
+    "options": {
+      "A": "Faux : les surfaces sont médiale et latérale.",
+      "B": "Faux : l'aire intercondylaire est antéro-postérieure (sagittale).",
+      "C": "Faux : il y a deux tubercules intercondylaires, médial et latéral.",
+      "D": "Faux : la tubérosité tibiale est sous le plateau, sur la face antérieure.",
+      "E": "Vrai : A, B, C et D sont fausses."
+    }
+  },
+  "29bbc1cc-cc4c-5f68-9340-3254400037a0": {
+    "why": "Les deux pubis sont unis par la symphyse pubienne (amphiarthrose). La ligne arquée participe au détroit supérieur. La crête iliaque est sagittale. Le muscle piriforme sort du bassin par la grande incisure (grand foramen) ischiatique.",
+    "options": {
+      "A": "Faux : c'est une symphyse (amphiarthrose), pas une diarthrose.",
+      "B": "Faux : la ligne arquée borde le détroit supérieur.",
+      "C": "Faux : elle est dans un plan sagittal.",
+      "D": "Vrai : le piriforme la divise en espaces supra- et infra-piriformes.",
+      "E": "Faux : B et C sont fausses."
+    }
+  },
+  "1185bbc3-0e87-5868-a36d-24d87e904e35": {
+    "why": "Le tibia est l'os médial de la jambe ; son extrémité distale forme la malléole médiale. Le tarse compte 7 os : talus et calcanéus (tarse postérieur), naviculaire, cuboïde et 3 cunéiformes (tarse antérieur). Le métatarse compte 5 os, placés sur une seule rangée.",
+    "options": {
+      "A": "Vrai : le tibia forme la malléole médiale.",
+      "B": "Faux : la fibula ne s'articule pas avec le fémur.",
+      "C": "Faux : le tarse antérieur compte 5 os ; c'est le tarse postérieur qui en compte 2.",
+      "D": "Faux : les 5 métatarsiens sont placés côte à côte, sur une seule rangée.",
+      "E": "Faux : seule A est juste."
+    }
+  },
+  "d6269f44-9fbc-57cb-b7fe-c12fb279d5fd": {
+    "why": "L'extrémité proximale du tibia s'articule avec le fémur (pas avec la patella). La face latérale répond aux muscles antérieurs de la jambe, et le triceps sural est postérieur. L'extrémité distale s'articule avec le talus.",
+    "options": {
+      "A": "Faux : la patella s'articule seulement avec le fémur.",
+      "B": "Faux : elle répond aux muscles de la loge antérieure (tibial antérieur) ; le triceps sural est dans la loge postérieure.",
+      "C": "Faux : elle répond au talus.",
+      "D": "Faux selon le corrigé : le ligament collatéral tibial descend plus bas, sur la face médiale de la partie haute de la diaphyse.",
+      "E": "Vrai : toutes les propositions sont fausses."
+    }
+  },
+  "a78aef14-6502-577e-9d20-27e061842e34": {
+    "why": "L'os coxal résulte de la soudure de trois pièces (ilium, ischium, pubis) au niveau de l'acétabulum. Les deux os coxaux sont unis par une symphyse. La grande incisure ischiatique est au-dessus de l'épine, et seule la surface semi-lunaire de l'acétabulum est encroûtée de cartilage.",
+    "options": {
+      "A": "Faux : ils sont unis par la symphyse pubienne (amphiarthrose).",
+      "B": "Vrai : ilium, ischium et pubis soudés.",
+      "C": "Faux : c'est la petite incisure qui est entre l'épine et la tubérosité.",
+      "D": "Faux : elle est dans un plan sagittal.",
+      "E": "Faux : la fosse acétabulaire n'est pas articulaire (elle contient de la graisse)."
+    }
+  },
+  "3326c094-9249-59c1-a326-c373ff489571": {
+    "why": "La patella est un os sésamoïde, développé dans le tendon du quadriceps fémoral, et s'articule avec la surface patellaire du fémur.",
+    "options": {
+      "A": "Faux selon le cours : on la classe comme os sésamoïde.",
+      "B": "Vrai : c'est le plus grand os sésamoïde du corps.",
+      "C": "Faux selon le cours : elle est classée comme os sésamoïde.",
+      "D": "Vrai : elle est incluse dans le tendon quadricipital.",
+      "E": "Vrai : B et D sont justes."
+    }
+  },
+  "cf969b65-470a-5005-a072-d3d51a9b2dae": {
+    "why": "Les os du tarse sont courts, mais les métatarsiens et les phalanges sont des os longs. L'articulation transverse du tarse (Chopart) sépare le tarse postérieur (talus, calcanéus) du tarse antérieur.",
+    "options": {
+      "A": "Faux : métatarsiens et phalanges sont des os longs.",
+      "B": "Faux : les os du tarse sont courts.",
+      "C": "Vrai : c'est l'interligne de Chopart.",
+      "D": "Faux selon le corrigé : le cuboïde s'articule avec le calcanéus, le cunéiforme latéral et le 4e–5e métatarsien ; son contact avec le naviculaire est inconstant.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "e505a7ae-6cf5-5bdc-87ec-b75f82b7f1c5": {
+    "why": "L'os coxal a une forme d'hélice (deux ailes tordues l'une sur l'autre) centrée sur l'acétabulum. En bas, le pubis est en avant et l'ischium en arrière ; la tubérosité ischiatique est sous l'épine ischiatique.",
+    "options": {
+      "A": "Vrai : l'aile iliaque et le cadre obturé sont dans deux plans différents, autour de l'acétabulum.",
+      "B": "Faux selon le cours : l'articulation sacro-iliaque est classée comme amphidiarthrose, très peu mobile.",
+      "C": "Faux : c'est l'inverse, le pubis est en avant.",
+      "D": "Faux : la tubérosité est en dessous de l'épine.",
+      "E": "Faux : seule A est juste."
+    }
+  },
+  "1b126317-c6d4-5a94-8add-d660e4a66aab": {
+    "why": "La fibula est placée en arrière et en dehors du tibia ; sa malléole (latérale) descend plus bas que la médiale. Le tarse compte 7 os et le métatarse 5.",
+    "options": {
+      "A": "Faux : c'est la malléole latérale qui descend plus bas.",
+      "B": "Vrai : elle est postéro-latérale.",
+      "C": "Faux : le tarse compte 7 os.",
+      "D": "Faux : le métatarse compte 5 os.",
+      "E": "Faux : seule B est juste."
+    }
+  },
+  "0e9f39b1-48e2-5631-96d3-e0c3e9029168": {
+    "why": "Le talus s'articule avec le tibia et la fibula en haut, le calcanéus en bas et le naviculaire en avant. Il ne touche ni le cuboïde ni les cunéiformes.",
+    "options": {
+      "A": "Faux : le cuboïde s'articule avec le calcanéus.",
+      "B": "Vrai : articulation subtalaire.",
+      "C": "Vrai : articulation talo-naviculaire.",
+      "D": "Faux : les cunéiformes s'articulent avec le naviculaire.",
+      "E": "Vrai : B et C sont justes."
+    }
+  },
+  "1a639bf2-6cc7-55dd-bbef-1f98fc438a0a": {
+    "why": "Le calcanéus s'articule en haut avec le talus et en avant avec le cuboïde.",
+    "options": {
+      "A": "Faux : la fibula s'articule avec le tibia et le talus.",
+      "B": "Faux : le tibia s'articule avec le talus.",
+      "C": "Vrai : articulation calcanéo-cuboïdienne.",
+      "D": "Faux : il n'y a qu'un ligament entre eux, pas d'articulation.",
+      "E": "Faux : le cunéiforme latéral s'articule avec le naviculaire et le cuboïde."
+    }
+  },
+  "250abcd8-b0a3-5fba-8ea8-54dcc7563e77": {
+    "why": "La patella s'articule uniquement avec la surface patellaire (trochlée) du fémur.",
+    "options": {
+      "A": "Faux : le ligament patellaire la relie au tibia, sans articulation.",
+      "B": "Vrai : articulation fémoro-patellaire.",
+      "C": "Faux : la fibula ne participe pas au genou.",
+      "D": "Faux : ni l'un ni l'autre.",
+      "E": "Faux : seulement le fémur."
+    }
+  },
+  "5eaaec62-0ef4-5152-bbe5-19e9e2aaaf04": {
+    "why": "La face postérieure du tibia est croisée en haut par la ligne du muscle soléaire, oblique en bas et en dedans. Le foramen nourricier est juste en dessous, au tiers supérieur. Elle répond aux muscles profonds de la loge postérieure.",
+    "options": {
+      "A": "Faux : le foramen nourricier est au tiers supérieur, près de la ligne du soléaire.",
+      "B": "Faux : les gastrocnémiens naissent du fémur ; la face postérieure répond au soléaire et aux muscles profonds.",
+      "C": "Vrai : la ligne du soléaire, oblique.",
+      "D": "Faux : la ligne est oblique, pas horizontale.",
+      "E": "Faux : A et B sont fausses."
+    }
+  },
+  "b37e3b7a-d793-58df-acf1-1f48b917cac8": {
+    "why": "Le bord antérieur de l'os coxal présente, de haut en bas : épine iliaque antéro-supérieure, épine antéro-inférieure, éminence ilio-pubienne, surface pectinéale et tubercule pubien. Les épines et incisures ischiatiques sont sur le bord postérieur.",
+    "options": {
+      "A": "Faux : bord postérieur.",
+      "B": "Faux : bord postérieur.",
+      "C": "Vrai : elle se trouve sur le bord antérieur, en avant de l'éminence ilio-pubienne.",
+      "D": "Faux : bord postérieur.",
+      "E": "Faux : bord postérieur."
+    }
+  },
+  "705df110-3fce-5597-b152-110b3b40ca16": {
+    "why": "L'extrémité distale du tibia porte en arrière des gouttières tendineuses (tibial postérieur, long fléchisseur des orteils). Son bord interosseux est latéral, son bord antérieur est tranchant (crête tibiale), et le foramen nourricier est sur la face postérieure.",
+    "options": {
+      "A": "Vrai : gouttières sur la face postérieure de la malléole médiale.",
+      "B": "Faux : il est latéral.",
+      "C": "Faux : le bord antérieur est tranchant (crête tibiale).",
+      "D": "Faux : le foramen est sur la face postérieure.",
+      "E": "Faux : B et D sont fausses."
+    }
+  },
+  "cb5f2fe3-5b66-5f2e-8fb1-1f299e7798a9": {
+    "why": "La fibula est un os long et grêle, tordu sur son axe. Elle répond latéralement aux muscles fibulaires ; le processus styloïde (apex) est sur sa tête, à l'extrémité proximale.",
+    "options": {
+      "A": "Faux : c'est un os grêle.",
+      "B": "Vrai : sa face latérale répond aux muscles fibulaires.",
+      "C": "Faux : l'apex (processus styloïde) est sur la tête, en haut.",
+      "D": "Vrai : la diaphyse est tordue sur son axe.",
+      "E": "Vrai : B et D sont justes."
+    }
+  },
+  "a110514d-54fd-5b6b-87ef-c3b1a360afcc": {
+    "why": "La face interne de l'os coxal porte la ligne arquée, qui délimite avec le promontoire et la crête pectinéale le détroit supérieur. Les lignes glutéales (semi-circulaires) sont sur la face externe. Seule la surface semi-lunaire de l'acétabulum est cartilagineuse, et l'os n'est pas entièrement sagittal (il est en hélice).",
+    "options": {
+      "A": "Faux : les lignes glutéales sont sur la face externe.",
+      "B": "Faux : la fosse acétabulaire n'est pas cartilagineuse.",
+      "C": "Vrai : les lignes arquées bordent le détroit supérieur.",
+      "D": "Faux : ils sont unis par une symphyse.",
+      "E": "Faux : l'os est tordu en hélice."
+    }
+  },
+  "a30cf51e-353a-54e8-b116-ebb5e1a4a78c": {
+    "why": "L'articulation talo-crurale (tibio-talienne) est une trochléenne (ginglyme) : la trochlée du talus tourne dans la mortaise tibio-fibulaire, autour d'un seul axe, pour la flexion-extension.",
+    "options": {
+      "A": "Vrai : trochléenne, un seul degré de liberté.",
+      "B": "Faux : la trochoïde est une articulation en pivot (radio-ulnaire proximale).",
+      "C": "Faux : l'énarthrose est sphérique (hanche).",
+      "D": "Faux : les surfaces ne sont pas planes.",
+      "E": "Faux : A est juste."
+    }
+  },
+  "4dc0ae7b-0441-5431-a4d6-acdd6942ced2": {
+    "why": "Au genou, la trochlée fémorale répond à la face postérieure (dorsale) de la patella. Le ménisque médial est en C, le latéral presque fermé en O. Le ligament croisé antérieur est dit antéro-latéral (il monte vers le condyle latéral) et le postérieur, postéro-médial.",
+    "options": {
+      "A": "Faux : la trochlée répond à la face postérieure de la patella.",
+      "B": "Faux : le ménisque médial est en C ; c'est le latéral qui est en O.",
+      "C": "Faux : le croisé antérieur est antéro-latéral.",
+      "D": "Vrai : il va de l'aire intercondylaire antérieure au condyle latéral.",
+      "E": "Faux : le croisé postérieur est postéro-médial."
+    }
+  },
+  "6f5cba0e-ebde-5624-b6eb-ae9983eaf0e6": {
+    "why": "En arrière, la capsule du genou est renforcée par les coques condyliennes, le ligament poplité oblique (tendon récurrent du semi-membraneux) et le ligament poplité arqué, sous lequel passe le muscle poplité. La fabella, inconstante, est dans la coque condylienne latérale.",
+    "options": {
+      "A": "Faux : la fabella siège dans la coque latérale (chef latéral du gastrocnémien).",
+      "B": "Faux : il vient du semi-membraneux.",
+      "C": "Vrai : le poplité passe sous l'arcade du ligament arqué.",
+      "D": "Faux selon le corrigé : c'est le faisceau latéral qui se fixe en dehors (tête de la fibula).",
+      "E": "Faux : A est fausse."
+    }
+  },
+  "5e1afc12-94bf-57c1-85b1-b8ff4ea4308f": {
+    "why": "Le ligament collatéral médial de la cheville a deux plans : un plan profond (ligaments tibio-talaires antérieur et postérieur) et un plan superficiel, le ligament deltoïdien. Ensemble, ils forment le ligament collatéral médial.",
+    "options": {
+      "A": "Faux : le deltoïdien est le plan superficiel.",
+      "B": "Faux : le talo-fibulaire antérieur appartient au ligament collatéral latéral.",
+      "C": "Vrai : deltoïdien + tibio-talaires antérieur et postérieur = collatéral médial.",
+      "D": "Faux : il est médial.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "80d11de9-e60e-5304-a59c-709efd6be095": {
+    "why": "À la hanche, la tête fémorale est encroûtée de cartilage sauf à la fovéa. La capsule est épaisse et résistante. Le labrum est un anneau fibrocartilagineux prismatique triangulaire. En avant, la capsule est renforcée par les ligaments ilio-fémoral et pubo-fémoral.",
+    "options": {
+      "A": "Faux : la fovéa capitis (insertion du ligament de la tête) n'est pas cartilagineuse.",
+      "B": "Faux : la capsule est épaisse et très résistante.",
+      "C": "Faux : il est prismatique triangulaire à la coupe.",
+      "D": "Faux : le ligament pubo-fémoral couvre aussi la partie inférieure de la face antérieure.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "12727375-a860-533a-9e68-1b78316cd5b9": {
+    "why": "Selon le cours, le plan fibreux antérieur du genou est fait de fibres croisées : les expansions des muscles vastes s'entrecroisent devant la patella (rétinaculums patellaires).",
+    "options": {
+      "A": "Faux selon le corrigé : les fibres arquées sont celles du plan postérieur (ligament poplité arqué).",
+      "B": "Vrai : les expansions des vastes s'entrecroisent en avant de la patella.",
+      "C": "Faux selon le corrigé.",
+      "D": "Faux : le faisceau récurrent (poplité oblique) appartient au plan postérieur.",
+      "E": "Faux : B est juste."
+    }
+  },
+  "73b83544-b914-5a42-99ab-f94aac1c55fb": {
+    "why": "La talo-crurale est renforcée en dedans par le ligament collatéral médial, dont le plan superficiel est le deltoïdien. En dehors, le collatéral latéral comporte trois faisceaux : talo-fibulaire antérieur, calcanéo-fibulaire et talo-fibulaire postérieur. En avant et en arrière, la capsule est mince.",
+    "options": {
+      "A": "Vrai : le deltoïdien forme le plan superficiel médial.",
+      "B": "Faux : proposition sans correspondance anatomique.",
+      "C": "Faux : le faisceau moyen est calcanéo-fibulaire, pas talo-fibulaire.",
+      "D": "Faux : la capsule antérieure est mince et lâche (pour la flexion-extension).",
+      "E": "Faux : A est juste."
+    }
+  },
+  "03e5fd64-fe9e-57ce-b977-23a0d2e4a6ca": {
+    "why": "Le genou est stable en extension mais instable en flexion (rotations possibles). Le ménisque latéral est presque fermé en O. L'extension dépend du quadriceps (nerf fémoral) ; la flexion, des ischio-jambiers, de la patte d'oie, du gastrocnémien et du poplité.",
+    "options": {
+      "A": "Faux : il est instable en flexion.",
+      "B": "Faux : le ménisque latéral est en O presque fermé.",
+      "C": "Faux : le nerf crural (fémoral) commande l'extension (quadriceps).",
+      "D": "Faux : les ischio-jambiers, le gastrocnémien et le poplité fléchissent aussi.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "f48703cf-cff4-5950-bac9-bba41d89ad00": {
+    "why": "La capsule de la hanche s'insère sur le limbus et la face externe du labrum. Sur le fémur, elle suit la ligne intertrochantérique en avant, où tout le col est intracapsulaire ; en arrière, une partie du col est extracapsulaire. Le ligament le plus puissant est l'ilio-fémoral. Le ligament de la tête fémorale contient une petite artère pour la tête.",
+    "options": {
+      "A": "Faux : en arrière, la partie latérale du col est extracapsulaire.",
+      "B": "Faux : le plus puissant est l'ilio-fémoral (antérieur).",
+      "C": "Vrai : insertion sur le limbus et la face externe du labrum.",
+      "D": "Juste en réalité : il contient l'artère du ligament de la tête (branche de l'obturatrice).",
+      "E": "Faux : A et B sont fausses."
+    },
+    "keyIssue": "le ligament de la tête fémorale contient l'artère du ligament de la tête (branche de l'artère obturatrice), qui participe (modestement chez l'adulte) à la vascularisation de la tête fémorale.",
+    "aiKey": "CD"
+  },
+  "481e7eba-4723-5043-8a00-499a71214bab": {
+    "why": "La face médiale de la talo-crurale est renforcée par le ligament collatéral médial, dont le plan superficiel est le faisceau deltoïde (tibio-naviculaire, tibio-calcanéen…). Le faisceau calcanéo-fibulaire est latéral.",
+    "options": {
+      "A": "Faux : les ligaments croisés sont au genou.",
+      "B": "Vrai : c'est le plan superficiel médial.",
+      "C": "Faux : pas de ligament transverse sur cette face.",
+      "D": "Faux : il appartient au ligament collatéral latéral.",
+      "E": "Juste en réalité : le faisceau tibio-naviculaire fait partie du ligament deltoïde, sur la face médiale."
+    },
+    "keyIssue": "le faisceau tibio-naviculaire est une des composantes superficielles du ligament deltoïde : il renforce lui aussi la face médiale.",
+    "aiKey": "BE"
+  },
+  "b92ad620-3703-538b-90fe-c1a30e94e0dd": {
+    "why": "La tête fémorale représente les 2/3 d'une sphère de 40 à 50 mm de diamètre. Le labrum est fixé sur le limbus et se prolonge par le ligament transverse au niveau de l'incisure. La capsule s'insère sur sa face externe. Le ligament de la tête fémorale s'attache sur les bords de l'incisure et le ligament transverse.",
+    "options": {
+      "A": "Faux : ce sont les deux tiers d'une sphère.",
+      "B": "Vrai : il s'attache sur le pourtour (limbus) de l'acétabulum.",
+      "C": "Faux : la capsule s'insère sur sa face externe.",
+      "D": "Faux : au niveau de l'incisure, il est régularisé par le ligament transverse.",
+      "E": "Faux : il s'attache sur les bords de l'incisure acétabulaire et le ligament transverse."
+    }
+  },
+  "8f25556c-17a3-57c2-8654-d80dffeee4ba": {
+    "why": "Le genou est une diarthrose (articulation synoviale), de type bicondylaire (fémoro-tibiale) et trochléen (fémoro-patellaire).",
+    "options": {
+      "A": "Faux : l'amphiarthrose est peu mobile (symphyse).",
+      "B": "Faux : les surfaces ne sont pas sphériques.",
+      "C": "Vrai : c'est une articulation synoviale mobile.",
+      "D": "Faux : la trochoïde est un pivot.",
+      "E": "Faux : la synarthrose est immobile."
+    }
+  },
+  "01797850-318f-524c-84c5-6e4ee8aa95a7": {
+    "why": "La talo-crurale est une trochléenne : elle ne permet que la flexion-extension. En dedans, elle est renforcée par le ligament deltoïde ; ses ligaments antérieur et postérieur sont minces. Pronation et supination se font dans les articulations sous-jacentes (subtalaire, transverse du tarse).",
+    "options": {
+      "A": "Faux : un seul plan (sagittal).",
+      "B": "Vrai : plan superficiel du collatéral médial.",
+      "C": "Faux : pronation et supination relèvent des articulations subtalaire et transverse du tarse.",
+      "D": "Faux : ils sont minces.",
+      "E": "Faux : B est juste."
+    }
+  },
+  "2fe79996-687e-51fa-964a-3290281a5668": {
+    "why": "La capsule de la hanche s'insère loin de la tête, à la base du col. Elle est renforcée en avant par le ligament ilio-fémoral. La flexion-extension se fait dans le plan sagittal, et le grand glutéal est extenseur et rotateur latéral.",
+    "options": {
+      "A": "Faux : elle s'insère à la base du col (ligne intertrochantérique).",
+      "B": "Vrai : c'est le ligament le plus puissant.",
+      "C": "Faux : elle se fait dans le plan sagittal.",
+      "D": "Faux : il est rotateur latéral.",
+      "E": "Faux : D est fausse."
+    }
+  },
+  "7776f11d-1afa-5e96-a652-b7034f018fef": {
+    "why": "Les ménisques sont fixés au tibia par leurs cornes. Leur bord périphérique adhère à la capsule, leur bord axial (central) est libre. Le ménisque latéral est plus mobile que le médial. Ils ne vascularisent pas les surfaces articulaires.",
+    "options": {
+      "A": "Faux : ils sont fixés par leurs cornes ; leur face inférieure repose librement sur le tibia.",
+      "B": "Faux : c'est leur bord périphérique qui adhère à la capsule.",
+      "C": "Vrai : le bord axial, mince, est libre.",
+      "D": "Faux : il est plus mobile que le médial.",
+      "E": "Faux : ce sont des fibrocartilages peu vascularisés."
+    }
+  },
+  "c6cda0e0-9bc2-5b05-971d-cb4b6b6b54d0": {
+    "why": "Le plan fibreux antérieur du genou comprend le tendon du quadriceps, la patella, le ligament patellaire, les rétinaculums patellaires et les ligaments ménisco-patellaires.",
+    "options": {
+      "A": "Vrai : ils forment l'essentiel du plan antérieur.",
+      "B": "Faux : le ligament collatéral fibulaire appartient au plan latéral.",
+      "C": "Vrai : il relie la patella au ménisque.",
+      "D": "Faux : les ischio-jambiers sont postérieurs.",
+      "E": "Vrai : A et C sont justes."
+    }
+  },
+  "9a507a0b-a72c-5ccc-ae6a-af52297338fd": {
+    "why": "Seule la surface semi-lunaire de l'acétabulum est cartilagineuse ; la fosse acétabulaire contient de la graisse. Le labrum est annulaire, fixé sur un limbus irrégulier qui porte trois incisures, dont l'ischio-pubienne (incisure acétabulaire), la plus large. Selon le cours, le ligament transverse est recouvert de cartilage sur sa face articulaire.",
+    "options": {
+      "A": "Faux : la fosse acétabulaire n'est pas cartilagineuse.",
+      "B": "Faux : c'est la surface articulaire qui est semi-lunaire ; le labrum forme un anneau.",
+      "C": "Vrai selon le cours : sa face articulaire prolonge le cartilage de la surface semi-lunaire.",
+      "D": "Faux : le limbus est irrégulier, creusé de trois incisures.",
+      "E": "Faux : la plus large est l'incisure ischio-pubienne (acétabulaire)."
+    }
+  },
+  "871f2637-ba1e-5b51-89cc-ecafbba917a6": {
+    "why": "La capsule de la hanche s'insère à la base du col. Elle est renforcée en avant par le ligament ilio-fémoral. La flexion-extension se fait dans le plan sagittal, et le grand glutéal est rotateur latéral.",
+    "options": {
+      "A": "Faux : elle s'insère loin de la tête, à la base du col.",
+      "B": "Vrai : ligament ilio-fémoral antérieur.",
+      "C": "Faux : plan sagittal.",
+      "D": "Faux : il est rotateur latéral.",
+      "E": "Faux : D est fausse."
+    }
+  },
+  "847993d6-2e4d-54b8-8c48-225ac0952cf7": {
+    "why": "Un « tendon passif » est un ligament issu d'un tendon musculaire. Le ligament poplité oblique est le tendon récurrent du semi-membraneux. Le ligament collatéral fibulaire, cordon long et arrondi, est considéré comme un ancien tendon du long fibulaire.",
+    "options": {
+      "A": "Faux : le ligament deltoïde est médial.",
+      "B": "Vrai : c'est le tendon récurrent du semi-membraneux.",
+      "C": "Faux : les ligaments croisés se croisent dans les plans sagittal et frontal.",
+      "D": "Faux : il forme une arcade au-dessus du muscle poplité.",
+      "E": "Juste en réalité : c'est un cordon arrondi d'environ 5 cm, décrit comme un ancien tendon du long fibulaire."
+    },
+    "keyIssue": "le ligament collatéral fibulaire est classiquement décrit comme un cordon long et arrondi, ancien tendon du long fibulaire, donc E est juste aussi.",
+    "aiKey": "BE"
+  },
+  "f5bcba5a-e82c-5eba-ac55-05ceb58d2e56": {
+    "why": "Les ligaments croisés sont antéro-latéral et postéro-médial. La capsule est renforcée en arrière par les coques condyliennes. Les tendons de la patte d'oie (sartorius, gracile, semi-tendineux) se terminent sur la face médiale du tibia.",
+    "options": {
+      "A": "Faux : ils sont antéro-latéral et postéro-médial.",
+      "B": "Vrai : les coques condyliennes renforcent la capsule en arrière.",
+      "C": "Faux selon le corrigé : il se termine plus bas, sur la face médiale de la diaphyse.",
+      "D": "Vrai : terminaison sur la face médiale du tibia.",
+      "E": "Vrai : B et D sont justes."
+    }
+  },
+  "149c3410-5760-5a80-8a65-690d2cac1fe6": {
+    "why": "La hanche est une énarthrose mobile dans les trois plans et très stable, grâce à la profondeur de l'acétabulum, à ses ligaments et à ses muscles (plan postérieur épais des fessiers). En avant, elle est renforcée par un ligament supérieur (ilio-fémoral) et un inférieur (pubo-fémoral).",
+    "options": {
+      "A": "Faux : elle est mobile dans les trois plans.",
+      "B": "Faux : elle est très stable.",
+      "C": "Faux : le plan musculaire postérieur (fessiers, pelvi-trochantériens) est épais.",
+      "D": "Vrai : ilio-fémoral en haut, pubo-fémoral en bas.",
+      "E": "Faux : A et C sont fausses."
+    }
+  },
+  "7d2cf108-2b71-5554-89fa-ff8152465400": {
+    "why": "Au genou, la rotation n'est possible qu'en flexion. Le ménisque latéral est presque fermé en O. L'extension dépend du quadriceps (nerf crural ou fémoral) ; la flexion, de plusieurs groupes musculaires.",
+    "options": {
+      "A": "Faux : la rotation n'est possible qu'en flexion.",
+      "B": "Faux selon le cours : le ménisque latéral est en O presque fermé.",
+      "C": "Vrai : le quadriceps est innervé par le nerf fémoral (crural).",
+      "D": "Faux : la patte d'oie et le poplité fléchissent aussi.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "52f533ca-6442-5efa-890a-ab2c23922d2b": {
+    "why": "L'ischio-fémoral est postérieur. L'ilio-fémoral a deux faisceaux (en V de Bertin). Le ligament de la tête fémorale est intra-articulaire (intracapsulaire, entouré de synoviale). Le pubo-fémoral naît de la branche supérieure (ilio-pubienne) du pubis.",
+    "options": {
+      "A": "Faux : il est postérieur.",
+      "B": "Faux : il a deux faisceaux, supérieur et inférieur.",
+      "C": "Juste en réalité : il est tendu dans l'articulation, de la fovéa à l'incisure acétabulaire.",
+      "D": "Vrai : il naît de la branche ilio-pubienne.",
+      "E": "Juste en réalité : C et D sont justes."
+    },
+    "keyIssue": "le ligament de la tête fémorale est bien intra-articulaire (intracapsulaire), donc C est juste, et par conséquent E (« C et D sont justes ») aussi.",
+    "aiKey": "CDE"
+  },
+  "8770882e-6246-5d78-bb0e-2dad03ede12c": {
+    "why": "Le genou est stable en extension. La rotation n'est possible qu'en flexion. Le ménisque médial est en C ouvert vers le centre de l'articulation, c'est-à-dire en dehors. Les ménisques sont fixés par leurs cornes ; ils n'adhèrent pas par leur face inférieure.",
+    "options": {
+      "A": "Vrai : ligaments tendus, surfaces bien emboîtées.",
+      "B": "Faux : la rotation n'est possible qu'en flexion.",
+      "C": "Faux : sa concavité regarde l'aire intercondylaire, en dehors.",
+      "D": "Faux : ils sont fixés par leurs cornes.",
+      "E": "Faux : C est fausse."
+    }
+  },
+  "228d967a-6277-5d9e-945c-dfaa87f10a1d": {
+    "why": "La patte d'oie réunit trois muscles de loges et de nerfs différents : sartorius (loge antérieure, nerf fémoral), gracile (loge médiale, nerf obturateur) et semi-tendineux (loge postérieure, nerf sciatique). Ils se terminent ensemble sur la face médiale du tibia et sont fléchisseurs et rotateurs médiaux du genou.",
+    "options": {
+      "A": "Faux : ils sont rotateurs médiaux de la jambe ; le sartorius est même rotateur latéral de la cuisse.",
+      "B": "Faux : nerfs fémoral, obturateur et sciatique.",
+      "C": "Vrai : face médiale de l'extrémité supérieure du tibia.",
+      "D": "Faux : loges antérieure, médiale et postérieure.",
+      "E": "Faux : seule C est juste."
+    }
+  },
+  "cbda0356-2b8b-59d2-9b8f-fbdb1c3eb6bf": {
+    "why": "S'insèrent sur la ligne âpre : les adducteurs, le vaste médial (lèvre médiale), le vaste latéral et le court chef du biceps (lèvre latérale). Le vaste intermédiaire naît des faces antérieure et latérale de la diaphyse.",
+    "options": {
+      "A": "S'y insère : lèvre latérale.",
+      "B": "S'y insère : interstice de la ligne âpre.",
+      "C": "S'y insère : lèvre médiale.",
+      "D": "Réponse attendue : il naît des faces antérieure et latérale du fémur.",
+      "E": "S'y insère : lèvre latérale."
+    }
+  },
+  "0c6f8245-9c45-5b36-af1a-c56cbac48991": {
+    "why": "On cherche l'exception. Les ischio-jambiers (semi-membraneux, semi-tendineux, biceps fémoral) sont innervés par le nerf sciatique, se terminent sur le tibia et la fibula et fléchissent la jambe. Le court chef du biceps naît de la ligne âpre, pas de la tubérosité ischiatique.",
+    "options": {
+      "A": "Juste : ce sont les trois ischio-jambiers.",
+      "B": "Réponse attendue (fausse) : le court chef du biceps naît de la ligne âpre.",
+      "C": "Juste : ils sont innervés par le nerf sciatique.",
+      "D": "Juste : semi-membraneux et semi-tendineux sur le tibia, biceps sur la fibula.",
+      "E": "Juste : tous fléchissent le genou."
+    }
+  },
+  "f2f0daa6-1b80-5358-adc8-2f43374f1bef": {
+    "why": "Piriforme, jumeaux, obturateurs, carré fémoral et grand glutéal sont rotateurs latéraux de la hanche. Le tenseur du fascia lata est fléchisseur, abducteur et rotateur médial.",
+    "options": {
+      "A": "Rotateur latéral.",
+      "B": "Rotateur latéral.",
+      "C": "Réponse attendue : il est rotateur médial.",
+      "D": "Rotateur latéral (et extenseur).",
+      "E": "Rotateur latéral."
+    }
+  },
+  "e1ba30e1-bf27-5b89-8c16-fa4859ee953b": {
+    "why": "La loge médiale contient pectiné, long, court et grand adducteurs et gracile, disposés en plans frontaux. Ils sont surtout adducteurs, mais pas exclusivement (le gracile fléchit le genou). Ils naissent du pubis et de l'ischion, et sont innervés surtout par le nerf obturateur.",
+    "options": {
+      "A": "Faux : le gracile fléchit aussi le genou ; le pectiné fléchit la hanche.",
+      "B": "Faux : ils sont disposés en plans frontaux, en avant du fémur.",
+      "C": "Faux : le gracile va au tibia, le pectiné à la ligne pectinée.",
+      "D": "Faux : le grand adducteur naît aussi de l'ischion.",
+      "E": "Vrai : sauf le pectiné (nerf fémoral) et une partie du grand adducteur (nerf sciatique)."
+    }
+  },
+  "048ff6e9-44a4-50fd-984f-2808d5d1abcc": {
+    "why": "Sartorius, gracile et semi-tendineux viennent de trois loges et de trois nerfs différents, mais se terminent ensemble sur la face médiale du tibia (patte d'oie).",
+    "options": {
+      "A": "Faux : ils sont rotateurs médiaux du genou, pas tous de la cuisse.",
+      "B": "Faux : nerfs fémoral, obturateur et sciatique.",
+      "C": "Vrai : face médiale du tibia.",
+      "D": "Faux : loges antérieure, médiale et postérieure.",
+      "E": "Faux : seule C est juste."
+    }
+  },
+  "6d1d013b-e538-57ad-b25f-867d892333e8": {
+    "why": "Le sartorius fléchit la hanche (et le genou). Le long fléchisseur de l'hallux participe à la flexion plantaire. Le tibial antérieur est fléchisseur dorsal et inverseur (supinateur), pas éverseur.",
+    "options": {
+      "A": "Faux : il est inverseur (supinateur).",
+      "B": "Vrai : il fléchit la hanche.",
+      "C": "Vrai : il passe en arrière de la malléole médiale.",
+      "D": "Vrai : B et C sont justes.",
+      "E": "Faux : B et C sont justes."
+    }
+  },
+  "c118da59-04db-50a4-a8d0-e37e8fbc2d7b": {
+    "why": "Le tibial postérieur est un muscle du plan profond de la loge postérieure, innervé par le nerf tibial. Son action principale est la supination (inversion) du pied ; le fléchisseur plantaire principal est le triceps sural.",
+    "options": {
+      "A": "Faux selon le corrigé : son action principale est la supination ; sa participation à la flexion plantaire est accessoire.",
+      "B": "Faux : il est innervé par le nerf tibial.",
+      "C": "Faux : il appartient au plan profond.",
+      "D": "Faux : c'est le triceps sural.",
+      "E": "Vrai : il est le principal supinateur du pied."
+    }
+  },
+  "d7087eaf-3900-5169-8912-ccaa5f281db2": {
+    "why": "Les muscles de la loge antérieure de la jambe sont fléchisseurs dorsaux (le tibial antérieur n'agit pas sur les orteils). Le triceps sural se termine sur la tubérosité du calcanéus ; le soléaire est mono-articulaire, le gastrocnémien bi-articulaire.",
+    "options": {
+      "A": "Faux : ce sont des extenseurs des orteils et des fléchisseurs dorsaux.",
+      "B": "Faux : il se termine sur le calcanéus.",
+      "C": "Faux : il ne croise que la cheville.",
+      "D": "Faux selon le corrigé : le gastrocnémien est bi-articulaire, mais on le décrit comme fléchisseur (du genou et plantaire).",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "366e332d-0c0a-5c10-b593-d21e3710e7ce": {
+    "why": "Les pelvi-trochantériens (piriforme, jumeaux, obturateurs, carré fémoral) sont tous rotateurs latéraux. Le piriforme naît de la face antérieure (pelvienne) du sacrum et sort par la grande incisure ; l'obturateur interne sort par la petite incisure ; le jumeau supérieur est sous le piriforme.",
+    "options": {
+      "A": "Faux : il naît de la face pelvienne (antérieure) du sacrum.",
+      "B": "Faux : il sort par la petite incisure ischiatique.",
+      "C": "Faux : il est sous le piriforme.",
+      "D": "Vrai : tous rotateurs latéraux.",
+      "E": "Faux : A et C sont fausses."
+    }
+  },
+  "cbc20c71-77f7-53eb-841c-2b43bc749f58": {
+    "why": "Les adducteurs sont disposés en plans frontaux superposés : superficiel (pectiné, long adducteur, gracile), moyen (court adducteur), profond (grand adducteur). Le gracile est le plus médial. Le nerf obturateur sort du canal obturateur et se divise aussitôt autour du court adducteur.",
+    "options": {
+      "A": "Faux selon le cours : le grand adducteur est décrit avec trois faisceaux.",
+      "B": "Faux : ils se placent dans des plans frontaux.",
+      "C": "Faux selon le corrigé : il sort du canal obturateur et se divise en branches antérieure et postérieure de part et d'autre du court adducteur.",
+      "D": "Faux : il est le plus médial et superficiel.",
+      "E": "Vrai : aucune proposition n'est exacte."
+    }
+  },
+  "6728062f-bb19-5711-9c3a-7d6dccb5996e": {
+    "why": "Le plan profond de la loge postérieure comporte le poplité, le tibial postérieur, le long fléchisseur des orteils et le long fléchisseur de l'hallux. Le poplité agit sur le genou, pas sur le pied : aucune des propositions « tous… » n'est vraie.",
+    "options": {
+      "A": "Faux : ni le poplité ni le tibial postérieur ne fléchissent les orteils.",
+      "B": "Faux : le poplité n'agit pas sur la cheville.",
+      "C": "Faux : le poplité n'agit pas sur le pied.",
+      "D": "Faux : seul le poplité est rotateur médial du genou.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "8f768e7f-ec5f-5b3a-b856-86596de5e21a": {
+    "why": "On cherche l'exception. Le tractus ilio-tibial prolonge le fascia glutéal, fixé sur la crête iliaque. Il est tendu en avant par le tenseur du fascia lata et en arrière par le grand glutéal, se termine sur le tubercule infra-condylaire latéral du tibia (Gerdy) et stabilise le genou en extension.",
+    "options": {
+      "A": "Juste : sa partie haute se confond avec le fascia glutéal.",
+      "B": "Juste : le tenseur du fascia lata le tend en avant.",
+      "C": "Réponse attendue (fausse) : c'est le grand glutéal, pas le moyen, qui le tend en arrière.",
+      "D": "Juste : tubercule de Gerdy.",
+      "E": "Juste : il renforce le genou en dehors."
+    }
+  },
+  "0b4fe3ff-0d98-519e-946b-e953e00fd65e": {
+    "why": "Le triceps sural est formé du gastrocnémien (deux chefs fémoraux) et du soléaire (tibia et fibula). Muscle superficiel de la loge postérieure, innervé par le nerf tibial, c'est le principal fléchisseur plantaire ; le gastrocnémien fléchit aussi le genou.",
+    "options": {
+      "A": "Vrai : c'est le fléchisseur plantaire principal.",
+      "B": "Faux : le gastrocnémien fléchit le genou.",
+      "C": "Faux : deux chefs fémoraux (gastrocnémien) et un chef jambier (soléaire).",
+      "D": "Faux : il est superficiel.",
+      "E": "Faux : il est innervé par le nerf tibial (branche du sciatique)."
+    }
+  },
+  "346cf27e-8eae-5d35-846f-a42fd64c29c4": {
+    "why": "Le tibial antérieur est le plus médial des muscles de la loge antérieure de la jambe. Innervé par le nerf fibulaire profond, il est fléchisseur dorsal et inverseur du pied.",
+    "options": {
+      "A": "Vrai : loge antérieure (ventrale).",
+      "B": "Vrai : nerf fibulaire profond.",
+      "C": "Vrai : fléchisseur dorsal.",
+      "D": "Vrai : il longe le bord latéral du tibia, en dedans des autres.",
+      "E": "Vrai : toutes sont justes."
+    }
+  },
+  "9a4beaa8-d057-5308-99ac-b1692ef61e46": {
+    "why": "Le tenseur du fascia lata agit sur la hanche et, par le tractus ilio-tibial, sur le genou : il est bi-articulaire. Piriforme et obturateurs sont rotateurs latéraux ; la patte d'oie comprend sartorius, gracile et semi-tendineux ; la loge médiale est celle des adducteurs.",
+    "options": {
+      "A": "Vrai : il agit sur la hanche et le genou.",
+      "B": "Faux : il est rotateur latéral (et abducteur hanche fléchie).",
+      "C": "Faux : ils sont rotateurs latéraux.",
+      "D": "Faux : c'est le semi-tendineux, pas le semi-membraneux.",
+      "E": "Faux : ce sont des adducteurs."
+    }
+  },
+  "868e8b6b-621e-5572-bc2a-e9d14e1bb054": {
+    "why": "La patte d'oie réunit le sartorius, le gracile et le semi-tendineux (moyen mnémotechnique : « SGT »).",
+    "options": {
+      "A": "Faux : le semi-membraneux n'en fait pas partie.",
+      "B": "Vrai : semi-tendineux, sartorius, gracile.",
+      "C": "Faux : ni le semi-membraneux ni le biceps.",
+      "D": "Faux : le vaste médial n'en fait pas partie.",
+      "E": "Faux : ni le semi-membraneux ni le vaste médial."
+    }
+  },
+  "7e6751e4-b8e0-53d9-9cca-05d73731c90d": {
+    "why": "La dorsiflexion (flexion dorsale) rapproche le dos du pied de la face antérieure de la jambe. Son amplitude est d'environ 20 à 30°, et elle est réalisée par les muscles de la loge antérieure, surtout le tibial antérieur.",
+    "options": {
+      "A": "Faux : elle rapproche le dos du pied de la face antérieure de la jambe.",
+      "B": "Faux : environ 20 à 30°.",
+      "C": "Faux : le triceps sural est fléchisseur plantaire.",
+      "D": "Vrai : c'est le principal fléchisseur dorsal.",
+      "E": "Faux : seule D est juste."
+    }
+  },
+  "502cd391-58d3-5d1a-9fcc-96580adf4081": {
+    "why": "Le triceps sural se termine sur le calcanéus et n'est pas le seul fléchisseur plantaire. Les fibulaires croisent plusieurs articulations. Le poplité est innervé par le nerf tibial.",
+    "options": {
+      "A": "Faux : il se termine sur la tubérosité du calcanéus.",
+      "B": "Faux : les fibulaires, le tibial postérieur et les longs fléchisseurs participent.",
+      "C": "Faux : ils croisent la cheville et les articulations du tarse.",
+      "D": "Vrai : nerf tibial.",
+      "E": "Faux : seule D est juste."
+    }
+  },
+  "d1c9578c-4887-5acc-bb54-dd88f210caa8": {
+    "why": "Le tibial antérieur, le plus médial des muscles antérieurs de la jambe, est fléchisseur dorsal de la cheville. Il est innervé par le nerf fibulaire profond : une section du nerf fibulaire commun le paralyse (pied tombant).",
+    "options": {
+      "A": "Vrai : fléchisseur dorsal.",
+      "B": "Faux : c'est le plus médial.",
+      "C": "Vrai : le fibulaire profond est une branche du fibulaire commun.",
+      "D": "Faux : c'est un fléchisseur dorsal.",
+      "E": "Vrai : A et C sont justes."
+    }
+  },
+  "eba4f0f4-124e-503e-8ebb-59b6327fc6e6": {
+    "why": "Le court fibulaire est situé sous le long fibulaire, contre la face latérale de la fibula. Son tendon passe derrière la malléole latérale et se termine sur la base du 5e métatarsien, sans passer sous la plante. Il est innervé par le nerf fibulaire superficiel et n'agit pas sur les orteils.",
+    "options": {
+      "A": "Faux : c'est le long fibulaire qui le recouvre.",
+      "B": "Faux : c'est le long fibulaire qui passe sous la plante.",
+      "C": "Faux : il se termine sur le 5e métatarsien, pas sur un orteil.",
+      "D": "Vrai : il repose sur la face latérale de la fibula.",
+      "E": "Faux : il est innervé par le nerf fibulaire superficiel."
+    }
+  },
+  "9e238cb6-6907-51bb-8027-6a9b248e1635": {
+    "why": "La diaphyse fémorale a trois faces et trois bords ; le bord postérieur est la ligne âpre, où s'insèrent les adducteurs, les vastes et les septums intermusculaires. La face latérale donne naissance au vaste intermédiaire.",
+    "options": {
+      "A": "Faux : les septums s'insèrent sur les lèvres de la ligne âpre.",
+      "B": "Faux : le vaste latéral s'insère sur la lèvre latérale de la ligne âpre et le grand trochanter.",
+      "C": "Vrai : les adducteurs s'insèrent sur la ligne âpre.",
+      "D": "Faux : elle donne insertion au vaste intermédiaire.",
+      "E": "Faux : seule C est juste."
+    }
+  },
+  "474408c5-aa79-5494-9c54-173faf719c22": {
+    "why": "Le psoas naît des corps et disques de T12 à L4 et des processus transverses lombaires ; le plexus lombal se forme dans son épaisseur. L'ilio-psoas se termine sur le petit trochanter, est innervé par le nerf fémoral et des branches du plexus lombal, et c'est le principal fléchisseur de la hanche.",
+    "options": {
+      "A": "Faux : ses insertions vont de T12 à L4 (et processus transverses de L1 à L5).",
+      "B": "Faux : le plexus lombal se forme dans l'épaisseur du psoas.",
+      "C": "Faux : il se termine sur le petit trochanter.",
+      "D": "Vrai : principal fléchisseur de la cuisse.",
+      "E": "Faux : il est innervé par le nerf fémoral et le plexus lombal."
+    }
+  },
+  "766ac8d2-5e93-5e53-9f80-f76cda546a24": {
+    "why": "Les adducteurs occupent la loge médiale de la cuisse. Le grand adducteur est le plus profond (dorsal). Le long adducteur (plan superficiel) et le court (plan moyen) ne sont pas dans le même plan. Avec le pectiné et le gracile, le groupe compte cinq muscles.",
+    "options": {
+      "A": "Faux selon le cours : avec le pectiné et le gracile, la loge compte cinq muscles adducteurs.",
+      "B": "Faux : c'est le plus profond.",
+      "C": "Vrai : loge médiale.",
+      "D": "Faux : le long est superficiel, le court est dans le plan moyen.",
+      "E": "Faux : B est fausse."
+    }
+  },
+  "4eebeae1-ca95-5e28-b8f7-86970e3f14fa": {
+    "why": "Les pelvi-trochantériens sont rotateurs latéraux de la hanche. Le piriforme naît de la face pelvienne du sacrum ; ils se terminent sur le grand trochanter et la fosse trochantérique ; l'obturateur interne sort par la petite incisure.",
+    "options": {
+      "A": "Vrai : tous rotateurs latéraux.",
+      "B": "Faux : il naît de la face antérieure (pelvienne) du sacrum.",
+      "C": "Faux : ils se terminent sur le grand trochanter.",
+      "D": "Faux : il passe par la petite incisure.",
+      "E": "Faux : seule A est juste."
+    }
+  },
+  "0ff9a2b0-c5c6-5584-8ca3-0c64a9473a40": {
+    "why": "Le poplité est rotateur médial et fléchisseur du genou. Le tibial antérieur est fléchisseur dorsal. Le long fléchisseur des orteils est médial dans la loge postérieure (l'hallux est latéral). L'éversion fait intervenir les deux fibulaires.",
+    "options": {
+      "A": "Faux selon le corrigé : c'est un fléchisseur dorsal.",
+      "B": "Faux : il est médial.",
+      "C": "Vrai : il « déverrouille » le genou.",
+      "D": "Faux : le long fibulaire est aussi éverseur.",
+      "E": "Faux : B est fausse."
+    }
+  },
+  "0ce84a01-3b1d-5796-8c12-246ddfcf9f28": {
+    "why": "Les fléchisseurs plantaires sont surtout innervés par le nerf tibial (les fibulaires par le fibulaire superficiel). Certains sont bi-articulaires (gastrocnémien, plantaire) et le triceps se termine par le tendon calcanéen.",
+    "options": {
+      "A": "Faux : la plupart dépendent du nerf tibial.",
+      "B": "Vrai : le gastrocnémien croise le genou et la cheville.",
+      "C": "Faux : certains sont bi-articulaires.",
+      "D": "Vrai : gastrocnémien et soléaire.",
+      "E": "Vrai : B et D sont justes."
+    }
+  },
+  "58b968e8-48a6-5ffa-9f8b-c385c80d9675": {
+    "why": "Rotateurs latéraux de la hanche : pelvi-trochantériens (piriforme, jumeaux, obturateurs, carré fémoral) et grand glutéal. Moyen et petit glutéaux (fibres antérieures) et tenseur du fascia lata sont surtout rotateurs médiaux.",
+    "options": {
+      "A": "Faux : le moyen glutéal est surtout abducteur (et rotateur médial par ses fibres antérieures).",
+      "B": "Vrai : quatre rotateurs latéraux.",
+      "C": "Faux : le petit glutéal est rotateur médial.",
+      "D": "Faux : le tenseur du fascia lata est rotateur médial.",
+      "E": "Faux : moyen et petit glutéaux ne sont pas rotateurs latéraux."
+    }
+  },
+  "89fbe6fd-c060-538e-b0c9-c16161e22046": {
+    "why": "Le court fibulaire est profond (sous le long fibulaire). Son tendon longe le bord latéral du pied jusqu'à la base du 5e métatarsien, sans passer sous la plante. Il est éverseur et participe à la flexion plantaire, mais n'agit pas sur les orteils.",
+    "options": {
+      "A": "Faux : il est recouvert par le long fibulaire.",
+      "B": "Vrai : c'est le long fibulaire qui passe sous la plante.",
+      "C": "Faux en réalité : il se termine sur le 5e métatarsien, pas sur un orteil.",
+      "D": "Juste en réalité : son tendon longe le bord latéral du pied.",
+      "E": "Juste en réalité : il participe à la flexion plantaire."
+    },
+    "keyIssue": "le court fibulaire se termine sur la base du 5e métatarsien : il n'agit pas sur les orteils (C faux, comme le retient une autre question du cours), son tendon longe le bord latéral du pied (D) et il participe à la flexion plantaire (E).",
+    "aiKey": "BDE"
+  },
+  "ddf27e2e-ed55-5d81-9ae2-362c35fed98c": {
+    "why": "À la jambe, les muscles antérieurs sont fléchisseurs dorsaux (le tibial antérieur n'étend pas les orteils). Le triceps se termine sur le calcanéus. Le semi-membraneux s'arrête au genou et la loge postérieure contient des muscles bi-articulaires (gastrocnémien, plantaire).",
+    "options": {
+      "A": "Faux : le tibial antérieur n'agit pas sur les orteils.",
+      "B": "Faux : il se termine sur le calcanéus.",
+      "C": "Vrai : il se termine sur le condyle médial du tibia.",
+      "D": "Vrai : gastrocnémien et plantaire.",
+      "E": "Faux : C et D sont justes."
+    }
+  },
+  "b3f28265-a967-5a17-9bbe-be03ac7abf63": {
+    "why": "Dans l'anneau fémoral, l'artère est latérale à la veine. Les perforantes de la fémorale profonde vont aussi à la loge postérieure. Dans la fosse poplitée, l'artère est l'élément le plus profond. L'artère tibiale antérieure se continue par l'artère dorsale du pied. Le cercle du genou reçoit aussi des branches de la fémorale.",
+    "options": {
+      "A": "Faux : l'artère est latérale, la veine médiale.",
+      "B": "Faux : ses perforantes irriguent surtout la loge postérieure.",
+      "C": "Faux : de la surface vers la profondeur : nerf, veine, puis artère.",
+      "D": "Vrai : elle devient artère dorsale du pied sous le rétinaculum des extenseurs.",
+      "E": "Faux selon le corrigé : le cercle reçoit aussi la descendante du genou (fémorale), et l'artère fibulaire n'y participe pas."
+    }
+  },
+  "87a678a1-61c4-5804-b56b-82d789844662": {
+    "why": "Les veines superficielles cheminent dans le tissu sous-cutané. La petite saphène naît de l'extrémité latérale de l'arcade veineuse dorsale, passe derrière la malléole latérale, remonte sur la face postérieure de la jambe et se jette dans la veine poplitée. La grande saphène monte sur la face médiale du membre.",
+    "options": {
+      "A": "Faux selon le corrigé : elles sont dans le tissu sous-cutané, au-dessus du fascia profond.",
+      "B": "Vrai : par la veine marginale latérale.",
+      "C": "Faux : elle monte à la face médiale de la cuisse, en surface, jusqu'au hiatus saphène.",
+      "D": "Faux : elle remonte sur la face postérieure de la jambe.",
+      "E": "Faux : A et D sont fausses."
+    }
+  },
+  "1c414ab3-77a8-52c7-8106-b3b63e034eed": {
+    "why": "L'artère tibiale antérieure naît de la bifurcation de la poplitée, dans la loge postérieure, au bord inférieur du poplité. Elle traverse la membrane interosseuse, descend dans la loge antérieure et se continue par l'artère dorsale du pied.",
+    "options": {
+      "A": "Faux : elle naît de la bifurcation de l'artère poplitée ; le tronc tibio-fibulaire est l'autre branche.",
+      "B": "Faux : elle naît dans la loge postérieure.",
+      "C": "Faux en réalité : elle descend dans la loge antérieure.",
+      "D": "Juste en réalité : elle se continue par l'artère dorsale du pied.",
+      "E": "Faux : C est fausse."
+    },
+    "keyIssue": "après avoir traversé la membrane interosseuse, l'artère tibiale antérieure descend dans la loge antérieure (C faux) et se continue par l'artère dorsale du pied (D juste, comme le retient une autre question du cours).",
+    "aiKey": "D"
+  },
+  "9d2ab671-fa53-50f2-b274-ca2cec871f7c": {
+    "why": "Le cercle artériel du genou est formé de deux cercles, supérieur et inférieur, anastomosés entre eux. Il est alimenté par les artères géniculaires (poplitée), la descendante du genou (fémorale) et les récurrentes jambières.",
+    "options": {
+      "A": "Faux : les cercles sont supérieur et inférieur.",
+      "B": "Faux : ils sont surtout issus de la poplitée.",
+      "C": "Faux : ils sont anastomosés entre eux.",
+      "D": "Faux : la descendante du genou rejoint le cercle supérieur.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "ee168b96-b968-5330-984c-0918480bf916": {
+    "why": "La grande saphène monte superficiellement sur la face médiale du membre, accompagnée à la jambe par le nerf saphène (sensitif). Elle traverse le fascia criblé pour se jeter dans la veine fémorale ; sa crosse est entourée par les nœuds lymphatiques inguinaux superficiels.",
+    "options": {
+      "A": "Faux : elle suit la face médiale.",
+      "B": "Faux : elle est accompagnée par le nerf saphène (branche du fémoral), pas par le nerf fémoral lui-même.",
+      "C": "Vrai : nœuds inguinaux superficiels.",
+      "D": "Faux selon le corrigé : elle reste superficielle et ne traverse le fascia qu'à sa terminaison (hiatus saphène).",
+      "E": "Faux : le nerf saphène est sensitif."
+    }
+  },
+  "e2213180-ee38-514f-8c42-b51766db6e73": {
+    "why": "L'artère tibiale postérieure se divise dans le canal calcanéen en artères plantaires médiale et latérale, destinées à la plante du pied.",
+    "options": {
+      "A": "Faux selon le corrigé : c'est une branche de la tibiale postérieure (la formule « l'artère tibiale » est imprécise).",
+      "B": "Faux : elle irrigue la plante du pied.",
+      "C": "Faux : la division se fait dans le canal calcanéen.",
+      "D": "Vrai : canal calcanéen, sous le rétinaculum des fléchisseurs.",
+      "E": "Faux : A est jugée fausse."
+    }
+  },
+  "0f5cf99d-b29b-583a-801d-57722e0a3641": {
+    "why": "La grande saphène fait suite à la veine marginale médiale ; la petite passe derrière la malléole latérale et se jette dans la veine poplitée. Les veines profondes sont doubles à la jambe mais uniques à partir du creux poplité. Toutes les veines superficielles finissent dans le réseau profond.",
+    "options": {
+      "A": "Faux : la grande saphène fait suite à la veine marginale médiale.",
+      "B": "Faux : elle passe derrière la malléole latérale.",
+      "C": "Faux : elle se termine dans le creux poplité.",
+      "D": "Faux : veines poplitée et fémorale sont uniques.",
+      "E": "Vrai : directement ou par des perforantes."
+    }
+  },
+  "081d4562-65bc-50ac-84e6-14b5d5c76405": {
+    "why": "On cherche la proposition fausse. L'artère fémorale fait suite à l'iliaque externe sous le ligament inguinal. Dans l'anneau fémoral, le nerf est latéral, l'artère au milieu, la veine médiale ; le ligament lacunaire limite l'anneau en dedans.",
+    "options": {
+      "A": "Juste : elle change de nom en passant sous le ligament inguinal.",
+      "B": "Réponse attendue (fausse) : le ligament lacunaire limite l'anneau en dedans.",
+      "C": "Juste : l'ilio-psoas est latéral.",
+      "D": "Juste : la veine est médiale.",
+      "E": "Juste : le nerf est latéral."
+    }
+  },
+  "68e1aa3b-c4d4-5c09-9dc9-a2ac33205728": {
+    "why": "La fémorale profonde donne les circonflexes médiale et latérale, l'artère du quadriceps et les perforantes. L'artère descendante du genou naît de la fémorale elle-même, dans le canal des adducteurs.",
+    "options": {
+      "A": "Collatérale de la fémorale profonde.",
+      "B": "Collatérale de la fémorale profonde.",
+      "C": "Collatérale de la fémorale profonde.",
+      "D": "Collatérales de la fémorale profonde.",
+      "E": "Réponse attendue : elle naît de l'artère fémorale."
+    }
+  },
+  "0f3868f4-f3cc-5155-8152-95cc3a3f120c": {
+    "why": "Les artères tibiale antérieure et tibiale postérieure (via le tronc tibio-fibulaire) naissent de la poplitée, dans la loge postérieure (dorsale). Chaque artère de la jambe est accompagnée de deux veines.",
+    "options": {
+      "A": "Vrai : elle naît dans la loge postérieure avant de traverser la membrane interosseuse.",
+      "B": "Vrai : elle naît du tronc tibio-fibulaire, dans la loge postérieure.",
+      "C": "Faux : il est dans la loge postérieure.",
+      "D": "Faux : chaque artère est accompagnée de deux veines.",
+      "E": "Vrai : A et B sont justes."
+    }
+  },
+  "c4432607-0834-556c-ad5d-76354189185b": {
+    "why": "La grande saphène naît de l'extrémité médiale de l'arcade dorsale et se termine par sa crosse à l'aine, dans la veine fémorale. La petite saphène remonte sur la face postérieure de la jambe et se jette dans la veine poplitée.",
+    "options": {
+      "A": "Faux : elle naît de l'extrémité médiale.",
+      "B": "Vrai : face postérieure (dorsale) de la jambe.",
+      "C": "Faux : elle se jette dans la veine poplitée.",
+      "D": "Faux : ce sont les artères de la jambe qui sont accompagnées de deux veines.",
+      "E": "Faux : la crosse est à l'aine (hiatus saphène)."
+    }
+  },
+  "a5452ad8-2775-549e-9df7-c3b468abd894": {
+    "why": "L'artère fémorale fait suite à l'iliaque externe sous le ligament inguinal, descend dans le canal fémoral (des adducteurs) et donne la fémorale profonde. Les deux circonflexes naissent habituellement de la fémorale profonde, pas de la fémorale elle-même.",
+    "options": {
+      "A": "Faux en réalité : les circonflexes naissent habituellement de la fémorale profonde.",
+      "B": "Vrai : elle descend dans le canal fémoral (canal des adducteurs).",
+      "C": "Vrai : c'est sa principale collatérale.",
+      "D": "Vrai : sous le ligament inguinal.",
+      "E": "Faux : A est fausse."
+    },
+    "keyIssue": "les deux circonflexes de la cuisse naissent habituellement de l'artère fémorale profonde (c'est ce que retiennent les autres questions du cours), pas de la fémorale elle-même ; A est donc fausse, et « toutes exactes » aussi.",
+    "aiKey": "BCD"
+  },
+  "365b046f-c5ae-5f6d-8727-b06fdb87cf88": {
+    "why": "Le genou est irrigué par un réseau fait de deux cercles anastomosés, alimentés par les géniculaires de la poplitée, la descendante du genou et, selon le cours, une récurrente tibiale médiale du tronc tibio-fibulaire.",
+    "options": {
+      "A": "Faux : les deux cercles sont anastomosés.",
+      "B": "Faux selon le corrigé : les récurrentes viennent de la tibiale antérieure et du tronc tibio-fibulaire.",
+      "C": "Faux : la fémorale participe aussi (descendante du genou).",
+      "D": "Vrai selon le cours.",
+      "E": "Faux : A, B et C sont fausses."
+    }
+  },
+  "06de7498-0137-5ced-a62f-28580b138e31": {
+    "why": "La petite saphène passe derrière la malléole latérale, monte à la face postérieure de la jambe accompagnée du nerf sural (nerf cutané), et se jette dans la veine poplitée. Veine superficielle, elle n'accompagne aucune artère.",
+    "options": {
+      "A": "Juste en réalité : le nerf sural, cutané, l'accompagne.",
+      "B": "Vrai : derrière la malléole latérale.",
+      "C": "Faux : elle s'arrête au creux poplité.",
+      "D": "Faux : elle se jette dans la veine poplitée.",
+      "E": "Faux : c'est une veine superficielle, sans artère satellite."
+    },
+    "keyIssue": "la petite saphène est accompagnée par le nerf sural, qui est un nerf cutané (une autre question du cours retient d'ailleurs que le nerf sural accompagne la petite saphène). A est donc juste aussi.",
+    "aiKey": "AB"
+  },
+  "998ee127-9a5a-5587-8c10-3a720306ad9b": {
+    "why": "Collatérales de l'artère fémorale : épigastrique superficielle, circonflexe iliaque superficielle, pudendales externes, fémorale profonde et descendante du genou. Circonflexes, perforantes et artère du quadriceps viennent de la fémorale profonde ; la pudendale interne vient de l'iliaque interne.",
+    "options": {
+      "A": "Faux : elle vient de l'iliaque interne.",
+      "B": "Faux : elle vient de la fémorale profonde.",
+      "C": "Faux : elle vient de la fémorale profonde.",
+      "D": "Vrai : elle naît de la fémorale dans le canal des adducteurs.",
+      "E": "Faux : elle vient de la fémorale profonde."
+    }
+  },
+  "2de4e7a2-e869-5733-be57-f62c4d0f6b0b": {
+    "why": "La fémorale profonde descend en arrière du long adducteur, en avant du court et du grand adducteurs. Elle donne les perforantes, et sa terminaison perfore le grand adducteur. Le nerf saphène accompagne l'artère fémorale, pas la profonde.",
+    "options": {
+      "A": "Faux : le grand adducteur est en arrière d'elle.",
+      "B": "Faux selon le corrigé : elle passe en arrière du long adducteur.",
+      "C": "Vrai : ses perforantes et sa terminaison traversent le grand adducteur.",
+      "D": "Faux : le nerf saphène accompagne l'artère fémorale.",
+      "E": "Faux : seule C est juste."
+    }
+  },
+  "e7b69ca9-44a1-5cce-bf0a-89b176f76aeb": {
+    "why": "La grande saphène monte sur la face médiale de la jambe avec le nerf saphène. La petite saphène monte à la face postérieure avec le nerf sural, formé par les nerfs cutanés suraux médial et latéral.",
+    "options": {
+      "A": "Faux : le nerf saphène accompagne la grande saphène.",
+      "B": "Faux : elle monte sur la face médiale.",
+      "C": "Faux selon le corrigé : les veines inter-saphènes sont postéro-médiales.",
+      "D": "Vrai selon le corrigé : la petite saphène est accompagnée par le nerf sural.",
+      "E": "Faux : la grande saphène est accompagnée du nerf saphène."
+    }
+  },
+  "1bdd2212-c914-5425-92d0-ef18168aa20a": {
+    "why": "Les artères de la jambe naissent de la poplitée. Le tronc tibio-fibulaire est en arrière du tibia, dans la loge postérieure. Le pouls tibial postérieur se prend derrière la malléole médiale. L'artère nourricière du tibia vient de la tibiale postérieure.",
+    "options": {
+      "A": "Faux : elles naissent de l'artère poplitée.",
+      "B": "Faux : il est en arrière du tibia et du muscle tibial postérieur.",
+      "C": "Faux selon le corrigé.",
+      "D": "Faux : en arrière de la malléole médiale.",
+      "E": "Vrai : elle pénètre le foramen nourricier de la face postérieure."
+    }
+  },
+  "afd57ad5-12cd-55c9-a8b5-827e5eea0b21": {
+    "why": "Le nerf fémoral (crural), issu de L2-L3-L4, innerve les fléchisseurs de la hanche (iliaque, sartorius, droit fémoral, pectiné) et le quadriceps (extension du genou). Par le nerf saphène, sa sensibilité descend jusqu'à la malléole médiale.",
+    "options": {
+      "A": "Faux : il vient de L2, L3, L4.",
+      "B": "Juste en réalité : il innerve les fléchisseurs de la cuisse sur le bassin (iliaque, sartorius, droit fémoral).",
+      "C": "Vrai : par le nerf saphène.",
+      "D": "Faux : les adducteurs dépendent du nerf obturateur.",
+      "E": "Faux : C est juste."
+    },
+    "keyIssue": "le nerf fémoral innerve les fléchisseurs de la cuisse (iliaque, sartorius, droit fémoral, pectiné) ; le corrigé type d'une autre question du cours retient d'ailleurs qu'il « permet la flexion de la hanche ». B est donc juste aussi.",
+    "aiKey": "BC"
+  },
+  "8f634257-a0a9-5db8-8d71-9c3f75caaaad": {
+    "why": "Le nerf obturateur innerve l'obturateur externe et les muscles de la loge médiale : c'est le nerf de l'adduction de la cuisse.",
+    "options": {
+      "A": "Vrai : il innerve les adducteurs.",
+      "B": "Faux : l'extension de la hanche dépend du glutéal inférieur (grand glutéal) et du sciatique.",
+      "C": "Faux : la flexion du genou dépend du sciatique.",
+      "D": "Faux : l'extension du genou dépend du nerf fémoral.",
+      "E": "Faux : ce sont les nerfs fibulaire profond et tibial."
+    }
+  },
+  "8d55bcf3-ae98-5aa7-ac51-2139b22e9487": {
+    "why": "Le nerf sciatique sort du bassin par la grande incisure ischiatique, sous le muscle piriforme (canal infra-piriforme).",
+    "options": {
+      "A": "Faux : le canal supra-piriforme laisse passer le pédicule glutéal supérieur.",
+      "B": "Vrai : il passe sous le piriforme.",
+      "C": "Faux : le foramen obturé laisse passer le nerf obturateur.",
+      "D": "Faux : l'anneau fémoral mène à la cuisse (vaisseaux fémoraux).",
+      "E": "Faux : seule B est juste."
+    }
+  },
+  "db9a359e-3db9-55ef-8e41-2c63cc891d55": {
+    "why": "Le nerf fémoral permet la flexion de la hanche et l'extension du genou. Il n'innerve que les loges antérieures (pas les adducteurs ni les ischio-jambiers). Il se divise dans le trigone fémoral ; seul le nerf saphène accompagne l'artère, et sa sensibilité à la jambe est médiale.",
+    "options": {
+      "A": "Faux : c'est l'inverse (flexion de la hanche, extension du genou).",
+      "B": "Faux : à la jambe, son territoire (nerf saphène) est la face médiale.",
+      "C": "Faux : pas les adducteurs, pas les ischio-jambiers.",
+      "D": "Faux : il se divise dès le trigone fémoral ; seul le nerf saphène accompagne l'artère.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "91bae92e-e8cd-5d5a-92be-db71675260ef": {
+    "why": "Le nerf obturateur arrive dans la loge des adducteurs par le canal obturateur (sous-pubien), en arrière du pectiné, et se divise autour du court adducteur. Il innerve les adducteurs et le gracile ; le pectiné dépend surtout du nerf fémoral, et le grand adducteur reçoit aussi le nerf sciatique. Sa sensibilité concerne la face médiale de la cuisse.",
+    "options": {
+      "A": "Faux : les ischio-jambiers dépendent du sciatique.",
+      "B": "Faux selon le corrigé : le pectiné dépend surtout du fémoral et le grand adducteur aussi du sciatique.",
+      "C": "Vrai : canal obturateur (sous-pubien).",
+      "D": "Faux : sa sensibilité concerne la face médiale de la cuisse.",
+      "E": "Faux : il passe en arrière du pectiné et du long adducteur."
+    }
+  },
+  "23d41a09-161f-58db-ba79-7637e1e77077": {
+    "why": "Le plexus sacral, triangulaire, est formé du tronc lombo-sacral (L4-L5) et des branches antérieures de S1 à S3 (S3 en partie seulement). Plaqué sur le piriforme, il a pour branche terminale le nerf sciatique.",
+    "options": {
+      "A": "Vrai : tronc lombo-sacral + S1, S2, S3.",
+      "B": "Faux : sa branche terminale est le sciatique ; l'obturateur vient du plexus lombal.",
+      "C": "Faux : il est triangulaire, à sommet vers la grande incisure.",
+      "D": "Faux : les loges antérieure et médiale dépendent du plexus lombal.",
+      "E": "Faux : S3 ne participe qu'en partie (le reste va au plexus pudendal)."
+    }
+  },
+  "d325f05e-4962-5e04-a462-37ceeb6b3f03": {
+    "why": "On cherche la proposition fausse. Le sciatique, nerf mixte le plus volumineux du corps, se projette dans le quadrant inféro-médial de la fesse. Il donne des collatérales aux ischio-jambiers, puis se divise en nerfs tibial et fibulaire commun, qui assurent toute la motricité de la jambe et du pied.",
+    "options": {
+      "A": "Juste : c'est le plus gros nerf du corps.",
+      "B": "Juste : tibial et fibulaire commun.",
+      "C": "Juste : d'où les injections dans le quadrant supéro-latéral.",
+      "D": "Réponse attendue (fausse) : il donne des branches aux ischio-jambiers et au genou.",
+      "E": "Juste : tous les muscles de la jambe et du pied."
+    }
+  },
+  "a5097a46-5cc6-5247-b4e1-6e1cae9e74e5": {
+    "why": "Le nerf ischiatique (sciatique) fléchit le genou (ischio-jambiers). Par le tibial, il assure la flexion plantaire ; par le fibulaire profond, la flexion dorsale ; et il donne la sensibilité de la face postéro-latérale de la jambe.",
+    "options": {
+      "A": "Vrai : ischio-jambiers.",
+      "B": "Vrai : par le nerf tibial.",
+      "C": "Vrai : par le nerf fibulaire profond.",
+      "D": "Vrai : nerfs sural et cutané sural latéral.",
+      "E": "Vrai : toutes sont justes."
+    }
+  },
+  "71768fe5-e322-56be-9dd3-7510bcca7329": {
+    "why": "Au pied, le dos est innervé par le nerf fibulaire superficiel (sauf le 1er espace, fibulaire profond), le bord latéral par le nerf sural, le bord médial par le saphène et la plante par le tibial (nerfs plantaires).",
+    "options": {
+      "A": "Faux : le bord latéral dépend du nerf sural.",
+      "B": "Vrai : fibulaire superficiel.",
+      "C": "Faux selon le corrigé : ce sont ses branches (surtout le fibulaire superficiel).",
+      "D": "Vrai : par les nerfs plantaires médial et latéral.",
+      "E": "Vrai : B et D sont justes."
+    }
+  },
+  "5bcb3639-4e69-528c-bb37-18b5483fc1f9": {
+    "why": "Le nerf fémoral (L2-L3-L4) innerve les fléchisseurs de la hanche (iliaque, sartorius, droit fémoral, pectiné) et le quadriceps. Par le nerf saphène, son territoire sensitif descend jusqu'à la malléole médiale.",
+    "options": {
+      "A": "Faux : L2, L3, L4.",
+      "B": "Juste en réalité : il innerve les fléchisseurs de la cuisse sur le bassin.",
+      "C": "Vrai : par le nerf saphène.",
+      "D": "Faux : les adducteurs dépendent de l'obturateur.",
+      "E": "Faux : C est juste."
+    },
+    "keyIssue": "le nerf fémoral innerve les fléchisseurs de la cuisse (iliaque, sartorius, droit fémoral, pectiné) ; le corrigé type d'une autre question du cours retient qu'il « permet la flexion de la hanche ». B est donc juste aussi.",
+    "aiKey": "BC"
+  },
+  "7f5bc3cd-fa69-5983-ad37-abf000f0059a": {
+    "why": "Dans la nomenclature internationale, le nerf crural s'appelle nerf fémoral. Le tendon calcanéen est l'ancien tendon d'Achille, le sartorius l'ancien couturier ; le droit antérieur est devenu le droit fémoral.",
+    "options": {
+      "A": "Faux : le tendon calcanéen est le tendon d'Achille.",
+      "B": "Faux : le fibulaire commun est l'ancien sciatique poplité externe.",
+      "C": "Faux : le sartorius est l'ancien couturier.",
+      "D": "Faux : l'ancien plexus honteux est le plexus pudendal.",
+      "E": "Vrai : nerf crural = nerf fémoral."
+    }
+  },
+  "cadfe08f-47b2-5894-b36a-510a79f93a12": {
+    "why": "Le plexus sacral donne des collatérales aux muscles pelvi-trochantériens (dont le carré fémoral), les nerfs glutéaux, le cutané fémoral postérieur… Le pectiné et l'obturateur externe dépendent du plexus lombal, et le nerf sural latéral vient du fibulaire commun.",
+    "options": {
+      "A": "Faux : le pectiné dépend du fémoral (et de l'obturateur).",
+      "B": "Vrai : collatérale du plexus sacral.",
+      "C": "Faux : il vient du plexus lombal.",
+      "D": "Faux : c'est une branche du fibulaire commun.",
+      "E": "Faux : il est innervé par le nerf obturateur."
+    }
+  },
+  "98007723-639e-51e0-847d-41e3b9ac6ee7": {
+    "why": "Le nerf ischiatique donne des rameaux articulaires au genou et innerve les ischio-jambiers (et une partie du grand adducteur). La face médiale de la cuisse dépend de l'obturateur ; le sartorius et le pectiné, du fémoral.",
+    "options": {
+      "A": "Faux : elle dépend de l'obturateur.",
+      "B": "Vrai : par ses rameaux articulaires.",
+      "C": "Faux : nerf fémoral.",
+      "D": "Faux : le court adducteur dépend de l'obturateur.",
+      "E": "Faux : nerf fémoral."
+    }
+  },
+  "b71ac898-f0f5-51cc-8c50-7b039d53e247": {
+    "why": "Le plexus sacral est profond, dans le bassin, plaqué à la face antérieure (ventrale) du piriforme. Par le sciatique, il innerve les fléchisseurs du genou.",
+    "options": {
+      "A": "Vrai : face antérieure du piriforme.",
+      "B": "Vrai : paroi postéro-latérale du bassin.",
+      "C": "Vrai : par le sciatique (ischio-jambiers).",
+      "D": "Vrai : il est situé profondément dans le pelvis.",
+      "E": "Vrai : toutes sont justes."
+    }
+  },
+  "80c90d5e-0cc6-5542-8e40-fe6b2fe979f2": {
+    "why": "Le nerf ischiatique est le nerf de la loge postérieure (dorsale) de la cuisse. C'est la branche terminale du plexus sacral. Formé sur la face antérieure du piriforme, il sort sous lui et se divise au sommet de la fosse poplitée.",
+    "options": {
+      "A": "Vrai : ischio-jambiers.",
+      "B": "Faux : c'est sa branche terminale, pas une collatérale.",
+      "C": "Faux : il se divise au sommet de la fosse poplitée ; ce sont ses branches qui la traversent.",
+      "D": "Faux : il sort sous le piriforme.",
+      "E": "Faux : A est juste."
+    }
+  },
+  "45704339-bfa3-5e0b-aa3f-306ae499a70d": {
+    "why": "Le plexus lombal naît des branches ventrales de L1 à L4 et se forme entre les deux plans du psoas. Le nerf obturateur sort par le bord médial du psoas ; le fémoral et le cutané latéral de la cuisse, par son bord latéral.",
+    "options": {
+      "A": "Faux : il naît de L1 à L4.",
+      "B": "Faux : c'est le nerf génito-fémoral (il n'existe pas de nerf « ilio-fémoral »).",
+      "C": "Vrai : dans l'épaisseur du psoas.",
+      "D": "Faux : il sort par le bord médial.",
+      "E": "Faux : il se distribue à la face latérale de la cuisse."
+    }
+  },
+  "85639e52-bc15-540a-8725-936739c3c5e3": {
+    "why": "Le nerf fémoral entre dans la cuisse par la lacune musculaire, en dehors de l'artère, et se divise aussitôt dans le trigone fémoral. Il innerve le quadriceps, le sartorius, le pectiné… et par le saphène son territoire descend jusqu'au pied.",
+    "options": {
+      "A": "Faux : il passe par la lacune musculaire.",
+      "B": "Faux : il se divise dans le trigone fémoral.",
+      "C": "Faux : aussi le sartorius et le pectiné.",
+      "D": "Faux : le nerf saphène descend à la jambe.",
+      "E": "Vrai : aucune n'est exacte."
+    }
+  },
+  "e799acf9-70b2-5fd5-ba53-c7ef45a9ca29": {
+    "why": "La peau de la cuisse dépend : en avant, des rameaux cutanés antérieurs (perforants) du musculo-cutané latéral du fémoral ; en dehors, du cutané fémoral latéral ; en dedans, de l'obturateur ; au genou médial, du saphène.",
+    "options": {
+      "A": "Vrai : rameaux perforants.",
+      "B": "Vrai : nerf cutané fémoral latéral.",
+      "C": "Vrai : par sa branche cutanée.",
+      "D": "Vrai : rameau infra-patellaire du saphène.",
+      "E": "Vrai : toutes sont exactes."
+    }
+  },
+  "cd487008-20c2-55c3-aac4-86cba51e308b": {
+    "why": "On cherche la proposition fausse. Sous le ligament inguinal, le nerf fémoral est latéral à l'artère. Il innerve les fléchisseurs de la hanche et le quadriceps, le sartorius et le pectiné, donne les nerfs cutanés antérieurs, et par le saphène atteint la malléole médiale. Le long adducteur, lui, dépend de l'obturateur.",
+    "options": {
+      "A": "Fausse : il est en dehors de l'axe vasculaire.",
+      "B": "Juste : quadriceps et fléchisseurs de la hanche.",
+      "C": "Fausse aussi en réalité : le sartorius oui, mais le long adducteur dépend du nerf obturateur.",
+      "D": "Juste : nerf saphène.",
+      "E": "Juste : rameaux cutanés antérieurs."
+    },
+    "keyIssue": "le long adducteur est innervé par le nerf obturateur, pas par le fémoral : la proposition C est donc fausse elle aussi, et la question a deux réponses.",
+    "aiKey": "AC"
+  },
+  "bfdbfd37-2dba-5206-8c8c-cc7ec2f7dcf8": {
+    "why": "On cherche la proposition fausse. Le nerf obturateur (L2-L3-L4) arrive par le canal sous-pubien, innerve les adducteurs et donne la sensibilité de la face médiale de la cuisse. Le grand adducteur reçoit une double innervation : obturateur et sciatique (pas fémoral).",
+    "options": {
+      "A": "Juste : L2, L3, L4.",
+      "B": "Juste : canal obturateur.",
+      "C": "Juste selon le corrigé : il innerve les trois adducteurs (long, court, grand).",
+      "D": "Réponse attendue (fausse) : le grand adducteur est partagé avec le sciatique, pas avec le fémoral.",
+      "E": "Juste : face médiale de la cuisse."
+    }
+  },
+  "4cd035f1-465e-5587-b64c-2c4e819f0288": {
+    "why": "Le plexus sacral naît de L4 à S3 et a pour seule branche terminale le nerf sciatique. Il innerve les pelvi-trochantériens sauf l'obturateur externe (nerf obturateur), et ni la loge antérieure ni la loge médiale de la cuisse.",
+    "options": {
+      "A": "Faux : il naît de L4 à S3.",
+      "B": "Vrai : le sciatique.",
+      "C": "Faux : l'obturateur externe dépend du nerf obturateur.",
+      "D": "Faux : loges antérieure et médiale = plexus lombal.",
+      "E": "Faux : seule B est juste."
+    }
+  },
+  "f3488eab-5a8d-5831-a24e-5d022e84df19": {
+    "why": "Le nerf obturateur, branche médiale du plexus lombal (il sort par le bord médial du psoas), est sensitivo-moteur. Il innerve l'obturateur externe et la plupart des muscles de la loge médiale.",
+    "options": {
+      "A": "Vrai : il émerge du bord médial du psoas.",
+      "B": "Vrai : adducteurs et gracile.",
+      "C": "Vrai : moteur (adduction) et sensitif (face médiale de la cuisse).",
+      "D": "Vrai : obturateur externe.",
+      "E": "Vrai : toutes sont exactes."
+    }
+  },
+  "aa2b83ca-c48e-54d9-a8d4-b16c159c96bf": {
+    "why": "Le nerf crural (fémoral) est une branche terminale du plexus lombal. Sensitivo-moteur, il innerve les muscles antérieurs de la cuisse et assure l'extension du genou.",
+    "options": {
+      "A": "Faux : il vient du plexus lombal.",
+      "B": "Vrai : mixte.",
+      "C": "Faux : seulement les muscles de la loge antérieure (et le pectiné).",
+      "D": "Faux : il assure l'extension du genou.",
+      "E": "Faux : B est juste."
+    }
+  },
+  "ea806267-16b8-5886-922f-68c32c04a818": {
+    "why": "Le plexus lombal naît de L1 à L4. Parmi ses branches terminales, certaines sont purement sensitives (cutané latéral de la cuisse). Ses branches motrices vont aux muscles antérieurs (fémoral) et médiaux (obturateur) de la cuisse ; sa sensibilité s'étend aux faces antérieure, latérale et médiale de la cuisse, et jusqu'au pied (saphène).",
+    "options": {
+      "A": "Faux : L1 à L4.",
+      "B": "Faux : aussi les faces latérale et médiale, et la jambe.",
+      "C": "Faux : le cutané latéral de la cuisse est purement sensitif.",
+      "D": "Vrai : fémoral et obturateur.",
+      "E": "Faux : seule D est juste."
+    }
+  },
+  "7d3182b5-3197-51a4-a17f-2a51e9a181aa": {
+    "why": "Le plexus sacral est formé du tronc lombo-sacral (L4-L5) et de S1 à S3. Situé en partie dans la cavité pelvienne, sur le piriforme, il donne notamment le nerf du carré fémoral.",
+    "options": {
+      "A": "Faux : il manque le tronc lombo-sacral (L4-L5).",
+      "B": "Vrai : il est en partie pelvien.",
+      "C": "Faux : il est sur le piriforme.",
+      "D": "Vrai : collatérale du plexus sacral.",
+      "E": "Vrai : B et D sont justes."
+    }
+  },
+  "105786ae-ab2d-5e76-8dc5-73f7f1a02847": {
+    "why": "Le nerf ischiatique naît de L4 à S3, sur la face antérieure du muscle piriforme. Il innerve les muscles de la loge postérieure, mais la peau de la face postérieure de la cuisse dépend du nerf cutané fémoral postérieur. Dans la patte d'oie, il n'innerve que le semi-tendineux.",
+    "options": {
+      "A": "Faux : L4 à S3.",
+      "B": "Faux : sartorius (fémoral) et gracile (obturateur) ne dépendent pas de lui.",
+      "C": "Vrai : il se forme sur la face antérieure du piriforme.",
+      "D": "Faux selon le corrigé : la peau de la face dorsale dépend du nerf cutané fémoral postérieur.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "48674290-5c32-5886-9e92-f6eaf9eec8b5": {
+    "why": "Le plexus lombal (L1 à L4) se forme dans l'épaisseur du psoas. Ses collatérales sont de courts rameaux moteurs (psoas, carré des lombes). Ses branches terminales sont soit mixtes (fémoral, obturateur…), soit sensitives (cutané latéral de la cuisse).",
+    "options": {
+      "A": "Faux : il est dans l'épaisseur du psoas.",
+      "B": "Faux : L1 à L4.",
+      "C": "Vrai : ce sont des rameaux musculaires courts.",
+      "D": "Faux : certaines sont sensitives ou mixtes.",
+      "E": "Faux : le cutané latéral de la cuisse est purement sensitif."
+    }
+  },
+  "050968ef-ccc6-5e45-a9c8-8abb2561606a": {
+    "why": "Le nerf fémoral passe par la lacune musculaire, en dehors de l'artère, et se divise dès son arrivée dans le trigone fémoral en quatre branches : musculo-cutanés latéral et médial, nerf du quadriceps, nerf saphène.",
+    "options": {
+      "A": "Faux : il passe par la lacune musculaire.",
+      "B": "Faux selon le corrigé : ses branches terminales sont mixtes, motrices ou sensitives, pas toutes superficielles et sensitives.",
+      "C": "Vrai : il se divise dans le trigone fémoral.",
+      "D": "Faux : il est en dehors de l'artère.",
+      "E": "Faux selon le corrigé."
+    }
+  },
+  "89ab5c27-7b21-5b91-b789-89fb82b9f8ec": {
+    "why": "Le nerf obturateur innerve l'obturateur externe (et les adducteurs). Le piriforme et l'obturateur interne dépendent du plexus sacral ; l'ilio-psoas, du plexus lombal et du nerf fémoral.",
+    "options": {
+      "A": "Faux : plexus sacral.",
+      "B": "Faux : plexus lombal et nerf fémoral.",
+      "C": "Vrai : c'est le muscle qui lui donne son nom.",
+      "D": "Faux : plexus sacral (nerf de l'obturateur interne).",
+      "E": "Faux : seul C."
+    }
+  },
+  "0701d8b0-fb8d-5f45-92eb-a1d53c941f63": {
+    "why": "Les nerfs cutanés perforants (du musculo-cutané latéral) innervent la peau de la face antérieure de la cuisse. Le nerf saphène se distribue au genou et à la jambe. Le sartorius est innervé par le musculo-cutané latéral, et le grand adducteur par l'obturateur et le sciatique.",
+    "options": {
+      "A": "Faux : il innerve la face médiale du genou et de la jambe.",
+      "B": "Faux : il reçoit l'obturateur et le sciatique.",
+      "C": "Vrai : rameaux perforants antérieurs.",
+      "D": "Faux : il dépend du musculo-cutané latéral ; le saphène est sensitif.",
+      "E": "Faux : il innerve le quadriceps (loge antérieure)."
+    }
+  },
+  "31e58324-9c0c-5d23-8ce4-b99f43817263": {
+    "why": "Dans la fosse poplitée, le pédicule est étagé du plus superficiel au plus profond : nerf tibial, veine poplitée (qui reçoit la petite saphène), artère poplitée (profonde et médiale). Le nerf fibulaire commun longe le bord médial du biceps fémoral. En bas, le pédicule s'enfonce entre les chefs du gastrocnémien.",
+    "options": {
+      "A": "Faux : l'artère est profonde et médiale par rapport à la veine.",
+      "B": "Faux : le nerf tibial est l'élément le plus superficiel (postérieur).",
+      "C": "Faux : elle reçoit la petite saphène.",
+      "D": "Vrai : il suit le bord médial du biceps vers la tête de la fibula.",
+      "E": "Faux : en bas, il s'enfonce sous les chefs du gastrocnémien."
+    }
+  },
+  "b75d95aa-8056-57d0-8bd3-47c3cc9a4659": {
+    "why": "Le canal fémoral (canal des adducteurs) contient l'artère et la veine fémorales, le nerf saphène et le nerf du vaste médial (accessoire du saphène). La grande saphène reste superficielle, en dehors du canal.",
+    "options": {
+      "A": "Présente : elle le parcourt de haut en bas.",
+      "B": "Présente : en arrière de l'artère.",
+      "C": "Réponse attendue : veine superficielle, hors du canal.",
+      "D": "Présent : il croise l'artère en avant.",
+      "E": "Présent selon le cours."
+    }
+  },
+  "73bd1c19-a1cb-5e61-9226-aaf8aedbdc29": {
+    "why": "Dans le trigone fémoral, on trouve, de dehors en dedans, le nerf, l'artère puis la veine fémorales. La veine reçoit la crosse de la grande saphène, le nerf fémoral donne ses branches terminales et l'artère fémorale donne la fémorale profonde.",
+    "options": {
+      "A": "Vrai : la veine est médiale.",
+      "B": "Vrai : crosse de la saphène au hiatus saphène.",
+      "C": "Vrai : il se divise dès son entrée.",
+      "D": "Vrai : environ 4 cm sous le ligament inguinal.",
+      "E": "Vrai : toutes sont justes."
+    }
+  },
+  "24587af0-c3d0-5db7-af7e-be8e4a63bb4c": {
+    "why": "À la face médiale de la cheville, sous le rétinaculum des fléchisseurs (canal calcanéen), passent les tendons du tibial postérieur et des fléchisseurs, ainsi que l'artère tibiale postérieure et le nerf tibial. L'artère y donne ses deux branches terminales, les artères plantaires.",
+    "options": {
+      "A": "Faux : il passe sous le rétinaculum des fléchisseurs.",
+      "B": "Faux : elle est accompagnée du nerf tibial.",
+      "C": "Vrai : artères plantaires médiale et latérale.",
+      "D": "Faux : il n'existe pas d'artère « fibulaire superficielle ».",
+      "E": "Faux : B est fausse."
+    }
+  },
+  "2d76a89c-4b88-5bad-9f70-bcc7f64fa5f2": {
+    "why": "Dans le trigone fémoral, l'artère est latérale à la veine, et le nerf fémoral donne ses quatre branches terminales : musculo-cutanés latéral et médial, nerf du quadriceps et nerf saphène. Le nerf saphène est une branche terminale directe.",
+    "options": {
+      "A": "Faux : l'artère est en dehors de la veine.",
+      "B": "Vrai : toutes ses branches terminales.",
+      "C": "Faux : c'est une branche terminale directe du nerf fémoral.",
+      "D": "Faux selon le corrigé : il sort près de l'épine iliaque antéro-supérieure, en dehors du trigone.",
+      "E": "Faux : C est fausse."
+    }
+  },
+  "e013dc94-ba32-5f74-98e3-321288b6385b": {
+    "why": "Dans l'aisselle, la veine est l'élément le plus médial. Autour de l'artère se placent les faisceaux du plexus brachial (le postérieur en arrière d'elle). Le nerf ulnaire est entre l'artère et la veine. Le faisceau postérieur se divise en nerf axillaire (latéral) et nerf radial.",
+    "options": {
+      "A": "Faux : elle présente des fentes (espaces des muscles ronds).",
+      "B": "Faux : c'est la veine qui est la plus médiale.",
+      "C": "Faux : le faisceau postérieur est en arrière de l'artère.",
+      "D": "Vrai : il est entre l'artère et la veine.",
+      "E": "Faux : la branche latérale est le nerf axillaire."
+    }
+  },
+  "3322a7cc-dbb1-567e-b8ab-2fb4548b37d9": {
+    "why": "Dans la fosse poplitée, de la surface vers la profondeur : nerf tibial, veine poplitée (qui reçoit la petite saphène), artère poplitée. Le nerf fibulaire commun longe le bord médial du biceps.",
+    "options": {
+      "A": "Faux : l'artère est profonde et médiale.",
+      "B": "Faux : il est le plus superficiel.",
+      "C": "Faux : elle reçoit la petite saphène.",
+      "D": "Vrai : il suit le bord médial du biceps.",
+      "E": "Faux : en bas, le pédicule s'enfonce sous le gastrocnémien."
+    }
+  },
+  "ac93226e-4705-509c-80e9-cb2f35dd5396": {
+    "why": "L'artère fémorale donne la fémorale profonde environ 4 cm sous le ligament inguinal ; c'est la profonde qui est la véritable artère nourricière de la cuisse. La fémorale traverse ensuite le canal fémoral (des adducteurs). Les circonflexes entourent l'extrémité supérieure du fémur.",
+    "options": {
+      "A": "Faux : environ 4 cm sous le ligament inguinal.",
+      "B": "Faux : c'est la fémorale profonde.",
+      "C": "Vrai : elle parcourt le canal des adducteurs.",
+      "D": "Faux : elles entourent le col et l'extrémité supérieure.",
+      "E": "Faux : seule C est juste."
+    }
+  },
+  "a4ceff67-4303-5d3f-90c7-dd6b5ee090e4": {
+    "why": "Dans le trigone fémoral, la veine est médiale à l'artère. La grande saphène traverse le fascia criblé (hiatus saphène) pour rejoindre la veine fémorale. Le nerf saphène est sensitif.",
+    "options": {
+      "A": "Faux : la veine est médiale.",
+      "B": "Vrai : par le hiatus saphène (fascia criblé).",
+      "C": "Faux : le nerf saphène est sensitif.",
+      "D": "Faux selon le corrigé : il accompagne l'artère fémorale, pas la profonde.",
+      "E": "Faux : C est fausse."
+    }
+  },
+  "b7606b5d-1920-57cc-b129-faf661ffc7d5": {
+    "why": "Le toit (paroi postérieure) de la fosse poplitée est aponévrotique et percé par la petite saphène. L'artère poplitée est profonde et donne des branches musculaires et articulaires (géniculaires). Le nerf tibial est l'élément le plus superficiel.",
+    "options": {
+      "A": "Faux : c'est la paroi postérieure qui est aponévrotique.",
+      "B": "Faux : elle est l'élément le plus profond.",
+      "C": "Faux : elle donne aussi les artères géniculaires (articulaires).",
+      "D": "Faux : il est le plus superficiel.",
+      "E": "Vrai : aucune n'est exacte."
+    }
+  },
+  "1277e76b-6ec0-560e-bda6-f2ae7f3969d6": {
+    "why": "La fosse poplitée est limitée en haut et en dehors par le biceps, en haut et en dedans par les semi-membraneux et semi-tendineux. Le nerf tibial la traverse verticalement, le fibulaire commun longe le bord médial du biceps. L'artère est l'élément le plus profond.",
+    "options": {
+      "A": "Faux : c'est le biceps fémoral.",
+      "B": "Faux : elle est l'élément le plus profond (ventral).",
+      "C": "Vrai : il suit l'axe vertical de la fosse.",
+      "D": "Faux : il suit le bord médial du biceps.",
+      "E": "Faux : c'est la petite saphène."
+    }
+  },
+  "dd3c28b9-7c18-52a2-83fe-e92aca6d1d9e": {
+    "why": "Dans la fosse poplitée, le plancher (paroi antérieure) est formé par le fémur, la capsule et le muscle poplité ; la paroi médiale par les semi-tendineux et semi-membraneux. Le nerf tibial est l'élément le plus superficiel du pédicule, la veine est latérale et superficielle par rapport à l'artère.",
+    "options": {
+      "A": "Faux : le poplité forme une partie de la paroi antérieure (plancher).",
+      "B": "Faux : ce sont les limites médiales.",
+      "C": "Faux selon le corrigé : le pédicule est profond à la partie inférieure, sous le gastrocnémien.",
+      "D": "Vrai : nerf, veine, puis artère.",
+      "E": "Faux : la veine est en dehors et en arrière de l'artère."
+    }
+  },
+  "7c0b4b6d-1b21-5512-b2df-ce66475cc407": {
+    "why": "Dans le trigone fémoral, l'artère est entre le nerf (en dehors) et la veine (en dedans), qui reçoit la grande saphène. Elle donne la fémorale profonde puis continue dans le canal des adducteurs.",
+    "options": {
+      "A": "Faux selon le corrigé : en dedans, elle répond au pectiné et au long adducteur.",
+      "B": "Vrai : la veine fémorale reçoit la grande saphène.",
+      "C": "Faux : elle est en dedans du nerf.",
+      "D": "Faux : elle se poursuit dans le canal des adducteurs.",
+      "E": "Faux : B est juste."
+    }
+  },
+  "a0fa4dad-a2d9-50b1-b3ad-3a64e821a141": {
+    "why": "Le trigone fémoral est limité en haut par le ligament inguinal, en dehors par le sartorius, en dedans par le long adducteur. Son toit est le fascia criblé ; son plancher, l'ilio-psoas et le pectiné.",
+    "options": {
+      "A": "Faux : c'est le long adducteur.",
+      "B": "Faux : le long adducteur est la limite médiale.",
+      "C": "Faux : c'est le sartorius.",
+      "D": "Vrai : le fascia criblé forme le toit.",
+      "E": "Faux : il est la limite latérale ; en haut, c'est le ligament inguinal."
+    }
+  },
+  "ce2220a2-86cb-54a9-bb3d-f010d124dba9": {
+    "why": "Dans le canal des adducteurs, l'artère fémorale est accompagnée de sa veine, placée en arrière d'elle, et elle est croisée en avant par le nerf saphène. En arrière, elle répond au long et au grand adducteurs. Elle y donne l'artère descendante du genou.",
+    "options": {
+      "A": "Faux selon le corrigé : la veine est en arrière de l'artère.",
+      "B": "Faux : en arrière, ce sont les longs et grand adducteurs.",
+      "C": "Vrai : le nerf la croise en avant, de dehors en dedans.",
+      "D": "Faux : c'est l'artère descendante du genou.",
+      "E": "Faux : B est fausse."
+    }
+  },
+  "1fcc39c9-b976-5640-a79b-88211acf1436": {
+    "why": "Le trigone fémoral a pour base le ligament inguinal, pour bord latéral le sartorius et pour bord médial le long adducteur. Le nerf fémoral est en dehors de l'artère. La grande saphène y forme sa crosse pour se jeter dans la veine fémorale.",
+    "options": {
+      "A": "Faux : c'est le long adducteur.",
+      "B": "Faux : la base est le ligament inguinal.",
+      "C": "Faux : l'artère est en dedans du nerf.",
+      "D": "Vrai : crosse de la grande saphène.",
+      "E": "Faux selon le corrigé : il est en dehors de l'artère, qu'il croise plus bas en avant."
+    }
+  }
+}
