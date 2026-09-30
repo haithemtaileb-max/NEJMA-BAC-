@@ -1,1 +1,2646 @@
-{}
+{
+  "b2643a88-8f4c-5a61-a389-b7d466720648": {
+    "why": "L'épithélium de revêtement est avasculaire mais innervé. Il repose sur une membrane basale qui le sépare du tissu conjonctif sous-jacent et se renouvelle à partir de cellules souches situées au pôle basal. Certains épithéliums sont sensoriels (olfactif, gustatif).",
+    "options": {
+      "A": "Vrai : neuro-épithéliums (olfaction, goût).",
+      "B": "Faux : il se renouvelle en permanence.",
+      "C": "Faux : il en est séparé par la membrane basale, et le conjonctif est sous-jacent.",
+      "D": "Faux : elles sont au pôle basal.",
+      "E": "Faux : il n'est pas « peu » vascularisé, il est avasculaire."
+    }
+  },
+  "e9c3ef1b-2b1c-573c-aa50-496338f5eb5c": {
+    "why": "L'épithélium de revêtement est avasculaire, se régénère à partir de cellules souches basales, repose sur une membrane basale au-dessus du conjonctif, et peut être sensoriel.",
+    "options": {
+      "A": "Faux : il est avasculaire.",
+      "B": "Faux : il se régénère.",
+      "C": "Faux : la membrane basale l'en sépare, et le conjonctif est sous-jacent.",
+      "D": "Faux : elles sont basales.",
+      "E": "Vrai : épithéliums olfactif et gustatif."
+    }
+  },
+  "a56d78a2-e135-53bd-b293-fff7236ab721": {
+    "why": "L'épithélium pavimenteux stratifié (malpighien) comporte plusieurs couches de cellules de formes différentes (basales cubiques, intermédiaires polyédriques, superficielles aplaties). Il repose sur une lame basale, peut être kératinisé (épiderme) ou non (œsophage), et n'a pas de différenciation apicale.",
+    "options": {
+      "A": "Faux : il n'a pas de différenciation apicale (cils, microvillosités).",
+      "B": "Faux : il comporte de nombreuses couches.",
+      "C": "Vrai : basales, intermédiaires et superficielles (et, dans l'épiderme, mélanocytes, cellules de Langerhans…).",
+      "D": "Vrai : c'est le cas de l'épiderme.",
+      "E": "Faux : tout épithélium repose sur une lame basale."
+    }
+  },
+  "dbd7c0b7-6f23-5c8a-9ff4-ac882bee371e": {
+    "why": "L'endothélium est un épithélium de revêtement simple pavimenteux qui tapisse le cœur et tous les vaisseaux, veines comprises. Les séreuses (plèvre) sont tapissées par le mésothélium.",
+    "options": {
+      "A": "Faux : il est simple pavimenteux.",
+      "B": "Faux selon le cours : il se renouvelle à partir de cellules de réserve.",
+      "C": "Vrai : il tapisse l'intérieur des veines.",
+      "D": "Faux : la plèvre est tapissée par le mésothélium.",
+      "E": "Faux : c'est un épithélium de revêtement."
+    }
+  },
+  "49e41de0-932f-5961-9f88-25cb118db44f": {
+    "why": "L'épithélium respiratoire est pseudostratifié, cilié, avec des cellules caliciformes (à mucus).",
+    "options": {
+      "A": "Faux : les stéréocils caractérisent l'épididyme.",
+      "B": "Faux : il est pseudostratifié, pas pluristratifié.",
+      "C": "Vrai : cellules caliciformes sécrétant le mucus.",
+      "D": "Faux : il porte des cils, pas une bordure en brosse."
+    }
+  },
+  "7ad707b5-b34d-51fa-ab1f-c17f60d2acf8": {
+    "why": "L'épithélium pavimenteux stratifié comporte plusieurs couches et plusieurs types cellulaires, sans différenciation apicale ; il peut être kératinisé (épiderme).",
+    "options": {
+      "A": "Faux : pas de différenciation apicale.",
+      "B": "Faux : il a de nombreuses couches.",
+      "C": "Faux : plusieurs types cellulaires selon les couches.",
+      "D": "Vrai : épiderme."
+    }
+  },
+  "99eec312-f274-542e-ac9e-48120429f468": {
+    "why": "L'endothélium, simple pavimenteux, tapisse le cœur et tous les vaisseaux, dont les veines. La plèvre est tapissée par le mésothélium.",
+    "options": {
+      "A": "Faux : c'est un épithélium de revêtement.",
+      "B": "Faux selon le cours : il se renouvelle à partir de cellules de réserve.",
+      "C": "Vrai : il tapisse les veines.",
+      "D": "Faux : c'est le mésothélium."
+    }
+  },
+  "1d620e02-07fe-5feb-9ec3-1d28df284bd9": {
+    "why": "Un épithélium pseudostratifié est un épithélium simple (toutes les cellules touchent la membrane basale) dont les noyaux sont à des hauteurs différentes, ce qui donne une fausse impression de plusieurs couches. Il comporte plusieurs types cellulaires (ex. épithélium respiratoire).",
+    "options": {
+      "A": "Faux : il n'est pas kératinisé.",
+      "B": "Faux : il comporte plusieurs types cellulaires (ciliées, caliciformes, basales).",
+      "C": "Faux : c'est l'endothélium.",
+      "D": "Vrai : c'est sa définition.",
+      "E": "Faux : il n'a qu'une seule couche."
+    }
+  },
+  "0f4f9bdf-e552-5d44-a329-86c780e4989a": {
+    "why": "Les épithéliums de revêtement se classent selon le nombre de couches, la forme des cellules superficielles et la présence de différenciations apicales. Aucune des formulations proposées n'est exacte.",
+    "options": {
+      "A": "Faux : c'est la forme des cellules superficielles, pas la taille.",
+      "B": "Faux : on regarde les différenciations apicales, pas basales.",
+      "C": "Faux : on regarde les cellules superficielles.",
+      "D": "Faux : la fonction n'est pas un critère.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "a5aaee5f-eccb-5d9c-802a-056fd037ed0d": {
+    "why": "L'épithélium de revêtement est avasculaire mais innervé. Il se régénère à partir de cellules souches situées au pôle basal, et repose sur une membrane basale qui le sépare du conjonctif sous-jacent. Ses cellules sont unies par plusieurs types de jonctions.",
+    "options": {
+      "A": "Faux : il est innervé (terminaisons nerveuses libres).",
+      "B": "Vrai : il se renouvelle en permanence.",
+      "C": "Faux : le conjonctif est sous-jacent.",
+      "D": "Faux selon le cours : les cellules souches sont au pôle basal.",
+      "E": "Faux : jonctions serrées, desmosomes, adhérentes et communicantes."
+    }
+  },
+  "4a8eb00b-e233-567f-9431-be8df5e73d69": {
+    "why": "L'épithélium malpighien est un épithélium pavimenteux stratifié, kératinisé (épiderme) ou non (œsophage, vagin). Ses cellules basales sont cubiques ou prismatiques, les superficielles aplaties.",
+    "options": {
+      "A": "Faux : il ne l'est pas toujours (œsophage).",
+      "B": "Faux : il est stratifié, pas pseudostratifié.",
+      "C": "Faux : c'est un épithélium de revêtement.",
+      "D": "Vrai : les cellules basales sont cubiques ou prismatiques.",
+      "E": "Faux : il est stratifié."
+    }
+  },
+  "92fa3fe8-65e5-59a4-bacb-1502a91e92a2": {
+    "why": "Un épithélium stratifié comporte plusieurs couches de cellules de formes différentes selon la profondeur. Il n'est kératinisé que dans l'épiderme.",
+    "options": {
+      "A": "Faux : seul l'épiderme est kératinisé.",
+      "B": "Faux : il comporte plusieurs couches.",
+      "C": "Faux : c'est la définition du pseudostratifié.",
+      "D": "Vrai : plusieurs couches, formes différentes."
+    }
+  },
+  "b4b63f77-1a54-5144-aa7c-4c0c411a5411": {
+    "why": "Les critères de classification sont le nombre de couches, la forme des cellules superficielles et l'existence de différenciations apicales de certaines cellules.",
+    "options": {
+      "A": "Faux : c'est la forme des cellules superficielles, pas la taille.",
+      "B": "Vrai : cils, microvillosités, stéréocils…",
+      "C": "Faux : on regarde les cellules superficielles.",
+      "D": "Faux : la fonction n'est pas un critère."
+    }
+  },
+  "74ef9f21-10c6-5302-93ac-0c7f3131f8a6": {
+    "why": "L'épithélium de revêtement est avasculaire mais innervé. Il repose sur une membrane basale qui le sépare du tissu conjonctif sous-jacent ; ses cellules souches sont basales et ses cellules unies par plusieurs types de jonctions.",
+    "options": {
+      "A": "Faux : il est innervé.",
+      "B": "Vrai : membrane basale, conjonctif sous-jacent.",
+      "C": "Faux selon le cours : elles sont au pôle basal.",
+      "D": "Faux : il existe aussi des jonctions serrées, adhérentes, desmosomes."
+    }
+  },
+  "3c68dea0-05d7-58ca-a148-e28b75350f39": {
+    "why": "L'épithélium malpighien est un épithélium pavimenteux stratifié, kératinisé ou non.",
+    "options": {
+      "A": "Faux : il n'est pas toujours kératinisé.",
+      "B": "Faux : il est stratifié.",
+      "C": "Faux : il est de revêtement.",
+      "D": "Vrai : pavimenteux (stratifié)."
+    }
+  },
+  "2985bcc9-93f2-55de-9809-e7891e90e67f": {
+    "why": "L'épithélium pavimenteux stratifié compte plusieurs couches et plusieurs types cellulaires. Il repose sur une lame basale, n'a pas de différenciation apicale et peut être kératinisé.",
+    "options": {
+      "A": "Faux : pas de différenciation apicale.",
+      "B": "Faux : de nombreuses couches.",
+      "C": "Faux : plusieurs types cellulaires.",
+      "D": "Vrai : épiderme.",
+      "E": "Faux : il repose sur une lame basale."
+    }
+  },
+  "8e4231ea-9ee6-5a14-b36d-77bc807a4462": {
+    "why": "L'endothélium est un épithélium de revêtement simple pavimenteux qui tapisse le cœur et les vaisseaux, veines comprises. Les séreuses sont tapissées par le mésothélium.",
+    "options": {
+      "A": "Faux : il est de revêtement.",
+      "B": "Faux selon le cours : il possède des cellules de réserve.",
+      "C": "Vrai : il tapisse les veines.",
+      "D": "Faux : c'est le mésothélium.",
+      "E": "Vrai : simple pavimenteux."
+    }
+  },
+  "50453e94-607b-506c-a6cc-c1d899b54a3b": {
+    "why": "Le mésothélium, qui tapisse les séreuses, est simple pavimenteux. Un épithélium simple peut comporter plusieurs types cellulaires et n'est pas toujours prismatique. Seul l'épiderme est kératinisé parmi les stratifiés, et l'endothélium est simple pavimenteux.",
+    "options": {
+      "A": "Faux : seul l'épiderme est kératinisé.",
+      "B": "Faux : il peut avoir plusieurs types (entérocytes et caliciformes).",
+      "C": "Faux : il est simple pavimenteux.",
+      "D": "Faux : il peut être pavimenteux, cubique ou prismatique.",
+      "E": "Vrai : plèvre, péritoine, péricarde."
+    }
+  },
+  "26790aab-90a0-507b-bea9-5aeb1e95a4c5": {
+    "why": "Les critères de classification sont le nombre de couches, la forme des cellules superficielles et les différenciations apicales de certaines cellules.",
+    "options": {
+      "A": "Vrai : simple, stratifié, pseudostratifié.",
+      "B": "Faux : de certaines cellules, pas de toutes.",
+      "C": "Faux : on regarde les cellules superficielles.",
+      "D": "Faux : forme des cellules superficielles, pas taille.",
+      "E": "Faux : seule A est juste."
+    }
+  },
+  "14804f08-c951-5d6c-9a55-b8f29df299ce": {
+    "why": "L'épithélium de revêtement est avasculaire, se régénère à partir de cellules souches basales, repose sur une membrane basale au-dessus du conjonctif et peut être sensoriel.",
+    "options": {
+      "A": "Faux : il est avasculaire.",
+      "B": "Vrai : renouvellement permanent.",
+      "C": "Faux : la membrane basale les sépare toujours.",
+      "D": "Faux : elles sont au pôle basal.",
+      "E": "Vrai : neuro-épithéliums."
+    }
+  },
+  "df2afff8-dafa-573c-8b9a-a2c80a9eba37": {
+    "why": "Les épithéliums de revêtement peuvent contenir des cellules glandulaires (cellules caliciformes). Ils se renouvellent à partir de cellules souches, dérivent des trois feuillets, et l'endothélium en est un exemple qui tapisse les veines.",
+    "options": {
+      "A": "Faux : ils peuvent contenir des cellules caliciformes.",
+      "B": "Vrai : cellules souches indifférenciées.",
+      "C": "Vrai : l'endothélium tapisse les veines.",
+      "D": "Faux : ils dérivent des trois feuillets (épiderme = ectoblaste, intestin = entoblaste…)."
+    }
+  },
+  "5eadaa24-3228-529a-8db8-04b48f8d8c30": {
+    "why": "L'épithélium de revêtement ne contient jamais de capillaires sanguins : il est nourri par diffusion depuis le chorion. Le plateau strié est une différenciation apicale, et l'épiderme est kératinisé.",
+    "options": {
+      "A": "Faux : c'est une différenciation du pôle apical.",
+      "B": "Faux : un épithélium simple peut avoir plusieurs types cellulaires.",
+      "C": "Faux : l'épiderme est kératinisé.",
+      "D": "Vrai : il est avasculaire."
+    }
+  },
+  "84498dfe-5ea4-547c-8a25-b1abd795ec5e": {
+    "why": "Le tissu épithélial est avasculaire, fait de cellules étroitement jointives, et repose toujours sur une membrane basale doublée d'un chorion conjonctif. La différenciation apicale est un critère de classification. L'endothélium tapisse les vaisseaux.",
+    "options": {
+      "A": "Faux : les cellules sont étroitement (et non « largement ») juxtaposées.",
+      "B": "Vrai : un tissu conjonctif (chorion) le soutient toujours.",
+      "C": "Faux : il peut être pavimenteux, cubique ou prismatique.",
+      "D": "Vrai : cils, microvillosités, stéréocils…",
+      "E": "Faux : il tapisse les vaisseaux et le cœur."
+    }
+  },
+  "6dd51a74-a0db-5c6d-ad61-6d2fdfec789c": {
+    "why": "Une glande exocrine est dite « composée » quand son canal excréteur est ramifié, et « tubuleuse » d'après la forme de sa portion sécrétrice. Dans le cours, la glande tubuleuse composée pure est une glande muqueuse, extra-épithéliale et exocrine ; les glandes séreuses sont acineuses.",
+    "options": {
+      "A": "Vrai : les glandes tubuleuses pures sont muqueuses.",
+      "B": "Faux : « tubuleuse » décrit la portion sécrétrice.",
+      "C": "Faux : elle est dans le conjonctif, sous l'épithélium.",
+      "D": "Vrai : elle déverse son produit par un canal excréteur.",
+      "E": "Faux : les glandes séreuses sont acineuses."
+    }
+  },
+  "8386c6c7-b0a6-59b6-a2ab-ec6de7b97046": {
+    "why": "Dans la sécrétion holocrine, la cellule entière se charge du produit puis meurt et est éliminée avec lui (glande sébacée). C'est un mode rare, propre à certaines glandes exocrines ; le mode le plus répandu est la sécrétion mérocrine (exocytose).",
+    "options": {
+      "A": "Faux : le plus répandu est le mode mérocrine.",
+      "B": "Vrai : glandes sébacées.",
+      "C": "Faux : la cellule est détruite.",
+      "D": "Vrai : la cellule meurt avec son produit.",
+      "E": "Faux : l'exocytose caractérise le mode mérocrine."
+    }
+  },
+  "15b09eb5-4fb0-50ff-842b-ed08856687b8": {
+    "why": "Dans le cours, les glandes séreuses sont exocrines acineuses pures (parotide, pancréas exocrine). Les glandes muqueuses sont tubuleuses et les glandes mixtes tubulo-acineuses.",
+    "options": {
+      "A": "Vrai : acineuse pure.",
+      "B": "Faux : c'est la glande muqueuse.",
+      "C": "Faux : c'est la glande mixte.",
+      "D": "Faux : forme non retenue pour la glande séreuse."
+    }
+  },
+  "67bc9e66-7b34-5b30-a52c-3134abf1ee41": {
+    "why": "La glande tubuleuse composée pure est, dans le cours, une glande muqueuse exocrine, située dans le conjonctif ; « composée » signifie que le canal excréteur est ramifié.",
+    "options": {
+      "A": "Vrai : glande muqueuse.",
+      "B": "Faux : « tubuleuse » décrit la portion sécrétrice.",
+      "C": "Faux : elle est extra-épithéliale.",
+      "D": "Faux : les glandes séreuses sont acineuses."
+    }
+  },
+  "0acc7744-9224-5da1-ac00-71fa20cabf69": {
+    "why": "La sécrétion holocrine détruit la cellule, éliminée avec son produit (glande sébacée). C'est un mode exocrine rare.",
+    "options": {
+      "A": "Faux : le plus répandu est le mode mérocrine.",
+      "B": "Faux : c'est un mode exocrine.",
+      "C": "Faux : la cellule meurt.",
+      "D": "Vrai : destruction de la cellule."
+    }
+  },
+  "74fd6950-3f10-5135-95f1-00b03f47f7b8": {
+    "why": "La glande exocrine séreuse est, dans le cours, une glande acineuse pure composée, située dans le conjonctif (parotide, pancréas exocrine).",
+    "options": {
+      "A": "Faux : elle est extra-épithéliale.",
+      "B": "Faux : les glandes tubuleuses ramifiées simples sont d'un autre type (glandes gastriques).",
+      "C": "Faux : une glande mixte est séro-muqueuse.",
+      "D": "Faux : c'est la glande muqueuse.",
+      "E": "Vrai : acineuse pure composée."
+    }
+  },
+  "4f088252-a4b9-516c-ac41-8543c7975427": {
+    "why": "La glande endocrine vésiculaire (thyroïde) est formée de cellules qui délimitent une cavité remplie de colloïde, où l'hormone est stockée. Elle n'a pas de canal excréteur et sécrète une hormone, substance spécifique.",
+    "options": {
+      "A": "Faux : une glande endocrine n'a pas de portion excrétrice.",
+      "B": "Faux : elle est extra-épithéliale.",
+      "C": "Vrai : vésicules (follicules) remplies de colloïde.",
+      "D": "Faux : l'hormone est une substance spécifique.",
+      "E": "Faux : c'est la glande trabéculaire (cordonnale)."
+    }
+  },
+  "cc92091f-7b78-53a2-90cb-f8963ceffa1e": {
+    "why": "La sécrétion holocrine détruit la cellule : c'est le mode de certaines glandes exocrines (glandes sébacées).",
+    "options": {
+      "A": "Faux : la cellule est détruite.",
+      "B": "Faux : elle est exocrine.",
+      "C": "Faux : l'exocytose est le mode mérocrine.",
+      "D": "Vrai : glandes sébacées.",
+      "E": "Faux : D est juste."
+    }
+  },
+  "0a72c640-8539-5766-a4ea-64bacc0e8fb7": {
+    "why": "Une glande conglomérée est une glande exocrine composée dont tous les lobules se drainent dans un seul canal excréteur principal (parotide, pancréas). La glande agminée en a plusieurs.",
+    "options": {
+      "A": "Faux : elle est exocrine.",
+      "B": "Faux : elle est composée.",
+      "C": "Vrai : un seul canal principal.",
+      "D": "Faux : c'est la glande agminée.",
+      "E": "Faux : B est fausse."
+    }
+  },
+  "f9c5b9f6-4644-5d18-b7e2-21a152027052": {
+    "why": "Dans le cours, la glande exocrine muqueuse (extra-épithéliale) est une glande tubuleuse pure composée.",
+    "options": {
+      "A": "Faux selon le corrigé : le cours décrit ici la glande muqueuse extra-épithéliale.",
+      "B": "Faux : forme non retenue pour la glande muqueuse.",
+      "C": "Faux : une glande mixte est séro-muqueuse.",
+      "D": "Vrai : tubuleuse pure composée."
+    }
+  },
+  "8e4696c1-7de8-512a-88c9-966e43b98d33": {
+    "why": "La glande endocrine trabéculaire (cordonnale) est faite de cellules disposées en cordons, séparés par des capillaires (antéhypophyse, corticosurrénale).",
+    "options": {
+      "A": "Faux : elle est extra-épithéliale.",
+      "B": "Faux : c'est la glande vésiculaire.",
+      "C": "Faux : l'hormone est spécifique.",
+      "D": "Vrai : cellules en cordons."
+    }
+  },
+  "acff65ea-68df-54f4-ab22-fe9a9067014b": {
+    "why": "La sécrétion mérocrine libère le produit par exocytose, sans altérer la cellule. C'est le mode de la plupart des glandes exocrines, mais les cellules endocrines sécrètent aussi par exocytose : ce n'est pas un mode propre aux exocrines.",
+    "options": {
+      "A": "Juste en réalité : la cellule reste intacte, c'est la définition du mode mérocrine.",
+      "B": "Faux : les cellules endocrines sécrètent aussi par exocytose.",
+      "C": "Vrai : le produit est libéré par exocytose.",
+      "D": "Juste en réalité : c'est le mode de la majorité des glandes exocrines."
+    },
+    "keyIssue": "la sécrétion mérocrine respecte l'intégrité de la cellule (A) et c'est le mode de sécrétion de la plupart des glandes exocrines (D), comme le retient une autre question du cours.",
+    "aiKey": "ACD"
+  },
+  "61abe260-c3b1-5fb0-b478-b46b0e90992a": {
+    "why": "Une glande agminée réunit plusieurs glandes, chacune gardant son propre canal excréteur : elle a plusieurs canaux principaux (ex. prostate).",
+    "options": {
+      "A": "Faux : elle est exocrine.",
+      "B": "Faux : c'est un groupement de glandes.",
+      "C": "Faux : c'est la glande conglomérée.",
+      "D": "Vrai : plusieurs canaux principaux."
+    }
+  },
+  "7c8c9626-f79f-54f0-a2ea-4f8ece12a7e5": {
+    "why": "La glande tubuleuse composée pure est, dans le cours, une glande muqueuse exocrine extra-épithéliale ; « composée » signifie que le canal excréteur est ramifié.",
+    "options": {
+      "A": "Vrai : glande muqueuse.",
+      "B": "Faux : « tubuleuse » décrit la portion sécrétrice.",
+      "C": "Faux : elle est dans le conjonctif.",
+      "D": "Faux : elle est exocrine.",
+      "E": "Faux : les glandes séreuses sont acineuses."
+    }
+  },
+  "aec75e79-e042-5944-be06-210732b3de65": {
+    "why": "La sécrétion holocrine détruit la cellule, éliminée avec son produit (glande sébacée). C'est un mode exocrine rare ; l'exocytose est le mode mérocrine.",
+    "options": {
+      "A": "Faux : le plus répandu est le mérocrine.",
+      "B": "Faux : c'est un mode exocrine.",
+      "C": "Faux : la cellule meurt.",
+      "D": "Vrai : destruction de la cellule.",
+      "E": "Faux : c'est le mode mérocrine."
+    }
+  },
+  "5dab3b49-50e8-5de7-a189-450d9081c9ee": {
+    "why": "La glande exocrine séreuse est située dans le conjonctif, sous l'épithélium. Comme toute glande exocrine extra-épithéliale, elle a un canal excréteur. Elle est acineuse, ni tubuleuse ni mixte.",
+    "options": {
+      "A": "Vrai : elle est extra-épithéliale.",
+      "B": "Faux : elle est acineuse.",
+      "C": "Faux : elle est purement séreuse.",
+      "D": "Juste en réalité : toute glande exocrine extra-épithéliale déverse son produit par un canal excréteur.",
+      "E": "Faux selon le cours : elle est acineuse."
+    },
+    "keyIssue": "une glande exocrine extra-épithéliale conduit toujours son produit vers la surface par un canal excréteur : D est donc juste aussi.",
+    "aiKey": "AD"
+  },
+  "c6a3324f-2660-583e-9256-827408541f9c": {
+    "why": "La glande endocrine vésiculaire (thyroïde) est faite de cellules délimitant une cavité remplie de colloïde. Sans canal excréteur, elle sécrète des hormones, pas des enzymes.",
+    "options": {
+      "A": "Faux : pas de portion excrétrice.",
+      "B": "Faux : elle est extra-épithéliale.",
+      "C": "Vrai : follicules remplis de colloïde.",
+      "D": "Faux : elle sécrète des hormones.",
+      "E": "Faux : c'est un autre type (diffus ou cordonnal)."
+    }
+  },
+  "357adea2-ef66-5e20-9155-cb498073672e": {
+    "why": "La sécrétion mérocrine libère le produit par exocytose au pôle apical, sans détruire la cellule. C'est le mode le plus répandu des glandes exocrines.",
+    "options": {
+      "A": "Faux : c'est le mode holocrine.",
+      "B": "Faux : elle est surtout exocrine.",
+      "C": "Faux : dans les glandes exocrines, l'exocytose se fait au pôle apical.",
+      "D": "Vrai : c'est le mode le plus fréquent.",
+      "E": "Faux : D est juste."
+    }
+  },
+  "359d4f4f-2df2-57bd-8090-3bb8ce84c8ce": {
+    "why": "Glandes exocrines et endocrines naissent d'un épithélium de revêtement. Les glandes intra-épithéliales sont parfois unicellulaires (cellules caliciformes). Une glande exocrine déverse son produit à la surface par un canal ; « tubuleuse » décrit la portion sécrétrice.",
+    "options": {
+      "A": "Vrai selon le cours : elles dérivent d'un épithélium de revêtement.",
+      "B": "Faux : « tubuleuse » décrit la portion sécrétrice ; « composée » le canal ramifié.",
+      "C": "Vrai : cellules caliciformes.",
+      "D": "Faux : c'est la glande endocrine qui sécrète dans le sang."
+    }
+  },
+  "75382b79-31f0-511d-a8c7-121bd2c98344": {
+    "why": "Une glande endocrine diffuse est faite de cellules dispersées. La glande agminée a plusieurs canaux excréteurs ; la glande endocrine n'a pas de canal. La sécrétion holocrine détruit la cellule.",
+    "options": {
+      "A": "Vrai : cellules isolées ou dispersées.",
+      "B": "Faux : c'est la définition de la glande conglomérée.",
+      "C": "Faux : elle n'a pas de portion excrétrice.",
+      "D": "Vrai : la cellule est éliminée avec son produit."
+    }
+  },
+  "b8f32d4b-5f02-5148-b1ce-6cb80488eae0": {
+    "why": "Dans une glande holocrine, la cellule est éliminée avec son produit. Les glandes endocrines, riches en capillaires, déversent leur produit dans le sang. Une glande acineuse a une portion sécrétrice arrondie, et une glande est dite composée quand son canal excréteur est ramifié.",
+    "options": {
+      "A": "Vrai : la cellule sécrétrice est détruite avec son produit.",
+      "B": "Faux selon le cours : c'est la glande endocrine qui est caractérisée par un riche réseau capillaire.",
+      "C": "Faux : c'est la glande tubuleuse.",
+      "D": "Vrai : sécrétion dans le sang.",
+      "E": "Faux : c'est le canal excréteur qui est ramifié."
+    }
+  },
+  "471df703-b7dd-5f47-b979-a588135cbb8d": {
+    "why": "Le collagène est une glycoprotéine fibreuse ; on en connaît une vingtaine de types (28 aujourd'hui). Le fibroblaste synthétise et sécrète le procollagène, clivé en tropocollagène ; la polymérisation en fibrilles se fait hors de la cellule, dans la substance fondamentale.",
+    "options": {
+      "A": "Juste en réalité : le collagène est une glycoprotéine (le cours le dit dans d'autres questions).",
+      "B": "Faux : la polymérisation est extracellulaire.",
+      "C": "Faux : on en compte une vingtaine (28).",
+      "D": "Vrai : dans la substance fondamentale.",
+      "E": "Faux selon le cours : seule la phase de synthèse est intracellulaire ; la polymérisation se fait dehors."
+    },
+    "keyIssue": "le collagène est bien une glycoprotéine fibreuse : d'autres questions du même cours retiennent « le collagène est une glycoprotéine fibreuse » comme juste. A est donc juste aussi.",
+    "aiKey": "AD"
+  },
+  "fa23e8c4-effa-5c53-9b85-a2262e332964": {
+    "why": "Le collagène est une glycoprotéine fibreuse, d'une vingtaine de types. Synthétisé par le fibroblaste, il est sécrété sous forme de procollagène puis de tropocollagène, qui polymérise dans le milieu extracellulaire.",
+    "options": {
+      "A": "Juste en réalité : le collagène est une glycoprotéine.",
+      "B": "Faux : la polymérisation est extracellulaire.",
+      "C": "Faux : une vingtaine de types (28).",
+      "D": "Vrai : dans la substance fondamentale.",
+      "E": "Faux selon le cours : la polymérisation se fait hors du fibroblaste."
+    },
+    "keyIssue": "le collagène est bien une glycoprotéine fibreuse (le même cours le retient ailleurs comme juste), donc A est juste aussi.",
+    "aiKey": "AD"
+  },
+  "34294078-0add-5d87-9399-0c68b1a2879c": {
+    "why": "L'adipocyte est une cellule fixe du tissu conjonctif, spécialisée dans le stockage et le métabolisme des lipides. Il ne circule pas et ne synthétise pas de collagène ; la cellule la plus spécifique du conjonctif est le fibroblaste.",
+    "options": {
+      "A": "Faux : c'est le rôle du fibroblaste.",
+      "B": "Faux : c'est une cellule fixe.",
+      "C": "Vrai : stockage et libération des triglycérides.",
+      "D": "Vrai : cellule résidente.",
+      "E": "Faux : c'est le fibroblaste."
+    }
+  },
+  "9d1e9109-43bc-591c-b3f9-0e24d2158253": {
+    "why": "Les fibroblastes, d'origine mésenchymateuse locale, sont les cellules actives du conjonctif. Ils synthétisent les fibres et la substance fondamentale. Leur aspect change avec leur activité : le fibroblaste actif est volumineux, le fibrocyte au repos est petit et fusiforme. On les utilise en thérapeutique (cultures, substituts cutanés).",
+    "options": {
+      "A": "Juste en réalité : fibroblaste actif volumineux, fibrocyte au repos fusiforme.",
+      "B": "Faux : ce sont les cellules actives (le fibrocyte est la forme au repos).",
+      "C": "Faux : ils viennent du mésenchyme local.",
+      "D": "Faux : ils synthétisent aussi des enzymes (collagénases…) et des facteurs.",
+      "E": "Vrai : ingénierie tissulaire, cicatrisation."
+    },
+    "keyIssue": "l'aspect du fibroblaste varie avec son activité (fibroblaste actif volumineux, fibrocyte au repos petit et fusiforme) : A est juste aussi.",
+    "aiKey": "AE"
+  },
+  "2d45244f-9e9b-57d0-b8e0-745f8f48e53a": {
+    "why": "Les fibres de collagène sont visibles en microscopie optique avec les colorants usuels (éosinophiles). Le cours les décrit groupées en faisceaux ; le terme « interterritorial » appartient au cartilage.",
+    "options": {
+      "A": "Faux : « interterritorial » décrit la matrice cartilagineuse.",
+      "B": "Faux selon le corrigé : le cours les décrit groupées en faisceaux.",
+      "C": "Faux : les colorants usuels suffisent (roses à l'éosine).",
+      "D": "Vrai : visibles en microscopie optique."
+    }
+  },
+  "0e0fa63f-2c3b-545d-9efe-58bbc26c5527": {
+    "why": "Le tropocollagène sécrété par le fibroblaste polymérise hors de la cellule, dans la substance fondamentale.",
+    "options": {
+      "A": "Faux : la polymérisation est extracellulaire.",
+      "B": "Faux : même remarque ; le fibrocyte est de plus peu actif.",
+      "C": "Vrai : substance fondamentale.",
+      "D": "Faux : C est juste."
+    }
+  },
+  "f0c2c287-6793-52c6-b3d6-a404c6c9b17c": {
+    "why": "La lame basale contient du collagène de type IV, qui forme un réseau (et non des fibres).",
+    "options": {
+      "A": "Faux : le type III forme les fibres de réticuline.",
+      "B": "Faux : le type I est celui de l'os, de la peau et des tendons.",
+      "C": "Vrai : type IV.",
+      "D": "Faux : le type II est celui du cartilage."
+    }
+  },
+  "e6832a65-aab7-5894-a4b5-61571eafb1d1": {
+    "why": "L'adipocyte est une cellule fixe du conjonctif, spécialisée dans les lipides (pas les glucides). Il ne circule pas et ne fabrique pas de collagène.",
+    "options": {
+      "A": "Faux : c'est le fibroblaste.",
+      "B": "Faux : cellule fixe.",
+      "C": "Faux : il assure le métabolisme des lipides.",
+      "D": "Vrai : cellule résidente."
+    }
+  },
+  "10486c90-e8ad-5f1a-a3d9-6c9a5b9416f2": {
+    "why": "La lame basale contient du collagène de type IV, en réseau.",
+    "options": {
+      "A": "Faux : type III = réticuline.",
+      "B": "Vrai : type IV.",
+      "C": "Faux : le type V est associé au type I.",
+      "D": "Faux : type II = cartilage."
+    }
+  },
+  "668d55bf-3129-56ea-b78f-aaff67facd2c": {
+    "why": "Les fibroblastes sont les cellules actives du tissu conjonctif, d'origine mésenchymateuse locale. Ils synthétisent la matrice (fibres et substance fondamentale), et leur aspect varie avec leur activité (fibroblaste actif, fibrocyte au repos).",
+    "options": {
+      "A": "Juste en réalité : leur aspect varie selon leur activité.",
+      "B": "Juste en réalité : ce sont les cellules conjonctives par excellence.",
+      "C": "Faux : ils viennent du mésenchyme local.",
+      "D": "Vrai : fibres et substance fondamentale."
+    },
+    "keyIssue": "les fibroblastes sont bien des cellules conjonctives (les plus spécifiques du tissu conjonctif) et leur aspect varie selon leur activité (fibroblaste actif, fibrocyte au repos) : A et B sont justes aussi.",
+    "aiKey": "ABD"
+  },
+  "f5218990-6825-554a-be5b-6090c3bad8dc": {
+    "why": "Les fibres de collagène sont inextensibles, visibles avec les colorants usuels. Les fibres élastiques sont extensibles et demandent des colorations spéciales (orcéine). Les fibres de réticuline sont faites de collagène de type III. Toutes sont synthétisées par le fibroblaste.",
+    "options": {
+      "A": "Faux : le collagène est inextensible.",
+      "B": "Vrai : il faut l'orcéine ou la fuchsine-résorcine.",
+      "C": "Faux : type III.",
+      "D": "Faux selon le corrigé : le cours les décrit groupées en faisceaux.",
+      "E": "Faux : c'est le fibroblaste (actif)."
+    }
+  },
+  "226ef6da-ba7e-5e63-8f41-8ca24958756e": {
+    "why": "Les fibroblastes, d'origine mésenchymateuse, changent d'aspect selon leur activité. Le passage fibroblaste ↔ fibrocyte est réversible : le fibrocyte redevient fibroblaste lors de la cicatrisation. Les cellules mobiles des réactions allergiques sont les mastocytes.",
+    "options": {
+      "A": "Juste en réalité : fibroblaste actif volumineux, fibrocyte au repos fusiforme.",
+      "B": "Juste en réalité : le fibrocyte peut redevenir fibroblaste (cicatrisation).",
+      "C": "Faux : ils viennent du mésenchyme.",
+      "D": "Faux : ce sont les mastocytes.",
+      "E": "Vrai : origine mésenchymateuse."
+    },
+    "keyIssue": "l'aspect du fibroblaste varie selon son activité (A) et le fibrocyte peut redevenir un fibroblaste actif, par exemple lors de la cicatrisation : le passage est réversible (B).",
+    "aiKey": "ABE"
+  },
+  "e5fa250b-1fc8-5678-a92d-b9d6d966cb1e": {
+    "why": "Le collagène est une glycoprotéine fibreuse, donc une protéine fibreuse glycosylée, d'une vingtaine de types. Le tropocollagène polymérise hors de la cellule. Les fibres de réticuline (type III) forment la charpente des organes lymphoïdes.",
+    "options": {
+      "A": "Juste en réalité : le collagène est une (glyco)protéine fibreuse.",
+      "B": "Faux : la polymérisation est extracellulaire.",
+      "C": "Vrai : les fibres de réticuline (type III) forment la trame des organes lymphoïdes.",
+      "D": "Faux : une vingtaine de types.",
+      "E": "Faux selon le cours : la polymérisation se fait hors du fibroblaste."
+    },
+    "keyIssue": "le collagène est une glycoprotéine, c'est-à-dire une protéine fibreuse glycosylée : A n'est pas faux.",
+    "aiKey": "AC"
+  },
+  "9767604c-02e3-52d5-a25b-0b33a9ff6e94": {
+    "why": "Le collagène est inextensible (l'élastine est extensible). Les fibres de réticuline sont du collagène de type III ; le cours les décrit isolées ou regroupées. Les fibres sont synthétisées par le fibroblaste actif.",
+    "options": {
+      "A": "Faux : le collagène est inextensible.",
+      "B": "Faux : type III.",
+      "C": "Vrai selon le cours.",
+      "D": "Faux : c'est le fibroblaste."
+    }
+  },
+  "97a54c70-7934-5de5-81d8-236aea997402": {
+    "why": "Le fibroblaste change d'aspect selon son activité. Le fibrocyte, sa forme au repos, peut redevenir un fibroblaste actif (cicatrisation). Il a une origine mésenchymateuse ; les cellules mobiles des réactions allergiques sont les mastocytes.",
+    "options": {
+      "A": "Juste en réalité : fibroblaste actif volumineux, fibrocyte au repos fusiforme.",
+      "B": "Faux en réalité : le fibrocyte peut redevenir fibroblaste, le passage est réversible.",
+      "C": "Faux : origine mésenchymateuse.",
+      "D": "Faux : ce sont les mastocytes."
+    },
+    "keyIssue": "le passage fibroblaste → fibrocyte est réversible (le fibrocyte redevient fibroblaste lors de la cicatrisation), et l'aspect du fibroblaste varie justement avec son activité : A est juste, B est faux.",
+    "aiKey": "A"
+  },
+  "b3c136ea-0449-50c7-ba30-d6d68b2862c7": {
+    "why": "Le collagène est une glycoprotéine (protéine fibreuse glycosylée) d'une vingtaine de types. Le tropocollagène polymérise dans le milieu extracellulaire.",
+    "options": {
+      "A": "Juste en réalité : le collagène est une (glyco)protéine fibreuse.",
+      "B": "Vrai : polymérisation extracellulaire.",
+      "C": "Faux : une vingtaine de types, pas des centaines.",
+      "D": "Faux selon le cours : la polymérisation se fait hors du fibroblaste."
+    },
+    "keyIssue": "le collagène est une glycoprotéine, c'est-à-dire une protéine fibreuse glycosylée : A n'est pas faux.",
+    "aiKey": "AB"
+  },
+  "88fdd650-bd66-554a-be26-2c9f0f9b9847": {
+    "why": "L'adipocyte est une cellule fixe du tissu conjonctif, spécialisée dans les lipides. La cellule la plus spécifique du conjonctif est le fibroblaste.",
+    "options": {
+      "A": "Faux : c'est le fibroblaste.",
+      "B": "Faux : cellule fixe.",
+      "C": "Faux : il assure le métabolisme des lipides.",
+      "D": "Vrai : cellule résidente.",
+      "E": "Faux : c'est le fibroblaste."
+    }
+  },
+  "18537b77-0a5c-53ac-add5-71feac908689": {
+    "why": "La lame basale contient du collagène de type IV, organisé en réseau.",
+    "options": {
+      "A": "Faux : type III = réticuline.",
+      "B": "Vrai : type IV.",
+      "C": "Faux : type V, associé au type I.",
+      "D": "Faux : type II = cartilage.",
+      "E": "Faux : type I = os, peau, tendons."
+    }
+  },
+  "059b0491-a1c1-525d-a1d2-da8ae5fbb380": {
+    "why": "Les fibroblastes sont les cellules actives du conjonctif, d'origine mésenchymateuse. Ils synthétisent la matrice, changent d'aspect selon leur activité et sont utilisés en thérapeutique.",
+    "options": {
+      "A": "Juste en réalité : leur aspect varie selon leur activité.",
+      "B": "Faux : ce sont des cellules actives.",
+      "C": "Faux : origine mésenchymateuse locale.",
+      "D": "Vrai : fibres et substance fondamentale.",
+      "E": "Vrai : cultures, substituts cutanés."
+    },
+    "keyIssue": "l'aspect du fibroblaste varie avec son activité (fibroblaste actif volumineux, fibrocyte au repos fusiforme) : A est juste aussi.",
+    "aiKey": "ADE"
+  },
+  "1275b906-3d2a-5346-8357-81977ddded56": {
+    "why": "Les fibres de collagène sont inextensibles et visibles avec les colorants usuels. Le collagène de type III forme les fibres de réticuline. Toutes sont synthétisées par le fibroblaste.",
+    "options": {
+      "A": "Faux : seule l'élastine est extensible.",
+      "B": "Faux : elles sont bien visibles (éosinophiles).",
+      "C": "Vrai : réticuline = type III.",
+      "D": "Faux selon le corrigé : le cours les décrit groupées en faisceaux.",
+      "E": "Faux : c'est le fibroblaste."
+    }
+  },
+  "12d93db5-daa2-5429-869f-8ff5afeee012": {
+    "why": "Les fibroblastes sont les cellules actives du conjonctif, d'origine mésenchymateuse. Ils changent d'aspect selon leur activité, synthétisent fibres, substance fondamentale et enzymes, et sont utilisés en thérapeutique.",
+    "options": {
+      "A": "Juste en réalité : leur aspect varie selon leur activité.",
+      "B": "Faux : ce sont des cellules actives.",
+      "C": "Faux : origine mésenchymateuse.",
+      "D": "Faux : ils ne synthétisent pas « que » la matrice.",
+      "E": "Vrai : ingénierie tissulaire."
+    },
+    "keyIssue": "l'aspect du fibroblaste varie avec son activité (fibroblaste actif, fibrocyte au repos) : A est juste aussi.",
+    "aiKey": "AE"
+  },
+  "9f314cbf-0176-580d-a6e0-125c225d2f27": {
+    "why": "La collagénogenèse aboutit à une glycoprotéine fibreuse, dont on connaît une vingtaine de types. Le tropocollagène polymérise hors de la cellule.",
+    "options": {
+      "A": "Vrai : glycoprotéine fibreuse.",
+      "B": "Faux : la polymérisation est extracellulaire.",
+      "C": "Faux : il en existe une vingtaine.",
+      "D": "Vrai : une vingtaine (28).",
+      "E": "Faux selon le cours : la polymérisation se fait hors du fibroblaste."
+    }
+  },
+  "e4a16ade-93f6-58c3-9767-0450cd104e42": {
+    "why": "Le tropocollagène polymérise dans la substance fondamentale. Les cellules géantes apparaissent dans les granulomes (corps étranger, tuberculose). L'adipocyte est une cellule fixe, et la cellule la plus spécifique du conjonctif est le fibroblaste.",
+    "options": {
+      "A": "Faux : elles interviennent dans les granulomes, pas dans une infection banale.",
+      "B": "Faux : c'est une cellule fixe.",
+      "C": "Vrai : polymérisation extracellulaire.",
+      "D": "Faux : c'est le fibroblaste (actif)."
+    }
+  },
+  "a066d9ce-474e-5dcc-92a8-c8eb5f8d89be": {
+    "why": "La lame basale contient du collagène IV. Les macrophages interviennent dans l'inflammation (phagocytose, présentation d'antigènes). Le collagène, glycoprotéine fibreuse, est synthétisé par le fibroblaste.",
+    "options": {
+      "A": "Faux : type IV.",
+      "B": "Vrai : phagocytose et inflammation.",
+      "C": "Faux : c'est le fibroblaste.",
+      "D": "Vrai : glycoprotéine fibreuse."
+    }
+  },
+  "0ca975d5-d07e-5eca-aa78-d60bbc514e38": {
+    "why": "Le tissu conjonctif fibreux dense est dominé par les fibres de collagène de type I, orientées dans le sens des tractions : tendons, ligaments, aponévroses, derme profond. Le cours ne le retient pas pour la paroi artérielle, dominée par le tissu élastique.",
+    "options": {
+      "A": "Faux : c'est le tissu élastique.",
+      "B": "Faux : il est dominé par le collagène de type I (le type II est cartilagineux, le IV basal).",
+      "C": "Faux : c'est le tissu réticulé.",
+      "D": "Faux selon le corrigé : la paroi artérielle est surtout élastique et musculaire.",
+      "E": "Vrai : tendons et ligaments."
+    }
+  },
+  "96505019-a774-5a94-8c5a-2b8aac086948": {
+    "why": "Le tissu conjonctif lâche, le plus répandu de l'organisme, a des proportions équilibrées de cellules, de fibres variées (collagène, élastiques, réticuline) et de substance fondamentale abondante. Il sert de remplissage, de soutien souple et de lieu des défenses.",
+    "options": {
+      "A": "Faux : il n'est pas à prédominance fibreuse.",
+      "B": "Faux : c'est le plus répandu.",
+      "C": "Vrai : collagène, élastiques, réticuline.",
+      "D": "Faux : la résistance est le rôle du tissu dense.",
+      "E": "Vrai : il comble les espaces entre les organes."
+    }
+  },
+  "8ba06871-bbfd-5fe9-afa8-985d2df1c968": {
+    "why": "Le tissu conjonctif lâche est le plus répandu. Ses fibres, peu nombreuses, sont disposées sans orientation, et il n'est pas à prédominance fibreuse.",
+    "options": {
+      "A": "Faux : ce n'est pas un tissu à prédominance fibreuse.",
+      "B": "Faux : c'est le plus répandu.",
+      "C": "Faux : ses fibres ne sont pas orientées.",
+      "D": "Vrai : toutes sont fausses."
+    }
+  },
+  "54b8fe73-372b-505a-9c48-6c063cbe3aa4": {
+    "why": "Le tissu adipeux blanc est formé d'adipocytes univacuolaires, avec une grosse goutte lipidique. Riche en vaisseaux, il stocke et libère les lipides ; il prédomine chez l'adulte (le brun est plus abondant chez le nouveau-né), et son excès (obésité) entraîne des troubles métaboliques.",
+    "options": {
+      "A": "Faux : il concerne les lipides.",
+      "B": "Faux : c'est l'adipocyte brun (multivacuolaire).",
+      "C": "Faux : c'est le tissu brun qui est abondant chez le nouveau-né.",
+      "D": "Faux : il est richement vascularisé.",
+      "E": "Vrai : obésité, diabète de type 2…"
+    }
+  },
+  "823023be-c027-5b9b-b40b-1b16f701de53": {
+    "why": "Le tissu conjonctif dense est dominé par les fibres de collagène, ce qui lui donne une forte résistance mécanique (tendons, ligaments, capsules).",
+    "options": {
+      "A": "Faux : il est très résistant.",
+      "B": "Vrai : prédominance de collagène.",
+      "C": "Faux : c'est le tissu élastique.",
+      "D": "Faux : c'est le tissu réticulé.",
+      "E": "Faux selon le corrigé : la paroi artérielle est surtout élastique et musculaire."
+    }
+  },
+  "631cac15-ab58-5dd0-96b9-dbab0604eea0": {
+    "why": "Le tissu conjonctif lâche est un conjonctif commun, non spécialisé. On le trouve notamment dans le chorion sous les épithéliums digestif et respiratoire. Sa substance fondamentale est abondante et fluide, et ses composants sont en proportions équilibrées.",
+    "options": {
+      "A": "Faux : c'est un conjonctif commun.",
+      "B": "Faux : c'est le rôle du tissu dense.",
+      "C": "Vrai : chorion des muqueuses.",
+      "D": "Faux selon le corrigé : cellules, fibres et substance fondamentale sont en proportions équilibrées.",
+      "E": "Faux : sa substance fondamentale est fluide, pas solide."
+    }
+  },
+  "e3cc2aae-9c49-5530-bdf8-665d2de35c32": {
+    "why": "Le tissu adipeux brun est formé d'adipocytes multivacuolaires, riches en mitochondries. Très vascularisé et innervé (sympathique), il produit de la chaleur (thermogenèse) et abonde chez le nouveau-né.",
+    "options": {
+      "A": "Faux : il concerne les lipides (et la thermogenèse).",
+      "B": "Vrai : adipocytes multivacuolaires.",
+      "C": "Faux : il est plus abondant chez le nouveau-né.",
+      "D": "Faux : il est très vascularisé et innervé."
+    }
+  },
+  "09ecc5ca-01e0-5423-8fa3-16b27aa6948a": {
+    "why": "Le tissu conjonctif dense, riche en fibres de collagène, est très résistant (tendons, ligaments, capsules).",
+    "options": {
+      "A": "Vrai : forte résistance mécanique.",
+      "B": "Faux : c'est le tissu élastique.",
+      "C": "Faux : c'est le tissu réticulé.",
+      "D": "Faux selon le corrigé : la paroi artérielle est surtout élastique et musculaire."
+    }
+  },
+  "bd5b4aa4-e80a-5c9b-8c3e-6dc133c6e0e3": {
+    "why": "Le tissu conjonctif lâche est un conjonctif commun, présent dans le chorion sous les épithéliums digestif et respiratoire. Il sert de remplissage et de défense, pas de résistance.",
+    "options": {
+      "A": "Faux : c'est un conjonctif commun.",
+      "B": "Faux : c'est le rôle du tissu dense.",
+      "C": "Vrai : chorion des muqueuses.",
+      "D": "Faux selon le corrigé : ses composants sont en proportions équilibrées."
+    }
+  },
+  "147c81a5-e7f1-5478-befb-ddeb7a7af43b": {
+    "why": "Le tissu conjonctif lâche est le plus répandu, non à prédominance fibreuse, avec des fibres non orientées ; il ne joue pas un rôle de résistance.",
+    "options": {
+      "A": "Faux : il n'est pas à prédominance fibreuse.",
+      "B": "Faux : c'est le plus répandu.",
+      "C": "Faux : les fibres ne sont pas orientées.",
+      "D": "Faux : c'est le rôle du tissu dense.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "45c5a80b-8183-5ec6-8734-ed66a814a7e5": {
+    "why": "L'adipocyte blanc est univacuolaire : une grosse vésicule lipidique repousse le noyau en périphérie. Le tissu blanc, richement vascularisé, stocke les lipides et prédomine chez l'adulte.",
+    "options": {
+      "A": "Faux : il concerne les lipides.",
+      "B": "Faux : c'est l'adipocyte brun.",
+      "C": "Faux : c'est le tissu brun.",
+      "D": "Vrai : cellule univacuolaire (« en chaton de bague »).",
+      "E": "Faux : il est richement vascularisé."
+    }
+  },
+  "667fcc3e-40ed-5126-a654-779b7a95d31f": {
+    "why": "Le tissu conjonctif lâche est un conjonctif commun, à substance fondamentale abondante et fluide, présent dans le chorion sous l'épithélium digestif.",
+    "options": {
+      "A": "Faux : c'est un conjonctif commun.",
+      "B": "Faux : c'est le rôle du tissu dense.",
+      "C": "Faux : sa substance fondamentale est fluide.",
+      "D": "Faux selon le corrigé : proportions équilibrées.",
+      "E": "Vrai : chorion de la muqueuse digestive."
+    }
+  },
+  "11dcac6a-de0c-561f-ab00-926d28e3f47f": {
+    "why": "Le tissu conjonctif fibreux dense est dominé par les fibres de collagène ; on le trouve dans les tendons, les ligaments et les aponévroses.",
+    "options": {
+      "A": "Faux : c'est le tissu élastique.",
+      "B": "Vrai : prédominance de collagène.",
+      "C": "Faux : c'est le tissu réticulé.",
+      "D": "Faux selon le corrigé : la paroi artérielle est surtout élastique et musculaire.",
+      "E": "Vrai : tendons."
+    }
+  },
+  "0a162def-9c74-5843-9412-7581e6c774fc": {
+    "why": "Le tissu conjonctif lâche est le plus répandu de l'organisme. Ses fibres sont peu nombreuses et non orientées, et il joue un rôle de remplissage, pas de résistance.",
+    "options": {
+      "A": "Faux : il n'est pas à prédominance fibreuse.",
+      "B": "Vrai : c'est le plus répandu.",
+      "C": "Faux : les fibres ne sont pas orientées.",
+      "D": "Faux : c'est le rôle du tissu dense."
+    }
+  },
+  "8f4ef2a2-e933-5dff-8ef3-d6c9411e569f": {
+    "why": "Le fibrocyte, forme au repos du fibroblaste, garde une faible capacité de synthèse pour entretenir la matrice. La substance fondamentale est ce qui remplit l'espace entre cellules et fibres. Les macrophages dérivent des monocytes, issus de la moelle osseuse ; les fibres élastiques forment des réseaux.",
+    "options": {
+      "A": "Vrai : il entretient la matrice à bas niveau.",
+      "B": "Faux selon le corrigé : les fibres de réticuline sont fines et souples ; seule l'élastine est extensible.",
+      "C": "Faux : il dérive du monocyte sanguin, issu de la moelle osseuse.",
+      "D": "Vrai : c'est la définition.",
+      "E": "Faux : elles forment des réseaux, pas des faisceaux."
+    }
+  },
+  "e4760761-0e80-5990-9035-05d3bd2ce33e": {
+    "why": "Les mastocytes libèrent histamine et héparine lors des réactions allergiques, sans être de grands phagocytes. Le fibroblaste actif est fusiforme, avec une chromatine fine et des nucléoles visibles. Les adipocytes stockent des lipides.",
+    "options": {
+      "A": "Faux : ils stockent des lipides.",
+      "B": "Vrai : dégranulation (histamine).",
+      "C": "Vrai : aspect d'une cellule active.",
+      "D": "Faux : ce sont des cellules actives.",
+      "E": "Faux : les phagocytes sont les macrophages."
+    }
+  },
+  "820a971d-ca55-53af-976a-914218289b7c": {
+    "why": "Dans le cartilage, les chondrocytes occupent des logettes, les chondroplastes. La matrice est ferme et élastique, non calcifiée à l'état normal. Le collagène est de type II (I et II dans le cartilage fibreux), les fibres élastiques n'abondent que dans le cartilage élastique, et le tissu est dépourvu de vaisseaux et de nerfs.",
+    "options": {
+      "A": "Vrai : chondroplastes.",
+      "B": "Faux : elle n'est pas riche en calcium (sauf zones calcifiées).",
+      "C": "Faux : type II.",
+      "D": "Faux : seulement dans le cartilage élastique.",
+      "E": "Faux : il n'a ni vaisseaux ni nerfs."
+    }
+  },
+  "2baa4e89-94d1-5ae8-a101-945b1228c21a": {
+    "why": "Le squelette fœtal est surtout fait de cartilage hyalin. Le cartilage articulaire est nourri par le liquide synovial (et non l'inverse). Les bronches ont du cartilage hyalin, les côtes aussi ; le tendon d'Achille (insertion fibro-cartilagineuse) et le pavillon de l'oreille (élastique) n'ont pas le même cartilage.",
+    "options": {
+      "A": "Faux : c'est le liquide synovial qui nourrit le cartilage.",
+      "B": "Faux : le cartilage des bronches est hyalin.",
+      "C": "Vrai : le squelette fœtal est hyalin.",
+      "D": "Faux : le cartilage costal est hyalin.",
+      "E": "Faux : fibreux d'un côté, élastique de l'autre."
+    }
+  },
+  "a1765474-892a-5795-93b8-3e777910d83d": {
+    "why": "La croissance interstitielle se fait par mitoses des chondrocytes dans leurs chondroplastes, formant des groupes isogéniques : coronaires (croissance en épaisseur) ou axiaux (croissance en longueur). Selon le cours, elle assure la croissance des os longs et courts.",
+    "options": {
+      "A": "Vrai : groupes coronaires = épaisseur.",
+      "B": "Faux selon le cours : ce sont les chondrocytes qui se divisent.",
+      "C": "Vrai selon le cours.",
+      "D": "Vrai : mitoses des chondrocytes.",
+      "E": "Faux : le type axial donne la croissance en longueur."
+    }
+  },
+  "86181f30-86eb-54fb-ab21-6846922677d3": {
+    "why": "Les chondrocytes occupent des chondroplastes. La matrice est ferme, élastique, non calcifiée ; le collagène est de type II ; le cartilage n'a ni vaisseaux ni nerfs.",
+    "options": {
+      "A": "Vrai : chondroplastes.",
+      "B": "Faux : elle n'est pas riche en calcium.",
+      "C": "Faux : type II.",
+      "D": "Faux : seulement dans le cartilage élastique.",
+      "E": "Faux : ni vaisseaux ni nerfs."
+    }
+  },
+  "57439e1c-6a14-5a13-9e91-ef334e72c644": {
+    "why": "La croissance interstitielle se fait par mitoses des chondrocytes. Les groupes coronaires assurent la croissance en épaisseur, les axiaux la croissance en longueur.",
+    "options": {
+      "A": "Faux : le type coronaire donne l'épaisseur.",
+      "B": "Faux selon le cours : ce sont les chondrocytes.",
+      "C": "Faux selon le cours : il cite les os longs et courts.",
+      "D": "Vrai : mitoses des chondrocytes.",
+      "E": "Faux : le type axial donne la longueur."
+    }
+  },
+  "d83ea6b8-9241-5c81-b7b4-3eab2a59c029": {
+    "why": "Le cartilage fibreux (dense) forme les ménisques, les disques intervertébraux et la symphyse pubienne. Le squelette fœtal et les côtes sont hyalins, et le cartilage articulaire est nourri par le liquide synovial.",
+    "options": {
+      "A": "Faux : c'est l'inverse.",
+      "B": "Vrai : ménisques fibro-cartilagineux.",
+      "C": "Faux : il est surtout hyalin.",
+      "D": "Faux : le cartilage costal est hyalin.",
+      "E": "Faux : fibreux d'un côté, élastique de l'autre."
+    }
+  },
+  "79afcee4-dc1b-51a2-a136-05de26883a03": {
+    "why": "Le cartilage contient du collagène de type II (hyalin, élastique) et, dans le cartilage fibreux, surtout du type I.",
+    "options": {
+      "A": "Faux : le type III forme la réticuline.",
+      "B": "Faux : le type IV est celui des lames basales.",
+      "C": "Faux : le type V n'est pas caractéristique du cartilage.",
+      "D": "Vrai : collagène du cartilage.",
+      "E": "Vrai : dans le cartilage fibreux."
+    }
+  },
+  "3b774db8-679f-52fc-9114-0e054caa9f6b": {
+    "why": "Le cartilage articulaire est hyalin. Le cartilage fibreux contient surtout du collagène de type I, mais aussi du type II autour des chondrocytes. Le cartilage de conjugaison est un cartilage hyalin actif ; les ménisques sont fibreux ; le cartilage hyalin est le plus répandu.",
+    "options": {
+      "A": "Juste en réalité : le cartilage fibreux contient du type I et du type II.",
+      "B": "Faux selon le cours : c'est un cartilage hyalin actif, siège de l'ossification.",
+      "C": "Vrai : cartilage hyalin.",
+      "D": "Faux : les ménisques sont fibro-cartilagineux.",
+      "E": "Faux : c'est le plus répandu."
+    },
+    "keyIssue": "le cartilage fibreux contient surtout du collagène de type I, mais aussi du type II autour des chondrocytes (le cours dit d'ailleurs que le cartilage contient les types I et II) : A est juste aussi.",
+    "aiKey": "AC"
+  },
+  "c93e0d36-be92-5fc2-a6b7-2aff6154b21f": {
+    "why": "Selon le cours, dans l'épiphyse, le cartilage grossit à partir de groupes isogéniques coronaires (croissance interstitielle dans toutes les directions). Les groupes axiaux, qui allongent l'os, siègent dans le cartilage de conjugaison.",
+    "options": {
+      "A": "Faux : c'est une croissance interstitielle.",
+      "B": "Faux selon le cours : les groupes axiaux sont dans le cartilage de conjugaison.",
+      "C": "Vrai : groupes coronaires.",
+      "D": "Faux : les groupes coronaires assurent l'épaisseur."
+    }
+  },
+  "ace8f138-8b8f-5c38-8c78-f20037fe5960": {
+    "why": "Le cartilage articulaire est hyalin (collagène II), sans fibres élastiques et sans périchondre. Il est nourri par diffusion depuis le liquide synovial.",
+    "options": {
+      "A": "Faux : il n'a pas de périchondre.",
+      "B": "Vrai : pas de fibres élastiques.",
+      "C": "Faux : type II.",
+      "D": "Faux selon le corrigé : il se nourrit à partir du liquide synovial, pas à travers la membrane synoviale."
+    }
+  },
+  "b3efb3f0-9849-5a3a-a739-127b021b6940": {
+    "why": "Le cartilage articulaire est hyalin. Le cartilage fibreux contient du collagène de type I et II ; le cartilage de conjugaison est hyalin ; les ménisques sont fibreux.",
+    "options": {
+      "A": "Proposition tronquée dans la source.",
+      "B": "Faux selon le cours : c'est un cartilage hyalin actif.",
+      "C": "Vrai : hyalin.",
+      "D": "Faux : les ménisques sont fibreux."
+    },
+    "draft": "la proposition A est tronquée (« Le cartilage fibreux du cartilage type II ») : impossible de dire ce qu'elle affirme"
+  },
+  "2b053ad0-c10b-5f1d-befc-a79811d6a3c2": {
+    "why": "Selon le cours, un chondroplaste peut contenir deux ou trois chondrocytes issus d'une même cellule (groupe isogénique). Les chondrocytes n'y communiquent pas entre eux.",
+    "options": {
+      "A": "Faux selon le corrigé.",
+      "B": "Faux : il peut en contenir plusieurs (groupe isogénique).",
+      "C": "Faux : les chondrocytes sont isolés dans la matrice.",
+      "D": "Vrai : 2 ou 3 chondrocytes d'un groupe isogénique.",
+      "E": "Faux : D est juste."
+    }
+  },
+  "fca86821-43be-50a5-9af1-e04520bfcd9c": {
+    "why": "La croissance de type coronaire fait partie de la croissance interstitielle : mitoses de chondrocytes disposés en cercle, qui font grossir le cartilage en épaisseur. La croissance à partir du périchondre (appositionnelle) est un autre mécanisme.",
+    "options": {
+      "A": "Faux : c'est la chondrogenèse initiale.",
+      "B": "Vrai : croissance interstitielle.",
+      "C": "Faux : c'est la croissance appositionnelle (périchondrale).",
+      "D": "Faux : elle donne l'épaisseur.",
+      "E": "Faux : seule B est juste."
+    }
+  },
+  "3d916b03-fb84-5868-b055-2429d6e68608": {
+    "why": "Le cartilage articulaire est hyalin, fait surtout de collagène de type II, sans périchondre. Il s'amincit avec l'âge, mais ne disparaît pas normalement.",
+    "options": {
+      "A": "Faux : pas de périchondre.",
+      "B": "Faux : il est hyalin.",
+      "C": "Faux : il est hyalin.",
+      "D": "Vrai : collagène II.",
+      "E": "Faux selon le corrigé : il s'use (arthrose) mais ne disparaît pas physiologiquement."
+    }
+  },
+  "e5ab33c7-0e5a-5223-bed4-22ef3609da6c": {
+    "why": "Le cartilage hyalin, le plus répandu, contient du collagène de type II en fines fibrilles invisibles en microscopie optique (masquées par la matrice). Il n'a pas de fibres élastiques. Pour le cours, le cartilage est un tissu squelettique, classé à part des variétés de tissu conjonctif proprement dit.",
+    "options": {
+      "A": "Faux selon le cours : il est classé parmi les tissus squelettiques, pas parmi les variétés de tissu conjonctif.",
+      "B": "Vrai : fibrilles de type II invisibles en microscopie optique.",
+      "C": "Faux : pas de fibres élastiques.",
+      "D": "Faux : les ménisques sont fibreux.",
+      "E": "Faux : c'est la variété la plus répandue."
+    }
+  },
+  "67ba6735-465a-52b4-82b9-2e28fb568b5b": {
+    "why": "Le périchondre est une enveloppe conjonctive : couche externe fibreuse et vascularisée, couche interne chondrogène (chondroblastes). Il assure la croissance appositionnelle. Il manque au cartilage articulaire et au cartilage fibreux.",
+    "options": {
+      "A": "Faux : pas de périchondre sur le cartilage articulaire.",
+      "B": "Faux selon le corrigé : les capillaires sont dans la couche externe.",
+      "C": "Faux : il assure la croissance appositionnelle.",
+      "D": "Faux : ce sont des chondroblastes.",
+      "E": "Vrai : croissance appositionnelle."
+    }
+  },
+  "e57391f7-43db-5ad2-9571-a6e99a4cdd3d": {
+    "why": "Genou (cartilage articulaire), larynx (thyroïde, cricoïde), trachée, côtes et nez (septum et cartilages alaires) comportent tous du cartilage hyalin.",
+    "options": {
+      "A": "Hyalin : cartilage articulaire.",
+      "B": "Hyalin : cartilages thyroïde et cricoïde.",
+      "C": "Hyalin : anneaux trachéaux.",
+      "D": "Hyalin aussi : les cartilages du nez sont hyalins (le cours le dit ailleurs).",
+      "E": "Hyalin : cartilages costaux."
+    },
+    "draft": "les cinq organes comportent du cartilage hyalin (le cours dit ailleurs que le nez en contient) : aucune réponse ne convient"
+  },
+  "55159eeb-4088-51e5-b059-f4feeb9afa31": {
+    "why": "Selon le cours, un chondroplaste peut contenir deux ou trois chondrocytes issus d'une même cellule. Les chondrocytes n'y communiquent pas entre eux.",
+    "options": {
+      "A": "Faux selon le corrigé.",
+      "B": "Faux : il peut en contenir plusieurs.",
+      "C": "Faux : pas d'échanges directs.",
+      "D": "Vrai : groupe isogénique."
+    }
+  },
+  "1156c8dd-7b5e-51c0-8943-454004022685": {
+    "why": "La croissance de type axial fait partie de la croissance interstitielle : les chondrocytes se divisent en colonnes, ce qui allonge le cartilage (cartilage de conjugaison).",
+    "options": {
+      "A": "Faux : ce n'est pas une différenciation mésenchymateuse.",
+      "B": "Faux : c'est la croissance appositionnelle.",
+      "C": "Vrai : croissance en longueur.",
+      "D": "Faux : seule C est juste."
+    }
+  },
+  "73488c79-81d2-5837-a113-845b928771b7": {
+    "why": "Le cartilage articulaire est hyalin et dépourvu de périchondre ; il s'amincit avec l'âge sans disparaître.",
+    "options": {
+      "A": "Faux telle qu'écrite : le cartilage articulaire n'a pas de périchondre (probable coquille pour « n'est pas couvert »).",
+      "B": "Faux : il est hyalin.",
+      "C": "Faux : il est hyalin.",
+      "D": "Faux selon le cours."
+    },
+    "draft": "A est probablement une coquille pour « n'est pas couvert par le périchondre » : telle qu'écrite, elle est fausse (le cours le dit dans d'autres questions) et aucune autre proposition n'est juste"
+  },
+  "518cfdd8-201a-5b1a-a487-77f8e8554215": {
+    "why": "Le cartilage hyalin forme les cartilages costaux. Son collagène de type II est invisible en microscopie optique, et il n'a pas de fibres élastiques.",
+    "options": {
+      "A": "Faux selon le cours : il est classé parmi les tissus squelettiques.",
+      "B": "Faux : les fibrilles sont invisibles en microscopie optique.",
+      "C": "Faux : pas de fibres élastiques.",
+      "D": "Vrai : cartilages costaux."
+    }
+  },
+  "f5abe98f-9721-5836-817c-edd69fc77ef1": {
+    "why": "Le périchondre a une couche externe fibreuse vascularisée et une couche interne chondrogène (chondroblastes). Il manque sur le cartilage articulaire et assure la croissance appositionnelle.",
+    "options": {
+      "A": "Faux : pas sur le cartilage articulaire.",
+      "B": "Vrai : les capillaires sont dans la couche externe.",
+      "C": "Faux : il assure la croissance appositionnelle.",
+      "D": "Faux : ce sont des chondroblastes."
+    }
+  },
+  "72c2b49c-b5cf-58cd-9f0d-624d27efe8b7": {
+    "why": "Le cartilage élastique se trouve dans le pavillon de l'oreille, le conduit auditif externe, la trompe auditive et le larynx (épiglotte, cartilages corniculés et cunéiformes). Les cartilages du nez sont hyalins.",
+    "options": {
+      "A": "Faux : cartilage articulaire hyalin, ménisques fibreux.",
+      "B": "Juste en réalité : l'épiglotte est en cartilage élastique.",
+      "C": "Faux : anneaux hyalins.",
+      "D": "Faux en réalité : les cartilages du nez sont hyalins."
+    },
+    "keyIssue": "les cartilages du nez sont hyalins (le cours le dit dans une autre question) ; c'est le larynx qui contient du cartilage élastique (épiglotte).",
+    "aiKey": "B"
+  },
+  "b80f54a7-adca-506a-82a8-ed20fea4d7de": {
+    "why": "Le cartilage hyalin est le plus répandu ; c'est lui qui forme le cartilage articulaire. Le cartilage fibreux contient surtout du collagène de type I, et les ménisques sont fibreux.",
+    "options": {
+      "A": "Faux : le type III n'est pas celui du cartilage fibreux.",
+      "B": "Faux selon le cours : c'est un cartilage hyalin actif.",
+      "C": "Vrai : hyalin.",
+      "D": "Faux : les ménisques sont fibreux.",
+      "E": "Vrai : c'est le plus répandu."
+    }
+  },
+  "dd195033-d562-520d-86aa-ee0c86521437": {
+    "why": "Le cartilage hyalin contient du collagène de type II, sans fibres élastiques. Le cartilage de conjugaison est situé à la jonction diaphyse-épiphyse (métaphyse). Les ménisques sont fibreux.",
+    "options": {
+      "A": "Faux : les ménisques sont fibreux.",
+      "B": "Vrai : collagène II.",
+      "C": "Faux : pas de fibres élastiques.",
+      "D": "Faux : il est entre épiphyse et diaphyse (métaphyse).",
+      "E": "Faux selon le corrigé : il domine surtout chez l'embryon ; chez le sujet âgé, il se calcifie et régresse."
+    }
+  },
+  "f44b19da-4a14-5172-a737-54f493e0c7c4": {
+    "why": "Le périchondre est un tissu conjonctif : couche externe fibreuse vascularisée, couche interne chondrogène (chondroblastes). Il manque sur le cartilage articulaire et assure la croissance appositionnelle.",
+    "options": {
+      "A": "Faux : pas sur le cartilage articulaire.",
+      "B": "Faux selon le corrigé : les capillaires sont dans la couche externe.",
+      "C": "Faux : il assure la croissance appositionnelle.",
+      "D": "Vrai : tissu conjonctif dense.",
+      "E": "Faux : les chondroblastes sont dans la couche interne."
+    }
+  },
+  "d0615497-06d9-55b8-81b5-8720cdedf04e": {
+    "why": "Les chondrocytes occupent des chondroplastes. Le cartilage n'a ni nerfs ni vaisseaux et se nourrit par diffusion. Sa matrice n'est pas calcifiée, son collagène est de type II.",
+    "options": {
+      "A": "Vrai : chondroplastes.",
+      "B": "Faux : elle n'est pas riche en calcium.",
+      "C": "Faux : type II.",
+      "D": "Faux : seulement dans le cartilage élastique.",
+      "E": "Vrai : ni nerf ni vaisseau."
+    }
+  },
+  "c5e8f7b2-d33f-577b-8972-4da04476fdbf": {
+    "why": "Dans la croissance interstitielle, les groupes coronaires (mitoses successives, disposition circulaire) donnent l'épaisseur, les axiaux (colonnes) la longueur. Pour le cours, la croissance périchondrale n'est pas centrifuge.",
+    "options": {
+      "A": "Faux : coronaire = épaisseur.",
+      "B": "Vrai : mitoses successives des chondrocytes.",
+      "C": "Faux selon le corrigé.",
+      "D": "Vrai : axiale = longueur.",
+      "E": "Faux : axiale = longueur."
+    }
+  },
+  "c41abd56-3222-5122-b629-3e909bcef47b": {
+    "why": "Le cartilage fibreux forme les ménisques ; le cartilage élastique l'épiglotte et le pavillon de l'oreille. Le squelette fœtal est hyalin, et c'est le liquide synovial qui nourrit le cartilage articulaire.",
+    "options": {
+      "A": "Faux : c'est l'inverse.",
+      "B": "Vrai : ménisques.",
+      "C": "Faux : il est hyalin.",
+      "D": "Vrai : épiglotte.",
+      "E": "Faux : fibreux d'un côté, élastique de l'autre."
+    }
+  },
+  "7369f7e1-d12a-506e-9ea5-99cd20f4de5f": {
+    "why": "Le tissu cartilagineux a une matrice ferme et élastique, qui peut se calcifier (zone calcifiée du cartilage articulaire, cartilage de conjugaison, vieillissement). Il contient du collagène de type II et I, n'a ni vaisseaux ni nerfs, et sa variété la plus abondante est le cartilage hyalin.",
+    "options": {
+      "A": "Juste en réalité : la matrice est ferme, élastique et peut se calcifier (zone calcifiée, ossification enchondrale).",
+      "B": "Vrai : type II (et I dans le cartilage fibreux).",
+      "C": "Faux : il n'a pas de capillaires.",
+      "D": "Vrai : le cartilage hyalin est le plus abondant."
+    },
+    "keyIssue": "la matrice cartilagineuse peut se minéraliser (zone de cartilage calcifié sous le cartilage articulaire, cartilage de conjugaison avant l'ossification) : « parfois minéralisée » est juste.",
+    "aiKey": "ABD"
+  },
+  "1b05f48f-6d8e-50de-98f4-e9e86dc98e2d": {
+    "why": "Le cartilage articulaire est hyalin et le pavillon de l'oreille élastique. Le cartilage fibreux contient surtout du collagène de type I, mais aussi du type II. Le cartilage de conjugaison est entre épiphyse et diaphyse.",
+    "options": {
+      "A": "Juste en réalité : il contient aussi du collagène de type II.",
+      "B": "Faux : il est à la métaphyse, entre épiphyse et diaphyse.",
+      "C": "Vrai : hyalin.",
+      "D": "Vrai : cartilage élastique."
+    },
+    "keyIssue": "le cartilage fibreux contient surtout du collagène de type I, mais aussi du type II autour des chondrocytes : A est juste aussi.",
+    "aiKey": "ACD"
+  },
+  "22f171b7-5587-5d27-8b36-761d1dfdc9aa": {
+    "why": "Le cartilage est avasculaire et non innervé. Les cellules de la couche chondrogène du périchondre sont des chondroblastes. Un groupe isogénique coronaire a une disposition circulaire. Le cartilage du genou est nourri par le liquide articulaire ; le squelette fœtal est hyalin.",
+    "options": {
+      "A": "Faux : il n'est pas « peu » vascularisé, il est avasculaire.",
+      "B": "Faux : ce sont des chondroblastes.",
+      "C": "Vrai : disposition circulaire.",
+      "D": "Vrai : liquide synovial.",
+      "E": "Faux : il est hyalin."
+    }
+  },
+  "7fcd7d37-ea19-5435-bb64-81529e171daa": {
+    "why": "La matrice cartilagineuse est dure et élastique. Le cartilage hyalin est présent notamment dans le nez. La croissance interstitielle donne l'épaisseur (groupes coronaires) et la longueur (groupes axiaux). La forme des chondrocytes varie selon leur position, et le cartilage fibreux contient du collagène mais pas de fibres élastiques.",
+    "options": {
+      "A": "Faux : elle permet aussi la croissance en longueur (groupes axiaux).",
+      "B": "Faux : ils sont aplatis en périphérie, arrondis au centre.",
+      "C": "Vrai : cartilages du nez.",
+      "D": "Vrai : dure et élastique.",
+      "E": "Faux : il ne contient pas de fibres élastiques."
+    }
+  },
+  "b3f4a94b-adc3-5a9d-a304-a6eb42252538": {
+    "why": "Les ostéoclastes sont de grandes cellules multinucléées d'origine hématopoïétique (lignée monocyte-macrophage). Ils résorbent l'os et participent ainsi au remodelage osseux, avec les ostéoblastes. Leur bordure en brosse n'existe que sur la face au contact de l'os.",
+    "options": {
+      "A": "Faux : c'est l'origine des ostéoblastes.",
+      "B": "Faux : ce sont les ostéoblastes qui forment l'os.",
+      "C": "Vrai : lignée monocyte-macrophage.",
+      "D": "Juste en réalité : la résorption est la première étape du remodelage (le cours le retient ailleurs).",
+      "E": "Faux : la bordure en brosse est limitée à la zone de résorption."
+    },
+    "keyIssue": "en résorbant l'os, les ostéoclastes participent au remodelage osseux ; une autre question du même cours retient d'ailleurs « l'ostéoclaste participe au remodelage osseux » comme juste. D est donc juste aussi.",
+    "aiKey": "CD"
+  },
+  "0b16d53b-410c-5db6-89e2-4de33a214a32": {
+    "why": "L'os spongieux est une variété anatomique du tissu osseux : des travées séparées par des cavités contenant la moelle hématogène. On le trouve dans les épiphyses et les métaphyses des os longs, et entre les deux tables compactes des os plats (diploé).",
+    "options": {
+      "A": "Faux : c'est une variété anatomique.",
+      "B": "Juste en réalité : les métaphyses sont faites d'os spongieux entouré d'une mince corticale.",
+      "C": "Vrai : travées et cavités médullaires.",
+      "D": "Faux : les tables des os plats sont compactes ; l'os spongieux forme le diploé.",
+      "E": "Faux : la diaphyse est compacte (corticale)."
+    },
+    "keyIssue": "les métaphyses des os longs sont faites d'os spongieux sous une mince corticale : B est juste aussi.",
+    "aiKey": "BC"
+  },
+  "90f6b20c-e8a7-5a07-aef1-a6de2eaf18cf": {
+    "why": "Le tissu osseux est un tissu conjonctif spécialisé, à matrice dure et minéralisée, richement vascularisé et en remaniement permanent. Il assure soutien, protection et réserve minérale.",
+    "options": {
+      "A": "Faux : la matrice est minéralisée.",
+      "B": "Faux : le remaniement est permanent.",
+      "C": "Vrai : tissu conjonctif spécialisé.",
+      "D": "Vrai : rôle de soutien.",
+      "E": "Faux : il est richement vascularisé."
+    }
+  },
+  "eab7f92e-4a48-55f2-8ccc-00e7cab8e60f": {
+    "why": "Le canal de Havers occupe le centre de chaque ostéone. Il contient des vaisseaux (artériole ou capillaires) et des fibres nerveuses amyéliniques. Ce sont les canaux de Volkmann qui relient les ostéones entre eux, au périoste et à la cavité médullaire.",
+    "options": {
+      "A": "Faux : c'est le rôle des canaux de Volkmann.",
+      "B": "Vrai : au centre de l'ostéone.",
+      "C": "Faux : c'est le rôle des canaux de Volkmann.",
+      "D": "Faux : c'est le rôle des canaux de Volkmann.",
+      "E": "Vrai : vaisseau et fibre amyélinique."
+    }
+  },
+  "055bd1e4-4d53-5b92-a31d-06a4f977698a": {
+    "why": "Le tissu osseux est d'origine mésenchymateuse, à matrice dure et minéralisée. Il est richement vascularisé, en remaniement permanent, et abrite la moelle hématopoïétique.",
+    "options": {
+      "A": "Vrai : matrice minéralisée.",
+      "B": "Faux : le remaniement est permanent.",
+      "C": "Vrai : origine mésenchymateuse.",
+      "D": "Vrai : il loge la moelle hématopoïétique.",
+      "E": "Faux : il est richement vascularisé."
+    }
+  },
+  "37bb7ad3-02a0-59c5-a58c-036e7d6aa0d2": {
+    "why": "Les ostéocytes sont des ostéoblastes emmurés dans la matrice : un seul par ostéoplaste, au sein de la pièce osseuse. Ils communiquent par leurs prolongements dans les canalicules, reliés par des jonctions communicantes (nexus).",
+    "options": {
+      "A": "Faux : jonctions communicantes (gap), pas zonula.",
+      "B": "Faux : un seul ostéocyte par ostéoplaste.",
+      "C": "Faux : ils entretiennent la matrice, sans ne synthétiser que la substance fondamentale.",
+      "D": "Faux : en périphérie, ce sont les ostéoblastes.",
+      "E": "Vrai : dans la matrice, au sein de la pièce osseuse."
+    }
+  },
+  "711dcac4-49bb-54f1-a771-3ad6cf3536b4": {
+    "why": "Les canaux de Volkmann, transversaux ou obliques, relient les canaux de Havers entre eux, au périoste et à la cavité médullaire. Ce sont des canaux vasculaires : ils transportent les vaisseaux et les nerfs jusqu'aux canaux de Havers.",
+    "options": {
+      "A": "Vrai : ils relient les ostéones.",
+      "B": "Faux selon le corrigé : ils traversent les ostéones transversalement.",
+      "C": "Vrai : vers la cavité médullaire.",
+      "D": "Vrai : vers le périoste.",
+      "E": "Juste en réalité : ils contiennent aussi des vaisseaux et des nerfs, qu'ils amènent aux canaux de Havers."
+    },
+    "keyIssue": "les canaux de Volkmann sont des canaux vasculaires : ils contiennent eux aussi des vaisseaux et des fibres nerveuses, qu'ils conduisent du périoste et de la moelle vers les canaux de Havers. E est donc juste aussi.",
+    "aiKey": "ACDE"
+  },
+  "3e36482b-cc36-520e-b9c5-3630debc0443": {
+    "why": "Les ostéoclastes, d'origine hématopoïétique, résorbent l'os. Ils participent ainsi au remodelage, avec les ostéoblastes qui reconstruisent. Leur bordure en brosse est limitée à la zone de résorption.",
+    "options": {
+      "A": "Faux : origine hématopoïétique.",
+      "B": "Faux : ce sont les ostéoblastes.",
+      "C": "Vrai : résorption.",
+      "D": "Juste en réalité : ils assurent la phase de résorption du remodelage (le cours le retient ailleurs).",
+      "E": "Faux : seulement la face de résorption."
+    },
+    "keyIssue": "la résorption ostéoclastique est la première étape du remodelage osseux ; une autre question du même cours retient « l'ostéoclaste participe au remodelage osseux ». D est donc juste aussi.",
+    "aiKey": "CD"
+  },
+  "c6923f92-53c7-5d54-b990-9610f1d1de5b": {
+    "why": "Le tissu osseux haversien compact est un os secondaire (lamellaire). Il forme la corticale des os longs et les tables des os plats. Ses ostéones sont verticaux (parallèles au grand axe), reliés par des canaux de Volkmann transversaux.",
+    "options": {
+      "A": "Faux : il forme les tables (corticales), pas la médullaire.",
+      "B": "Faux : les ostéones sont verticaux (longitudinaux).",
+      "C": "Faux : les canaux de Volkmann sont transversaux ou obliques.",
+      "D": "Faux : c'est un os secondaire.",
+      "E": "Vrai : os secondaire lamellaire."
+    }
+  },
+  "20f11582-4565-5e81-9896-ece94c3c699f": {
+    "why": "L'os spongieux est une variété anatomique du tissu osseux. Chez l'adulte, c'est un os secondaire (haversien spongieux), en travées sans ostéones verticaux, situé dans les épiphyses.",
+    "options": {
+      "A": "Faux : c'est une variété anatomique.",
+      "B": "Vrai : anatomique (compact ou spongieux).",
+      "C": "Faux : c'est un os secondaire.",
+      "D": "Faux : il est fait de travées.",
+      "E": "Faux : la diaphyse est compacte."
+    }
+  },
+  "a4c2f8d0-e046-5f8d-b1f9-d4cc19f873ab": {
+    "why": "L'os spongieux est une variété anatomique du tissu osseux, de nature secondaire chez l'adulte, situé surtout dans les épiphyses.",
+    "options": {
+      "A": "Faux : variété anatomique.",
+      "B": "Faux selon le cours : c'est un os secondaire.",
+      "C": "Faux : la diaphyse est compacte.",
+      "D": "Vrai : variété anatomique."
+    }
+  },
+  "5d57f562-7fa9-5ca3-b834-2db821161477": {
+    "why": "L'ostéone (système de Havers) est une structure cylindrique de lamelles concentriques autour d'un canal de Havers. C'est du tissu osseux secondaire, qui forme la corticale des diaphyses.",
+    "options": {
+      "A": "Vrai : os secondaire lamellaire.",
+      "B": "Faux : il est centré par le canal de Havers.",
+      "C": "Faux selon le cours : il caractérise la corticale diaphysaire.",
+      "D": "Faux : il est cylindrique."
+    }
+  },
+  "55b4470e-ae3f-5afd-92e7-08050fdbcccf": {
+    "why": "Le tissu haversien compact forme la corticale des os ; il est recouvert en dehors par le périoste et bordé en dedans par l'endoste, et il se remanie en permanence. Dans les os plats, il forme les deux tables superficielles.",
+    "options": {
+      "A": "Juste sur le fond : sa surface externe est recouverte par le périoste.",
+      "B": "Juste sur le fond : sa surface interne est bordée par l'endoste.",
+      "C": "Faux : il se remanie en permanence.",
+      "D": "Vrai selon le corrigé : il forme les tables (les surfaces) des os plats."
+    },
+    "keyIssue": "l'os compact est recouvert en dehors par le périoste et en dedans par l'endoste : A et B sont justes sur le fond (le corrigé semble jouer sur les verbes « tapisser » et « couvrir »).",
+    "aiKey": "ABD"
+  },
+  "61646500-fd7a-5ff4-b524-0061923228b6": {
+    "why": "Le tissu haversien compact est un os secondaire, fait d'ostéones verticaux reliés par des canaux de Volkmann transversaux.",
+    "options": {
+      "A": "Faux : les ostéones sont verticaux.",
+      "B": "Faux : les canaux de Volkmann sont transversaux.",
+      "C": "Faux : c'est un os secondaire.",
+      "D": "Vrai : os secondaire."
+    }
+  },
+  "76ca75ec-5258-5552-9a04-fb2f43e6dadb": {
+    "why": "L'os spongieux est une variété anatomique du tissu osseux, secondaire chez l'adulte, situé dans les épiphyses et non dans la diaphyse.",
+    "options": {
+      "A": "Faux : variété anatomique.",
+      "B": "Vrai : anatomique.",
+      "C": "Faux : c'est un os secondaire.",
+      "D": "Faux : la diaphyse est compacte."
+    }
+  },
+  "9b8c6297-68b8-5110-82d1-2d24392164dd": {
+    "why": "Le tissu haversien compact forme la corticale des os longs ; c'est un os secondaire à ostéones verticaux et canaux de Volkmann transversaux.",
+    "options": {
+      "A": "Vrai : corticale diaphysaire.",
+      "B": "Faux : les ostéones sont verticaux.",
+      "C": "Faux : les canaux de Volkmann sont transversaux.",
+      "D": "Faux : c'est un os secondaire.",
+      "E": "Vrai : os secondaire."
+    }
+  },
+  "ee359e94-ffff-51cc-93af-a5e22d8a7873": {
+    "why": "L'os spongieux est une variété anatomique ; chez l'adulte, c'est un os secondaire (haversien spongieux), situé dans les épiphyses.",
+    "options": {
+      "A": "Faux : variété anatomique.",
+      "B": "Vrai : anatomique.",
+      "C": "Faux : il est secondaire.",
+      "D": "Vrai : haversien spongieux.",
+      "E": "Faux : la diaphyse est compacte."
+    }
+  },
+  "fd874750-2bd9-5761-b6b0-06e1d4b7561e": {
+    "why": "Le tissu osseux, d'origine mésenchymateuse, a une matrice dure et minéralisée. Il se remanie en permanence et loge la moelle hématopoïétique.",
+    "options": {
+      "A": "Vrai : matrice minéralisée.",
+      "B": "Vrai : remodelage permanent.",
+      "C": "Vrai : origine mésenchymateuse.",
+      "D": "Vrai : il abrite la moelle hématopoïétique.",
+      "E": "Vrai : toutes sont justes."
+    }
+  },
+  "2638fa43-b7a5-5329-aebe-3b05c6f0144c": {
+    "why": "Les ostéocytes, au sein de la matrice, communiquent par des canalicules où circulent leurs prolongements et les substances nutritives. Le périoste recouvre l'os en dehors, l'endoste le borde en dedans ; les cellules bordantes sont à la surface.",
+    "options": {
+      "A": "Faux : les ostéocytes sont aussi reliés entre eux (jonctions communicantes).",
+      "B": "Vrai : échanges par les canalicules.",
+      "C": "Faux : c'est l'inverse.",
+      "D": "Faux : ils sont au sein de la pièce osseuse.",
+      "E": "Faux : elles sont à la surface de l'os."
+    }
+  },
+  "e78d3c68-75d5-546f-ba6b-e7eb5a099ffb": {
+    "why": "Le canal de Havers est au centre de l'ostéone et contient une artériole et des fibres nerveuses amyéliniques. Les connexions avec les autres ostéones, le périoste et la moelle passent par les canaux de Volkmann.",
+    "options": {
+      "A": "Faux : c'est le rôle des canaux de Volkmann.",
+      "B": "Faux : il est au centre.",
+      "C": "Faux : canaux de Volkmann.",
+      "D": "Faux : canaux de Volkmann.",
+      "E": "Vrai : vaisseau et fibre amyélinique."
+    }
+  },
+  "07350f7e-21c4-57ad-a900-dc1e97c5be0b": {
+    "why": "L'ostéoclaste, issu du système des phagocytes mononucléés, est une grande cellule multinucléée qui détruit (résorbe) l'os. Sa bordure en brosse est limitée à la face de résorption ; c'est l'ostéocyte qui est étoilé.",
+    "options": {
+      "A": "Faux : c'est l'ostéocyte qui est étoilé.",
+      "B": "Faux : seulement la face de résorption.",
+      "C": "Vrai : lignée monocyte-macrophage.",
+      "D": "Vrai : résorption osseuse.",
+      "E": "Faux : ce sont les ostéoblastes."
+    }
+  },
+  "99b3870f-ea9b-50a4-a3ed-4e8e2196568e": {
+    "why": "L'os spongieux, variété anatomique, est fait de travées séparées par des cavités hématogènes. On le trouve dans les épiphyses et les métaphyses des os longs, et dans le diploé des os plats.",
+    "options": {
+      "A": "Faux : variété anatomique.",
+      "B": "Juste en réalité : les métaphyses sont faites d'os spongieux.",
+      "C": "Vrai : travées et moelle.",
+      "D": "Faux : les tables sont compactes.",
+      "E": "Vrai : épiphyses."
+    },
+    "keyIssue": "les métaphyses des os longs sont faites d'os spongieux sous une mince corticale : B est juste aussi.",
+    "aiKey": "BCE"
+  },
+  "66cb42a5-f165-5a04-be51-0348a4561c8f": {
+    "why": "Les ostéones (systèmes de Havers) sont faits de lamelles concentriques et forment la corticale des os longs. Leurs canaux de Havers, qui contiennent des vaisseaux (pas de moelle), sont reliés par les canaux de Volkmann. Un système de Havers est un ostéone.",
+    "options": {
+      "A": "Vrai : corticale.",
+      "B": "Vrai : lamelles concentriques.",
+      "C": "Faux : un système de Havers est un ostéone.",
+      "D": "Faux : ils contiennent des vaisseaux et des nerfs.",
+      "E": "Vrai : canaux de Volkmann."
+    }
+  },
+  "a9b2e0a8-1024-567f-a8e7-bcb5a4ffe682": {
+    "why": "Le tissu osseux haversien est lamellaire. Il existe sous deux formes : compacte (ostéones) et spongieuse (travées lamellaires). Les canaux de Havers communiquent avec la surface par les canaux de Volkmann, et l'os est vascularisé et innervé.",
+    "options": {
+      "A": "Vrai : os lamellaire.",
+      "B": "Faux : ils communiquent par les canaux de Volkmann.",
+      "C": "Faux selon le corrigé : cela ne vaut que pour l'haversien compact.",
+      "D": "Faux : il est innervé.",
+      "E": "Faux : il existe un tissu haversien spongieux."
+    }
+  },
+  "8fdc3aad-7738-5c2d-ac33-be0f28963eda": {
+    "why": "Le tissu haversien compact forme les corticales des os longs et des os plats. Ses ostéones, verticaux, sont faits de lamelles concentriques et reliés par des canaux de Volkmann transversaux.",
+    "options": {
+      "A": "Vrai : corticale (tables) des os plats.",
+      "B": "Faux : les ostéones sont verticaux.",
+      "C": "Faux : les canaux de Volkmann sont transversaux.",
+      "D": "Faux : les lamelles sont concentriques."
+    }
+  },
+  "72925d7b-c152-52ba-b02f-622f39ca34d3": {
+    "why": "L'ostéoclaste participe au remodelage osseux (résorption). L'ossification primaire est transitoire, l'os dérive du mésoblaste, et compact/spongieux sont des variétés anatomiques.",
+    "options": {
+      "A": "Faux : l'os primaire est remplacé par l'os secondaire.",
+      "B": "Faux : c'est une distinction anatomique (histologiquement : os non lamellaire et lamellaire).",
+      "C": "Faux : il est d'origine mésoblastique.",
+      "D": "Vrai : résorption lors du remodelage."
+    }
+  },
+  "53d37db7-d0f0-552f-a127-67b7d8a04086": {
+    "why": "Le tissu osseux dérive du tissu conjonctif. Il est recouvert par le périoste et bordé par l'endoste. Sa matrice comporte une partie organique et une partie minérale. Les ostéoclastes détruisent l'os, ce sont les ostéoblastes qui le reconstruisent.",
+    "options": {
+      "A": "Faux : ce sont les ostéoblastes qui reconstituent l'os.",
+      "B": "Vrai : tissu conjonctif spécialisé.",
+      "C": "Vrai : périoste et endoste.",
+      "D": "Faux : il ne soutient et ne protège pas « tous » les organes.",
+      "E": "Faux : la matrice a une partie organique ET une partie minérale."
+    }
+  },
+  "e5cb5d97-b2d4-57d4-be60-eeb213e79720": {
+    "why": "Les cellules bordantes sont des ostéoblastes au repos, à la surface de l'os. Les ostéoclastes sont mobiles et détruisent l'os ; les ostéoblastes, mésenchymateux, le construisent. L'ostéocyte est emmuré dans la matrice.",
+    "options": {
+      "A": "Faux selon le corrigé : l'os lamellaire forme aussi l'os spongieux des épiphyses.",
+      "B": "Faux : ils construisent l'os.",
+      "C": "Vrai : ostéoblastes au repos.",
+      "D": "Vrai : ils se déplacent sur les surfaces osseuses.",
+      "E": "Faux : il est au sein de la matrice."
+    }
+  },
+  "82c6b497-2923-5042-be17-9ad1fb45a137": {
+    "why": "L'os lamellaire est soit haversien compact, soit haversien spongieux. Dans l'os compact, les systèmes circonférentiels externe et interne sont bordés par le périoste et l'endoste. Les canaux de Havers rejoignent la surface par les canaux de Volkmann. En masse, l'os contient environ deux fois plus de calcium que de phosphore.",
+    "options": {
+      "A": "Faux : ils passent par les canaux de Volkmann.",
+      "B": "Vrai : périoste en dehors, endoste en dedans.",
+      "C": "Vrai : les deux formes de l'os lamellaire.",
+      "D": "Faux : les systèmes circonférentiels appartiennent à l'os compact.",
+      "E": "Faux : le calcium pèse environ deux fois plus que le phosphore."
+    }
+  },
+  "3bb184a9-ef32-592a-b0b1-d4c98a3b8765": {
+    "why": "L'ossification endochondrale remplace une maquette cartilagineuse par de l'os primaire. C'est le mode d'ossification des os longs, des os courts et de la base du crâne. Les os plats de la voûte s'ossifient sur un modèle membraneux.",
+    "options": {
+      "A": "Vrai : elle produit de l'os primaire.",
+      "B": "Vrai : os longs.",
+      "C": "Faux : l'ossification secondaire est le remaniement de l'os primaire.",
+      "D": "Faux : les os plats s'ossifient sur un modèle membraneux.",
+      "E": "Vrai : os courts."
+    }
+  },
+  "b54ebb21-3628-54bd-9b30-17b23d06993d": {
+    "why": "L'ossification endochondrale est une ossification primaire, sur maquette cartilagineuse (os longs et courts). La croissance appositionnelle sous le périoste est un autre mécanisme, membraneux.",
+    "options": {
+      "A": "Vrai : ossification primaire.",
+      "B": "Faux : l'ossification appositionnelle est périostique (membranaire).",
+      "C": "Faux : elle est primaire.",
+      "D": "Faux : les os plats s'ossifient sur un modèle membraneux.",
+      "E": "Vrai : os courts."
+    }
+  },
+  "93ffaf30-d382-5acb-8b02-952914294595": {
+    "why": "L'ossification membranaire (endoconjonctive) forme les os plats de la voûte du crâne, dont les pariétaux. L'ossification primaire est le plus souvent endochondrale. L'ossification secondaire (remaniement) commence dès la vie fœtale et dure toute la vie.",
+    "options": {
+      "A": "Faux : elle est le plus souvent endochondrale.",
+      "B": "Faux selon le corrigé.",
+      "C": "Vrai : os de la voûte du crâne.",
+      "D": "Faux : les os plats s'ossifient sur un modèle membraneux.",
+      "E": "Faux selon le corrigé : elle commence déjà pendant la vie fœtale."
+    }
+  },
+  "4856e203-d933-5a6b-bc31-74ce2787e155": {
+    "why": "L'ossification endochondrale part d'un modèle cartilagineux. C'est une ossification primaire, qui assure la croissance en longueur des os longs et l'ossification des os courts.",
+    "options": {
+      "A": "Faux : elle est primaire.",
+      "B": "Faux : les os plats sont membranaires ; elle allonge les os longs.",
+      "C": "Vrai : modèle cartilagineux.",
+      "D": "Faux : c'est l'ossification membranaire.",
+      "E": "Vrai : os courts."
+    }
+  },
+  "0a1d954e-47dd-5ff7-8e8c-afa2ebfb2d01": {
+    "why": "Les os courts et les épiphyses s'ossifient par voie endochondrale ; la voûte du crâne par voie membranaire. La diaphyse grossit par apposition périostique (membranaire). En fin de croissance, seul le cartilage articulaire persiste, aux extrémités.",
+    "options": {
+      "A": "Faux : les os courts sont endochondraux.",
+      "B": "Faux : la croissance en épaisseur est périostique (membranaire).",
+      "C": "Vrai : ossification membranaire.",
+      "D": "Faux : il ne persiste que le cartilage articulaire, aux épiphyses.",
+      "E": "Vrai : point d'ossification secondaire endochondral."
+    }
+  },
+  "8f940b67-f445-5076-8448-dfafbf49333c": {
+    "why": "Le polynucléaire neutrophile est un granulocyte à noyau plurilobé (3 à 5 lobes), issu de la lignée myéloïde. Il vit quelques jours seulement et défend contre les bactéries.",
+    "options": {
+      "A": "Vrai : granulocyte.",
+      "B": "Faux : son noyau a 3 à 5 lobes ; le noyau bilobé est celui de l'éosinophile.",
+      "C": "Faux : ce système concerne les monocytes-macrophages.",
+      "D": "Faux : 120 jours est la durée de vie de l'hématie.",
+      "E": "Faux : les parasites sont la cible des éosinophiles."
+    }
+  },
+  "f78eeff2-79d9-53b9-9d83-68d053c722d7": {
+    "why": "Le sérum est le liquide obtenu après coagulation d'un sang prélevé sans anticoagulant. Riche en eau, il ne contient ni fibrine ni fibrinogène, mais garde les nutriments et les hormones.",
+    "options": {
+      "A": "Vrai : la fibrine est restée dans le caillot.",
+      "B": "Vrai : environ 90 % d'eau.",
+      "C": "Faux : avec anticoagulant, on obtient du plasma.",
+      "D": "Vrai : on laisse le sang coaguler.",
+      "E": "Faux : il contient aussi les hormones."
+    }
+  },
+  "8a7ae6b6-45fd-5e73-8657-48ebb8c6fe48": {
+    "why": "Le polynucléaire neutrophile est un granulocyte arrondi, à noyau plurilobé. Phagocyte de la lignée myéloïde, il défend contre les bactéries.",
+    "options": {
+      "A": "Faux : il est arrondi.",
+      "B": "Faux : son noyau a 3 à 5 lobes.",
+      "C": "Faux : il vient de la lignée granuleuse.",
+      "D": "Faux : la défense antivirale repose sur les lymphocytes.",
+      "E": "Vrai : phagocytose des bactéries."
+    }
+  },
+  "dcaa8bb5-c74b-575d-aff2-2d5ef1baf6fd": {
+    "why": "Le sang est un tissu conjonctif spécialisé, à matrice liquide (plasma) sans fibres, dont toutes les cellules sont circulantes. Il transporte les gaz, et ses cellules naissent dans la moelle osseuse.",
+    "options": {
+      "A": "Faux : le plasma ne contient pas de fibres.",
+      "B": "Faux : il transporte les gaz, il ne les synthétise pas.",
+      "C": "Faux : toutes ses cellules circulent.",
+      "D": "Faux selon le cours : c'est un tissu conjonctif spécialisé, classé à part des variétés de tissu conjonctif proprement dit.",
+      "E": "Vrai : moelle osseuse hématopoïétique."
+    }
+  },
+  "1f305327-4a69-59e5-a546-ab9fdce64450": {
+    "why": "Le plasma est obtenu par centrifugation d'un sang prélevé sur anticoagulant. Riche en eau, il contient les facteurs de coagulation, dont le fibrinogène ; c'est le sérum qui en est dépourvu.",
+    "options": {
+      "A": "Faux selon le corrigé : il contient le fibrinogène (précurseur de la fibrine) ; c'est le sérum qui en est dépourvu.",
+      "B": "Vrai : sang sur anticoagulant.",
+      "C": "Faux : sans anticoagulant, on obtient du sérum.",
+      "D": "Faux : environ 90 % d'eau."
+    }
+  },
+  "4ba6b4a1-8ebf-58bd-ade5-e445ceac2b1a": {
+    "why": "Le sang transporte les gaz (O2, CO2). C'est un tissu conjonctif spécialisé à matrice liquide, sans fibres, dont toutes les cellules circulent ; il ne joue pas de rôle de soutien.",
+    "options": {
+      "A": "Faux : pas de fibres.",
+      "B": "Vrai : transport des gaz.",
+      "C": "Faux : toutes ses cellules circulent.",
+      "D": "Faux : il ne joue pas de rôle de soutien."
+    }
+  },
+  "9d40dbd7-51d5-57cb-9975-e312f9fd8837": {
+    "why": "Le sang, tissu conjonctif spécialisé, transporte les gaz ; ses cellules viennent de la moelle osseuse. Sa matrice, le plasma, ne contient pas de fibres, et toutes ses cellules circulent.",
+    "options": {
+      "A": "Faux : pas de fibres.",
+      "B": "Vrai : transport des gaz.",
+      "C": "Faux : toutes circulent.",
+      "D": "Vrai : tissu conjonctif spécialisé.",
+      "E": "Vrai : moelle osseuse."
+    }
+  },
+  "791fd8b8-c976-53ab-9410-06b2f976e6d1": {
+    "why": "Le plasma est un liquide riche en eau (90 %), obtenu sur anticoagulant. Il contient protéines de coagulation, nutriments et hormones, mais pas de fibres.",
+    "options": {
+      "A": "Faux : pas de fibres.",
+      "B": "Vrai : riche en eau.",
+      "C": "Faux : après coagulation, on obtient du sérum.",
+      "D": "Faux : il contient les facteurs de coagulation.",
+      "E": "Faux : il transporte aussi les hormones."
+    }
+  },
+  "55187042-60b1-5b13-843a-0abd6023c903": {
+    "why": "Les monocytes passent dans les tissus et deviennent des macrophages, comme les cellules de Kupffer du foie. Les plaquettes naissent des mégacaryocytes et interviennent dans l'hémostase. Les hématies sont anucléées, l'histamine vient des basophiles, et les lymphocytes ne sont pas granuleux.",
+    "options": {
+      "A": "Faux : les hématies n'ont pas de noyau.",
+      "B": "Faux : l'histamine est libérée par les basophiles (et mastocytes).",
+      "C": "Faux : ce sont des agranulocytes.",
+      "D": "Vrai : cellules de Kupffer.",
+      "E": "Vrai : hémostase."
+    }
+  },
+  "106c66aa-2cb0-5fbc-aa33-fec8de9f5295": {
+    "why": "Le sang transporte les gaz. Le sérum ne contient pas de fibres. Les globules blancs vivent en général moins longtemps que les hématies (120 jours), et toutes les cellules du sang sont mobiles.",
+    "options": {
+      "A": "Faux : pas de fibres.",
+      "B": "Vrai : transport des gaz.",
+      "C": "Faux : la plupart vivent quelques heures à quelques jours.",
+      "D": "Faux : ses cellules circulent."
+    }
+  },
+  "76308a65-0806-5218-a5c1-5ad4302f74eb": {
+    "why": "Le sang est formé d'éléments figurés et d'une matrice, le plasma. Il transporte gaz, nutriments et déchets (toxines). Les hématies sont anucléées et vivent environ 120 jours ; les plaquettes sont des fragments de mégacaryocytes.",
+    "options": {
+      "A": "Faux : la matrice est le plasma (le sérum est obtenu après coagulation).",
+      "B": "Faux : ce sont des fragments de mégacaryocytes.",
+      "C": "Vrai : transport des gaz et des déchets.",
+      "D": "Vrai : anucléées, 120 jours.",
+      "E": "Faux selon le corrigé : les leucocytes vieillis sont éliminés surtout dans la rate, le foie et les tissus."
+    }
+  },
+  "06410d94-2f64-551c-981a-6a44c7d727e7": {
+    "why": "L'hypoxie tissulaire stimule la sécrétion d'érythropoïétine par le rein. Les lymphocytes sont des leucocytes mononucléés ; les polynucléaires ont un seul noyau, mais plurilobé. Les plaquettes servent à l'hémostase.",
+    "options": {
+      "A": "Vrai : l'EPO augmente quand l'oxygénation baisse.",
+      "B": "Faux selon le corrigé : leur rôle est la défense immunitaire.",
+      "C": "Faux : un seul noyau plurilobé.",
+      "D": "Vrai : mononucléés.",
+      "E": "Faux selon le corrigé : leur rôle est l'hémostase."
+    }
+  },
+  "77f60729-7965-551d-98e4-2b5e8b438437": {
+    "why": "L'hématopoïèse extra-embryonnaire commence dans la vésicule vitelline dès la 3e semaine. La cellule souche hématopoïétique n'est pas identifiable morphologiquement. La cellule souche lymphoïde ne donne que des lymphocytes, et un précurseur est engagé dans une seule lignée.",
+    "options": {
+      "A": "Faux : le CFU-M appartient à la lignée myéloïde (monocytes).",
+      "B": "Faux : elle n'est pas identifiable sur un frottis.",
+      "C": "Faux : elle ne donne que des lymphocytes.",
+      "D": "Vrai : îlots sanguins de la vésicule vitelline.",
+      "E": "Vrai : il est unipotent."
+    }
+  },
+  "d77982c9-1a7f-5967-849a-5832d807612a": {
+    "why": "Pendant la vie embryonnaire, l'hématopoïèse commence dans la vésicule vitelline (3e semaine), passe au foie dès la 5e–6e semaine (il domine jusqu'au 6e–7e mois), puis à la moelle osseuse. Après la naissance, elle se fait dans la moelle rouge. Le cours part d'une cellule souche totipotente.",
+    "options": {
+      "A": "Faux selon le cours : le point de départ est une cellule souche totipotente.",
+      "B": "Faux : elle commence dès la 3e semaine de vie embryonnaire.",
+      "C": "Faux : elle se fait dans la moelle rouge ; la moelle jaune est graisseuse.",
+      "D": "Vrai : le foie est l'organe hématopoïétique principal au 2e trimestre.",
+      "E": "Juste en réalité : le foie devient hématopoïétique dès la 5e–6e semaine, donc pendant le 1er trimestre."
+    },
+    "keyIssue": "l'hématopoïèse hépatique débute dès la 5e–6e semaine, donc au cours du premier trimestre (le foie reste actif jusqu'au 6e–7e mois) : E est juste aussi.",
+    "aiKey": "DE"
+  },
+  "cb0bee63-5066-5723-886a-0653416b3daf": {
+    "why": "Les précurseurs (blastes) sont les premières cellules reconnaissables en microscopie optique. Engagés dans une seule lignée, sans auto-renouvellement, ils ont une forte capacité de division et de maturation.",
+    "options": {
+      "A": "Faux : ils sont unipotents.",
+      "B": "Faux : une seule lignée.",
+      "C": "Vrai : identifiables sur frottis médullaire.",
+      "D": "Faux : ils n'en ont pas.",
+      "E": "Faux : leur capacité de différenciation est très importante."
+    }
+  },
+  "f968fe0d-cfda-5451-a20d-b59c2e4b41b9": {
+    "why": "Les précurseurs sont unipotents, identifiables en microscopie optique, sans auto-renouvellement, avec une très forte capacité de différenciation.",
+    "options": {
+      "A": "Faux : ils sont unipotents.",
+      "B": "Faux : une seule lignée.",
+      "C": "Faux : ils sont identifiables.",
+      "D": "Faux : ils n'en ont pas.",
+      "E": "Vrai : très forte maturation."
+    }
+  },
+  "2d49d616-2200-5c62-a2de-36f7c8202f70": {
+    "why": "Le CFU-E est un progéniteur de la lignée rouge (érythroblastique). Les précurseurs sont identifiables morphologiquement. Le premier site de l'hématopoïèse est la vésicule vitelline, et chez l'adulte elle est médullaire.",
+    "options": {
+      "A": "Faux selon le corrigé : elle donne les lymphocytes B, T et NK.",
+      "B": "Faux : les précurseurs sont identifiables.",
+      "C": "Vrai : progéniteur érythroïde.",
+      "D": "Faux : la vésicule vitelline, puis le foie, précèdent la rate.",
+      "E": "Faux : chez l'adulte, elle est médullaire."
+    }
+  },
+  "e5184708-a852-5339-94f4-0f6bef4ea00b": {
+    "why": "Selon le cours, le foie est le premier organe hématopoïétique de l'embryon (la vésicule vitelline, qui le précède, est une annexe et non un organe). Les précurseurs sont identifiables morphologiquement.",
+    "options": {
+      "A": "Faux selon le corrigé : elle donne B, T et NK.",
+      "B": "Faux : les précurseurs sont identifiables.",
+      "C": "Faux : la rate intervient après le foie.",
+      "D": "Vrai selon le cours : premier organe intra-embryonnaire."
+    }
+  },
+  "aba4090d-cd63-53e6-ae54-23e2eec82793": {
+    "why": "Le CFU-E est un progéniteur érythroïde. Pour le cours, le foie est le premier organe hématopoïétique (la vésicule vitelline étant une annexe).",
+    "options": {
+      "A": "Faux selon le corrigé : B, T et NK.",
+      "B": "Faux : les précurseurs sont identifiables.",
+      "C": "Vrai : lignée rouge.",
+      "D": "Faux : la rate vient après le foie.",
+      "E": "Vrai selon le cours."
+    }
+  },
+  "cf9bab4b-2b95-50dd-9657-564662d51fd1": {
+    "why": "Après la naissance, l'hématopoïèse se fait dans les cavités osseuses (moelle rouge). Elle produit toutes les cellules du sang. Chez l'embryon, le foie prend le relais de la vésicule vitelline dès la 5e–6e semaine.",
+    "options": {
+      "A": "Faux selon le cours : le point de départ est une cellule souche totipotente.",
+      "B": "Faux : elle commence dès la 3e semaine embryonnaire.",
+      "C": "Vrai : moelle rouge des cavités osseuses.",
+      "D": "Faux : elle produit toutes les cellules sanguines.",
+      "E": "Juste en réalité : le foie devient hématopoïétique dès la 5e–6e semaine (1er trimestre)."
+    },
+    "keyIssue": "l'hématopoïèse hépatique débute dès la 5e–6e semaine de grossesse, donc au cours du premier trimestre : E est juste aussi.",
+    "aiKey": "CE"
+  },
+  "913918a8-e1cd-5878-991b-56bd9721f12e": {
+    "why": "Les progéniteurs (CFU) sont engagés vers une ou deux lignées et donnent de nombreuses cellules matures. Ils ne sont pas identifiables morphologiquement et gardent une capacité limitée d'auto-renouvellement.",
+    "options": {
+      "A": "Faux : la totipotence est propre à la cellule souche.",
+      "B": "Vrai : ils sont engagés et produisent de nombreuses cellules matures.",
+      "C": "Faux : les progéniteurs ne sont pas identifiables.",
+      "D": "Faux selon le corrigé : ils gardent une capacité limitée d'auto-renouvellement.",
+      "E": "Faux selon le corrigé : la très forte capacité de maturation caractérise les précurseurs."
+    }
+  },
+  "5dc15504-4b9a-599a-a5e9-768430e4d61a": {
+    "why": "Les cellules souches donnent deux lignées, myéloïde et lymphoïde. Les cellules multipotentes ne sont pas identifiables morphologiquement. Seules les cellules matures passent dans le sang, et après la naissance l'hématopoïèse est médullaire.",
+    "options": {
+      "A": "Faux : elle concerne toutes les lignées.",
+      "B": "Vrai : myéloïde et lymphoïde.",
+      "C": "Vrai : non identifiables.",
+      "D": "Faux : les précurseurs restent dans la moelle.",
+      "E": "Faux : après la naissance, elle est médullaire."
+    }
+  },
+  "17304bf7-79e1-52fd-b28f-80ff7d5873e7": {
+    "why": "Le CFU-E est un progéniteur de la lignée rouge. Les précurseurs sont identifiables. Après la naissance, les éléments figurés du sang sont produits dans la moelle osseuse.",
+    "options": {
+      "A": "Faux selon le corrigé : B, T et NK.",
+      "B": "Faux : ils sont identifiables.",
+      "C": "Vrai : lignée rouge.",
+      "D": "Faux selon le corrigé : après la naissance, l'hématopoïèse est médullaire (la rate ne fait que multiplier des lymphocytes activés)."
+    }
+  },
+  "41298857-d33d-5a28-b448-a0a3302bd8f1": {
+    "why": "Chaque neurone a un seul axone, qui conduit l'information du corps cellulaire vers la périphérie. Il contient des neurofibrilles mais pas de corps de Nissl ; il peut être myélinisé ou non, et les axones forment surtout la substance blanche.",
+    "options": {
+      "A": "Faux : l'axone est unique.",
+      "B": "Faux : il existe des fibres amyéliniques.",
+      "C": "Faux selon le corrigé : les axones forment surtout la substance blanche.",
+      "D": "Faux : il n'a pas de corps de Nissl.",
+      "E": "Vrai : il conduit l'influx."
+    }
+  },
+  "4dbddc92-a360-5531-b961-c4d1d4a41ca6": {
+    "why": "Le neurone unipolaire n'a qu'un axone ; le bipolaire, une dendrite et un axone ; le multipolaire, plusieurs dendrites et un seul axone. Le pseudo-unipolaire (ganglion spinal) est morphologiquement unipolaire et fonctionnellement bipolaire. Le Golgi type I a un axone long, le type II un axone court.",
+    "options": {
+      "A": "Faux : il n'a qu'un axone, pas de dendrite.",
+      "B": "Faux : une dendrite et un axone.",
+      "C": "Faux : le type I est le plus long.",
+      "D": "Faux : un seul axone.",
+      "E": "Vrai : pseudo-unipolaire."
+    }
+  },
+  "358d2878-c77c-548c-abbd-b5046f1fbaff": {
+    "why": "Les corps de Nissl sont des amas de réticulum endoplasmique granulaire (avec des ribosomes libres), basophiles, visibles en microscopie optique dans le corps cellulaire et les dendrites.",
+    "options": {
+      "A": "Faux.",
+      "B": "Faux.",
+      "C": "Vrai : REG.",
+      "D": "Faux : le REL n'a pas de ribosomes.",
+      "E": "Faux."
+    }
+  },
+  "2f95d3c3-dff2-588f-bfc9-f72679adc3dd": {
+    "why": "Une fibre nerveuse est un prolongement neuronal (axone, ou dendrite du neurone pseudo-unipolaire) avec ses gaines. Dans le système nerveux central, la myéline est faite par les oligodendrocytes, sans cellule de Schwann. La myéline accélère la conduction (saltatoire).",
+    "options": {
+      "A": "Faux : les fibres nues conduisent lentement.",
+      "B": "Juste en réalité : dans le système nerveux central, la myéline vient des oligodendrocytes.",
+      "C": "Faux : pas dans le système nerveux central.",
+      "D": "Faux : elles conduisent plus vite.",
+      "E": "Vrai : axones ou dendrites."
+    },
+    "keyIssue": "dans le système nerveux central, les fibres myélinisées n'ont pas de cellule de Schwann (la myéline y vient des oligodendrocytes) ; d'autres questions du même cours retiennent d'ailleurs cette proposition comme juste. B est donc juste aussi.",
+    "aiKey": "BE"
+  },
+  "5da99803-5a29-5e1f-a966-d127f68124e4": {
+    "why": "L'axone est unique. Dans le nerf périphérique, il est entouré sur sa longueur par une chaîne de cellules de Schwann (une par segment internodal). C'est un conducteur ; ce sont les dendrites qui reçoivent l'information.",
+    "options": {
+      "A": "Faux : unique.",
+      "B": "Vrai : une cellule de Schwann par segment.",
+      "C": "Faux : proposition sans sens (les axones forment surtout la substance blanche).",
+      "D": "Faux : pas de corps de Nissl.",
+      "E": "Faux : il conduit ; les dendrites reçoivent."
+    }
+  },
+  "c6d51e09-4e73-53df-9826-d8671e9015ad": {
+    "why": "Le neurone de Golgi type I a un axone long, le type II un axone court. Unipolaire = un axone ; bipolaire = une dendrite + un axone ; multipolaire = plusieurs dendrites + un axone ; pseudo-unipolaire = morphologiquement unipolaire, fonctionnellement bipolaire.",
+    "options": {
+      "A": "Faux : un axone, pas de dendrite.",
+      "B": "Faux : une dendrite et un axone.",
+      "C": "Vrai : axone long.",
+      "D": "Faux : un seul axone.",
+      "E": "Faux : c'est l'inverse."
+    }
+  },
+  "f44c6955-6614-5a23-883f-11e6d0b310d1": {
+    "why": "Les corps de Nissl sont des amas de réticulum endoplasmique granulaire, basophiles.",
+    "options": {
+      "A": "Faux.",
+      "B": "Faux.",
+      "C": "Vrai : REG.",
+      "D": "Faux.",
+      "E": "Faux."
+    }
+  },
+  "06927cc1-42b7-5d8b-9f70-c5d9c13179a1": {
+    "why": "Les fibres nerveuses sont le plus souvent formées de prolongements cytoplasmiques (axones) et de leurs gaines. Dans le système nerveux central, les fibres myélinisées n'ont pas de cellule de Schwann (oligodendrocytes). La myéline rend la conduction plus rapide (saltatoire).",
+    "options": {
+      "A": "Juste en réalité : une fibre est un prolongement neuronal et ses gaines (le cours le retient ailleurs).",
+      "B": "Vrai : oligodendrocytes dans le système nerveux central.",
+      "C": "Faux : pas dans le système nerveux central.",
+      "D": "Faux : plus rapide.",
+      "E": "Juste en réalité : la conduction saltatoire est beaucoup plus rapide."
+    },
+    "keyIssue": "la myéline accélère la conduction (conduction saltatoire), donc E est juste ; et les fibres sont bien formées de prolongements cytoplasmiques (A, retenu comme juste dans une autre question du cours).",
+    "aiKey": "ABE"
+  },
+  "76d64d5a-0552-51ba-9ad1-3878bf65dd12": {
+    "why": "La fibre nerveuse périphérique a toujours une gaine de Schwann ; la fibre centrale myélinisée n'en a pas (oligodendrocytes). Les fibres myélinisées existent dans les deux systèmes. La fibre nue n'a ni myéline ni gaine.",
+    "options": {
+      "A": "Vrai selon le corrigé : la fibre est formée par un prolongement neuronal.",
+      "B": "Faux : elle existe aussi dans le système nerveux central.",
+      "C": "Vrai : gaine de Schwann.",
+      "D": "Faux : oligodendrocytes.",
+      "E": "Faux : cela décrit la fibre amyélinique de Remak ; la fibre nue n'a aucune gaine."
+    }
+  },
+  "84946601-1a28-5ecd-9a9f-3049a0fbd858": {
+    "why": "Le neurone unipolaire n'a qu'un axone ; le pseudo-unipolaire a fonctionnellement un axone et une dendrite ; le multipolaire a plusieurs dendrites et un seul axone ; le bipolaire une dendrite et un axone.",
+    "options": {
+      "A": "Vrai : fonctionnellement une dendrite et un axone.",
+      "B": "Faux : un seul axone.",
+      "C": "Faux : une dendrite.",
+      "D": "Juste en réalité : le neurone unipolaire n'a qu'un seul prolongement, l'axone.",
+      "E": "Vrai : plusieurs dendrites, un axone."
+    },
+    "keyIssue": "le neurone unipolaire est défini comme n'ayant qu'un seul prolongement, l'axone (le cours dit d'ailleurs qu'il n'a pas « une seule dendrite ») : D est juste aussi.",
+    "aiKey": "ADE"
+  },
+  "9a273799-b60c-552a-a402-628de3d8e7b7": {
+    "why": "Certains neurones (neurosécrétoires de l'hypothalamus) sécrètent des hormones. Le neurone a un seul noyau, un seul axone, des corps de Nissl, et ne fait pas que conduire l'influx.",
+    "options": {
+      "A": "Faux : il peut aussi sécréter (neurosécrétion).",
+      "B": "Vrai : neurosécrétion (ocytocine, ADH).",
+      "C": "Faux : il a normalement un seul noyau.",
+      "D": "Faux : un seul axone.",
+      "E": "Faux : il en est riche."
+    }
+  },
+  "db68f257-3720-53c9-8c72-733f39d88edb": {
+    "why": "Le neurone est une cellule non gliale qui ne se divise plus après la naissance et vit aussi longtemps que l'organisme. Sa forme varie (unipolaire, bipolaire, pseudo-unipolaire, multipolaire).",
+    "options": {
+      "A": "Faux : les cellules gliales sont distinctes.",
+      "B": "Faux : il ne se divise pas.",
+      "C": "Faux selon le corrigé : il vit aussi longtemps que l'individu.",
+      "D": "Vrai : plusieurs types morphologiques."
+    }
+  },
+  "50e167c9-ff3f-5bb2-bf3f-ad22dac1d3bc": {
+    "why": "Le neurone multipolaire, le plus fréquent, a plusieurs dendrites et un seul axone. Il est en contact avec d'autres neurones, mais aussi avec des muscles ou des glandes.",
+    "options": {
+      "A": "Faux : c'est le plus fréquent.",
+      "B": "Vrai : plusieurs dendrites, un axone.",
+      "C": "Faux : aussi avec muscles et glandes.",
+      "D": "Faux : un seul axone."
+    }
+  },
+  "567fa2c9-20a4-5143-aa29-c817d7c9829a": {
+    "why": "On cherche la proposition fausse. La fibre périphérique est un prolongement neuronal toujours entouré de cellules de Schwann ; elle peut être myélinisée (conduction saltatoire) ou non (conduction continue).",
+    "options": {
+      "A": "Réponse attendue (fausse) : il existe des fibres périphériques amyéliniques (Remak).",
+      "B": "Juste : cellule de Schwann, avec ou sans myéline.",
+      "C": "Juste : axone (ou dendrite).",
+      "D": "Juste : continue si amyélinique, saltatoire si myélinisée."
+    }
+  },
+  "d5178f40-5e9f-51cb-b61c-0f65808761bb": {
+    "why": "La fibre nerveuse est formée par un prolongement neuronal (axone ou dendrite). La fibre périphérique a une gaine de Schwann ; la fibre centrale myélinisée n'en a pas. Les fibres myélinisées existent aussi dans le système nerveux central.",
+    "options": {
+      "A": "Faux : pas seulement des axones.",
+      "B": "Faux : pas seulement le système périphérique.",
+      "C": "Vrai : gaine de Schwann.",
+      "D": "Faux : oligodendrocytes."
+    }
+  },
+  "33332203-fc1f-5265-b36f-2062be0386ab": {
+    "why": "Le neurone multipolaire a plusieurs dendrites et un axone ; le bipolaire une dendrite et un axone. Le pseudo-unipolaire, morphologiquement unipolaire, possède fonctionnellement une dendrite (branche périphérique) et un axone (branche centrale).",
+    "options": {
+      "A": "Juste en réalité : fonctionnellement une dendrite et un axone (le cours le retient ailleurs).",
+      "B": "Faux : un seul axone.",
+      "C": "Faux : une dendrite.",
+      "D": "Vrai : plusieurs dendrites, un axone."
+    },
+    "keyIssue": "le neurone pseudo-unipolaire possède fonctionnellement une dendrite (branche périphérique) et un axone (branche centrale) ; une autre question du même cours retient cette proposition comme juste. A est donc juste aussi.",
+    "aiKey": "AD"
+  },
+  "e769b80e-bba3-5ca8-8f49-56fae67399b9": {
+    "why": "Certains neurones sécrètent des hormones (neurosécrétion). Le neurone a un seul noyau, un seul axone et des corps de Nissl.",
+    "options": {
+      "A": "Vrai : neurosécrétion.",
+      "B": "Faux : un seul noyau normalement.",
+      "C": "Faux : un seul axone.",
+      "D": "Faux : il en est riche."
+    }
+  },
+  "9167576a-032b-57ef-8819-a71e18969cd5": {
+    "why": "La fibre périphérique a une gaine de Schwann. La fibre nerveuse vient d'un axone ou d'une dendrite ; les fibres myélinisées existent aussi dans le système nerveux central (oligodendrocytes) ; la fibre nue n'a aucune gaine.",
+    "options": {
+      "A": "Faux : pas seulement des axones.",
+      "B": "Faux : pas seulement le système périphérique.",
+      "C": "Vrai : gaine de Schwann.",
+      "D": "Faux : oligodendrocytes.",
+      "E": "Faux : cela décrit la fibre de Remak ; la fibre nue n'a aucune gaine."
+    }
+  },
+  "70b64e0d-d414-5c9d-be7a-7783322a607d": {
+    "why": "Le neurone multipolaire a plusieurs dendrites et un axone. Le pseudo-unipolaire possède fonctionnellement une dendrite et un axone. Le bipolaire a une dendrite et un axone, l'unipolaire un seul axone.",
+    "options": {
+      "A": "Juste en réalité : fonctionnellement une dendrite et un axone (le cours le retient ailleurs).",
+      "B": "Faux : un seul axone.",
+      "C": "Faux : une dendrite.",
+      "D": "Faux : l'unipolaire n'a qu'un axone.",
+      "E": "Vrai : plusieurs dendrites, un axone."
+    },
+    "keyIssue": "le neurone pseudo-unipolaire possède fonctionnellement une dendrite et un axone ; une autre question du même cours retient cette proposition comme juste. A est donc juste aussi.",
+    "aiKey": "AE"
+  },
+  "6bf98fe1-09aa-53e6-ae63-d88efad63d93": {
+    "why": "Le neurone conduit l'influx nerveux et certains sécrètent des hormones. Il a un seul noyau, un seul axone et un corps cellulaire riche en corps de Nissl.",
+    "options": {
+      "A": "Vrai : conduction de l'influx.",
+      "B": "Vrai : neurosécrétion.",
+      "C": "Faux : un seul noyau.",
+      "D": "Faux : un seul axone.",
+      "E": "Faux : il en est riche."
+    }
+  },
+  "c955981f-0a7e-5718-937b-aa65d70e00a4": {
+    "why": "L'axone, unique, peut être entouré par une série de cellules de Schwann (une par segment internodal). Il conduit l'information, ne contient pas de corps de Nissl et forme surtout la substance blanche.",
+    "options": {
+      "A": "Faux : unique.",
+      "B": "Vrai : une cellule de Schwann par segment.",
+      "C": "Faux selon le corrigé : les axones forment surtout la substance blanche.",
+      "D": "Faux : pas de corps de Nissl.",
+      "E": "Faux : il conduit ; les dendrites reçoivent."
+    }
+  },
+  "ee26bdda-2017-5900-93be-c8ebfdbd058d": {
+    "why": "Le neurone bipolaire a une dendrite et un axone. Le Golgi type I a un axone long ; le multipolaire a un seul axone ; le pseudo-unipolaire est fonctionnellement bipolaire.",
+    "options": {
+      "A": "Faux : il n'a qu'un axone.",
+      "B": "Vrai : une dendrite et un axone.",
+      "C": "Faux : le type I est le plus long.",
+      "D": "Faux : un seul axone.",
+      "E": "Faux : c'est l'inverse."
+    }
+  },
+  "4a5eff2f-5796-5b01-a0a8-081d57593982": {
+    "why": "Le neurone comprend un corps cellulaire riche en corps de Nissl, des dendrites et un axone. Les multipolaires sont les plus abondants. Le Golgi type I a un axone long, et les neurones sont connectés entre eux par des synapses.",
+    "options": {
+      "A": "Faux : il a aussi des dendrites.",
+      "B": "Vrai : riche en corps de Nissl.",
+      "C": "Vrai : les plus nombreux.",
+      "D": "Faux : son axone est long.",
+      "E": "Faux : les synapses relient les neurones."
+    }
+  },
+  "4c2efabb-7aa3-5666-a05e-d634923ca4f6": {
+    "why": "Les fibres nerveuses sont formées de prolongements cytoplasmiques et de leurs gaines. Dans le système nerveux central, les fibres myélinisées n'ont pas de cellule de Schwann. La substance blanche est faite de fibres myélinisées, et les fibres nues conduisent lentement.",
+    "options": {
+      "A": "Vrai : axones et dendrites.",
+      "B": "Vrai : oligodendrocytes dans le système nerveux central.",
+      "C": "Faux : pas dans le système nerveux central.",
+      "D": "Faux : la substance blanche est surtout faite de fibres myélinisées.",
+      "E": "Faux : elles conduisent lentement."
+    }
+  },
+  "32c98824-7805-5ddd-afbc-d7508a1abebc": {
+    "why": "Un neurone peut n'avoir qu'un axone et une dendrite (bipolaire). On distingue les neurones de Golgi type I et II par la longueur de leur axone. Le neurone a un seul noyau et un seul axone ; les corps de Nissl sont du réticulum endoplasmique granulaire, pas du Golgi.",
+    "options": {
+      "A": "Vrai : neurone bipolaire.",
+      "B": "Faux : un seul noyau.",
+      "C": "Faux : un seul axone.",
+      "D": "Faux : les corps de Nissl sont du REG, pas du Golgi.",
+      "E": "Vrai : Golgi type I (long) et II (court)."
+    }
+  },
+  "8312bd64-479d-5130-8d94-1b7b65cd16c7": {
+    "why": "Le neurone conduit l'influx et peut sécréter des hormones. Il comporte un axone et une ou plusieurs dendrites. Les corps de Nissl sont dans le corps cellulaire et les dendrites, jamais dans l'axone.",
+    "options": {
+      "A": "Vrai : conduction et neurosécrétion.",
+      "B": "Faux : pas dans l'axone.",
+      "C": "Faux : un seul noyau.",
+      "D": "Vrai : un axone et une ou plusieurs dendrites."
+    }
+  },
+  "feec9a75-b93f-5a99-b5fb-f5b10042d673": {
+    "why": "La fibre myélinisée existe dans le système nerveux central (oligodendrocytes) et périphérique (cellules de Schwann). Les fibres viennent des axones et des dendrites. La fibre nue n'a aucune gaine.",
+    "options": {
+      "A": "Faux : pas seulement des axones.",
+      "B": "Vrai : dans les deux systèmes.",
+      "C": "Faux : pas de gaine de Schwann dans le système central.",
+      "D": "Faux : cela décrit la fibre de Remak."
+    }
+  },
+  "706e2c03-745b-51ee-bdd1-9a01b3889c21": {
+    "why": "Les corps de Nissl sont des amas de réticulum endoplasmique granulaire, basophiles et visibles en microscopie optique. On les trouve dans le corps cellulaire et les dendrites ; seuls l'axone et son cône d'émergence en sont dépourvus.",
+    "options": {
+      "A": "Faux : ils sont visibles (colorants basiques).",
+      "B": "Juste en réalité : amas de REG (le cours le retient dans d'autres questions).",
+      "C": "Vrai selon le cours : ils caractérisent le neurone.",
+      "D": "Faux en réalité : les dendrites contiennent des corps de Nissl ; c'est l'axone qui en est dépourvu.",
+      "E": "Faux : l'axone n'en contient pas."
+    },
+    "keyIssue": "les corps de Nissl sont des amas de réticulum endoplasmique granulaire (B juste, comme le retiennent d'autres questions du cours) et on en trouve dans les dendrites (D faux) ; seuls l'axone et le cône d'émergence en sont dépourvus.",
+    "aiKey": "BC"
+  },
+  "dba32811-f2ee-5116-97cf-7171f8adc041": {
+    "why": "Les astrocytes protoplasmiques sont propres à la substance grise du système nerveux central. Comme tous les astrocytes, ils envoient des pieds vers les vaisseaux et la pie-mère (membrane limitante gliale) et forment la cicatrice gliale après une lésion. Les cavités sont tapissées par les épendymocytes.",
+    "options": {
+      "A": "Faux : leurs pieds forment la limitante gliale sous la pie-mère.",
+      "B": "Faux : ils sont propres au système nerveux central.",
+      "C": "Faux : ce sont les épendymocytes.",
+      "D": "Vrai : cicatrice gliale (gliose).",
+      "E": "Vrai : substance grise ; les astrocytes fibreux sont dans la substance blanche."
+    }
+  },
+  "92f83d05-9b22-5a62-9932-579335d8806f": {
+    "why": "La substance grise contient les corps des neurones, les astrocytes protoplasmiques, les oligodendrocytes satellites et la microglie. Les astrocytes fibreux et les oligodendrocytes interfasciculaires sont dans la substance blanche ; les épendymocytes bordent les cavités.",
+    "options": {
+      "A": "Vrai : corps cellulaires des neurones.",
+      "B": "Faux : ils sont dans la substance blanche, entre les faisceaux.",
+      "C": "Faux : ils tapissent les cavités (ventricules, canal de l'épendyme).",
+      "D": "Faux : substance blanche.",
+      "E": "Vrai : substance grise."
+    }
+  },
+  "f3bb4ced-14c7-56d5-ae06-d1734bd8522f": {
+    "why": "Les astrocytes sont propres au système nerveux central, présents dans les substances grise (protoplasmiques) et blanche (fibreux). Ils sont au contact des vaisseaux, des synapses et des méninges, et assurent la cicatrisation (gliose).",
+    "options": {
+      "A": "Faux : ils forment la limitante gliale sous la pie-mère.",
+      "B": "Faux : système nerveux central seulement.",
+      "C": "Faux : ce sont les épendymocytes.",
+      "D": "Vrai : cicatrice gliale.",
+      "E": "Faux : les astrocytes fibreux sont dans la substance blanche."
+    }
+  },
+  "ba69c1d2-7057-5859-9760-b1e1a192f9a8": {
+    "why": "La substance grise contient les neurones, les astrocytes protoplasmiques, les oligodendrocytes satellites et la microglie.",
+    "options": {
+      "A": "Vrai : neurones.",
+      "B": "Faux : substance blanche.",
+      "C": "Faux : ils bordent les cavités.",
+      "D": "Faux : substance blanche.",
+      "E": "Vrai : substance grise."
+    }
+  },
+  "ba928347-a5d6-5cbf-a910-dd47b9b780ad": {
+    "why": "La cellule de Schwann est une cellule gliale périphérique. Elle myélinise un segment d'un seul axone ; ce sont les oligodendrocytes qui myélinisent plusieurs axones à la fois. Elle ne conduit pas l'influx.",
+    "options": {
+      "A": "Faux selon le corrigé : elle myélinise les axones.",
+      "B": "Faux : c'est le rôle de l'axone.",
+      "C": "Faux : un seul axone (c'est l'oligodendrocyte qui en myélinise plusieurs).",
+      "D": "Faux : périphérique.",
+      "E": "Vrai : système nerveux périphérique."
+    }
+  },
+  "b1c601e0-c49b-5bc6-8489-f434d092045e": {
+    "why": "Les cellules de Schwann, cellules gliales périphériques, recouvrent l'axone de façon discontinue : chacune couvre un segment internodal, séparé du suivant par un nœud de Ranvier.",
+    "options": {
+      "A": "Faux : la fibre est l'ensemble axone + gaines.",
+      "B": "Faux : elles ne conduisent pas d'ions.",
+      "C": "Vrai : interruption au niveau des nœuds de Ranvier.",
+      "D": "Faux : périphériques."
+    }
+  },
+  "d7615083-f99b-5f5e-80ba-eed3029f975b": {
+    "why": "Chaque cellule de Schwann myélinise un segment d'un seul axone ; elles se succèdent en discontinu, séparées par les nœuds de Ranvier. Ce sont des cellules gliales périphériques.",
+    "options": {
+      "A": "Vrai : un seul axone.",
+      "B": "Faux : c'est l'axone qui conduit.",
+      "C": "Juste en réalité : elles s'interrompent aux nœuds de Ranvier (le cours le retient ailleurs).",
+      "D": "Faux : périphériques.",
+      "E": "Vrai : système nerveux périphérique."
+    },
+    "keyIssue": "les cellules de Schwann recouvrent l'axone en discontinu, interrompues au niveau des nœuds de Ranvier ; d'autres questions du même cours retiennent cette proposition comme juste. C est donc juste aussi.",
+    "aiKey": "ACE"
+  },
+  "58d2ceee-6172-5862-9d26-ef15d4ac23b7": {
+    "why": "Les épendymocytes tapissent les cavités du système nerveux central (ventricules, canal de l'épendyme). Les astrocytes touchent les méninges ; les oligodendrocytes sont centraux ; la microglie est une défense immunitaire ; les cellules de Schwann sont périphériques.",
+    "options": {
+      "A": "Faux : ils forment la limitante gliale.",
+      "B": "Faux : système nerveux central seulement.",
+      "C": "Vrai : ventricules et canal de l'épendyme.",
+      "D": "Faux : ce sont des macrophages résidents.",
+      "E": "Faux : elles sont périphériques."
+    }
+  },
+  "cc45217d-b6d2-586c-a489-a81cf9f9a34c": {
+    "why": "Les cellules satellites (endocapsulaires) entourent les corps des neurones dans les ganglions : ce sont des cellules gliales périphériques.",
+    "options": {
+      "A": "Réponse attendue : elles appartiennent aux ganglions périphériques.",
+      "B": "Présents dans le système nerveux central.",
+      "C": "Présents dans le système nerveux central.",
+      "D": "Présents dans le système nerveux central.",
+      "E": "Présents dans le système nerveux central."
+    }
+  },
+  "caa78ba6-6a89-5e2c-ab1f-f8ea671188c3": {
+    "why": "Les astrocytes entourent les synapses et émettent des pieds vasculaires sur les capillaires (barrière hémato-encéphalique) et des pieds sous-piaux au contact des méninges. Le LCR est sécrété par les plexus choroïdes.",
+    "options": {
+      "A": "Faux : aussi avec les vaisseaux et les méninges.",
+      "B": "Vrai : synapses tripartites.",
+      "C": "Vrai : pieds vasculaires.",
+      "D": "Faux : ils forment la limitante gliale.",
+      "E": "Faux : c'est le rôle des plexus choroïdes."
+    }
+  },
+  "16d393c8-a97f-568e-bbdd-062b798ece71": {
+    "why": "Les oligodendrocytes, propres au système nerveux central, sont nombreux. Les interfasciculaires myélinisent les axones de la substance blanche, les satellites ont un rôle trophique. Contrairement aux astrocytes, ils ne contiennent pas de gliofibrilles (filaments gliaux).",
+    "options": {
+      "A": "Faux : système nerveux central seulement.",
+      "B": "Faux selon le corrigé : ils sont abondants.",
+      "C": "Juste en réalité : ils n'ont pas de gliofilaments (réservés aux astrocytes).",
+      "D": "Vrai : rôle trophique (oligodendrocytes satellites).",
+      "E": "Vrai : myélinisation centrale."
+    },
+    "keyIssue": "les oligodendrocytes ne contiennent pas de gliofibrilles (filaments intermédiaires gliaux) : c'est une caractéristique des astrocytes. C est donc juste aussi.",
+    "aiKey": "CDE"
+  },
+  "7529b88b-c1d9-50e7-98b4-73b1ccf8a6ad": {
+    "why": "La microglie est faite de petites cellules du système monocyte-macrophage. Activée lors d'une infection ou d'une lésion, elle phagocyte, sécrète des cytokines et présente les antigènes.",
+    "options": {
+      "A": "Faux : ce sont de petites cellules.",
+      "B": "Vrai : origine monocytaire.",
+      "C": "Vrai : activation lors d'une infection.",
+      "D": "Faux selon le corrigé : la sécrétion de cytokines accompagne l'activation.",
+      "E": "Vrai : cellules présentatrices d'antigène."
+    }
+  },
+  "0ea5344d-ff24-5e32-a0da-5dcdd2b97808": {
+    "why": "Les épendymocytes, ciliés, tapissent les cavités du système nerveux central. Ils forment une couche d'allure épithéliale mais sans membrane basale : ce n'est pas un vrai épithélium. Ils participent à la circulation et à la sécrétion du LCR.",
+    "options": {
+      "A": "Faux selon le corrigé : sans membrane basale, ce n'est pas un véritable épithélium.",
+      "B": "Vrai : cils (circulation du LCR).",
+      "C": "Faux : ils forment la névroglie épithéliale.",
+      "D": "Vrai : ventricules, canal de l'épendyme.",
+      "E": "Faux : ils participent aussi à la circulation et à la sécrétion du LCR."
+    }
+  },
+  "2aa82065-3019-544f-bf5f-07d0c9fae464": {
+    "why": "Les cellules de Schwann, issues des crêtes neurales (ectoblaste), sont des cellules gliales périphériques entourées par une lame basale et l'endonèvre. Chacune myélinise un segment d'un seul axone, et elles recouvrent l'axone en discontinu.",
+    "options": {
+      "A": "Faux : elles viennent des crêtes neurales.",
+      "B": "Vrai : lame basale et endonèvre.",
+      "C": "Faux : un seul axone.",
+      "D": "Vrai : système nerveux périphérique.",
+      "E": "Faux : en discontinu (nœuds de Ranvier)."
+    }
+  },
+  "5725c62a-d855-5bcd-96e6-8a9ce8c7617f": {
+    "why": "Chaque cellule de Schwann myélinise un segment d'un seul axone. Entourées d'une gaine conjonctive, elles recouvrent l'axone en discontinu. Ce sont des cellules gliales périphériques.",
+    "options": {
+      "A": "Vrai : un seul axone.",
+      "B": "Faux : elles sont entourées par une gaine conjonctive.",
+      "C": "Vrai : nœuds de Ranvier.",
+      "D": "Faux : périphériques."
+    }
+  },
+  "a5d3fa37-1a08-52ba-bf4b-c87c42a6881e": {
+    "why": "Le neurone bipolaire a une dendrite et un axone. Golgi type I = axone long ; multipolaire = plusieurs dendrites et un axone ; unipolaire = un axone.",
+    "options": {
+      "A": "Faux : le type I est le plus long.",
+      "B": "Faux : un seul axone.",
+      "C": "Vrai : une dendrite, un axone.",
+      "D": "Faux : un axone, pas de dendrite."
+    }
+  },
+  "258176aa-6727-589b-85d1-c76a5caff5cc": {
+    "why": "Les épendymocytes forment la névroglie épithéliale, les oligodendrocytes et les astrocytes la névroglie interstitielle. Les cellules gliales ne conduisent pas l'influx, elles sont au moins aussi nombreuses que les neurones et gardent la capacité de se diviser.",
+    "options": {
+      "A": "Vrai : névroglie épithéliale.",
+      "B": "Faux : elles ne conduisent pas l'influx.",
+      "C": "Faux : ils se trouvent dans la substance blanche.",
+      "D": "Faux : elles sont plus nombreuses que les neurones.",
+      "E": "Vrai : névroglie interstitielle."
+    }
+  },
+  "50376fc2-d63d-51bc-a86a-3811f9fc9dd0": {
+    "why": "Les fibres nerveuses peuvent être formées par des dendrites. Les fibres amyéliniques ont une gaine de Schwann (fibres de Remak) ou aucune (fibres nues). Dans le système nerveux central, il n'y a pas de cellule de Schwann, et chaque cellule de Schwann ne myélinise qu'un axone.",
+    "options": {
+      "A": "Vrai : axone ou dendrite.",
+      "B": "Faux : pas dans le système nerveux central.",
+      "C": "Vrai : fibres de Remak ou fibres nues.",
+      "D": "Faux : la myéline centrale vient des oligodendrocytes.",
+      "E": "Faux : un seul axone."
+    }
+  },
+  "836284e2-007d-54d2-99e3-9f9997bfed76": {
+    "why": "Le rhabdomyocyte (fibre musculaire striée squelettique) est un syncytium plurinucléé à noyaux périphériques. Dans la terminologie du cours, les myofibrilles occupent un myoplasme central, et le sarcoplasme est périphérique et intermédiaire. Chaque fibre est entourée d'endomysium, sans jonctions avec ses voisines, et innervée par le système nerveux cérébro-spinal.",
+    "options": {
+      "A": "Faux : les fibres squelettiques ne sont pas unies par des jonctions.",
+      "B": "Vrai : myoplasme central.",
+      "C": "Faux : innervation cérébro-spinale (volontaire).",
+      "D": "Faux : les fibres de type II sont pauvres en myoglobine.",
+      "E": "Faux selon le corrigé : chaque fibre est entourée par l'endomysium ; le périmysium entoure les faisceaux."
+    }
+  },
+  "7f0822e3-5491-562c-a1d7-388043b441f9": {
+    "why": "Le muscle lisse se contracte lentement, de façon involontaire, sous l'influence du système nerveux autonome et d'hormones (ocytocine, adrénaline…). Ses cellules peuvent être groupées en faisceaux ou isolées. Les cellules contractiles autour des acini salivaires sont myoépithéliales.",
+    "options": {
+      "A": "Faux : sa contraction est lente et prolongée.",
+      "B": "Vrai : ocytocine sur l'utérus, catécholamines sur les vaisseaux…",
+      "C": "Faux : il est innervé par le système nerveux autonome.",
+      "D": "Faux selon le corrigé : il n'est pas toujours en faisceaux (cellules parfois isolées).",
+      "E": "Faux : les péricytes entourent les capillaires ; autour des glandes, ce sont les cellules myoépithéliales."
+    }
+  },
+  "0054b5aa-9009-5213-b1f3-35724f57157a": {
+    "why": "Le myocarde est la couche moyenne, et la plus épaisse, de la paroi cardiaque. Ses cellules striées sont unies par des stries scalariformes (en marches d'escalier). Sa contraction, rythmique et involontaire, est modulée par le système nerveux autonome, les hormones et l'activité physique. Les cellules cardionectrices sont pauvres en myofibrilles.",
+    "options": {
+      "A": "Faux : les stries scalariformes sont transversales, en marches d'escalier.",
+      "B": "Vrai : rythme modulé par l'effort.",
+      "C": "Faux : c'est la couche moyenne (l'épicarde est externe).",
+      "D": "Faux selon le corrigé : ce sont les cellules contractiles qui sont riches en mitochondries.",
+      "E": "Faux : elles sont striées."
+    }
+  },
+  "3669396d-c92d-5525-b9ae-db1083ab9a22": {
+    "why": "Dans le rhabdomyocyte, le système T forme avec deux citernes terminales du réticulum sarcoplasmique des triades, situées à la jonction des bandes A et I. Il propage la dépolarisation, et le réticulum stocke le calcium.",
+    "options": {
+      "A": "Faux : la strie Z est la position des diades du cardiomyocyte.",
+      "B": "Faux : c'est une triade.",
+      "C": "Vrai : triade à la jonction A-I.",
+      "D": "Faux : il propage la dépolarisation ; c'est le calcium qui déclenche la contraction.",
+      "E": "Faux : le réticulum sarcoplasmique stocke le calcium."
+    }
+  },
+  "292259a7-5549-5712-97ce-a086f31c7be4": {
+    "why": "Chaque rhabdomyocyte est entouré par l'endomysium ; le périmysium entoure les faisceaux, l'épimysium le muscle entier. Les fibres ne sont pas unies par des jonctions et reçoivent une innervation cérébro-spinale.",
+    "options": {
+      "A": "Faux : pas de jonctions entre fibres squelettiques.",
+      "B": "Vrai : endomysium.",
+      "C": "Faux : innervation cérébro-spinale.",
+      "D": "Faux : les fibres de type II en sont pauvres.",
+      "E": "Faux : le périmysium entoure les faisceaux."
+    }
+  },
+  "2a6b901c-d7b1-5ce2-95c9-fb30ec0812ce": {
+    "why": "Le léiomyocyte est une cellule fusiforme, à un seul noyau central entouré de sarcoplasme (terminologie du cours) ; ses myofilaments sont périphériques. Ses filaments d'actine s'ancrent sur des corps denses, équivalents des stries Z.",
+    "options": {
+      "A": "Faux : il est fusiforme.",
+      "B": "Faux selon le cours : le sarcoplasme est central, autour du noyau.",
+      "C": "Faux selon le cours : le myoplasme est périphérique.",
+      "D": "Vrai : corps denses.",
+      "E": "Faux : son noyau est central."
+    }
+  },
+  "4e1cfb47-ae83-5a81-b5eb-a8aa2952dd24": {
+    "why": "Le muscle lisse, innervé par le système nerveux autonome, se contracte lentement et peut réagir au froid (muscles arrecteurs des poils, vasoconstriction). Ses cellules ne sont pas toujours en faisceaux.",
+    "options": {
+      "A": "Faux : contraction lente.",
+      "B": "Faux selon le corrigé : il n'est pas toujours en faisceaux.",
+      "C": "Faux : système nerveux autonome.",
+      "D": "Vrai : chair de poule, vasoconstriction.",
+      "E": "Faux : autour des glandes, ce sont les cellules myoépithéliales."
+    }
+  },
+  "5f98d92c-5c85-530a-9e3f-e852bcfaf6a4": {
+    "why": "Le myocarde est la couche la plus épaisse de la paroi cardiaque. Ses cellules striées sont unies par des stries scalariformes ; sa contraction rythmique et involontaire est modulée par des facteurs nerveux et hormonaux.",
+    "options": {
+      "A": "Faux : les stries scalariformes sont transversales, en marches d'escalier.",
+      "B": "Vrai : catécholamines, hormones thyroïdiennes…",
+      "C": "Juste en réalité : le myocarde est la couche la plus épaisse (le cours le retient ailleurs).",
+      "D": "Faux selon le corrigé : les cellules cardionectrices sont pauvres en myofibrilles.",
+      "E": "Faux : elles sont striées."
+    },
+    "keyIssue": "le myocarde est la couche la plus épaisse de la paroi cardiaque ; une autre question du même cours retient cette proposition comme juste. C est donc juste aussi.",
+    "aiKey": "BC"
+  },
+  "49caba49-ca73-5b1f-adb8-6ab5122a013b": {
+    "why": "Le sarcomère, unité contractile du muscle strié, est compris entre deux stries Z. Il comprend une bande sombre (A) entière et deux demi-bandes claires (I).",
+    "options": {
+      "A": "Faux : le léiomyocyte n'a pas de sarcomère.",
+      "B": "Faux : deux demi-bandes claires, pas deux bandes entières.",
+      "C": "Faux : c'est l'inverse.",
+      "D": "Faux : il est délimité par deux stries Z.",
+      "E": "Vrai : une bande A et deux demi-bandes I."
+    }
+  },
+  "406d5967-530d-5a0c-ab45-1bc9d2c83301": {
+    "why": "Dans le rhabdomyocyte, le système T forme des triades avec deux citernes terminales, à la jonction des bandes A et I. Il conduit la dépolarisation ; le réticulum sarcoplasmique stocke le calcium.",
+    "options": {
+      "A": "Faux : la strie Z est la position des diades cardiaques.",
+      "B": "Faux : triade.",
+      "C": "Vrai : triade à la jonction A-I.",
+      "D": "Faux : c'est le calcium qui déclenche la contraction.",
+      "E": "Faux : le réticulum stocke le calcium."
+    }
+  },
+  "ee2ad20c-cacc-518d-8fb4-af5d4c3581f3": {
+    "why": "Le muscle strié squelettique assure la contraction. Il possède un système T en triades et un réticulum sarcoplasmique (agranulaire). Dans le vocabulaire du cours, les myofibrilles sont dans le myoplasme.",
+    "options": {
+      "A": "Vrai : contractilité.",
+      "B": "Faux : c'est un réticulum agranulaire (sarcoplasmique).",
+      "C": "Vrai : triades.",
+      "D": "Faux selon le cours : le sarcoplasme est la partie sans myofibrilles.",
+      "E": "Vrai : myoplasme."
+    }
+  },
+  "2551efe8-9fbe-5c31-9cf1-2194c438482d": {
+    "why": "Dans le cardiomyocyte, le système T est situé en regard des stries Z et forme des diades avec le réticulum sarcoplasmique. Il amène la dépolarisation et fait entrer le calcium extracellulaire nécessaire à la contraction.",
+    "options": {
+      "A": "Faux : dans le cœur, il est en regard des stries Z.",
+      "B": "Vrai : diades.",
+      "C": "Vrai : entrée de calcium.",
+      "D": "Faux selon le cours : le muscle squelettique a des triades à la jonction A-I.",
+      "E": "Faux : l'unité fonctionnelle est le sarcomère (ou la cellule)."
+    }
+  },
+  "245ceab9-83f6-5ccc-86bb-027398161cbe": {
+    "why": "Le muscle lisse n'a pas de sarcomère. Innervé par le système nerveux autonome, il est présent dans les vaisseaux, les viscères et les glandes. Ses cellules ont un seul noyau et ne sont pas toujours en faisceaux.",
+    "options": {
+      "A": "Faux : pas de sarcomère.",
+      "B": "Faux : il peut former des couches ou des cellules isolées.",
+      "C": "Faux : système nerveux autonome.",
+      "D": "Vrai : vaisseaux, glandes.",
+      "E": "Faux : un seul noyau."
+    }
+  },
+  "893164a6-ec3c-54a7-bef5-afbfa51a78e5": {
+    "why": "La cellule musculaire lisse a un seul noyau central, entouré de sarcoplasme (terminologie du cours), et ne présente pas de striation transversale.",
+    "options": {
+      "A": "Faux : un seul noyau.",
+      "B": "Faux selon le cours : le myoplasme est périphérique.",
+      "C": "Vrai : sarcoplasme central.",
+      "D": "Faux : pas de striation."
+    }
+  },
+  "c4bc4d67-622c-5c3c-85b1-9c7f2c841fbc": {
+    "why": "Le muscle lisse peut être stimulé par le froid (horripilation, vasoconstriction). Il est innervé par le système nerveux autonome, n'est pas toujours en faisceaux, et n'assure pas la posture.",
+    "options": {
+      "A": "Faux : pas toujours.",
+      "B": "Faux : système nerveux autonome.",
+      "C": "Vrai : chair de poule, vasoconstriction.",
+      "D": "Faux : c'est le rôle du muscle squelettique."
+    }
+  },
+  "2d1e74b0-8942-52d6-9f98-7a5c55594c84": {
+    "why": "Le rhabdomyocyte est un syncytium à noyaux multiples et périphériques, à contraction volontaire. Il montre une double striation : longitudinale (myofibrilles) et transversale (bandes A et I). Dans le vocabulaire du cours, son sarcoplasme est périphérique et intermédiaire.",
+    "options": {
+      "A": "Faux : les noyaux sont périphériques.",
+      "B": "Juste en réalité : les myofibrilles donnent une striation longitudinale, en plus de la striation transversale.",
+      "C": "Faux : contraction volontaire.",
+      "D": "Vrai : sarcoplasme périphérique et intermédiaire."
+    },
+    "keyIssue": "la fibre musculaire striée présente une double striation : longitudinale (myofibrilles) et transversale (alternance des bandes A et I). B est donc juste aussi.",
+    "aiKey": "BD"
+  },
+  "3fc66397-b297-5cd9-9c8a-7cad991be6a2": {
+    "why": "Le sarcomère, compris entre deux stries Z, comporte une bande sombre A et deux demi-bandes claires I. Il contient environ deux fois plus de filaments d'actine que de myosine.",
+    "options": {
+      "A": "Faux selon le corrigé : il est limité par les stries Z, au milieu des bandes claires.",
+      "B": "Faux : la bande sombre est au centre.",
+      "C": "Vrai : une bande A, deux demi-bandes I.",
+      "D": "Faux : il y a plus de filaments d'actine."
+    }
+  },
+  "f12b8244-2297-52d6-b1c0-60cb531b7a02": {
+    "why": "Dans le rhabdomyocyte, les tubules T sont situés à la jonction des bandes claire (I) et sombre (A), où ils forment les triades.",
+    "options": {
+      "A": "Faux : c'est la position dans le cardiomyocyte.",
+      "B": "Vrai : jonction A-I.",
+      "C": "Faux : la strie M est au centre de la bande A.",
+      "D": "Faux : la zone H est au centre de la bande A."
+    }
+  },
+  "127c7bd3-f5ef-5bad-be1a-8a5231c670d3": {
+    "why": "Les stries scalariformes (disques intercalaires) unissent les cardiomyocytes : elles sont propres au muscle cardiaque.",
+    "options": {
+      "A": "Faux : pas de jonctions entre fibres squelettiques.",
+      "B": "Vrai : muscle cardiaque.",
+      "C": "Faux.",
+      "D": "Faux : seulement le cardiaque."
+    }
+  },
+  "f709832a-4073-5409-97c3-7fdfc8ec4833": {
+    "why": "Le cardiomyocyte a un noyau central entouré de sarcoplasme (fuseau axial) ; ses myofibrilles forment un myoplasme périphérique. Il est très riche en mitochondries.",
+    "options": {
+      "A": "Vrai : myoplasme périphérique.",
+      "B": "Faux : le noyau est central.",
+      "C": "Faux : le sarcoplasme est central (fuseau axial).",
+      "D": "Faux : il en est très riche."
+    }
+  },
+  "e6eaf646-ea45-52d7-af4b-53a6bed7fd61": {
+    "why": "Le muscle strié squelettique est un tissu contractile (pas un tissu de soutien). Il possède un système T et un réticulum sarcoplasmique agranulaire. Ses myofibrilles sont dans le myoplasme.",
+    "options": {
+      "A": "Faux : ce n'est pas un tissu de soutien.",
+      "B": "Faux : réticulum agranulaire.",
+      "C": "Faux : il possède un système T (triades).",
+      "D": "Vrai : myoplasme."
+    }
+  },
+  "5b0c47a2-a937-56a2-9baf-7c94fb13e81b": {
+    "why": "Dans le cardiomyocyte, le système T, en regard des stries Z, forme des diades avec le réticulum sarcoplasmique. Il permet l'entrée du calcium, pas du potassium.",
+    "options": {
+      "A": "Faux : en regard des stries Z.",
+      "B": "Vrai : diades.",
+      "C": "Faux : c'est le calcium.",
+      "D": "Faux selon le cours : le squelettique a des triades à la jonction A-I."
+    }
+  },
+  "96e68a8a-e1ee-5b9f-af04-622d042cc1ea": {
+    "why": "Le muscle lisse n'a pas de sarcomère. Innervé par le système nerveux autonome, il se trouve dans les viscères, les vaisseaux et les glandes. Il n'est pas toujours en faisceaux parallèles.",
+    "options": {
+      "A": "Faux : pas de sarcomère.",
+      "B": "Faux : pas toujours.",
+      "C": "Faux : système nerveux autonome.",
+      "D": "Vrai : viscères, glandes."
+    }
+  },
+  "d66f2545-603f-5518-aa02-a5af97b6b9a9": {
+    "why": "Le muscle strié squelettique est un tissu contractile, avec un système T en triades et un réticulum agranulaire. Ses myofibrilles sont dans le myoplasme.",
+    "options": {
+      "A": "Faux : ce n'est pas un tissu de soutien.",
+      "B": "Faux : réticulum agranulaire.",
+      "C": "Faux : il possède un système T.",
+      "D": "Faux selon le cours : le sarcoplasme est la partie sans myofibrilles.",
+      "E": "Vrai : myoplasme."
+    }
+  },
+  "5df9eda9-b5b1-53ee-a2d1-0f08601695d4": {
+    "why": "Dans le cardiomyocyte, le système T, en regard des stries Z, forme des diades avec le réticulum sarcoplasmique (un réticulum endoplasmique lisse). Il permet l'entrée du calcium.",
+    "options": {
+      "A": "Faux : en regard des stries Z.",
+      "B": "Vrai : diades.",
+      "C": "Faux : calcium.",
+      "D": "Faux selon le cours.",
+      "E": "Faux : l'unité fonctionnelle est le sarcomère."
+    }
+  },
+  "68507e96-53f0-5679-bde5-43c99db07e18": {
+    "why": "Le muscle lisse n'a pas de sarcomère et dépend du système nerveux autonome. Présent dans les vaisseaux et les glandes, il est fait de cellules à un seul noyau.",
+    "options": {
+      "A": "Faux : pas de sarcomère.",
+      "B": "Faux : pas toujours.",
+      "C": "Faux : système nerveux autonome.",
+      "D": "Vrai : vaisseaux, glandes.",
+      "E": "Vrai : un seul noyau."
+    }
+  },
+  "568b762d-4cbe-5951-ad89-f392c6fede28": {
+    "why": "Le muscle strié squelettique dérive du mésoblaste para-axial (myotomes des somites), pas axial. Ses fibres ne sont pas unies par des desmosomes, sont innervées par le système cérébro-spinal et leur richesse en myoglobine varie selon leur type.",
+    "options": {
+      "A": "Faux : il dérive du mésoblaste para-axial (somites).",
+      "B": "Faux : pas de jonctions entre fibres squelettiques.",
+      "C": "Faux : innervation cérébro-spinale.",
+      "D": "Faux selon le corrigé : les fibres de type II en sont pauvres.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "e611c8e6-0a22-51c7-a436-77d895d44063": {
+    "why": "Le léiomyocyte est fusiforme, à noyau unique et central, entouré de sarcoplasme (terminologie du cours). Ses filaments d'actine s'ancrent sur des corps denses.",
+    "options": {
+      "A": "Faux : fusiforme.",
+      "B": "Faux selon le cours : le sarcoplasme est central.",
+      "C": "Faux selon le cours : le myoplasme est périphérique.",
+      "D": "Vrai : corps denses.",
+      "E": "Faux : noyau central."
+    }
+  },
+  "42a9e61a-1d95-51b7-a5f3-b41535eae948": {
+    "why": "Le muscle lisse se contracte lentement, sous le contrôle du système nerveux autonome, et réagit au froid. Ses cellules ne sont pas toujours groupées en faisceaux.",
+    "options": {
+      "A": "Faux : contraction lente.",
+      "B": "Faux selon le corrigé : pas toujours en faisceaux.",
+      "C": "Faux : système nerveux autonome.",
+      "D": "Vrai : chair de poule, vasoconstriction.",
+      "E": "Faux : ce sont les cellules myoépithéliales."
+    }
+  },
+  "754b858d-2e86-5442-ad9c-aa1a5672c62f": {
+    "why": "Le myocarde, couche la plus épaisse de la paroi cardiaque, a une contraction rythmique et involontaire modulée par les hormones et le système nerveux autonome. Ses cellules striées sont unies par des stries scalariformes.",
+    "options": {
+      "A": "Faux : les stries scalariformes sont en marches d'escalier, transversales.",
+      "B": "Vrai : modulation hormonale.",
+      "C": "Vrai : couche la plus épaisse.",
+      "D": "Faux selon le corrigé : elles sont pauvres en myofibrilles.",
+      "E": "Faux : elles sont striées."
+    }
+  },
+  "825a74bc-0870-594f-8308-c4d186079dc0": {
+    "why": "Les rhabdomyocytes sont striés transversalement et ont de multiples noyaux périphériques. Dans le vocabulaire du cours, le myoplasme (myofibrilles) est central et le sarcoplasme périphérique.",
+    "options": {
+      "A": "Faux selon le cours : le myoplasme est central.",
+      "B": "Vrai : striation transversale.",
+      "C": "Faux : noyaux multiples et périphériques.",
+      "D": "Faux selon le cours : le sarcoplasme est périphérique et intermédiaire.",
+      "E": "Vrai : noyaux périphériques multiples."
+    }
+  },
+  "e838b051-04a1-5e07-a8fa-bb3d47c05bdf": {
+    "why": "Dans le cardiomyocyte, le système T forme des diades en regard des stries Z et permet l'entrée du calcium nécessaire à la contraction. Selon le cours, le réticulum sarcoplasmique du cœur ne forme pas de vraies citernes terminales.",
+    "options": {
+      "A": "Vrai : diades en regard des stries Z.",
+      "B": "Faux selon le corrigé : le réticulum cardiaque ne forme pas de vraies citernes terminales comme dans le muscle squelettique.",
+      "C": "Faux selon le cours : l'organisation squelettique (triades à la jonction A-I) est différente.",
+      "D": "Vrai : entrée de Ca2+.",
+      "E": "Faux : le réticulum stocke le calcium, et K+ n'est pas Na+."
+    }
+  },
+  "6ff42b6c-a9eb-5b56-9bcb-4bd0fc72361a": {
+    "why": "Les rhabdomyocytes sont innervés par le système nerveux cérébro-spinal. Chaque fibre est entourée d'endomysium, chaque faisceau de périmysium, le muscle d'épimysium. Les fibres ne sont pas unies par des desmosomes.",
+    "options": {
+      "A": "Faux : chaque fibre est entourée par l'endomysium.",
+      "B": "Faux : les faisceaux sont entourés par le périmysium.",
+      "C": "Faux selon le corrigé : le cours distingue plusieurs types de fibres (I, IIa, IIb).",
+      "D": "Vrai : innervation cérébro-spinale (motoneurones).",
+      "E": "Faux : pas de desmosomes entre fibres squelettiques."
+    }
+  },
+  "3b77ee2c-4348-5a05-a7cd-90d61161cda3": {
+    "why": "Un sarcomère comprend une bande A centrale encadrée par deux demi-bandes I. Il est limité par deux stries Z, situées au milieu des bandes I.",
+    "options": {
+      "A": "Faux : une seule bande A.",
+      "B": "Faux selon le corrigé : les stries Z bordent le sarcomère, au milieu des bandes I, pas directement la bande A.",
+      "C": "Vrai : deux demi-bandes I de part et d'autre de la bande A.",
+      "D": "Faux : proposition incomplète.",
+      "E": "Vrai : stries Z au milieu des bandes I."
+    }
+  },
+  "6f401e6a-eae6-5ee8-ac8e-de4e5acc2dff": {
+    "why": "Les rhabdomyocytes, plurinucléés, sont entourés d'une membrane basale et de l'endomysium. Les cellules satellites (réserve de régénération) sont entre la membrane basale et la membrane plasmique de la fibre.",
+    "options": {
+      "A": "Vrai : membrane basale.",
+      "B": "Vrai : endomysium.",
+      "C": "Faux : elles sont entre la membrane basale et le sarcolemme (membrane plasmique).",
+      "D": "Vrai : syncytium.",
+      "E": "Faux : ils sont striés."
+    }
+  },
+  "c6abaa09-7d96-553e-8cef-df07ed07d520": {
+    "why": "Les stries scalariformes, propres aux cardiomyocytes, associent desmosomes et jonctions adhérentes (cohésion mécanique) et jonctions communicantes (couplage électrique). La dépolarisation naît dans le tissu nodal.",
+    "options": {
+      "A": "Vrai : desmosomes et fascia adherens.",
+      "B": "Faux : aussi des jonctions adhérentes et communicantes.",
+      "C": "Vrai : couplage électrique.",
+      "D": "Vrai : propres au cœur.",
+      "E": "Faux : elle naît dans le nœud sinusal."
+    }
+  },
+  "d4a6fb3f-3c7b-594d-840b-d071e2f1c65a": {
+    "why": "Dans le cardiomyocyte, les tubules T sont situés en regard des stries Z et forment des diades. Ils permettent l'entrée du calcium, pas du sodium.",
+    "options": {
+      "A": "Faux selon le cours.",
+      "B": "Faux : diades.",
+      "C": "Faux : en regard des stries Z.",
+      "D": "Faux : calcium.",
+      "E": "Vrai : stries Z."
+    }
+  },
+  "5811c131-92bd-5205-9950-133b05146fc3": {
+    "why": "Le muscle lisse est fait de cellules non striées, sous le contrôle du système neurovégétatif. On le trouve dans de nombreux organes (vaisseaux, viscères, peau…), en couches ou en cellules isolées, et il en existe plusieurs types (unitaire, multi-unitaire).",
+    "options": {
+      "A": "Faux : aussi vaisseaux, voies respiratoires, urinaires, peau…",
+      "B": "Vrai : pas de striation.",
+      "C": "Vrai : système neurovégétatif.",
+      "D": "Faux : il existe plusieurs types de muscle lisse.",
+      "E": "Faux : il existe des cellules isolées."
+    }
+  },
+  "4516b649-b937-5bee-849d-3474f2b1ce35": {
+    "why": "Le muscle strié est un tissu contractile. Selon le cours, le sarcolemme comporte deux membranes : la lame basale et la membrane plasmique. Son réticulum est agranulaire, et les myofibrilles sont dans le myoplasme.",
+    "options": {
+      "A": "Juste en réalité : c'est la définition du tissu musculaire (le cours la retient ailleurs).",
+      "B": "Faux : réticulum agranulaire (sarcoplasmique).",
+      "C": "Vrai selon le cours : lame basale + membrane plasmique.",
+      "D": "Faux selon le cours : les myofibrilles sont dans le myoplasme."
+    },
+    "keyIssue": "le tissu musculaire strié assure bien la contractilité ; une autre question du même cours retient « un tissu assurant la contractilité » comme juste. A est donc juste aussi.",
+    "aiKey": "AC"
+  },
+  "187e7079-27a3-5e78-9a4d-25a69ae3aef8": {
+    "why": "Le muscle lisse n'a pas de sarcomère. Il peut s'organiser en faisceaux parallèles, se trouve dans les vaisseaux et les glandes, et dépend du système végétatif ; sa contraction est involontaire.",
+    "options": {
+      "A": "Faux : pas de sarcomère.",
+      "B": "Vrai : faisceaux possibles.",
+      "C": "Faux : la contraction est involontaire.",
+      "D": "Vrai : vaisseaux, glandes."
+    }
+  },
+  "479f73dd-8052-50ed-a473-8025254f7b7f": {
+    "why": "Dans le cardiomyocyte, le système T, en regard des stries Z, forme des diades avec le réticulum sarcoplasmique ; il permet l'entrée du calcium.",
+    "options": {
+      "A": "Faux : en regard des stries Z.",
+      "B": "Vrai : diades.",
+      "C": "Faux : calcium.",
+      "D": "Faux selon le cours."
+    }
+  },
+  "e7481b52-9f7a-5ad7-8959-81f13f5b0420": {
+    "why": "Le muscle strié est fait de rhabdomyocytes, cellules (fibres) excitables et contractiles. Leur réticulum sarcoplasmique est un réticulum agranulaire important. Dans le vocabulaire du cours, les myofibrilles sont dans le myoplasme.",
+    "options": {
+      "A": "Faux selon le cours : elles sont dans le myoplasme.",
+      "B": "Juste en réalité : la fibre musculaire est excitable (potentiel d'action) et contractile.",
+      "C": "Faux : c'est la lame basale qui entoure la membrane plasmique, pas l'inverse.",
+      "D": "Vrai : rhabdomyocytes.",
+      "E": "Vrai : réticulum sarcoplasmique agranulaire."
+    },
+    "keyIssue": "la fibre musculaire striée est bien douée d'excitabilité : elle génère un potentiel d'action avant de se contracter. B est donc juste aussi.",
+    "aiKey": "BDE"
+  },
+  "6fc13e8a-a5a0-5279-aecb-b70d3df05f74": {
+    "why": "Le sarcomère comprend une bande A (anisotrope, sombre) et deux demi-bandes I (isotropes, claires), chacune centrée par une strie Z. La bande A est centrée par la zone H, elle-même partagée par la strie M.",
+    "options": {
+      "A": "Faux : la bande I est plus claire.",
+      "B": "Faux : une bande A et deux demi-bandes I.",
+      "C": "Vrai : une bande A, deux demi-bandes I.",
+      "D": "Vrai : strie Z au centre de la bande I.",
+      "E": "Faux selon le corrigé : la bande A est centrée par la zone H (et la strie M)."
+    }
+  },
+  "6fe57941-465a-52c6-8cba-02d21a1800ed": {
+    "why": "Le cardiomyocyte a un noyau central entouré d'une zone sans myofibrilles (fuseau axial) ; les cellules sont unies par des stries scalariformes. Selon le cours, son système T (diades en regard des stries Z) et son réticulum (sans vraies citernes terminales) diffèrent du muscle squelettique.",
+    "options": {
+      "A": "Faux selon le cours : diades en regard des stries Z, au lieu de triades.",
+      "B": "Faux : son myoplasme est périphérique.",
+      "C": "Vrai : fuseau axial.",
+      "D": "Vrai : stries scalariformes.",
+      "E": "Faux selon le cours."
+    }
+  },
+  "a817a26c-3f5f-514f-9a78-7f5f68522a76": {
+    "why": "Le muscle lisse, sous le contrôle du système végétatif, est fait de cellules mononucléées, isolées ou groupées. Il n'a pas de myofibrilles organisées et n'assure pas la posture.",
+    "options": {
+      "A": "Faux : c'est le muscle squelettique.",
+      "B": "Faux : ses myofilaments ne forment pas de myofibrilles.",
+      "C": "Faux : les cellules squelettiques sont plurinucléées.",
+      "D": "Vrai : isolées ou groupées.",
+      "E": "Vrai : système nerveux végétatif."
+    }
+  }
+}
