@@ -61,10 +61,11 @@ describe('starter content', () => {
         expect(q.explanation, q.id).toMatch(/^\[À revoir avant publication/);
         expect(q.tags.some((t) => t.startsWith('a-revoir:')), q.id).toBe(true);
       } else {
-        // Published imports state their source; an explanation, if any, is labelled as AI-written.
+        // Published imports state their source and carry an AI explanation, labelled as such.
         expect(q.source, q.id).toMatch(/^UMMTO/);
-        expect(q.tags.filter((t) => t !== 'explication:ia' && t !== 'corrige-discutable'), q.id).toEqual(['import:ummto-2023-24']);
-        if (q.explanation) expect(q.explanation, q.id).toMatch(/Explication rédigée par IA/);
+        expect(q.tags.filter((t) => t !== 'corrige-discutable'), q.id).toEqual(['import:ummto-2023-24', 'explication:ia']);
+        expect(q.explanation, q.id).toMatch(/Explication rédigée par IA/);
+        expect(q.options.every((o) => o.explanation), q.id).toBe(true);
       }
     }
   });

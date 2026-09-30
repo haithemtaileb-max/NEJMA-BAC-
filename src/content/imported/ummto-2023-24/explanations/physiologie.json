@@ -1,1 +1,1584 @@
-{}
+{
+  "6e6f439c-f361-568a-9056-1ff62eaf48d1": {
+    "why": "Les molécules lipophiles (O2, CO2, stéroïdes) traversent la bicouche par diffusion simple, sans protéine. Les canaux ioniques assurent un transport passif. Le transport médié par des protéines n'utilise pas toujours d'ATP (diffusion facilitée). Les aquaporines facilitent le passage de l'eau.",
+    "options": {
+      "A": "Vrai : diffusion simple.",
+      "B": "Faux : c'est un transport passif.",
+      "C": "Faux : la diffusion facilitée ne consomme pas d'ATP.",
+      "D": "Vrai : canaux à eau."
+    }
+  },
+  "2190cc0a-a12f-5694-ac55-b100d7f02a04": {
+    "why": "Le transport assisté (médié) fait intervenir des protéines : canaux, transporteurs passifs, ou pompes et cotransporteurs capables d'aller contre le gradient. Il participe à l'équilibre osmotique de la cellule.",
+    "options": {
+      "A": "Faux : la diffusion simple se fait sans protéine.",
+      "B": "Vrai : protéines membranaires.",
+      "C": "Faux : le transport actif s'oppose au gradient.",
+      "D": "Vrai : la pompe Na+/K+ contrôle le volume cellulaire."
+    }
+  },
+  "1c30c33a-adb2-5ad1-98c1-fa33f029158a": {
+    "why": "Les canaux ioniques sont des protéines sélectives qui laissent passer les ions selon leur gradient électrochimique (transport passif, sans source d'énergie). Ils sont à la base de l'excitabilité des neurones et des cellules musculaires.",
+    "options": {
+      "A": "Vrai : sélectivité ionique.",
+      "B": "Vrai : potentiels d'action.",
+      "C": "Faux : ce sont les pompes qui utilisent l'énergie.",
+      "D": "Vrai : passif."
+    }
+  },
+  "e63e7fec-da67-5833-8296-2f056b35ce3b": {
+    "why": "SGLT-1 est un symport Na+/glucose du pôle apical de l'entérocyte. Il utilise le gradient de Na+ (maintenu par la pompe Na+/K+) pour faire entrer le glucose contre son gradient : c'est un transport actif secondaire.",
+    "options": {
+      "A": "Faux : c'est un symport, pas un antiport.",
+      "B": "Vrai : pôle apical.",
+      "C": "Vrai : absorption active secondaire.",
+      "D": "Faux : il dépend du gradient de Na+."
+    }
+  },
+  "d8ec04f4-9732-5454-a146-f553c526a005": {
+    "why": "La membrane plasmique est semi-perméable : elle régule les échanges entre cytosol et milieu extracellulaire et porte les récepteurs de la communication cellulaire. C'est une structure fluide mais cohérente.",
+    "options": {
+      "A": "Faux : elle est sélectivement perméable.",
+      "B": "Vrai : régulation des échanges.",
+      "C": "Faux : elle se reforme spontanément, sa structure est stable.",
+      "D": "Vrai : récepteurs, signalisation."
+    }
+  },
+  "6b2e76ea-ce1b-574a-9717-452f82af5caf": {
+    "why": "On cherche les propositions fausses. La diffusion simple se fait à travers la bicouche, sans canal ; la diffusion facilitée est passive, sans ATP. Le Na+ tend à entrer et le K+ à sortir ; les cotransporteurs réalisent des transports actifs secondaires.",
+    "options": {
+      "A": "Fausse (à cocher) : la diffusion simple n'utilise pas de canal.",
+      "B": "Fausse (à cocher) : la diffusion facilitée est passive.",
+      "C": "Juste : selon leurs gradients.",
+      "D": "Juste : ils utilisent le gradient de Na+."
+    }
+  },
+  "8b88ee2d-ece1-522d-92ae-28f737bd5577": {
+    "why": "On cherche la proposition fausse. GLUT-1 est le transporteur des hématies, GLUT-3 celui des neurones, GLUT-5 transporte le fructose. GLUT-2 (foie, pancréas, intestin, rein) est indépendant de l'insuline ; c'est GLUT-4 qui en dépend.",
+    "options": {
+      "A": "Juste : GLUT-1.",
+      "B": "Juste : GLUT-3.",
+      "C": "Fausse (à cocher) : GLUT-2 est insulino-indépendant ; c'est GLUT-4 qui dépend de l'insuline.",
+      "D": "Juste : GLUT-5."
+    }
+  },
+  "0a26591f-7c83-5468-9ce0-70e056679849": {
+    "why": "L'échangeur Na+/Ca2+ (NCX) fait sortir 1 Ca2+ contre l'entrée de 3 Na+, grâce au gradient de sodium (transport actif secondaire, sans ATP). Il est essentiel à la relaxation du cœur.",
+    "options": {
+      "A": "Faux : il fait baisser le calcium intracellulaire.",
+      "B": "Vrai : 1 Ca2+ contre 3 Na+.",
+      "C": "Faux : il n'hydrolyse pas l'ATP.",
+      "D": "Vrai : muscle cardiaque."
+    }
+  },
+  "79473e15-d4a7-5a79-a10c-7a06f0ad0476": {
+    "why": "La PMCA (membrane plasmique) fait sortir 1 Ca2+ par ATP vers le milieu extracellulaire. La SERCA fait entrer le calcium dans le réticulum, mais 2 Ca2+ par ATP. L'échange Ca2+/Na+ est le fait du NCX, pas d'une pompe.",
+    "options": {
+      "A": "Vrai : 1 Ca2+ par ATP vers l'extérieur.",
+      "B": "Faux : elle fait sortir le calcium.",
+      "C": "Faux selon le corrigé : la SERCA fait bien entrer le calcium dans le réticulum, mais 2 ions par ATP.",
+      "D": "Faux : c'est l'échangeur Na+/Ca2+."
+    }
+  },
+  "dcd0447f-242d-5d7e-8a0e-51bea12620c0": {
+    "why": "Les aquaporines sont des protéines formant des canaux sélectifs pour les molécules d'eau.",
+    "options": {
+      "A": "Faux : elles ne laissent pas passer les ions.",
+      "B": "Vrai : canaux à eau.",
+      "C": "Faux : ce ne sont pas des récepteurs.",
+      "D": "Faux : pas les ions.",
+      "E": "Faux : ce sont des protéines-canaux, pas des invaginations."
+    }
+  },
+  "fde5f0fd-7879-5c36-a977-47e4be3ead57": {
+    "why": "L'entérocyte est polarisé : au pôle apical, le symport SGLT-1 (glucose/2Na+) fait entrer le glucose même contre son gradient ; au pôle basolatéral se trouvent GLUT-2 (sortie passive) et la pompe Na+/K+. La pompe maintient un K+ intracellulaire élevé.",
+    "options": {
+      "A": "Vrai : symport apical glucose/2Na+.",
+      "B": "Faux : les GLUT sont passifs.",
+      "C": "Faux : pompe Na+/K+ et GLUT-2 sont tous deux basolatéraux.",
+      "D": "Faux : elle maintient un K+ intracellulaire élevé.",
+      "E": "Faux selon le corrigé : la pompe gastrique (H+/K+ ATPase) diffère de la pompe à protons lysosomiale (de type V)."
+    }
+  },
+  "2895641d-fb74-5fd5-994a-d8b62c1122ce": {
+    "why": "Le transport passif avec médiateur est saturable (nombre limité de transporteurs). Le transport actif se fait contre le gradient. Dans l'adipocyte, le glucose entre passivement par GLUT-4, dont l'insuline augmente l'expression membranaire.",
+    "options": {
+      "A": "Vrai : saturable.",
+      "B": "Faux : GLUT-4 est un transport passif.",
+      "C": "Vrai : c'est sa définition.",
+      "D": "Vrai : translocation de GLUT-4.",
+      "E": "Faux : A, C et D sont justes."
+    }
+  },
+  "c91bb900-cb7f-5eb1-b0d8-734f3b57fb37": {
+    "why": "La pompe Na+/K+ ATPase, présente dans toutes les cellules, est basolatérale dans les épithéliums. Elle fixe 3 Na+ sur sa face interne et 2 K+ sur sa face externe.",
+    "options": {
+      "A": "Faux : elle est basolatérale.",
+      "B": "Faux : le site Na+ est sur la face interne.",
+      "C": "Vrai : site K+ externe.",
+      "D": "Faux : toutes les cellules.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "7ab8f585-1f6c-5560-9ad2-850bf26123ae": {
+    "why": "Le gradient de Na+ créé par la pompe Na+/K+ alimente les transports actifs secondaires : SGLT-1 (glucose intestinal), échangeur Na+/Ca2+ (sortie du calcium), échangeur Na+/H+ (sortie des H+). L'entrée du glucose dans les hématies (GLUT-1) et la sortie du Ca2+ du réticulum n'en dépendent pas.",
+    "options": {
+      "A": "Faux : GLUT-1, passif.",
+      "B": "Vrai : SGLT-1.",
+      "C": "Vrai : NCX.",
+      "D": "Faux : sortie par les canaux (récepteurs à la ryanodine).",
+      "E": "Vrai : échangeur Na+/H+."
+    }
+  },
+  "d1294633-f9fe-5e71-b668-d8e9f6aff388": {
+    "why": "L'ouabaïne bloque la pompe Na+/K+ : le Na+ s'accumule et l'eau entre (la cellule gonfle), la membrane se dépolarise, l'échangeur Na+/Ca2+ fonctionne moins donc le calcium cytosolique augmente et la contractilité aussi. L'échangeur Na+/H+ ralentit, ce qui tend à acidifier la cellule.",
+    "options": {
+      "A": "Vrai : gonflement osmotique.",
+      "B": "Vrai : dépolarisation.",
+      "C": "Vrai : moins de sortie de Ca2+.",
+      "D": "Faux : le pH tend à baisser.",
+      "E": "Vrai : effet inotrope positif (digitaliques)."
+    }
+  },
+  "7ac9e759-6c11-5d8e-9f6d-cc588ae32e84": {
+    "why": "Les transports passifs comprennent la diffusion simple et la diffusion facilitée, par canaux (canal K+) ou par transporteurs (GLUT). La pompe Na+/K+ est un transport actif primaire.",
+    "options": {
+      "A": "Vrai : passif.",
+      "B": "Vrai : passif.",
+      "C": "Vrai : canaux ioniques.",
+      "D": "Faux : actif primaire.",
+      "E": "Vrai : diffusion facilitée."
+    }
+  },
+  "8ea7056a-8af1-5d5f-ba7b-57bf2e940dba": {
+    "why": "L'échangeur Na+/Ca2+ est un antiport actif secondaire : le Na+ entre selon son gradient, ce qui fait sortir le Ca2+ contre le sien. Si on inhibe la pompe Na+/K+, le gradient de Na+ disparaît et l'échangeur s'arrête.",
+    "options": {
+      "A": "Faux : actif secondaire.",
+      "B": "Faux : le Na+ entre (de l'extérieur vers l'intérieur).",
+      "C": "Faux : sens opposés (antiport).",
+      "D": "Faux : le Ca2+ sort contre son gradient.",
+      "E": "Vrai : le gradient de Na+ disparaît."
+    }
+  },
+  "974f25e7-966f-527d-9b41-d883dd9aa369": {
+    "why": "Les transports actifs déplacent des substances contre leur gradient, en consommant de l'énergie : ATP (actif primaire) ou gradient ionique (secondaire). Ils concernent des entrées comme des sorties.",
+    "options": {
+      "A": "Faux : ils ne déstabilisent pas la membrane.",
+      "B": "Faux : contre le gradient.",
+      "C": "Faux : la diffusion facilitée est passive.",
+      "D": "Vrai : ATP (actif primaire).",
+      "E": "Faux : il existe des transports actifs d'entrée et de sortie."
+    }
+  },
+  "cbc3cab9-c0c9-519a-b001-afecb50235bd": {
+    "why": "Le transport avec médiateur est saturable. Le transport actif se fait contre le gradient. Dans l'adipocyte, le glucose entre passivement par GLUT-4, dont l'insuline augmente l'expression membranaire.",
+    "options": {
+      "A": "Vrai : saturable.",
+      "B": "Faux : l'entrée du glucose dans l'adipocyte est passive (GLUT-4).",
+      "C": "Vrai : définition.",
+      "D": "Vrai : translocation de GLUT-4.",
+      "E": "Faux."
+    }
+  },
+  "b5176334-34eb-50c4-92a6-b0193a2f6e9b": {
+    "why": "Le symport sodium-glucose (SGLT) utilise le gradient de Na+ : c'est un transport actif secondaire. GLUT-2 est passif ; les ATPases (H+/K+, pompe lysosomiale) sont des transports actifs primaires ; l'ATP synthase produit de l'ATP.",
+    "options": {
+      "A": "Faux : passif.",
+      "B": "Faux : elle synthétise l'ATP grâce au gradient de H+.",
+      "C": "Vrai : actif secondaire.",
+      "D": "Faux : actif primaire.",
+      "E": "Faux : actif primaire."
+    }
+  },
+  "5d149536-860f-564c-9b7a-100d7b0be903": {
+    "why": "Les canaux ioniques sont sélectifs et assurent un transport passif. Ils s'ouvrent et se ferment (voltage, ligand, stimulus mécanique), et certains sont modulés par phosphorylation.",
+    "options": {
+      "A": "Faux : passif.",
+      "B": "Vrai : sélectifs.",
+      "C": "Vrai : ouverture régulée.",
+      "D": "Vrai : kinases (PKA, PKC).",
+      "E": "Faux."
+    }
+  },
+  "e3a47ad2-0e36-5113-9992-0e8999881b94": {
+    "why": "Le transport actif déplace des substances contre leur gradient : ions (Na+, K+, Ca2+) et, selon le cours, certains médicaments comme les antibiotiques (pompes d'efflux). La pompe Na+/K+ est présente dans toutes les cellules.",
+    "options": {
+      "A": "Vrai : contre le gradient.",
+      "B": "Vrai : pompes Na+/K+, Ca2+.",
+      "C": "Vrai selon le cours : pompes de transport de médicaments.",
+      "D": "Faux : toutes les cellules.",
+      "E": "Faux."
+    }
+  },
+  "b73c53d6-ae3e-5b34-92ad-5fc8423f3ba5": {
+    "why": "La diffusion facilitée utilise des protéines spécifiques (transporteurs, canaux) : glucose (GLUT), acides aminés. L'oxygène, lipophile, traverse par diffusion simple.",
+    "options": {
+      "A": "Vrai : spécificité.",
+      "B": "Vrai : GLUT.",
+      "C": "Vrai : transporteurs d'acides aminés.",
+      "D": "Faux : diffusion simple.",
+      "E": "Faux."
+    }
+  },
+  "2264c46a-b34b-58a7-b00f-72f4d2b18372": {
+    "why": "Les canaux ioniques sont des protéines codées par des gènes (d'où les canalopathies). Leur ouverture peut dépendre du voltage, d'un ligand ou d'un stimulus mécanique. Les canaux toujours ouverts sont les canaux de fuite ; les aquaporines sont des canaux à eau.",
+    "options": {
+      "A": "Vrai : protéines codées génétiquement.",
+      "B": "Vrai : mécanorécepteurs.",
+      "C": "Faux : les aquaporines sont des canaux à eau, pas des canaux ioniques de fuite.",
+      "D": "Faux."
+    }
+  },
+  "85fab0c4-6799-505b-96e6-d9ef51f6905e": {
+    "why": "Les canaux ioniques ne sont pas tous ligand-dépendants (il en existe des voltage-dépendants, mécaniques, de fuite). Ils sont indispensables, car la bicouche est imperméable aux ions. Les aquaporines ne laissent passer que l'eau.",
+    "options": {
+      "A": "Faux : voltage-dépendants, mécaniques, de fuite…",
+      "B": "Faux : la bicouche est imperméable aux ions.",
+      "C": "Faux : seulement l'eau.",
+      "D": "Vrai : toutes sont fausses."
+    }
+  },
+  "7d6d5d16-1a96-55a8-adee-f16f11a37a16": {
+    "why": "La pompe Na+/K+ ATPase, présente dans toutes les cellules, est basolatérale dans les épithéliums. Son site K+ est externe, son site Na+ interne.",
+    "options": {
+      "A": "Faux : basolatérale.",
+      "B": "Faux : site Na+ interne.",
+      "C": "Vrai : site K+ externe.",
+      "D": "Faux : toutes les cellules.",
+      "E": "Faux."
+    }
+  },
+  "c5ab7b6b-82d6-5c2e-aef2-46b1c681433c": {
+    "why": "Le gradient de Na+ créé par la pompe alimente SGLT-1 (glucose intestinal), l'échangeur Na+/Ca2+ (sortie du Ca2+) et l'échangeur Na+/H+ (sécrétion de H+). GLUT-1 et la sortie du Ca2+ du réticulum n'en dépendent pas.",
+    "options": {
+      "A": "Faux : GLUT-1 passif.",
+      "B": "Vrai : SGLT-1.",
+      "C": "Vrai : NCX.",
+      "D": "Faux : canaux du réticulum.",
+      "E": "Vrai : échangeur Na+/H+."
+    }
+  },
+  "640b27ef-46df-5377-aca7-ade8a8ae37b1": {
+    "why": "L'ouabaïne bloque la pompe Na+/K+ : gonflement cellulaire, dépolarisation, augmentation du Ca2+ cytosolique (l'échangeur Na+/Ca2+ fonctionne moins) et de la contractilité. Le pH intracellulaire tend à baisser.",
+    "options": {
+      "A": "Vrai : gonflement.",
+      "B": "Vrai : dépolarisation.",
+      "C": "Vrai : moins de sortie de Ca2+.",
+      "D": "Faux : le pH tend à baisser.",
+      "E": "Vrai : effet inotrope positif."
+    }
+  },
+  "d9008d0b-1e90-5a12-b02e-1450d2bf80d7": {
+    "why": "Les transports actifs se font contre le gradient de concentration, en consommant de l'énergie (ATP ou gradient ionique), pour des entrées comme pour des sorties de molécules.",
+    "options": {
+      "A": "Faux.",
+      "B": "Vrai : contre le gradient.",
+      "C": "Faux : la diffusion facilitée est passive.",
+      "D": "Vrai : ATP.",
+      "E": "Vrai : entrées et sorties."
+    }
+  },
+  "5876f368-3fad-5763-a77b-709c53e774cf": {
+    "why": "Les canaux ioniques sont des protéines formant un pore hydrophile. Certains sont voltage-dépendants, d'autres s'ouvrent grâce à un ligand.",
+    "options": {
+      "A": "Faux : ce sont des protéines.",
+      "B": "Vrai : pore hydrophile.",
+      "C": "Faux : certains sont voltage-dépendants.",
+      "D": "Faux : certains ont besoin d'un ligand.",
+      "E": "Faux."
+    }
+  },
+  "ff4fde6c-6348-5427-965f-a1a8c654ff70": {
+    "why": "La bicouche lipidique est une barrière pour les solutés hydrophiles ; les protéines membranaires (canaux, transporteurs, pompes) la rendent perméable à certains d'entre eux. Beaucoup de transports sont passifs.",
+    "options": {
+      "A": "Faux : les molécules lipophiles la traversent.",
+      "B": "Vrai : perméabilité sélective.",
+      "C": "Faux : il existe aussi des transporteurs (GLUT…).",
+      "D": "Faux : les transports passifs ne consomment pas d'énergie.",
+      "E": "Faux."
+    }
+  },
+  "51128ed5-dfca-5bcc-bb3b-f93b23eed102": {
+    "why": "La diffusion simple est d'autant plus rapide que le gradient est élevé, la molécule petite et hydrophobe, et la membrane mince (loi de Fick).",
+    "options": {
+      "A": "Faux : plus lente.",
+      "B": "Faux : plus rapide.",
+      "C": "Vrai : loi de Fick.",
+      "D": "Vrai : liposolubilité.",
+      "E": "Faux : C et D sont justes."
+    }
+  },
+  "0b37a9a0-3d7e-53f7-a210-29124bdeebed": {
+    "why": "L'anhydrase carbonique catalyse CO2 + H2O → H2CO3, surtout dans la cellule. Quand le pH intracellulaire baisse, la cellule active les sorties de H+ (pompe à protons, échangeur Na+/H+) ; quand il monte, elle fait sortir des HCO3- par l'échangeur Cl-/HCO3-.",
+    "options": {
+      "A": "Faux selon le corrigé : la réaction est surtout intracellulaire.",
+      "B": "Vrai : sortie de H+.",
+      "C": "Vrai : échangeur Na+/H+.",
+      "D": "Vrai : sortie de HCO3-.",
+      "E": "Faux : B, C et D sont justes."
+    }
+  },
+  "595447c9-dc69-52c5-9776-a7d265e24d4c": {
+    "why": "Le Ca2+ est environ 10 000 fois plus concentré dehors (1–2 mM) que dans le cytosol (≈ 0,1 µM). La contraction est déclenchée par la libération du Ca2+ du réticulum (canaux). La relaxation se fait en le repompant (SERCA) et en l'expulsant (échangeur Na+/Ca2+).",
+    "options": {
+      "A": "Faux en réalité : le calcium est beaucoup plus concentré à l'extérieur.",
+      "B": "Juste en réalité : pendant la relaxation, l'échangeur Na+/Ca2+ expulse le calcium.",
+      "C": "Faux en réalité : la contraction utilise les canaux calciques du réticulum ; la pompe (SERCA) sert à la relaxation.",
+      "D": "Vrai : la SERCA repompe le calcium pendant la relaxation.",
+      "E": "Faux : B et D sont justes."
+    },
+    "keyIssue": "le calcium est environ 10 000 fois plus concentré à l'extérieur de la cellule que dans le cytosol (A faux). Pendant la relaxation, le calcium est expulsé par l'échangeur Na+/Ca2+ (B juste) et repompé par la SERCA ; la pompe du réticulum sert à la relaxation, pas à la contraction (C faux).",
+    "aiKey": "BD"
+  },
+  "3afd878a-668f-5455-bf4c-3e4c949ea51d": {
+    "why": "La diffusion simple se fait selon le gradient de concentration, sans énergie. Elle dépend de la liposolubilité et n'est pas saturable (pas de transporteur). Pour un substrat donné, la diffusion facilitée est plus rapide.",
+    "options": {
+      "A": "Juste en réalité : plus une molécule est liposoluble, plus elle diffuse vite.",
+      "B": "Faux : pas de transporteur, donc pas de saturation.",
+      "C": "Juste en réalité : c'est la définition de la diffusion (du plus concentré au moins concentré).",
+      "D": "Vrai : passive.",
+      "E": "Faux : la diffusion facilitée est plus rapide pour ses substrats."
+    },
+    "keyIssue": "la diffusion simple dépend de la liposolubilité (le cours dit ailleurs « plus la molécule est hydrophobe, plus la diffusion est rapide ») et se fait toujours dans le sens du gradient de concentration : A et C sont justes aussi.",
+    "aiKey": "ACD"
+  },
+  "086ee6bc-6361-5fe4-b241-47c015620f93": {
+    "why": "La diffusion facilitée passe par des canaux ou des transporteurs (perméases), dans le sens du gradient électrochimique, sans ATP. Elle concerne surtout des molécules hydrophiles (glucose, ions).",
+    "options": {
+      "A": "Vrai : canaux ou perméases.",
+      "B": "Vrai : dans le sens du gradient.",
+      "C": "Faux : surtout des molécules hydrophiles.",
+      "D": "Faux : elle est passive.",
+      "E": "Faux."
+    }
+  },
+  "da0244e7-d8be-558b-b0aa-66bab862c348": {
+    "why": "La pompe Na+/K+ chasse 3 Na+ et fait entrer 2 K+ par ATP. Elle crée et maintient les gradients de Na+ et de K+ et contribue au potentiel de repos (effet électrogène). La tétrodotoxine bloque les canaux Na+ voltage-dépendants, pas la pompe.",
+    "options": {
+      "A": "Vrai : effet électrogène et maintien des gradients.",
+      "B": "Vrai : 3 Na+ sortent, 2 K+ entrent.",
+      "C": "Faux selon le corrigé : elle est activée surtout par le Na+ intracellulaire.",
+      "D": "Vrai : gradients de Na+ et de K+.",
+      "E": "Faux : la tétrodotoxine bloque les canaux Na+ ; la pompe est bloquée par l'ouabaïne."
+    }
+  },
+  "5a31cea2-833d-5ea1-a2b0-8cc43caeedb4": {
+    "why": "Dans la moelle épinière, le principal neurotransmetteur inhibiteur est la glycine (cellules de Renshaw, interneurones). Dans l'encéphale, c'est le GABA.",
+    "options": {
+      "A": "Faux : la sérotonine est un neuromodulateur.",
+      "B": "Faux : c'est le principal inhibiteur de l'encéphale.",
+      "C": "Faux : elle est surtout excitatrice.",
+      "D": "Vrai : glycine."
+    }
+  },
+  "6030a0d2-60b6-5109-a35b-a9a3774d30e8": {
+    "why": "Les récepteurs muscariniques M1, M3 (et M5) sont couplés à Gq (phospholipase C) : ils sont excitateurs. M2 et M4 sont couplés à Gi : ils sont inhibiteurs.",
+    "options": {
+      "A": "Vrai : Gq.",
+      "B": "Faux : Gi, inhibiteur (cœur).",
+      "C": "Vrai : Gq.",
+      "D": "Faux : Gi."
+    }
+  },
+  "707901cc-625c-5d3a-becf-f55092f527f0": {
+    "why": "Voie de la PKA : récepteur → protéine Gs → adénylate cyclase → AMPc → protéine kinase A. IP3 et phospholipase C appartiennent à la voie de la PKC.",
+    "options": {
+      "A": "Vrai : l'AMPc active la PKA.",
+      "B": "Faux : voie de la PLC.",
+      "C": "Faux : voie de la PKC.",
+      "D": "Vrai : elle produit l'AMPc."
+    }
+  },
+  "a1235416-c870-53c7-ae01-0c623941f67f": {
+    "why": "Le Ca2+ peut être un premier messager (Ca2+ extracellulaire agissant sur son récepteur membranaire) et un second messager intracellulaire. IP3 et DAG sont des seconds messagers, l'insuline un premier messager.",
+    "options": {
+      "A": "Faux : premier messager seulement.",
+      "B": "Faux : second messager seulement.",
+      "C": "Vrai : les deux.",
+      "D": "Faux : second messager."
+    }
+  },
+  "7c089976-cd1a-553a-9afc-d40e34d17287": {
+    "why": "On cherche la proposition fausse. Le ligand se fixe de façon spécifique mais réversible sur son récepteur. Une cellule peut s'envoyer un signal à elle-même (autocrinie), la liaison est suivie d'une transduction, et un défaut de rétrocontrôle peut favoriser un cancer.",
+    "options": {
+      "A": "Juste : communication autocrine.",
+      "B": "Fausse (à cocher) : la liaison est réversible.",
+      "C": "Juste : transduction.",
+      "D": "Juste : prolifération non contrôlée."
+    }
+  },
+  "52867149-cb72-5102-b2ef-deb8b30242d8": {
+    "why": "Les jonctions communicantes (connexons) relient les cytoplasmes de deux cellules et laissent passer ions et petites molécules : couplage électrique et métabolique. Elles forment les synapses électriques et existent dans de nombreux tissus (cœur, muscle lisse, neurones…).",
+    "options": {
+      "A": "Faux selon le corrigé : ce sont des canaux intercellulaires, qui laissent passer aussi de petites molécules.",
+      "B": "Vrai : synapses électriques.",
+      "C": "Faux : cœur, muscle lisse, neurones…",
+      "D": "Vrai : couplage électrique et métabolique."
+    }
+  },
+  "fad7275e-2752-52da-bff0-71f130286630": {
+    "why": "Les effecteurs primaires des protéines G sont des enzymes membranaires (adénylate cyclase, phospholipase C) ou des canaux ioniques. La tyrosine kinase est un récepteur-enzyme, et la guanylate cyclase soluble est activée par le NO.",
+    "options": {
+      "A": "Faux : récepteur-enzyme.",
+      "B": "Faux : activée par le NO.",
+      "C": "Vrai : canaux ioniques.",
+      "D": "Vrai : voie Gq."
+    }
+  },
+  "35cd8963-5bc3-5fa1-9474-7b35712b136b": {
+    "why": "On cherche les propositions fausses. Le récepteur muscarinique est un récepteur de l'acétylcholine couplé à une protéine G, à 7 domaines transmembranaires. Le pentamère canal est le récepteur nicotinique.",
+    "options": {
+      "A": "Fausse (à cocher) : c'est le nicotinique.",
+      "B": "Juste : couplé à une protéine G.",
+      "C": "Fausse (à cocher) : ce n'est pas un récepteur-canal.",
+      "D": "Juste : récepteur de l'acétylcholine."
+    }
+  },
+  "872519e5-c46c-5016-a61c-2bffdfad4b9c": {
+    "why": "On cherche les propositions fausses. Les récepteurs nucléaires fixent directement leur ligand. Les HSP les maintiennent inactifs et se détachent à la fixation. Ils ont un domaine de liaison à l'ADN et un domaine d'activation de la transcription, et agissent généralement sous forme de dimères.",
+    "options": {
+      "A": "Fausse (à cocher) : les HSP se détachent quand le ligand se fixe.",
+      "B": "Juste : domaine de liaison à l'ADN.",
+      "C": "Juste : domaine de transactivation.",
+      "D": "Juste en réalité : ils agissent en homo- ou hétérodimères, donc elle ne doit pas être cochée comme fausse."
+    },
+    "keyIssue": "les récepteurs nucléaires s'activent généralement en formant des dimères (le cours le retient ailleurs dans la séquence d'activation) : D est une proposition juste, seule A est fausse.",
+    "aiKey": "A"
+  },
+  "74bc0d80-24b6-5db9-b4e7-6fb3bac73845": {
+    "why": "On cherche les propositions fausses. La lidocaïne bloque le canal sodique voltage-dépendant, l'ouabaïne la pompe Na+/K+. Le curare bloque le récepteur nicotinique, et la tétrodotoxine le canal sodique voltage-dépendant.",
+    "options": {
+      "A": "Juste : anesthésique local.",
+      "B": "Fausse (à cocher) : le curare bloque le récepteur nicotinique.",
+      "C": "Fausse (à cocher) : la tétrodotoxine bloque le canal sodique voltage-dépendant.",
+      "D": "Juste : ouabaïne."
+    }
+  },
+  "bca647d4-45b7-5687-82b6-ac96e32245ec": {
+    "why": "Les récepteurs muscariniques sont des récepteurs couplés aux protéines G, dont le ligand endogène est l'acétylcholine (la muscarine est un agoniste exogène). Dans le cœur (M2), leur activation ouvre des canaux K+ : sortie de charges positives et hyperpolarisation.",
+    "options": {
+      "A": "Faux : ils sont couplés aux protéines G.",
+      "B": "Faux : c'est l'acétylcholine.",
+      "C": "Faux : le muscle squelettique porte des récepteurs nicotiniques.",
+      "D": "Faux selon le corrigé : l'exemple du cours (M2) ouvre des canaux K+.",
+      "E": "Vrai : sortie de K+, hyperpolarisation (M2)."
+    }
+  },
+  "4c68e211-f1f5-5132-b6df-e35b6b33eed5": {
+    "why": "La protéine G est hétérotrimérique (α, β, γ), associée au repos. La sous-unité α fixe le GDP/GTP et possède l'activité GTPasique. L'activation du récepteur fait remplacer le GDP par du GTP ; α-GTP se dissocie et module un effecteur primaire.",
+    "options": {
+      "A": "Faux : hétérotrimérique (α, β, γ).",
+      "B": "Faux : associées au repos.",
+      "C": "Faux : c'est la sous-unité α.",
+      "D": "Faux : échange GDP/GTP, pas activité ATPasique.",
+      "E": "Vrai : α-GTP module l'effecteur."
+    }
+  },
+  "21304265-3d7a-57d4-b411-26b52118b6bc": {
+    "why": "Les récepteurs couplés aux protéines G ont 7 domaines transmembranaires et fixent un premier messager. Ils activent des protéines G hétérotrimériques, qui agissent directement sur des effecteurs primaires : canaux ou enzymes.",
+    "options": {
+      "A": "Faux : 7 domaines.",
+      "B": "Faux : c'est le premier messager.",
+      "C": "Faux : hétérotrimériques.",
+      "D": "Vrai : canaux ou enzymes.",
+      "E": "Faux."
+    }
+  },
+  "ae05d251-78cb-58b4-aa5b-14238b8d7081": {
+    "why": "Le récepteur nicotinique est un canal pentamérique (chaque sous-unité a 4 domaines transmembranaires). La fixation de deux molécules d'acétylcholine sur les deux sous-unités α ouvre le canal : les cations entrent, la fibre musculaire se dépolarise et se contracte. Le cœur porte des récepteurs muscariniques.",
+    "options": {
+      "A": "Faux : le cœur porte des récepteurs muscariniques (M2).",
+      "B": "Vrai : pentamère, 4 domaines par sous-unité.",
+      "C": "Juste en réalité : il faut deux acétylcholines sur les deux sous-unités α.",
+      "D": "Faux : dépolarisation.",
+      "E": "Faux."
+    },
+    "keyIssue": "le canal nicotinique s'ouvre quand deux molécules d'acétylcholine se fixent sur ses deux sous-unités α (le cours retient ailleurs « fixe deux molécules d'acétylcholine ») : C est juste aussi.",
+    "aiKey": "BC"
+  },
+  "cf2ec6e1-90f3-5969-811c-e43f5aaa7d8a": {
+    "why": "Le récepteur nicotinique est un récepteur-canal de la membrane des fibres musculaires squelettiques (plaque motrice). Son ligand naturel est l'acétylcholine ; le curare en est un antagoniste.",
+    "options": {
+      "A": "Vrai : plaque motrice.",
+      "B": "Faux : récepteur-canal.",
+      "C": "Faux : c'est l'acétylcholine (la nicotine est un agoniste exogène).",
+      "D": "Faux : antagoniste.",
+      "E": "Faux."
+    }
+  },
+  "3d7e966c-9d0e-5464-a736-c2f0bd90e08d": {
+    "why": "Le NO est un gaz lipophile qui traverse les membranes. Insuline, glucagon, facteurs de croissance et la plupart des neurotransmetteurs sont hydrophiles.",
+    "options": {
+      "A": "Faux : hydrophile.",
+      "B": "Faux : hydrophile.",
+      "C": "Faux : hydrophiles.",
+      "D": "Faux : hydrophiles.",
+      "E": "Vrai : gaz lipophile."
+    }
+  },
+  "43ca5558-1a32-5de1-b391-815a7d70859a": {
+    "why": "Les molécules hydrophobes (stéroïdes, hormones thyroïdiennes) circulent liées à des protéines. Elles traversent la membrane et agissent sur des récepteurs intracellulaires qui régulent la transcription, avec des effets lents et durables.",
+    "options": {
+      "A": "Faux : elles sont liées à des protéines de transport.",
+      "B": "Faux : elles agissent par des récepteurs intracellulaires.",
+      "C": "Faux : leurs réponses sont plus longues.",
+      "D": "Vrai : régulation de la transcription.",
+      "E": "Faux."
+    }
+  },
+  "34353655-2991-5435-bdd1-b01d3d19d5b0": {
+    "why": "La communication cellulaire se fait par contact direct (jonctions communicantes) ou par signaux chimiques, à courte ou longue distance. La communication paracrine peut utiliser des ligands lipophiles (NO, prostaglandines).",
+    "options": {
+      "A": "Vrai : gap junctions.",
+      "B": "Vrai : signaux chimiques.",
+      "C": "Faux : la communication endocrine agit à distance.",
+      "D": "Faux : NO et prostaglandines sont lipophiles.",
+      "E": "Faux selon le corrigé : l'hormone est transportée par le sang, pas par diffusion (proposition tronquée dans la source)."
+    }
+  },
+  "4f83265c-c613-5160-ab64-1896d6fca4fd": {
+    "why": "Un ligand peut agir sur plusieurs récepteurs, et un récepteur fixer plusieurs ligands. Les récepteurs tyrosine kinase sont des récepteurs enzymatiques, et tous les récepteurs nucléaires régulent l'expression des gènes. Les RCPG sont membranaires.",
+    "options": {
+      "A": "Vrai : ex. adrénaline sur α et β.",
+      "B": "Vrai : agonistes et antagonistes.",
+      "C": "Faux : ce sont des récepteurs membranaires.",
+      "D": "Vrai : récepteurs enzymatiques.",
+      "E": "Vrai : facteurs de transcription."
+    }
+  },
+  "d7b8afec-e867-5770-b847-3f97a24aebd9": {
+    "why": "Les RCPG ont 7 domaines transmembranaires. Ils peuvent être activés par des photons (rhodopsine) et activer (Gs) ou inhiber (Gi) l'adénylate cyclase. La protéine G est un trimère αβγ dont la sous-unité α se dissocie lors de l'activation.",
+    "options": {
+      "A": "Vrai : 7 domaines.",
+      "B": "Vrai : rhodopsine.",
+      "C": "Faux : α, β et γ.",
+      "D": "Vrai : Gs et Gi.",
+      "E": "Faux : α-GTP se dissocie de βγ."
+    }
+  },
+  "92e7d0b7-811a-5463-aa23-3fff438ce963": {
+    "why": "La protéine G est une protéine membranaire périphérique (ancrée par des lipides), activée par les très nombreux RCPG. Son activation correspond au remplacement du GDP par du GTP (l'hydrolyse du GTP l'inactive). Gq active la phospholipase C, Gs l'adénylate cyclase.",
+    "options": {
+      "A": "Faux : elle est ancrée à la face interne, non transmembranaire.",
+      "B": "Juste en réalité : les RCPG forment la plus grande famille de récepteurs membranaires.",
+      "C": "Faux : c'est la fixation du GTP qui l'active ; son hydrolyse l'éteint.",
+      "D": "Vrai : Gq → PLC.",
+      "E": "Vrai : Gs → adénylate cyclase."
+    },
+    "keyIssue": "les protéines G sont activées par les récepteurs couplés aux protéines G, la plus grande famille de récepteurs membranaires (plusieurs centaines) : B est juste aussi.",
+    "aiKey": "BDE"
+  },
+  "f81fb68e-9e51-50f0-ba67-e7c416ad61ab": {
+    "why": "Les stéroïdes, liposolubles, traversent la membrane et se fixent sur des récepteurs intracytoplasmiques ou nucléaires. Il n'y a pas toujours de second messager, et les hormones hydrophiles peuvent aussi modifier l'expression des gènes (via des kinases). Les HRE sont des séquences de l'ADN.",
+    "options": {
+      "A": "Faux : pas toujours, et l'ATP n'est pas un second messager.",
+      "B": "Faux : elles le peuvent, par des cascades de kinases (ex. CREB).",
+      "C": "Vrai : diffusion passive, récepteurs intracellulaires.",
+      "D": "Faux : les HRE sont sur l'ADN, pas sur des enzymes.",
+      "E": "Faux."
+    }
+  },
+  "c17bfad3-d49c-5f32-bda3-5b8f9339b14b": {
+    "why": "Le récepteur nicotinique est un récepteur-canal post-synaptique (plaque motrice, ganglions) qui fixe deux molécules d'acétylcholine. L'atropine bloque les récepteurs muscariniques ; le cardiomyocyte porte des récepteurs muscariniques.",
+    "options": {
+      "A": "Faux : récepteur-canal.",
+      "B": "Vrai : post-synaptique.",
+      "C": "Vrai : sur les deux sous-unités α.",
+      "D": "Faux : le cœur porte des récepteurs muscariniques.",
+      "E": "Faux : l'atropine est antimuscarinique."
+    }
+  },
+  "2a72da7d-35df-550e-9acf-301cada31cb6": {
+    "why": "Le récepteur muscarinique est un récepteur métabotrope (couplé aux protéines G) de l'acétylcholine. Au cœur (M2), il ralentit et diminue la contraction ; il n'existe pas sur le muscle squelettique. Il peut être excitateur (M1, M3) ou inhibiteur (M2, M4).",
+    "options": {
+      "A": "Faux : métabotrope.",
+      "B": "Vrai : récepteur de l'acétylcholine.",
+      "C": "Faux : il ralentit le cœur.",
+      "D": "Faux : le muscle squelettique a des récepteurs nicotiniques.",
+      "E": "Faux : M1 et M3 sont excitateurs."
+    }
+  },
+  "0073ca7a-d97b-58f2-85e4-83f54b47d3f2": {
+    "why": "Les seconds messagers sont produits dans la cellule après activation du récepteur : AMPc, DAG, IP3, Ca2+… L'adrénaline et l'insuline sont des premiers messagers.",
+    "options": {
+      "A": "Faux : premier messager.",
+      "B": "Vrai : second messager.",
+      "C": "Faux : premier messager.",
+      "D": "Vrai : second messager.",
+      "E": "Vrai : second messager."
+    }
+  },
+  "fbbfed52-26c3-52fe-afa0-97d9b33be246": {
+    "why": "Les récepteurs des stéroïdes sont intracellulaires. Fixés sur l'ADN, ils recrutent la machinerie de transcription (ARN polymérase) et contrôlent l'expression des gènes, avec une réponse lente et durable. Ils n'utilisent ni PKC ni IP3.",
+    "options": {
+      "A": "Faux : ils ne passent pas par la PKC.",
+      "B": "Faux : ils n'utilisent pas l'IP3.",
+      "C": "Faux : réponse lente et durable.",
+      "D": "Vrai (dans l'esprit du cours) : ils contrôlent la transcription des gènes.",
+      "E": "Faux."
+    }
+  },
+  "d3cee4bb-4d8a-541e-8f5b-d69e4421e30c": {
+    "why": "Dans la voie de la phospholipase C, une protéine Gq (liée au GTP) active la PLC, qui clive le PIP2 en IP3 et DAG. L'IP3 libère le Ca2+ du réticulum ; le DAG active la PKC. PKA et PKC phosphorylent des protéines, et la calmoduline fixe jusqu'à 4 Ca2+.",
+    "options": {
+      "A": "Faux : c'est une protéine Gq.",
+      "B": "Faux : c'est l'IP3 qui augmente le Ca2+.",
+      "C": "Faux : elle est active liée au GTP.",
+      "D": "Vrai : ce sont des kinases.",
+      "E": "Vrai : 4 sites Ca2+."
+    }
+  },
+  "566146d2-1bbb-5a45-94ea-342b062b6104": {
+    "why": "Les RCPG traversent 7 fois la membrane. Ils sont couplés à deux grandes voies : adénylate cyclase (AMPc) et phospholipase C (IP3/DAG). La phosphodiestérase dégrade l'AMPc.",
+    "options": {
+      "A": "Vrai : 7 hélices transmembranaires.",
+      "B": "Vrai : adénylate cyclase et phospholipase C.",
+      "C": "Faux : l'adénylate cyclase produit de l'AMPc, pas de l'IP3.",
+      "D": "Faux : elle dégrade l'AMPc, donc éteint la PKA.",
+      "E": "Faux."
+    }
+  },
+  "db936edd-867e-58c9-97f0-04c9326664bb": {
+    "why": "Les RCPG ont 7 domaines ; leur ligand se fixe du côté extracellulaire (la partie C-terminale est intracellulaire). La protéine G peut être stimulatrice ou inhibitrice. Sa sous-unité α-GTP peut agir directement sur un effecteur, qui peut être un canal ionique. La voie des phosphoinositides donne deux messagers, IP3 et DAG.",
+    "options": {
+      "A": "Faux : le C-terminal est intracellulaire.",
+      "B": "Vrai : Gs et Gi.",
+      "C": "Juste en réalité : l'effecteur primaire de la sous-unité α peut être un canal ionique (le cours le dit ailleurs).",
+      "D": "Vrai : IP3 et DAG.",
+      "E": "Faux : B, C et D sont justes."
+    },
+    "keyIssue": "la sous-unité α activée peut agir directement sur un canal ionique ; d'autres questions du même cours retiennent que l'effecteur primaire de la protéine G peut être un canal. C est donc juste aussi.",
+    "aiKey": "BCD"
+  },
+  "f4537dda-1a74-56da-ab7f-acfe7b51587a": {
+    "why": "Le GABA agit sur deux récepteurs : GABA-A (canal Cl-) et GABA-B, couplé aux protéines G. Le glucagon et l'adrénaline ont des RCPG, la testostérone un récepteur nucléaire.",
+    "options": {
+      "A": "Juste en réalité : le récepteur GABA-B est couplé aux protéines G.",
+      "B": "Faux : c'est un RCPG.",
+      "C": "Faux : RCPG (α et β).",
+      "D": "Faux : récepteur nucléaire.",
+      "E": "Faux : A est juste."
+    },
+    "keyIssue": "le GABA possède, en plus du récepteur-canal GABA-A, un récepteur GABA-B couplé aux protéines G : A est juste, donc « toutes fausses » ne l'est pas.",
+    "aiKey": "A"
+  },
+  "225e4bda-44a9-5e57-8fee-d4c8d7215a47": {
+    "why": "Selon le cours, les signaux hydrosolubles agissent sur des récepteurs membranaires : dopamine, GABA et, par assimilation, le photon (rhodopsine). La vitamine D et le NO sont liposolubles.",
+    "options": {
+      "A": "Faux : liposoluble.",
+      "B": "Vrai selon le cours : il agit sur un récepteur membranaire.",
+      "C": "Faux : gaz liposoluble.",
+      "D": "Vrai : amine hydrosoluble.",
+      "E": "Vrai : acide aminé hydrosoluble."
+    }
+  },
+  "172222b3-81e7-52ba-be0d-8e16ec610eb7": {
+    "why": "Le monoxyde de carbone (CO) est un gaz liposoluble qui traverse les membranes. FSH, LH, TSH et hormone de croissance sont des protéines hydrophiles.",
+    "options": {
+      "A": "Faux : glycoprotéine.",
+      "B": "Faux : glycoprotéine.",
+      "C": "Vrai : gaz liposoluble.",
+      "D": "Faux : protéine.",
+      "E": "Faux : glycoprotéine."
+    }
+  },
+  "feac3337-b429-5da3-ba15-4216df192996": {
+    "why": "L'AMPc active la protéine kinase A.",
+    "options": {
+      "A": "Faux : elle produit le GMPc.",
+      "B": "Faux : elle produit l'AMPc.",
+      "C": "Vrai : PKA.",
+      "D": "Faux : activée par le DAG et le Ca2+.",
+      "E": "Faux : activée par Gq."
+    }
+  },
+  "7e48c208-b6f8-595f-b5ca-92819bc6e26f": {
+    "why": "La sous-unité αs-GTP active l'adénylate cyclase.",
+    "options": {
+      "A": "Vrai : adénylate cyclase.",
+      "B": "Faux : effecteur de αq.",
+      "C": "Faux : activée par le NO ou le peptide natriurétique.",
+      "D": "Faux : cible de la transducine (vision).",
+      "E": "Faux : activée par le GMPc."
+    }
+  },
+  "96ba79d0-69c7-5ff1-bcd9-be5ddb8e5312": {
+    "why": "La sous-unité αq-GTP active la phospholipase C.",
+    "options": {
+      "A": "Vrai : PLC.",
+      "B": "Faux : activée par l'AMPc.",
+      "C": "Faux : activée par le DAG et le Ca2+.",
+      "D": "Faux : effecteur de αs.",
+      "E": "Faux."
+    }
+  },
+  "dc7f37f1-1e07-5367-afc9-d95cb59257f8": {
+    "why": "PIP2, IP3, calcium et DAG appartiennent tous à la voie de la phospholipase C. La PKA appartient à la voie de l'AMPc : c'est l'intrus.",
+    "options": {
+      "A": "Voie PLC (substrat).",
+      "B": "Voie PLC (second messager).",
+      "C": "Voie PLC (second messager).",
+      "D": "Voie PLC (second messager).",
+      "E": "Intrus : voie de l'AMPc."
+    }
+  },
+  "d9b14726-93ed-5035-9796-22a49992d07d": {
+    "why": "Photon, adrénaline, acétylcholine et vasopressine agissent sur des récepteurs membranaires. L'aldostérone, stéroïde, agit sur un récepteur intracellulaire : c'est l'intrus.",
+    "options": {
+      "A": "Récepteur membranaire (rhodopsine).",
+      "B": "Récepteur membranaire.",
+      "C": "Récepteur membranaire.",
+      "D": "Intrus : récepteur intracellulaire.",
+      "E": "Récepteur membranaire."
+    }
+  },
+  "b3662fc6-3562-58a8-a309-64f6ae2204aa": {
+    "why": "Progestérone, testostérone, hormones thyroïdiennes et NO sont liposolubles et agissent dans la cellule. L'ocytocine, peptide hydrophile, agit sur un récepteur membranaire : c'est l'intrus.",
+    "options": {
+      "A": "Liposoluble.",
+      "B": "Liposoluble.",
+      "C": "Intrus : peptide hydrophile.",
+      "D": "Liposolubles.",
+      "E": "Liposoluble."
+    }
+  },
+  "87daabaa-0fd7-5f2d-8d12-5cfaeff3ce08": {
+    "why": "L'insuline agit sur un récepteur à activité tyrosine kinase (récepteur-enzyme). Glucagon et dopamine ont des RCPG, le cortisol un récepteur nucléaire, le GABA des récepteurs canal et RCPG.",
+    "options": {
+      "A": "Faux : RCPG.",
+      "B": "Vrai : tyrosine kinase.",
+      "C": "Faux : récepteur nucléaire.",
+      "D": "Faux : RCPG.",
+      "E": "Faux : canal (GABA-A) et RCPG (GABA-B)."
+    }
+  },
+  "5c9c6197-4086-50e0-a1c1-1d12e5af5e73": {
+    "why": "L'acétylcholine agit sur le récepteur nicotinique, un récepteur-canal. La sérotonine en possède aussi un : le récepteur 5-HT3. Noradrénaline : RCPG ; EGF : tyrosine kinase ; ANP : guanylate cyclase.",
+    "options": {
+      "A": "Juste en réalité : le récepteur 5-HT3 de la sérotonine est un canal ionique.",
+      "B": "Faux : RCPG.",
+      "C": "Faux : tyrosine kinase.",
+      "D": "Faux : récepteur-guanylate cyclase.",
+      "E": "Vrai : nicotinique."
+    },
+    "keyIssue": "la sérotonine possède aussi un récepteur-canal, le récepteur 5-HT3 (cible des antiémétiques comme l'ondansétron) : A est juste aussi.",
+    "aiKey": "AE"
+  },
+  "ad72e5ad-5e86-5790-afba-20e42d0ae4ce": {
+    "why": "Calcium, IP3, DAG et AMPc sont des seconds messagers. La PKA est une enzyme effectrice activée par l'AMPc.",
+    "options": {
+      "A": "Second messager.",
+      "B": "Second messager.",
+      "C": "Second messager.",
+      "D": "Second messager.",
+      "E": "Réponse attendue : c'est une kinase effectrice."
+    }
+  },
+  "74497bf3-fb9b-562c-bb41-8ea662076cf3": {
+    "why": "La nicotine est un agoniste du récepteur-canal (nicotinique) de l'acétylcholine. La muscarine agit sur le récepteur muscarinique, l'atropine le bloque, et le curare bloque le nicotinique.",
+    "options": {
+      "A": "Faux : agoniste muscarinique.",
+      "B": "Faux : antagoniste muscarinique.",
+      "C": "Faux : antagoniste nicotinique.",
+      "D": "Faux : agoniste opioïde.",
+      "E": "Vrai : agoniste nicotinique."
+    }
+  },
+  "727a3238-e70c-5c90-9117-64407fe04e44": {
+    "why": "Les récepteurs couplés aux protéines G sont formés d'une chaîne à 7 domaines transmembranaires.",
+    "options": {
+      "A": "Faux : c'est le récepteur nicotinique.",
+      "B": "Faux : c'est la structure des transporteurs GLUT.",
+      "C": "Vrai : 7 domaines.",
+      "D": "Faux.",
+      "E": "Faux : 4 domaines, c'est chaque sous-unité du nicotinique."
+    }
+  },
+  "3bf146bc-0bd0-564a-bb0a-e25a27b3ab65": {
+    "why": "GMPc, IP3, DAG et Ca2+ sont des seconds messagers. La PKA est une enzyme effectrice : c'est l'intrus.",
+    "options": {
+      "A": "Second messager.",
+      "B": "Second messager.",
+      "C": "Second messager.",
+      "D": "Second messager.",
+      "E": "Intrus : kinase effectrice."
+    }
+  },
+  "756fdefc-2f70-5df2-8836-3e1869907bf2": {
+    "why": "L'acétylcholine agit sur le récepteur nicotinique, un récepteur-canal. La sérotonine possède aussi un récepteur-canal, le 5-HT3. Noradrénaline : RCPG ; EGF : tyrosine kinase ; ANP : guanylate cyclase.",
+    "options": {
+      "A": "Juste en réalité : le récepteur 5-HT3 est un canal ionique.",
+      "B": "Faux : RCPG.",
+      "C": "Faux : tyrosine kinase.",
+      "D": "Faux : récepteur-guanylate cyclase.",
+      "E": "Vrai : nicotinique."
+    },
+    "keyIssue": "la sérotonine possède aussi un récepteur-canal, le récepteur 5-HT3 : A est juste aussi.",
+    "aiKey": "AE"
+  },
+  "20246049-5c2d-5772-8faf-9d85f4fe0bcd": {
+    "why": "Les molécules hydrosolubles circulent libres dans le plasma et agissent sur des récepteurs membranaires (RCPG, canaux, récepteurs-enzymes). Les liposolubles circulent liées à des protéines et agissent sur des récepteurs intracellulaires. Les radicaux libres comme le NO agissent directement sur des enzymes cytosoliques (guanylate cyclase soluble).",
+    "options": {
+      "A": "Vrai : forme libre.",
+      "B": "Vrai : protéines de transport.",
+      "C": "Faux : récepteurs intracellulaires.",
+      "D": "Vrai : ex. insuline.",
+      "E": "Vrai : NO → guanylate cyclase soluble."
+    }
+  },
+  "d0ef6d67-d13e-5fd3-8c30-1b96368a16ae": {
+    "why": "Lors de l'activation, le GDP de la sous-unité α est remplacé par du GTP (échange, pas phosphorylation), et α-GTP se dissocie de βγ. Selon la protéine G, un canal peut s'ouvrir ou se fermer et l'adénylate cyclase être activée (Gs) ou inhibée (Gi).",
+    "options": {
+      "A": "Faux : échange GDP/GTP, pas phosphorylation.",
+      "B": "Vrai : dissociation.",
+      "C": "Vrai : modulation des canaux.",
+      "D": "Vrai : protéine Gi.",
+      "E": "Faux."
+    }
+  },
+  "8fe8880d-bbc9-581f-8ee5-a6ee912183bb": {
+    "why": "Activation d'un récepteur nucléaire : le ligand se fixe, les HSP se détachent, le récepteur change de conformation, se dimérise, puis se fixe sur l'ADN (HRE).",
+    "options": {
+      "A": "Faux : les HSP se détachent après la fixation du ligand.",
+      "B": "Vrai : ordre correct.",
+      "C": "Faux : la dimérisation précède la fixation à l'ADN.",
+      "D": "Faux : la fixation à l'ADN est la dernière étape.",
+      "E": "Faux : le changement de conformation précède la dimérisation."
+    }
+  },
+  "058c908d-c882-5d66-bd47-28400bb81318": {
+    "why": "L'eau représente 60 % du poids : 40 % dans les cellules, 20 % hors des cellules. Ces 20 % se répartissent en 15 % de liquide interstitiel et 5 % de plasma.",
+    "options": {
+      "A": "Faux : 20 % est le liquide extracellulaire total.",
+      "B": "Faux : 40 % est le liquide intracellulaire.",
+      "C": "Vrai : 15 %.",
+      "D": "Faux : 5 % est le plasma."
+    }
+  },
+  "c3fe8184-6cf1-57cb-bff6-a6681f8313b9": {
+    "why": "Na+, Cl- et HCO3- sont surtout extracellulaires ; K+ (et les protéines, les phosphates) surtout intracellulaires.",
+    "options": {
+      "A": "Faux : il est surtout extracellulaire.",
+      "B": "Vrai : extracellulaire.",
+      "C": "Vrai : extracellulaires.",
+      "D": "Faux : il est surtout intracellulaire."
+    }
+  },
+  "331318e0-87fd-5c8d-926e-6e3b80ea5326": {
+    "why": "Avec la formule du cours (2 × Na+ + 10 + glycémie), on obtient 290 + 10 + 12 = 312 mOsm/L. Avec la formule simplifiée (2 × Na+ + glycémie), on trouve 302. Dans les deux cas, c'est au-dessus de la normale (285 à 295), à cause de l'hyperglycémie.",
+    "options": {
+      "A": "Faux : on n'a pas tenu compte du glucose.",
+      "B": "Vrai : résultat de la formule du cours.",
+      "C": "Vrai : au-dessus de 295.",
+      "D": "Faux : elle est élevée."
+    }
+  },
+  "f46b2ef3-2363-59e5-b3cd-228b4f552841": {
+    "why": "Le sang circulant (plasma) fait partie du liquide extracellulaire. Le volume extracellulaire dépend du capital sodé, pas de la natrémie, qui reflète l'hydratation cellulaire. L'œdème est une augmentation du liquide interstitiel.",
+    "options": {
+      "A": "Vrai : le plasma est extracellulaire.",
+      "B": "Faux selon le corrigé : le secteur interstitiel inclut aussi la lymphe.",
+      "C": "Vrai : il dépend de la quantité totale de sodium, pas de sa concentration.",
+      "D": "Vrai : définition de l'œdème."
+    }
+  },
+  "013286b0-5ac5-5842-a029-43d5bc0b0535": {
+    "why": "Le liquide intracellulaire est riche en K+ et en protéines, pauvre en Na+ et en Cl-. Son osmolarité est égale à celle du plasma (équilibre osmotique).",
+    "options": {
+      "A": "Faux : il est riche en protéines.",
+      "B": "Vrai : K+ ≈ 140 mmol/L.",
+      "C": "Vrai : Cl- bas.",
+      "D": "Faux : elle est égale."
+    }
+  },
+  "e2acc336-9500-59db-9a72-bba2f7842983": {
+    "why": "Le liquide interstitiel représente 15 % du poids. Il a presque la même composition ionique que le plasma, mais il est pauvre en protéines. La lymphe en est une partie drainée, pas un synonyme.",
+    "options": {
+      "A": "Faux : 15 %.",
+      "B": "Faux : il est pauvre en protéines.",
+      "C": "Vrai : quasi identique (à l'effet Donnan près).",
+      "D": "Faux : la lymphe n'est qu'une fraction drainée."
+    }
+  },
+  "20609ba8-6c91-5822-a684-2bff955308ce": {
+    "why": "La pression oncotique est due aux protéines plasmatiques (albumine), plus concentrées dans le plasma que dans l'interstitium. Elle retient l'eau dans les capillaires ; quand elle baisse (hypoalbuminémie), des œdèmes apparaissent.",
+    "options": {
+      "A": "Faux : elle est due aux protéines.",
+      "B": "Faux : elle est plus élevée dans le plasma.",
+      "C": "Vrai : elle retient l'eau.",
+      "D": "Vrai : œdèmes de l'hypoalbuminémie."
+    }
+  },
+  "0eed421a-d5e0-5a1a-a23a-4c1adef465b7": {
+    "why": "Au pôle artériel du capillaire, la pression hydrostatique dépasse la pression oncotique : le liquide sort vers l'interstitium (filtration). Au pôle veineux, c'est l'inverse (réabsorption).",
+    "options": {
+      "A": "Vrai : sortie de liquide.",
+      "B": "Vrai : filtration.",
+      "C": "Faux : cela se passe au pôle veineux.",
+      "D": "Faux : réabsorption au pôle veineux."
+    }
+  },
+  "e0e58b1e-12af-52ac-8dac-acb28be6d0da": {
+    "why": "Le milieu intérieur est le liquide extracellulaire. Sa composition n'est pas homogène (le plasma est riche en protéines, pas l'interstitium) mais elle est maintenue stable par l'homéostasie. Le compartiment transcellulaire (1 à 2 L) est plus petit que le plasma. Le secteur extracellulaire est proportionnellement plus grand chez le nourrisson et augmente pendant la grossesse.",
+    "options": {
+      "A": "Faux : c'est le liquide extracellulaire seulement.",
+      "B": "Faux : plasma et interstitium diffèrent par les protéines.",
+      "C": "Vrai : homéostasie.",
+      "D": "Faux : 1 à 2 L contre 3,5 L de plasma.",
+      "E": "Vrai : nourrisson, grossesse."
+    }
+  },
+  "b1db97b9-0001-58e7-b93a-ed1684e96f94": {
+    "why": "Eau totale = 60 % de 60 kg = 36 L. Intracellulaire (40 %) = 24 L ; extracellulaire (20 %) = 12 L, dont interstitiel (15 %) = 9 L et plasma (5 %) = 3 L. Sang = plasma / (1 – hématocrite) = 3 / 0,6 = 5 L.",
+    "options": {
+      "A": "Vrai : 12 L.",
+      "B": "Vrai : 24 L.",
+      "C": "Faux : 3 L est le plasma ; le sang fait 5 L.",
+      "D": "Vrai : 9 L.",
+      "E": "Faux : C est fausse."
+    }
+  },
+  "b0d03ec1-1592-5176-b5af-b4a15f7dd61d": {
+    "why": "On cherche les propositions fausses. Les protéines ne représentent qu'environ 1 % des osmoles plasmatiques. Le principal cation interstitiel est le Na+, et le principal tampon plasmatique le bicarbonate. La natrémie détermine l'osmolarité extracellulaire, et il existe un gradient de Na+ entre l'interstitium et la cellule.",
+    "options": {
+      "A": "Fausse (à cocher) : environ 1 % seulement.",
+      "B": "Fausse (à cocher) : c'est le Na+.",
+      "C": "Fausse (à cocher) : c'est le bicarbonate.",
+      "D": "Juste : 2 × Na+.",
+      "E": "Juste : Na+ ≈ 140 dehors, ≈ 10 dedans."
+    }
+  },
+  "a2ce494a-7eec-5353-adb5-785ac846179a": {
+    "why": "Les entrées d'eau sont régulées par la soif. Le liquide extracellulaire comprend le plasma (intravasculaire) et le liquide interstitiel, et représente 1/3 de l'eau de l'organisme.",
+    "options": {
+      "A": "Vrai : la soif règle les entrées.",
+      "B": "Faux : le plasma est un secteur distinct de l'interstitium.",
+      "C": "Vrai pour le liquide extracellulaire.",
+      "D": "Vrai pour le liquide extracellulaire.",
+      "E": "Faux."
+    },
+    "draft": "l'énoncé (« le bilan de l'eau ») ne correspond pas aux propositions C et D, qui décrivent le liquide extracellulaire"
+  },
+  "91ec13a3-8c0b-5cac-a3c9-bd175db91b1c": {
+    "why": "Milieu extérieur et milieu intérieur échangent en permanence (poumon, intestin, rein). Les échanges avec les tissus se font au niveau des capillaires. La pression hydrostatique est exercée par le sang sur la paroi des vaisseaux et diminue le long de l'arbre vasculaire. L'albumine ne sort pratiquement pas des capillaires.",
+    "options": {
+      "A": "Vrai : échanges permanents.",
+      "B": "Faux : au niveau des capillaires.",
+      "C": "Faux : elle s'exerce à l'intérieur, sur la paroi.",
+      "D": "Faux : c'est la pression hydrostatique qui diminue.",
+      "E": "Faux : l'albumine reste dans le plasma."
+    }
+  },
+  "f2d332d3-3e50-5088-8330-98c5e002dc0b": {
+    "why": "La lymphe provient du liquide interstitiel : sa composition ionique est proche du plasma et elle ramène les protéines filtrées. Elle draine environ 10 % du liquide filtré et rejoint la circulation veineuse (canal thoracique).",
+    "options": {
+      "A": "Faux : elle est extracellulaire.",
+      "B": "Vrai : proche du plasma.",
+      "C": "Faux : elle contient des protéines.",
+      "D": "Faux : environ 10 %, le reste est réabsorbé au pôle veineux.",
+      "E": "Vrai : canal thoracique."
+    }
+  },
+  "9ab91c17-4ab3-5143-8985-7b39a3b5e84e": {
+    "why": "L'eau représente environ 60 % du poids adulte : 48 L pour 80 kg, 42 L pour 70 kg. Cette proportion diminue avec l'âge. Selon le cours, le liquide extracellulaire représente 40 % chez le nouveau-né. La partie intravasculaire du liquide extracellulaire est le plasma.",
+    "options": {
+      "A": "Faux : environ 60 % (42 L pour 70 kg).",
+      "B": "Vrai : 60 % de 80 = 48 L.",
+      "C": "Faux : elle diminue avec l'âge.",
+      "D": "Vrai selon le cours : le secteur extracellulaire est proportionnellement plus grand chez le nouveau-né.",
+      "E": "Vrai : plasma."
+    }
+  },
+  "670454c8-b83b-5dd0-a935-1979df2a4574": {
+    "why": "Le liquide intracellulaire représente 40 % du poids, soit 28 L pour 70 kg. Il est riche en K+ et en protéines, pauvre en Cl-, et a la même osmolarité que le plasma.",
+    "options": {
+      "A": "Vrai : 28 L.",
+      "B": "Faux : il est riche en protéines.",
+      "C": "Vrai : K+.",
+      "D": "Vrai : Cl- bas.",
+      "E": "Faux : elle est égale."
+    }
+  },
+  "b1e20b08-95fb-5682-a6a3-99b8a46d150f": {
+    "why": "Le liquide interstitiel représente 15 % du poids (10,5 L pour 70 kg ; 3,5 L est le plasma). Riche en Na+, pauvre en K+ et en protéines, il a la même osmolarité que le secteur intracellulaire.",
+    "options": {
+      "A": "Faux : 3,5 L est le volume plasmatique ; l'interstitiel fait 10,5 L.",
+      "B": "Faux : il est pauvre en protéines.",
+      "C": "Vrai : Na+.",
+      "D": "Vrai : K+ bas.",
+      "E": "Faux : les osmolarités sont égales."
+    }
+  },
+  "9f52f485-1fff-549b-a659-0ad92b72f750": {
+    "why": "Les synapses chimiques sont unidirectionnelles, mais les synapses électriques peuvent être bidirectionnelles. La libération des vésicules dépend de canaux calciques voltage-dépendants. Un neurotransmetteur excitateur ouvre des canaux Na+ ou ferme des canaux K+/Cl- ; l'ouverture de canaux K+ fait sortir des charges positives et crée un PPSI.",
+    "options": {
+      "A": "Faux : les synapses électriques peuvent être bidirectionnelles.",
+      "B": "Faux : les canaux calciques présynaptiques sont voltage-dépendants.",
+      "C": "Vrai : ces trois mécanismes dépolarisent.",
+      "D": "Vrai : la sortie de K+ hyperpolarise (PPSI)."
+    }
+  },
+  "94fd0303-e4ab-5ee2-9e2e-63efe18dc7cf": {
+    "why": "À la jonction neuromusculaire, le potentiel d'action ouvre des canaux calciques : le Ca2+ entre dans la terminaison et déclenche la libération d'acétylcholine. Celle-ci se fixe sur des récepteurs nicotiniques (canaux chimiodépendants) de la plaque motrice, puis elle est détruite dans la fente par l'acétylcholinestérase. La nicotine est un agoniste, le curare un antagoniste.",
+    "options": {
+      "A": "Faux : le Ca2+ entre dans la terminaison présynaptique.",
+      "B": "Vrai : récepteur nicotinique.",
+      "C": "Faux : c'est l'acétylcholinestérase, dans la fente.",
+      "D": "Faux : le curare est un antagoniste."
+    }
+  },
+  "9d3cc82d-861e-567c-9904-965a3107eaf3": {
+    "why": "La conduction saltatoire est propre aux fibres myélinisées : les courants locaux sautent d'un nœud de Ranvier à l'autre. Sa vitesse est proportionnelle au diamètre (la racine carrée vaut pour les fibres amyéliniques). Stimulé expérimentalement au milieu d'un axone, le potentiel d'action se propage dans les deux sens.",
+    "options": {
+      "A": "Faux selon le corrigé : les fibres C, amyéliniques, n'ont pas de conduction saltatoire.",
+      "B": "Faux : pour les fibres myélinisées, la vitesse est proportionnelle au diamètre.",
+      "C": "Vrai : de nœud en nœud.",
+      "D": "Vrai : conduction bidirectionnelle expérimentale."
+    }
+  },
+  "d12bdd28-cc10-5948-8f1e-49b07fc2a42a": {
+    "why": "Les synapses électriques (jonctions communicantes) transmettent sans délai et souvent dans les deux sens ; les synapses chimiques ont un délai synaptique. La cellule post-synaptique porte des récepteurs-canaux mais aussi des RCPG. Certains neurones ont des autorécepteurs présynaptiques qui freinent leur propre libération.",
+    "options": {
+      "A": "Faux : elle est souvent bidirectionnelle.",
+      "B": "Faux : la synapse chimique est plus lente.",
+      "C": "Faux : il y a aussi des récepteurs métabotropes.",
+      "D": "Vrai : rétrocontrôle présynaptique."
+    }
+  },
+  "a7eb13c5-78cf-56cc-915c-10a7d312312d": {
+    "why": "À la plaque motrice, l'acétylcholine agit sur des récepteurs nicotiniques ; elle est synthétisée dans la terminaison présynaptique par la choline acétyltransférase. Le curare, antagoniste compétitif, permet d'isoler le potentiel de plaque. Quand le seuil des canaux voltage-dépendants du sarcolemme est atteint, le potentiel d'action musculaire naît et se propage.",
+    "options": {
+      "A": "Faux : les récepteurs de la plaque motrice sont nicotiniques.",
+      "B": "Faux : la synthèse est présynaptique (choline acétyltransférase).",
+      "C": "Vrai : le curare réduit le potentiel de plaque sous le seuil.",
+      "D": "Vrai : naissance du potentiel d'action musculaire."
+    }
+  },
+  "4770a273-bb25-5e39-b5c8-73af212fdd13": {
+    "why": "Le récepteur NMDA est un récepteur ionotrope du glutamate. Son activation excessive fait entrer trop de Ca2+ et provoque une mort neuronale (excitotoxicité). Le NMDA est son agoniste exogène ; l'AMPA agit sur un autre récepteur.",
+    "options": {
+      "A": "Faux : l'AMPA active le récepteur AMPA.",
+      "B": "Vrai : excitotoxicité.",
+      "C": "Vrai : ionotrope (écrit « inotrope »).",
+      "D": "Faux : c'est le glutamate."
+    }
+  },
+  "39c6cf26-2f2e-5c66-a5ca-ebbe06c18c88": {
+    "why": "Le récepteur GABA-A est un récepteur-canal (ionotrope) perméable au Cl- : son activation fait entrer le Cl- et crée un PPSI. La tétrodotoxine bloque les canaux Na+ voltage-dépendants, pas le GABA-A.",
+    "options": {
+      "A": "Faux : ionotrope (le GABA-B est métabotrope).",
+      "B": "Vrai : entrée de Cl-.",
+      "C": "Vrai : PPSI.",
+      "D": "Faux : la tétrodotoxine bloque les canaux Na+."
+    }
+  },
+  "b99c83c7-9ec9-51ba-a761-6f09fa66f3d1": {
+    "why": "On cherche les propositions fausses. La lidocaïne bloque le canal Na+ voltage-dépendant, l'ouabaïne la pompe Na+/K+. Le curare bloque le récepteur nicotinique, et la tétrodotoxine le canal Na+ voltage-dépendant.",
+    "options": {
+      "A": "Juste.",
+      "B": "Fausse (à cocher) : le curare bloque le récepteur nicotinique.",
+      "C": "Fausse (à cocher) : la tétrodotoxine bloque le canal voltage-dépendant.",
+      "D": "Juste."
+    }
+  },
+  "eaffcde2-a661-5acc-bb60-db4c562afc9a": {
+    "why": "Les synapses peuvent être excitatrices ou inhibitrices. La jonction neuromusculaire est une synapse neuro-effectrice, et les synapses électriques transmettent par des courants ioniques. Le neurotransmetteur crée un potentiel post-synaptique, qui ne déclenche un potentiel d'action que s'il atteint le seuil.",
+    "options": {
+      "A": "Vrai : PPSE ou PPSI.",
+      "B": "Vrai : neurone → muscle.",
+      "C": "Vrai : jonctions communicantes.",
+      "D": "Faux : c'est d'abord un potentiel post-synaptique gradué."
+    }
+  },
+  "0efff520-9e2c-57d6-ad5d-988889e680c9": {
+    "why": "Dans la synapse chimique, le potentiel d'action ouvre les canaux calciques voltage-dépendants présynaptiques ; l'augmentation du Ca2+ déclenche l'exocytose. Côté post-synaptique, une entrée de cations comme le Ca2+ dépolarise la membrane (PPSE). Les vésicules sont présynaptiques et peuvent contenir plusieurs médiateurs (co-transmission).",
+    "options": {
+      "A": "Vrai selon le cours : une entrée de charges positives dépolarise (PPSE).",
+      "B": "Faux : les vésicules sont présynaptiques et peuvent contenir plusieurs médiateurs.",
+      "C": "Vrai : exocytose.",
+      "D": "Vrai : voltage-dépendants."
+    }
+  },
+  "b26b0d64-27f6-5492-8cf8-b481c5e8ada7": {
+    "why": "Les synapses peuvent être excitatrices ou inhibitrices et ne sont pas toujours unidirectionnelles (synapses électriques). La jonction neuromusculaire est neuro-effectrice, et les synapses électriques transmettent par des courants ioniques. Le neurotransmetteur produit un potentiel post-synaptique gradué.",
+    "options": {
+      "A": "Faux : les synapses électriques peuvent être bidirectionnelles.",
+      "B": "Vrai : PPSE ou PPSI.",
+      "C": "Vrai.",
+      "D": "Vrai.",
+      "E": "Faux : potentiel post-synaptique, pas forcément un potentiel d'action."
+    }
+  },
+  "f372e221-e442-59ba-9975-4b9239ba0c93": {
+    "why": "L'augmentation du Ca2+ présynaptique, par des canaux voltage-dépendants, déclenche l'exocytose. Selon le cours, une entrée de Ca2+ post-synaptique dépolarise (PPSE). Les vésicules sont présynaptiques.",
+    "options": {
+      "A": "Vrai selon le cours.",
+      "B": "Faux : les vésicules sont présynaptiques.",
+      "C": "Vrai : exocytose.",
+      "D": "Vrai : voltage-dépendants.",
+      "E": "Faux."
+    }
+  },
+  "95b307f7-304d-57bd-ad29-3eec5ad9da87": {
+    "why": "La fibre musculaire squelettique est l'effecteur du système nerveux somatique. Son potentiel d'action dure plus longtemps (quelques ms) que celui de la fibre nerveuse, et se propage plus lentement (3 à 5 m/s contre 50 à 100 m/s pour la fibre myélinisée). Elle est élastique : elle reprend sa forme après déformation.",
+    "options": {
+      "A": "Vrai : motoneurones somatiques.",
+      "B": "Faux : il est plus long.",
+      "C": "Vrai : quelques m/s seulement.",
+      "D": "Faux : c'est la définition de la plasticité ; le muscle est élastique."
+    }
+  },
+  "0b0e39ee-2c5f-52dd-885f-28cc2f77cf40": {
+    "why": "Le potentiel d'action fait entrer du Ca2+ dans la terminaison, ce qui libère l'acétylcholine. Celle-ci se fixe sur les récepteurs nicotiniques de la plaque motrice puis est détruite par l'acétylcholinestérase. La nicotine est un agoniste, le curare un antagoniste.",
+    "options": {
+      "A": "Faux : le Ca2+ entre dans la terminaison.",
+      "B": "Vrai : récepteur nicotinique.",
+      "C": "Faux : c'est l'acétylcholinestérase.",
+      "D": "Faux : le curare est un antagoniste."
+    }
+  },
+  "47896ef1-c681-52ff-a757-3889378e6eb2": {
+    "why": "À la plaque motrice, l'acétylcholine (synthétisée dans la terminaison par la choline acétyltransférase) agit sur des récepteurs nicotiniques. Le curare, antagoniste compétitif, permet d'isoler le potentiel de plaque. Le potentiel d'action musculaire naît quand le seuil des canaux voltage-dépendants est atteint.",
+    "options": {
+      "A": "Faux : les récepteurs sont nicotiniques.",
+      "B": "Faux : synthèse présynaptique par la choline acétyltransférase.",
+      "C": "Vrai : antagoniste compétitif.",
+      "D": "Vrai : naissance du potentiel d'action musculaire."
+    }
+  },
+  "d640d041-bde5-5eab-9941-103fd31c2bb1": {
+    "why": "Le motoneurone α a son corps cellulaire dans la corne antérieure de la moelle. Chaque fibre squelettique reçoit en général une seule plaque motrice, où l'acétylcholine agit, toujours de façon excitatrice, sur des récepteurs nicotiniques.",
+    "options": {
+      "A": "Vrai : corne antérieure.",
+      "B": "Faux : une seule plaque par fibre.",
+      "C": "Faux : elle est toujours excitatrice.",
+      "D": "Vrai : nicotiniques."
+    }
+  },
+  "6393ba6a-dc64-585b-8a36-c71a558a4d94": {
+    "why": "Le corps cellulaire du motoneurone est dans la corne antérieure de la moelle. Chaque fibre a une seule plaque motrice, l'acétylcholine y est toujours excitatrice, et les récepteurs sont nicotiniques.",
+    "options": {
+      "A": "Juste en réalité : corne antérieure de la moelle épinière.",
+      "B": "Faux : une seule plaque par fibre.",
+      "C": "Faux : toujours excitatrice.",
+      "D": "Faux : nicotiniques.",
+      "E": "Faux : A est juste."
+    },
+    "keyIssue": "le corps cellulaire du motoneurone se trouve bien dans la corne antérieure de la moelle épinière (le même cours le retient comme juste dans une autre question) : A est juste, donc « toutes fausses » ne l'est pas.",
+    "aiKey": "A"
+  },
+  "9ab59627-bd83-5d8a-ae3d-13a22f9d3547": {
+    "why": "Le corps cellulaire du motoneurone est dans la corne antérieure (pas postérieure). Une seule plaque motrice par fibre, effet toujours excitateur, récepteurs nicotiniques.",
+    "options": {
+      "A": "Faux : corne antérieure.",
+      "B": "Faux : une seule plaque.",
+      "C": "Faux : toujours excitatrice.",
+      "D": "Faux : nicotiniques.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "cb7e4675-acd1-5f02-a8f0-f1cc03ecabb5": {
+    "why": "Au repos, la membrane porte un léger excès de charges positives sur sa face externe (intérieur négatif). Seules certaines cellules (neurones, muscles…) sont excitables. Selon le cours, les dendrites ne produisent pas de potentiels d'action. Les fibres myélinisées conduisent plus vite que les amyéliniques.",
+    "options": {
+      "A": "Faux : toutes les cellules ne sont pas excitables.",
+      "B": "Vrai : charges positives en excès à l'extérieur.",
+      "C": "Faux selon le corrigé : le cours réserve le potentiel d'action au segment initial et à l'axone.",
+      "D": "Faux : la myéline accélère la conduction."
+    }
+  },
+  "ab4d3c58-71c2-58b8-89a1-9d586651b4fe": {
+    "why": "Le potentiel de repos vient de la perméabilité sélective de la membrane, beaucoup plus perméable au K+ qu'au Na+. Les pompes Na+/K+ entretiennent en permanence les gradients qui permettent ces flux passifs. À la mort de la cellule, il disparaît.",
+    "options": {
+      "A": "Vrai : perméabilité sélective.",
+      "B": "Vrai : le K+ passe plus facilement.",
+      "C": "Vrai : la pompe entretient les gradients.",
+      "D": "Vrai : sans énergie, les gradients s'annulent."
+    }
+  },
+  "02db251a-6d8a-52d2-9775-3cab4238b4aa": {
+    "why": "Le potentiel d'action obéit à la loi du tout ou rien : son amplitude ne dépend pas de l'intensité du stimulus, et il se propage sans décroître, à vitesse constante. Les fibres afférentes peuvent être myélinisées ou non. Dans le système végétatif, les notions pré- et post-ganglionnaire concernent les voies efférentes (fibres pré myélinisées, post amyéliniques).",
+    "options": {
+      "A": "Faux : loi du tout ou rien.",
+      "B": "Vrai : Aα, Aβ, Aδ (myélinisées) et C (amyéliniques).",
+      "C": "Faux : la vitesse est constante.",
+      "D": "Faux : ce sont des voies efférentes, et les post-ganglionnaires sont amyéliniques."
+    }
+  },
+  "d5c6fa3f-a546-5f0d-a17b-13c8af63d87e": {
+    "why": "Toutes les cellules vivantes ont un potentiel de repos. Chez le neurone, il vaut environ −70 mV : l'intérieur est négatif (excès de charges positives à l'extérieur). Il repose surtout sur les canaux de fuite K+, la pompe Na+/K+ entretenant les gradients.",
+    "options": {
+      "A": "Faux : l'excès de charges positives est à l'extérieur.",
+      "B": "Faux selon le corrigé : il vaut −70 mV (l'intérieur est négatif) ; le signe compte.",
+      "C": "Faux : il dépend surtout des canaux de fuite K+.",
+      "D": "Vrai : toutes les cellules vivantes."
+    }
+  },
+  "6525b1f5-200b-50af-a326-111b7640d0ea": {
+    "why": "Le potentiel de repos résulte de la perméabilité sélective de la membrane aux ions. Il disparaît à la mort de la cellule, sa valeur varie selon le type cellulaire (−70 mV en moyenne pour un neurone), il nécessite de l'énergie (pompe Na+/K+) et existe dans toutes les cellules.",
+    "options": {
+      "A": "Vrai : il résulte de la perméabilité sélective (écrit « Réduite »).",
+      "B": "Faux : il disparaît à la mort.",
+      "C": "Faux : sa valeur varie selon les cellules.",
+      "D": "Faux : la pompe consomme de l'ATP.",
+      "E": "Faux : toutes les cellules."
+    }
+  },
+  "ef169d92-b6f2-5ef4-be4d-a292373fca81": {
+    "why": "Au repos, le K+ est plus concentré dans la cellule. La membrane est surtout perméable au K+ grâce aux canaux de fuite, par lesquels il sort : c'est ce qui rend l'intérieur négatif. La pompe Na+/K+ fait entrer le K+ et sortir le Na+.",
+    "options": {
+      "A": "Faux : le K+ est intracellulaire.",
+      "B": "Vrai : perméabilité au K+.",
+      "C": "Vrai : flux sortant de K+.",
+      "D": "Faux : elle fait entrer le K+.",
+      "E": "Faux."
+    }
+  },
+  "7713f169-e6c9-550c-a7e6-9fea9204954f": {
+    "why": "La conduction orthodromique va dans le sens physiologique : dendrites → corps cellulaire → axone → terminaison. Le sens inverse est antidromique ; in vivo, la conduction est orthodromique.",
+    "options": {
+      "A": "Faux : vers le corps cellulaire, c'est antidromique.",
+      "B": "Vrai : vers l'axone.",
+      "C": "Faux : vers l'axone, c'est orthodromique.",
+      "D": "Faux : in vivo, elle est orthodromique.",
+      "E": "Faux."
+    }
+  },
+  "d2e45cd5-184d-5b29-afb1-d9af61f97fdf": {
+    "why": "Un neurone est une seule cellule. Certains (neurones neurosécrétoires) sécrètent des hormones qui agissent à distance. La cellule de Schwann est une cellule gliale. Toutes les cellules ont un potentiel de membrane, et les cellules musculaires sont aussi excitables.",
+    "options": {
+      "A": "Faux : c'est une seule cellule.",
+      "B": "Vrai : neurosécrétion (ADH, ocytocine).",
+      "C": "Faux : la cellule de Schwann n'appartient pas au neurone.",
+      "D": "Faux : toutes les cellules en ont un.",
+      "E": "Faux : les cellules musculaires et endocrines sont aussi excitables."
+    }
+  },
+  "a4c2611b-0ad4-5247-a7b3-3c15ee388ec4": {
+    "why": "Le potentiel de repos du neurone vaut environ −70 mV (excès de charges positives à l'extérieur). Il est dû surtout aux canaux de fuite K+ (non voltage-dépendants), la pompe Na+/K+ entretenant les gradients.",
+    "options": {
+      "A": "Faux : l'excès de charges positives est à l'extérieur.",
+      "B": "Faux selon le corrigé : il vaut −70 mV ; le signe compte.",
+      "C": "Faux : il dépend surtout des canaux de fuite K+.",
+      "D": "Faux : ce sont des canaux de fuite, pas voltage-dépendants.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "e667bd37-1b3b-585c-9def-6a95d9cd35cf": {
+    "why": "Au repos, le K+ est intracellulaire. La membrane est surtout perméable au K+ grâce aux canaux de fuite, qui laissent sortir le K+ et rendent l'intérieur négatif. La pompe Na+/K+ fait entrer le K+.",
+    "options": {
+      "A": "Faux : le K+ est intracellulaire.",
+      "B": "Vrai : perméabilité au K+.",
+      "C": "Vrai : flux sortant de K+.",
+      "D": "Faux : elle fait entrer le K+.",
+      "E": "Faux."
+    }
+  },
+  "feb75566-083e-577b-8d9b-feb3ca9e0ec9": {
+    "why": "Le potentiel de membrane existe dans toutes les cellules. Le K+ est surtout intracellulaire. Ce sont les canaux de fuite K+ qui rendent l'intérieur négatif ; la petite fuite de Na+ tend au contraire à le rendre moins négatif.",
+    "options": {
+      "A": "Faux : toutes les cellules.",
+      "B": "Faux : le K+ est intracellulaire.",
+      "C": "Faux : c'est la fuite de K+ qui rend l'intérieur négatif.",
+      "D": "Vrai : toutes sont fausses."
+    }
+  },
+  "c6de1bc2-e10e-5dbe-a74d-d29bbf163eb2": {
+    "why": "Toutes les cellules ont un potentiel de membrane, dont la valeur varie selon le type cellulaire. Selon le cours, les dendrites produisent des potentiels gradués, pas des potentiels d'action.",
+    "options": {
+      "A": "Faux : toutes les cellules ont un potentiel membranaire.",
+      "B": "Faux : sa valeur varie (−90 mV dans le muscle, −70 mV dans le neurone…).",
+      "C": "Faux selon le cours : potentiels gradués.",
+      "D": "Vrai : toutes sont fausses."
+    }
+  },
+  "a0044ad9-b264-5096-bd99-b7c9de3185fc": {
+    "why": "Dans le parasympathique, le neurone préganglionnaire est long et fait relais dans un ganglion proche ou dans la paroi de l'organe : le post-ganglionnaire est court. Le médiateur ganglionnaire est l'acétylcholine. Les chaînes latéro-vertébrales et l'innervation de la médullosurrénale appartiennent au sympathique.",
+    "options": {
+      "A": "Vrai : acétylcholine (récepteurs nicotiniques).",
+      "B": "Faux : c'est le sympathique.",
+      "C": "Faux : c'est le sympathique.",
+      "D": "Vrai : ganglions près de l'organe."
+    }
+  },
+  "76dd0f24-9495-5ce8-af0f-0682c2d6eec2": {
+    "why": "Dans le sympathique, le neurone préganglionnaire est court (relais dans la chaîne latéro-vertébrale), le post-ganglionnaire long et noradrénergique. Il domine lors de l'effort et du stress. La médullosurrénale libère surtout de l'adrénaline (environ 80 %).",
+    "options": {
+      "A": "Vrai : noradrénaline.",
+      "B": "Faux : c'est l'inverse.",
+      "C": "Faux : au repos, c'est le parasympathique qui domine.",
+      "D": "Vrai : environ 80 % d'adrénaline."
+    }
+  },
+  "b7b18582-7d6a-5515-ac9e-365d86d8e234": {
+    "why": "Les efférences végétatives passent par un relais ganglionnaire (deux neurones) avant la cible : muscle lisse, cœur, glandes (pas le muscle squelettique). Elles peuvent exciter ou inhiber. Les corps cellulaires sympathiques préganglionnaires sont dans la corne intermédio-latérale de la moelle (T1–L2).",
+    "options": {
+      "A": "Faux : relais ganglionnaire.",
+      "B": "Faux : le muscle squelettique dépend du système somatique.",
+      "C": "Vrai : effets excitateurs ou inhibiteurs.",
+      "D": "Vrai : corne intermédio-latérale."
+    }
+  },
+  "a15cca32-e8c0-5a34-b1c2-11791fc1d96f": {
+    "why": "La médullosurrénale reçoit directement des fibres préganglionnaires sympathiques (acétylcholine). La fibre post-ganglionnaire sympathique libère de la noradrénaline au cœur ; la fibre post-ganglionnaire parasympathique libère de l'acétylcholine sur le muscle lisse. Le muscle squelettique dépend du système somatique.",
+    "options": {
+      "A": "Faux : ce sont des fibres préganglionnaires.",
+      "B": "Vrai : noradrénaline (récepteurs β1).",
+      "C": "Faux : le muscle squelettique n'a pas d'innervation parasympathique.",
+      "D": "Vrai : acétylcholine (récepteurs muscariniques)."
+    }
+  },
+  "1c1bb1a4-c5b6-51c7-918d-780b5b66b430": {
+    "why": "La pompe Na+/K+ est un antiport (3 Na+ sortent, 2 K+ entrent) électrogène : elle participe au potentiel de membrane. En maintenant le Na+ hors de la cellule, elle contrôle aussi son volume (équilibre osmotique).",
+    "options": {
+      "A": "Faux : c'est un antiport.",
+      "B": "Vrai : effet électrogène et maintien des gradients.",
+      "C": "Faux : 3 charges sortent pour 2 qui entrent, elle est électrogène.",
+      "D": "Vrai : contrôle du volume cellulaire."
+    }
+  },
+  "d33381e5-2815-5a11-a765-e2f2ea45369c": {
+    "why": "Le potentiel d'action obéit à la loi du tout ou rien : amplitude fixe, propagation sans décrément, pas de sommation. Ce sont les potentiels post-synaptiques qui sont graduables et sommables.",
+    "options": {
+      "A": "Faux : il se propage sans décroître.",
+      "B": "Faux : amplitude constante.",
+      "C": "Vrai : tout ou rien.",
+      "D": "Faux : ils ne se somment pas (période réfractaire)."
+    }
+  },
+  "f6616279-117d-5bac-9604-220e7801dd6e": {
+    "why": "La période réfractaire absolue (canaux Na+ inactivés) précède la période réfractaire relative. Elles limitent la fréquence maximale de décharge et empêchent le potentiel d'action de revenir en arrière : il se propage dans le sens orthodromique.",
+    "options": {
+      "A": "Vrai : absolue puis relative.",
+      "B": "Faux : aucun potentiel d'action possible pendant la période absolue.",
+      "C": "Faux : elles limitent la fréquence.",
+      "D": "Vrai : sens orthodromique."
+    }
+  },
+  "c34b44a2-c554-54ae-8a92-48e2282786b3": {
+    "why": "Pour un nerf (ensemble de fibres), l'amplitude du potentiel global augmente avec l'intensité du stimulus, parce que plus de fibres sont recrutées. Selon le cours, l'amplitude enregistrée augmente aussi avec le diamètre des fibres. La vitesse de propagation ne dépend pas de l'intensité, et un potentiel post-synaptique n'est pas un potentiel d'action.",
+    "options": {
+      "A": "Faux selon le cours : l'amplitude enregistrée augmente avec le diamètre.",
+      "B": "Vrai : recrutement de fibres (potentiel global du nerf).",
+      "C": "Vrai : la vitesse dépend de la fibre, pas du stimulus.",
+      "D": "Faux : ce sont des potentiels gradués."
+    }
+  },
+  "0e32de53-3089-55e8-a944-1210d67d1f19": {
+    "why": "Expérimentalement, en stimulant un axone en son milieu, on obtient une conduction antidromique. La vitesse ne dépend pas de l'intensité du stimulus, mais la fréquence des potentiels d'action augmente avec elle (codage en fréquence). Dans un nerf, les fibres sont recrutées selon leur propre seuil, pas par contagion.",
+    "options": {
+      "A": "Vrai : conduction antidromique expérimentale.",
+      "B": "Faux : la vitesse est indépendante de l'intensité.",
+      "C": "Faux : la fréquence augmente avec l'intensité.",
+      "D": "Faux : chaque fibre est isolée ; le recrutement dépend du seuil."
+    }
+  },
+  "25315def-5496-537c-ad8c-d8ec6a517441": {
+    "why": "Le potentiel d'action obéit à la loi du tout ou rien. Il naît quand le potentiel atteint le seuil, d'environ −55 mV pour un neurone (−50 à −60 mV). Physiologiquement, il se propage dans un seul sens et plus vite grâce à la myéline. Ce sont les potentiels post-synaptiques qui sont excitateurs ou inhibiteurs.",
+    "options": {
+      "A": "Vrai : tout ou rien.",
+      "B": "Faux en réalité : le seuil d'un neurone est d'environ −55 mV, pas −30 mV.",
+      "C": "Faux : in vivo, il est orthodromique.",
+      "D": "Faux : cela concerne les potentiels post-synaptiques.",
+      "E": "Faux : la myéline des cellules de Schwann accélère la conduction."
+    },
+    "keyIssue": "le seuil de déclenchement du potentiel d'action d'un neurone est d'environ −55 mV (entre −50 et −60 mV) ; à −30 mV, la dépolarisation est déjà en cours. B est donc faux.",
+    "aiKey": "A"
+  },
+  "98816799-95de-5b7c-88c6-d123ad74566a": {
+    "why": "Le potentiel post-synaptique est gradué (pas de tout ou rien, pas de période réfractaire). Il résulte de l'ouverture de canaux ligand-dépendants. L'ouverture de canaux Cl- donne en général un PPSI, et un PPSE et un PPSI simultanés peuvent s'annuler.",
+    "options": {
+      "A": "Faux : l'entrée de Cl- est inhibitrice.",
+      "B": "Vrai : potentiel gradué.",
+      "C": "Faux : il résulte de canaux ligand-dépendants.",
+      "D": "Faux : pas de période réfractaire, il est sommable.",
+      "E": "Vrai : sommation algébrique."
+    }
+  },
+  "48c2d019-ef85-55d4-8ce1-f62d7e8f5087": {
+    "why": "Pendant la période réfractaire absolue, aucun stimulus, si fort soit-il, ne déclenche de potentiel d'action. Le K+ est plus concentré dans la cellule. La dépolarisation rend le potentiel moins négatif.",
+    "options": {
+      "A": "Faux : aucune réponse n'est possible.",
+      "B": "Faux : le K+ est intracellulaire.",
+      "C": "Faux : c'est l'hyperpolarisation.",
+      "D": "Vrai : toutes sont fausses."
+    }
+  },
+  "1a571a5e-f6aa-58d5-9dca-b66b27f4cefd": {
+    "why": "Le dinitrophénol découple la chaîne respiratoire et épuise l'ATP. La pompe Na+/K+ s'arrête : la sortie active du Na+ (et l'entrée active du K+) est inhibée.",
+    "options": {
+      "A": "Faux : l'entrée passive de Na+ continue.",
+      "B": "Faux : la sortie passive de K+ continue.",
+      "C": "Vrai : la pompe Na+/K+ s'arrête.",
+      "D": "Faux : les mouvements de Cl- sont passifs.",
+      "E": "Faux : les mouvements de Cl- sont passifs."
+    }
+  },
+  "e6031d3e-5756-5828-a24e-bfc6b8d6e43d": {
+    "why": "Le potentiel de repos existe dans toutes les cellules et il est négatif (excès de charges positives à l'extérieur). Seules les cellules excitables inversent leur potentiel lors du potentiel d'action.",
+    "options": {
+      "A": "Faux : toutes les cellules.",
+      "B": "Faux : l'excès de charges positives est à l'extérieur.",
+      "C": "Vrai : intérieur négatif.",
+      "D": "Faux : seulement dans les cellules excitables.",
+      "E": "Faux."
+    }
+  },
+  "be2e3039-403c-592c-8a72-d6b4812b57a1": {
+    "why": "Le potentiel d'action se déroule ainsi : atteinte du seuil, dépolarisation (entrée de Na+), repolarisation (sortie de K+), puis hyperpolarisation transitoire avant le retour au repos.",
+    "options": {
+      "A": "Faux : la repolarisation précède l'hyperpolarisation.",
+      "B": "Vrai : ordre correct.",
+      "C": "Faux.",
+      "D": "Faux : le seuil est la première étape.",
+      "E": "Faux."
+    }
+  },
+  "d4476e0b-458e-5e40-a347-d29164628d0b": {
+    "why": "Pour un stimulus efficace, l'amplitude du potentiel d'action ne dépend pas du stimulus (tout ou rien) et ne diminue pas avec la longueur de l'axone. Selon le cours, l'amplitude enregistrée augmente avec le diamètre des fibres.",
+    "options": {
+      "A": "Faux : tout ou rien.",
+      "B": "Faux : propagation sans décrément.",
+      "C": "Vrai selon le cours.",
+      "D": "Faux : c'est l'inverse.",
+      "E": "Faux : C est juste."
+    }
+  },
+  "865e1a17-5df8-513b-8ff6-9435f0f3d256": {
+    "why": "La vitesse de conduction augmente avec le diamètre, la myélinisation et la température. Elle ne dépend ni du stimulus ni de la longueur de l'axone.",
+    "options": {
+      "A": "Faux : indépendante du stimulus.",
+      "B": "Faux : la longueur ne compte pas.",
+      "C": "Faux : elle augmente avec le diamètre.",
+      "D": "Faux : elle augmente avec la température.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "f301aba7-485f-5969-ac9d-e0cc2d89c7ae": {
+    "why": "L'hypocalcémie abaisse le seuil des canaux Na+ et augmente l'excitabilité (tétanie). La procaïne et la tétrodotoxine bloquent les canaux Na+ ; le TEA bloque les canaux K+.",
+    "options": {
+      "A": "Vrai : hyperexcitabilité, tétanie.",
+      "B": "Faux : elle bloque les canaux Na+.",
+      "C": "Faux : elle bloque les canaux Na+.",
+      "D": "Faux : il bloque les canaux K+.",
+      "E": "Faux."
+    }
+  },
+  "91e106fc-246e-5432-8ec6-353a022ac836": {
+    "why": "Les fibres A sont myélinisées et de gros diamètre, les fibres B myélinisées (préganglionnaires végétatives), les fibres C amyéliniques, fines, à conduction très lente (0,5 à 2 m/s).",
+    "options": {
+      "A": "Faux : elles sont amyéliniques.",
+      "B": "Vrai : très lentes.",
+      "C": "Faux : elles sont myélinisées.",
+      "D": "Faux : elles sont myélinisées.",
+      "E": "Faux."
+    }
+  },
+  "48f5a7f9-31c2-5d98-adaf-8750a69b8a5c": {
+    "why": "Le Ca2+ est beaucoup plus concentré dehors que dans le cytosol. La contraction est déclenchée par la libération du Ca2+ du réticulum (canaux) ; pendant la relaxation, le Ca2+ est repompé dans le réticulum (SERCA) et expulsé par l'échangeur Na+/Ca2+.",
+    "options": {
+      "A": "Faux : environ 10 000 fois plus concentré dehors.",
+      "B": "Vrai : l'échangeur expulse le Ca2+.",
+      "C": "Faux : la contraction utilise les canaux du réticulum ; la pompe sert à la relaxation.",
+      "D": "Vrai : la SERCA repompe le Ca2+.",
+      "E": "Faux."
+    }
+  },
+  "bed30acb-8180-5b49-8a92-116706241704": {
+    "why": "Pour un nerf, l'amplitude du potentiel global augmente avec l'intensité du stimulus (recrutement). Selon le cours, elle augmente aussi avec le diamètre des fibres. La vitesse ne dépend pas de l'intensité, et un potentiel post-synaptique n'est pas un potentiel d'action.",
+    "options": {
+      "A": "Faux selon le cours.",
+      "B": "Vrai : recrutement.",
+      "C": "Vrai.",
+      "D": "Faux.",
+      "E": "Faux."
+    }
+  },
+  "56446c45-f43e-5372-9a38-20bef18eef94": {
+    "why": "La période réfractaire absolue précède la relative. Aucun potentiel d'action n'est possible pendant la période absolue. Les périodes réfractaires limitent la fréquence et orientent la propagation dans le sens orthodromique.",
+    "options": {
+      "A": "Faux : elle la précède.",
+      "B": "Faux.",
+      "C": "Faux : elles limitent la fréquence.",
+      "D": "Faux : sens orthodromique.",
+      "E": "Vrai : toutes sont fausses."
+    }
+  },
+  "d2b06617-a599-5381-b658-1d41bf652999": {
+    "why": "Au repos, les canaux voltage-dépendants sont fermés. À la dépolarisation, les canaux Na+ s'ouvrent vite ; à la repolarisation, ils s'inactivent pendant que les canaux K+ (plus lents) s'ouvrent. Pendant l'hyperpolarisation, les canaux K+ encore ouverts se referment progressivement.",
+    "options": {
+      "A": "Vrai : fermés au repos.",
+      "B": "Faux selon le corrigé : les canaux K+, lents, s'ouvrent surtout pendant la repolarisation.",
+      "C": "Vrai : fermeture Na+, ouverture K+.",
+      "D": "Faux : ils se referment progressivement.",
+      "E": "Faux."
+    }
+  },
+  "15b07f65-01da-5748-ba86-7276e6e9a2c7": {
+    "why": "Expérimentalement, la conduction peut être antidromique. La propagation repose sur l'ouverture de canaux voltage-dépendants qui changent la perméabilité membranaire. La vitesse ne dépend pas de l'intensité, mais la fréquence augmente avec elle ; les fibres d'un nerf sont recrutées selon leur seuil.",
+    "options": {
+      "A": "Vrai : antidromique expérimental.",
+      "B": "Faux : indépendante.",
+      "C": "Faux : la fréquence augmente avec l'intensité.",
+      "D": "Faux : pas de contagion entre fibres.",
+      "E": "Vrai : canaux voltage-dépendants."
+    }
+  },
+  "86e244ab-1b7b-51fe-9da9-667df4706978": {
+    "why": "La période réfractaire absolue précède la relative ; aucun potentiel d'action n'est possible pendant la période absolue ; les périodes réfractaires limitent la fréquence et imposent le sens orthodromique.",
+    "options": {
+      "A": "Faux : elle la précède.",
+      "B": "Faux.",
+      "C": "Faux.",
+      "D": "Faux : sens orthodromique.",
+      "E": "Vrai."
+    }
+  },
+  "e3dd38dc-97cd-51e6-a009-114808d391ac": {
+    "why": "Le potentiel global d'un nerf augmente avec l'intensité du stimulus (recrutement), et, selon le cours, avec le diamètre des fibres. La vitesse ne dépend pas de l'intensité.",
+    "options": {
+      "A": "Faux selon le cours.",
+      "B": "Vrai.",
+      "C": "Vrai.",
+      "D": "Faux.",
+      "E": "Faux."
+    }
+  },
+  "08506aa8-f79c-5397-aa82-0602aaf4349f": {
+    "why": "Au repos, les canaux voltage-dépendants sont fermés. À la repolarisation, les canaux Na+ s'inactivent et les canaux K+ s'ouvrent ; ces derniers se referment progressivement pendant l'hyperpolarisation.",
+    "options": {
+      "A": "Vrai.",
+      "B": "Faux selon le corrigé : ils s'ouvrent surtout à la repolarisation.",
+      "C": "Vrai.",
+      "D": "Faux : ils se referment progressivement.",
+      "E": "Faux."
+    }
+  },
+  "76b54e37-c6c1-5aad-920a-a76d8c5e947b": {
+    "why": "La conduction peut être antidromique en expérimentation. La propagation active des canaux voltage-dépendants. La vitesse est indépendante de l'intensité ; la fréquence en dépend.",
+    "options": {
+      "A": "Vrai.",
+      "B": "Faux.",
+      "C": "Faux : la fréquence augmente avec l'intensité.",
+      "D": "Faux.",
+      "E": "Vrai."
+    }
+  },
+  "0c2c8c28-0c6f-5e0b-b11a-d82826930c49": {
+    "why": "Toutes les cellules ont un potentiel de membrane, hépatocytes compris, et toutes sont riches en K+ intracellulaire. Un neurone à −65 mV n'a pas atteint le seuil (≈ −55 mV) : pas de potentiel d'action.",
+    "options": {
+      "A": "Faux : elles ont un potentiel de membrane.",
+      "B": "Vrai : K+ intracellulaire élevé.",
+      "C": "Faux : −65 mV est sous le seuil.",
+      "D": "Faux."
+    }
+  },
+  "1a9c6af7-b7cc-5ca8-a069-9813ebe6dafd": {
+    "why": "La période réfractaire absolue dure environ 1 à 2 ms. Pendant la période réfractaire relative, il faut un stimulus plus fort pour déclencher un potentiel d'action. Les potentiels d'action ne reviennent pas en arrière et ne se chevauchent pas.",
+    "options": {
+      "A": "Faux : environ 1 à 2 ms.",
+      "B": "Faux : les périodes réfractaires l'empêchent.",
+      "C": "Vrai : seuil augmenté.",
+      "D": "Faux."
+    }
+  }
+}
